@@ -2,6 +2,7 @@ import { to } from 'await-to-js';
 import { XMLValidator } from 'fast-xml-parser';
 import type { Feed } from 'feed';
 import RssParser from 'rss-parser';
+import { logger } from './logger';
 
 /**
  * フィードのバリデーション
@@ -17,7 +18,7 @@ export class FeedValidator {
       }
     }
     if (!isImageFound) {
-      throw new Error('フィードに画像情報が一つもありません');
+      logger.warn('フィードに画像情報が一つもありません');
     }
   }
 
