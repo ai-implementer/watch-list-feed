@@ -2,7 +2,7 @@
 企業のテックブログの更新をまとめたRSSフィードを配信しています。  
 記事を読んでその企業の技術・カルチャーを知れることや、質の高い技術情報を得られることを目的としています。
 
-https://yamadashy.github.io/tech-blog-rss-feed/
+https://ai.implementer.net/watch-list-feed/
 
 
 独自のフィードを作って公開したい場合は自由にフォークしてください。
@@ -23,7 +23,7 @@ https://yamadashy.github.io/tech-blog-rss-feed/
 - 企業系ブログのテクノロジーカテゴリ
 
 ## サイトの追加方法
-[src/resources/feed-info-list.ts](https://github.com/yamadashy/tech-blog-rss-feed/blob/main/src/resources/feed-info-list.ts) で管理しており、その一覧にない場合 issue を作っていただければ対応します。  
+[src/resources/feed-info-list.ts](https://github.com/ai-implementer/watch-list-feed/blob/main/src/resources/feed-info-list.ts) で管理しており、その一覧にない場合 issue を作っていただければ対応します。
 
 ### プルリクでの送り方
 もしプルリクを送っていただける場合は以下のように作成できます。

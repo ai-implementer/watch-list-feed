@@ -1,6 +1,6 @@
 {
-  "name": "tech-blog-rss-feed",
-  "description": "企業のテックブログの更新をまとめたRSSフィードを配信",
+  "name": "watch-list-feed",
+  "description": "テックブログや気になる情報の更新をまとめたフィード",
   "version": "1.0.0",
   "main": "",
   "scripts": {
@@ -22,13 +22,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/yamadashy/tech-blog--rss-feed.git"
+    "url": "git://github.com/ai-implementer/watch-list-feed.git"
   },
   "bugs": {
-    "url": "https://github.com/yamadashy/tech-blog-rss-feed/issues"
+    "url": "https://github.com/ai-implementer/watch-list-feed/issues"
   },
   "type": "module",
-  "author": "yamadashy",
+  "author": "ai-implementer",
   "license": "MIT",
   "keywords": [
     "blog",
