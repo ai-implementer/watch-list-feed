@@ -28,5 +28,6 @@ const createFeedInfoList = (feedInfoTuples: FeedInfoTuple[]) => {
 export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   // ['企業名・製品名など', 'RSS/AtomフィードのURL'],
   ['https://2ality.com', 'https://2ality.com/feeds/posts.atom'],
-  ['https://openai.com/news', 'https://openai.com/news/rss.xml'],
+  ['OpenAI News', 'https://openai.com/news/rss.xml'],
+  ['TECH BLOG | 株式会社AI Shift', 'https://www.ai-shift.co.jp/techblog/feed'],
 ]);
