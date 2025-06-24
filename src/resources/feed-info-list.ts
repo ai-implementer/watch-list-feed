@@ -30,4 +30,9 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['https://2ality.com', 'https://2ality.com/feeds/posts.atom'],
   ['OpenAI News', 'https://openai.com/news/rss.xml'],
   ['TECH BLOG | 株式会社AI Shift', 'https://www.ai-shift.co.jp/techblog/feed'],
+  ['Zennの「LLM」のフィード', 'https://zenn.dev/topics/llm/feed'],
+  ['LLMタグが付けられた新着記事 - Qiita', 'https://qiita.com/tags/llm/feed'],
+  ['#LLMタグ', 'https://note.com/hashtag/LLM/rss'],
+  ['Platinum Data Blog by BrainPad ブレインパッド', 'https://blog.brainpad.co.jp/rss'],
+  ['Stories by Kazuki Kyakuno on Medium', 'https://medium.com/feed/@kyakuno'],
 ]);
