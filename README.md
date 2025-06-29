@@ -1,8 +1,14 @@
-# <img src="src/site/images/icon-transparent.png" height=26> 企業テックブログRSS
-企業のテックブログの更新をまとめたRSSフィードを配信しています。  
+# <img src="src/site/images/icon-transparent.png" height=26> テックブログRSS
+
+---
+オリジナルは[yamadashy/tech-blog-rss-feed](https://github.com/yamadashy/tech-blog-rss-feed)です。
+
+---
+
+企業や個人のテックブログの更新をまとめたRSSフィードを配信しています。  
 記事を読んでその企業の技術・カルチャーを知れることや、質の高い技術情報を得られることを目的としています。
 
-https://ai.implementer.net/watch-list-feed/
+https://feeds.implementer.net/
 
 
 独自のフィードを作って公開したい場合は自由にフォークしてください。
