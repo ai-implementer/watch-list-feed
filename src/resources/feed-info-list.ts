@@ -39,7 +39,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['リクルートTech Blog', 'https://blog.recruit.co.jp/data/index.xml'],
   ['LINEヤフーTech Blog', 'https://techblog.lycorp.co.jp/ja/feed/index.xml'],
   ['DeNA Engineering on DeNA Engineering', 'https://engineering.dena.com/index.xml'],
-  ['NTT Communications Engineers\' Blog', 'https://engineers.ntt.com/feed'],
+  ["NTT Communications Engineers' Blog", 'https://engineers.ntt.com/feed'],
 
   // Zenn, Qiita, Noteが提供しているfeed
   ['Zennの「LLM」のフィード', 'https://zenn.dev/topics/llm/feed'],
