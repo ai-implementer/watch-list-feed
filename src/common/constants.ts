@@ -1,4 +1,4 @@
-const siteUrlStem = 'https://ai.implementer.net/watch-list-feed';
+const siteUrlStem = 'https://feeds.implementer.net';
 const siteUrl = `${siteUrlStem}/`;
 
 export default {
