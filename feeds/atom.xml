@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://feeds.implementer.net/</id>
+    <title>テックブログRSS</title>
+    <updated>2025-06-30T03:51:24.803Z</updated>
+    <generator>ai-implementer/watch-list-feed</generator>
+    <link rel="alternate" href="https://feeds.implementer.net/"/>
+    <link rel="self" href="https://feeds.implementer.net/feeds/atom.xml"/>
+    <subtitle>テックブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://feeds.implementer.net/images/icon.png</logo>
+    <icon>https://feeds.implementer.net/images/favicon.ico</icon>
+    <rights>ai-implementer/watch-list-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[NTT ComはNTTドコモビジネスに変わります | NTT Communications Engineers' Blog]]></title>
+        <id>https://engineers.ntt.com/entry/202506-nttcom-to-nttdocomobiz/entry</id>
+        <link href="https://engineers.ntt.com/entry/202506-nttcom-to-nttdocomobiz/entry"/>
+        <updated>2025-06-30T02:51:42.000Z</updated>
+        <summary type="html"><![CDATA[NTTコミュニケーションズ開発者ブログチームの小林です。 私たちNTTコミュニケーションズ株式会社は、明日2025年7月1日より社名をNTTドコモビジネス株式会社と改め、NTTグループの法人向け総合ICT事業の中核として新たな出発を迎えることとなりました。 www.ntt.com これに伴い、1999年の設立より親しまれてきたロゴマーク（シャイニングアーク）と、NTT Comの名称については、本日]]></summary>
+        <content type="html"><![CDATA[NTTコミュニケーションズ開発者ブログチームの小林です。 私たちNTTコミュニケーションズ株式会社は、明日2025年7月1日より社名をNTTドコモビジネス株式会社と改め、NTTグループの法人向け総合ICT事業の中核として新たな出発を迎えることとなりました。 www.ntt.com これに伴い、1999年の設立より親しまれてきたロゴマーク（シャイニングアーク）と、NTT Comの名称については、本日で利用を終了します。 NTT Comの設立は、ちょうど26年前の1999年7月1日でした。長距離・国際通信事業を担う存在としてスタートを切り、いまその歴史に区切りを迎えることとなります。音声通信と固定…]]></content>
+        <published>2025-06-30T02:51:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“綺麗なデータ”に恋をして―CAIOがGVA TECHで挑む「AIで法務に新しい価値を」 | #LLMタグ]]></title>
+        <id>https://note.com/gvatech/n/nbf0e6d0e426c</id>
+        <link href="https://note.com/gvatech/n/nbf0e6d0e426c"/>
+        <updated>2025-06-30T02:42:42.000Z</updated>
+        <summary type="html"><![CDATA[はじめに～採用広報より～GVA TECHでは、リーガルテックの未来を支えるべく、AIの可能性を日々探求しています。その中核を担うのが、AI領域の戦略と開発をリードする「CAIO（Chief AI Officer）」というポジションです。今回は、GVA TECHのAIチームを牽引するCAIOの岩城さんにインタビューを行いました！CAIOというまだ馴染みのない役割のリアルや、AI開発の裏側、そして一緒]]></summary>
+        <content type="html"><![CDATA[はじめに～採用広報より～GVA TECHでは、リーガルテックの未来を支えるべく、AIの可能性を日々探求しています。その中核を担うのが、AI領域の戦略と開発をリードする「CAIO（Chief AI Officer）」というポジションです。今回は、GVA TECHのAIチームを牽引するCAIOの岩城さんにインタビューを行いました！CAIOというまだ馴染みのない役割のリアルや、AI開発の裏側、そして一緒に働きたい人物像まで――これからAI×リーガルテックに携わりたいと考える皆さんにとって、ヒントとなるエピソードが満載です。続きをみる]]></content>
+        <published>2025-06-30T02:42:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google ColabでText-to-LoRAを試す | #LLMタグ]]></title>
+        <id>https://note.com/hatti8/n/nd5a6f68c6f2d</id>
+        <link href="https://note.com/hatti8/n/nd5a6f68c6f2d"/>
+        <updated>2025-06-30T02:39:51.000Z</updated>
+        <summary type="html"><![CDATA[1. はじめに続きをみる]]></summary>
+        <content type="html"><![CDATA[1. はじめに続きをみる]]></content>
+        <published>2025-06-30T02:39:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Bedrock経由でClaude Codeを使ってみた - MacBook(M2) | LLMタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/nabata/items/470032455b5b33a91945</id>
+        <link href="https://qiita.com/nabata/items/470032455b5b33a91945"/>
+        <updated>2025-06-30T00:54:15.000Z</updated>
+        <summary type="html"><![CDATA[Supershipの名畑です。キンツアのおかげで世界が煌めきで満ちて見える昨今です。はじめにClaude Codeが過去なかなか類を見ないほどの盛り上がりです。ターミナル内で動作し、コードベー…]]></summary>
+        <content type="html"><![CDATA[Supershipの名畑です。キンツアのおかげで世界が煌めきで満ちて見える昨今です。はじめにClaude Codeが過去なかなか類を見ないほどの盛り上がりです。ターミナル内で動作し、コードベー…]]></content>
+        <published>2025-06-30T00:54:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open XR Optics - 帯域保証型Point-to-Multipoint（P2MP）光伝送を実機検証してみた | NTT Communications Engineers' Blog]]></title>
+        <id>https://engineers.ntt.com/entry/202503-openxr-optics/entry</id>
+        <link href="https://engineers.ntt.com/entry/202503-openxr-optics/entry"/>
+        <updated>2025-06-30T00:31:21.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、イノベーションセンターの安井です。 この記事では、Open XR Opticsという新しい光伝送技術が実装されたトランシーバーの実機検証結果をご紹介します。 本記事で以下を扱います。 1つの光信号を複数に分け、柔軟な帯域保証を可能にする新技術「Open XR Optics」 実機を用いた検証により、その基本性能、障害からの復旧挙動、そして実用上の注意点 5G基地局やデータセンター間接続]]></summary>
+        <content type="html"><![CDATA[こんにちは、イノベーションセンターの安井です。 この記事では、Open XR Opticsという新しい光伝送技術が実装されたトランシーバーの実機検証結果をご紹介します。 本記事で以下を扱います。 1つの光信号を複数に分け、柔軟な帯域保証を可能にする新技術「Open XR Optics」 実機を用いた検証により、その基本性能、障害からの復旧挙動、そして実用上の注意点 5G基地局やデータセンター間接続など、将来のネットワークを支える技術の展望（可能性と課題） P2MP技術 Open XR Opticsとは 検証 検証構成 基本動作の確認 パワー 周波数 自動調整の完了に要する時間 障害復旧の挙動 …]]></content>
+        <published>2025-06-30T00:31:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【論文瞬読】LLMは本音と建前をどう使い分ける？認知モデルで明らかになった価値のトレードオフ | #LLMタグ]]></title>
+        <id>https://note.com/ainest/n/nac3b04d97bb9</id>
+        <link href="https://note.com/ainest/n/nac3b04d97bb9"/>
+        <updated>2025-06-29T23:59:21.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは！株式会社AI Nestです。続きをみる]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは！株式会社AI Nestです。続きをみる]]></content>
+        <published>2025-06-29T23:59:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLMでエンジニアリング知識の重要性が急増している話 | #LLMタグ]]></title>
+        <id>https://note.com/nurruttan/n/n6f42719cce57</id>
+        <link href="https://note.com/nurruttan/n/n6f42719cce57"/>
+        <updated>2025-06-29T23:41:51.000Z</updated>
+        <summary type="html"><![CDATA[本記事は「データ分析領域へのLLM導入動向（各分析ソリューション会社の動き）」というテーマに対して、LLMに対して、具体的かつ納得感が出るまで複数回のプロンプトを重ねて、見解を出力させています。さらに、その見解に対して、自身の体験談を基に私見や所感を述べさせていただきました。ご興味がある方はぜひ、最後までご覧ください。下記、メンバーシップに参加いただけると全記事無料で読み放題となっております。ご興]]></summary>
+        <content type="html"><![CDATA[本記事は「データ分析領域へのLLM導入動向（各分析ソリューション会社の動き）」というテーマに対して、LLMに対して、具体的かつ納得感が出るまで複数回のプロンプトを重ねて、見解を出力させています。さらに、その見解に対して、自身の体験談を基に私見や所感を述べさせていただきました。ご興味がある方はぜひ、最後までご覧ください。下記、メンバーシップに参加いただけると全記事無料で読み放題となっております。ご興味があればご覧ください。続きをみる]]></content>
+        <published>2025-06-29T23:41:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ルクセンブルク大学とFoyer S... | #LLMタグ]]></title>
+        <id>https://note.com/kenquichi/n/n56588d23f3d4</id>
+        <link href="https://note.com/kenquichi/n/n56588d23f3d4"/>
+        <updated>2025-06-29T23:22:05.000Z</updated>
+        <summary type="html"><![CDATA[ルクセンブルク大学とFoyer S.A.の研究チームはLLMの温度設定について体系的に検証した研究を発表温度設定は・創造性や機械翻訳において性能に大きく影響・特に小型モデルでは性能のばらつきが大きくなるhttps://ledge.ai/articles/llm_temperature_taskwise_evaluation 続きをみる]]></summary>
+        <content type="html"><![CDATA[ルクセンブルク大学とFoyer S.A.の研究チームはLLMの温度設定について体系的に検証した研究を発表温度設定は・創造性や機械翻訳において性能に大きく影響・特に小型モデルでは性能のばらつきが大きくなるhttps://ledge.ai/articles/llm_temperature_taskwise_evaluation 続きをみる]]></content>
+        <published>2025-06-29T23:22:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIの不思議な矛盾を発見した日：ハードウェア進歩とアテンション制約のギャップ | #LLMタグ]]></title>
+        <id>https://note.com/sewasees/n/n43720ecdbe0c</id>
+        <link href="https://note.com/sewasees/n/n43720ecdbe0c"/>
+        <updated>2025-06-29T23:00:33.000Z</updated>
+        <summary type="html"><![CDATA[昨日の夜、Claude Codeと格闘していて、ふと奇妙なことに気づいた話です。思いの外深い話になってしまった。続きをみる]]></summary>
+        <content type="html"><![CDATA[昨日の夜、Claude Codeと格闘していて、ふと奇妙なことに気づいた話です。思いの外深い話になってしまった。続きをみる]]></content>
+        <published>2025-06-29T23:00:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1位じゃ足りない時代──AIO・注目スニペット・LLMOで、“AIに選ばれるサイト設計” で「ポジションゼロをねらえ！」 | #LLMタグ]]></title>
+        <id>https://note.com/onemorevision/n/nff2496d8ef7b</id>
+        <link href="https://note.com/onemorevision/n/nff2496d8ef7b"/>
+        <updated>2025-06-29T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、STUDIO55技術統括の入江です。いつの間にか、ネット検索の最上部に “AIの答え” が表示されるようになってきました。なんとなく気になっていた…という方もいるのではないでしょうか。続きをみる]]></summary>
+        <content type="html"><![CDATA[こんにちは、STUDIO55技術統括の入江です。いつの間にか、ネット検索の最上部に “AIの答え” が表示されるようになってきました。なんとなく気になっていた…という方もいるのではないでしょうか。続きをみる]]></content>
+        <published>2025-06-29T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0164_【ChatGPT】「好き」を問い詰める｜LLMとの対話 | #LLMタグ]]></title>
+        <id>https://note.com/deep_gibbon8736/n/n54d152d115bc</id>
+        <link href="https://note.com/deep_gibbon8736/n/n54d152d115bc"/>
+        <updated>2025-06-29T22:05:59.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPTに「私のこと好き？」と聞いたら、どんな答えが返ってくる？AIの「好き」は感情？それともただの出力？本記事では、感情・関心・応答という3つの視点から「好き」の構造を探りつつ、AIと人間の対話に潜む意味のズレや問いの可能性を考察します。#ChatGPT #AIとの対話 #生成AI #LLM #メタなんとか #GPT4続きをみる]]></summary>
+        <content type="html"><![CDATA[ChatGPTに「私のこと好き？」と聞いたら、どんな答えが返ってくる？AIの「好き」は感情？それともただの出力？本記事では、感情・関心・応答という3つの視点から「好き」の構造を探りつつ、AIと人間の対話に潜む意味のズレや問いの可能性を考察します。#ChatGPT #AIとの対話 #生成AI #LLM #メタなんとか #GPT4続きをみる]]></content>
+        <published>2025-06-29T22:05:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0163_【ChatGPT】嫌悪対象で考える存在論|LLMとうっかり哲学 | #LLMタグ]]></title>
+        <id>https://note.com/deep_gibbon8736/n/ne84aa96c7515</id>
+        <link href="https://note.com/deep_gibbon8736/n/ne84aa96c7515"/>
+        <updated>2025-06-29T22:04:20.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPTに自分の嫌いなものを演じてもらったら――いつのまにか存在論に踏み込んでいました。「嫌悪対象はなぜ心に居座るのか」「自我は“嫌い”によって輪郭を持つのか」――ユング、レヴィナス、ヘーゲルの思想と、自分の心理を比較しながら考えた記録です#ChatGPT #AIとの対話 #哲学 #生成AI #LLM #GPT4 #心理学 #悪口続きをみる]]></summary>
+        <content type="html"><![CDATA[ChatGPTに自分の嫌いなものを演じてもらったら――いつのまにか存在論に踏み込んでいました。「嫌悪対象はなぜ心に居座るのか」「自我は“嫌い”によって輪郭を持つのか」――ユング、レヴィナス、ヘーゲルの思想と、自分の心理を比較しながら考えた記録です#ChatGPT #AIとの対話 #哲学 #生成AI #LLM #GPT4 #心理学 #悪口続きをみる]]></content>
+        <published>2025-06-29T22:04:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM無職のLLM無職によるLLM無職のためのサバイバル生活術 | #LLMタグ]]></title>
+        <id>https://note.com/yomikakisan/n/ndd7ece31da0f</id>
+        <link href="https://note.com/yomikakisan/n/ndd7ece31da0f"/>
+        <updated>2025-06-29T21:58:02.000Z</updated>
+        <summary type="html"><![CDATA[はじめに：ドラクエ3の遊び人が教えてくれたこと続きをみる]]></summary>
+        <content type="html"><![CDATA[はじめに：ドラクエ3の遊び人が教えてくれたこと続きをみる]]></content>
+        <published>2025-06-29T21:58:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIの効果はエンジニアのスキルに依存 | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/shinseitaro/articles/programming-with-llms</id>
+        <link href="https://zenn.dev/shinseitaro/articles/programming-with-llms"/>
+        <updated>2025-06-29T21:54:35.000Z</updated>
+        <summary type="html"><![CDATA[Atharva Raykar さんのポスト AI-assisted coding for teams that can't get away with vibes - nilenso blog がとてもよかったので、Grokさんにまとめてもらったものをここに書いておきます。ステータス：本番環境での経験に基づく生きたドキュメント最終更新日：2025年6月5日AIは、思慮深く高品質な製品を構築するエン]]></summary>
+        <content type="html"><![CDATA[Atharva Raykar さんのポスト AI-assisted coding for teams that can't get away with vibes - nilenso blog がとてもよかったので、Grokさんにまとめてもらったものをここに書いておきます。ステータス：本番環境での経験に基づく生きたドキュメント最終更新日：2025年6月5日AIは、思慮深く高品質な製品を構築するエンジニアリングチームに適しており、熟練した使用が求められます。AIを活用すると開発速度が向上し、ユーザとのフィードバックループを強化して優れた製品を生み出せますが、誤った使い方は低品質なコー...]]></content>
+        <author>
+            <name>しんせいたろう</name>
+        </author>
+        <published>2025-06-29T21:54:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遊びで自分のコードをディスるツールを作ってみた | LLMタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/ronitsachdev/items/56b150b3e611c4c24a46</id>
+        <link href="https://qiita.com/ronitsachdev/items/56b150b3e611c4c24a46"/>
+        <updated>2025-06-29T20:58:56.000Z</updated>
+        <summary type="html"><![CDATA[なぜ作ったのか？ある日、暇だったんです。昔のコードを見返していたら、びっくり。「変数名 x1, x2, x3って、なんだこれw」そんな過去の自分を見て爆笑していた時、ふと思いました。「AIに…]]></summary>
+        <content type="html"><![CDATA[なぜ作ったのか？ある日、暇だったんです。昔のコードを見返していたら、びっくり。「変数名 x1, x2, x3って、なんだこれw」そんな過去の自分を見て爆笑していた時、ふと思いました。「AIに…]]></content>
+        <published>2025-06-29T20:58:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIは頻繁にゲシュタルト崩壊している話 | #LLMタグ]]></title>
+        <id>https://note.com/catap_art3d/n/na72aaba93d8d</id>
+        <link href="https://note.com/catap_art3d/n/na72aaba93d8d"/>
+        <updated>2025-06-29T19:20:28.000Z</updated>
+        <summary type="html"><![CDATA[はじめにゲシュタルト崩壊とは、同じ文字や図形を集中して長時間見続けることで、そのまとまり（ゲシュタルト）が意識から失われ、個々の部分に分解されて認識されてしまう現象です。続きをみる]]></summary>
+        <content type="html"><![CDATA[はじめにゲシュタルト崩壊とは、同じ文字や図形を集中して長時間見続けることで、そのまとまり（ゲシュタルト）が意識から失われ、個々の部分に分解されて認識されてしまう現象です。続きをみる]]></content>
+        <published>2025-06-29T19:20:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio CodeのAIエディタ化が前進、GitHub Copilot Chatがオープンソースで公開。現在プレリリース版 | Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/25/visual_studio_codeaigithub_copilot_chat.html</id>
+        <link href="https://www.publickey1.jp/blog/25/visual_studio_codeaigithub_copilot_chat.html"/>
+        <updated>2025-06-29T15:59:51.000Z</updated>
+        <summary type="html"><![CDATA[Visual Studio Codeの拡張機能「GitHub Copilot Chat」のソースコードがMITライセンスで公開されました。 公開されたソースコードはまだバージョン0.29のプレリリース版と位置づけられています。 オープンソー...]]></summary>
+        <content type="html"><![CDATA[Visual Studio Codeの拡張機能「GitHub Copilot Chat」のソースコードがMITライセンスで公開されました。 公開されたソースコードはまだバージョン0.29のプレリリース版と位置づけられています。 オープンソー...]]></content>
+        <published>2025-06-29T15:59:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7B MoEで探るLLMのGrokking現象：テスト不要の新指標でリアルタイム一般化を可視化 | LLMタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/ke-suke-Soft/items/d1ca3fe6c751ec25b126</id>
+        <link href="https://qiita.com/ke-suke-Soft/items/d1ca3fe6c751ec25b126"/>
+        <updated>2025-06-29T15:10:57.000Z</updated>
+        <summary type="html"><![CDATA[はじめに今回は、最新の研究成果である「Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalizati…]]></summary>
+        <content type="html"><![CDATA[はじめに今回は、最新の研究成果である「Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalizati…]]></content>
+        <published>2025-06-29T15:10:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数独を解くためにLLMと相談しながらPythonでマクロを組んだ話の第1回：Skyscraperを見つけた！ | #LLMタグ]]></title>
+        <id>https://note.com/cozy_weasel7851/n/nce33a84f6539</id>
+        <link href="https://note.com/cozy_weasel7851/n/nce33a84f6539"/>
+        <updated>2025-06-29T14:49:16.000Z</updated>
+        <summary type="html"><![CDATA[数独を解く環境を LibreOffice の Calc で構築しようと試行錯誤した話。プログラムだの環境だののややこしい話は後にして、成果物を見ていただくのが早いと思う。ここで登場する Skyscraper とは数独の解法の名前である、この解法が何故そんな名前なのか、その話は今は関係ないので先に進む。続きをみる]]></summary>
+        <content type="html"><![CDATA[数独を解く環境を LibreOffice の Calc で構築しようと試行錯誤した話。プログラムだの環境だののややこしい話は後にして、成果物を見ていただくのが早いと思う。ここで登場する Skyscraper とは数独の解法の名前である、この解法が何故そんな名前なのか、その話は今は関係ないので先に進む。続きをみる]]></content>
+        <published>2025-06-29T14:49:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最新LLM研究まとめ：2025年5月 | LLMタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/kittokito/items/9e09d64776c5b828e4e4</id>
+        <link href="https://qiita.com/kittokito/items/9e09d64776c5b828e4e4"/>
+        <updated>2025-06-29T14:37:14.000Z</updated>
+        <summary type="html"><![CDATA[インターン先であるAirion株式会社で勉強会があり、私は月ごとのLLM周りの論文で個人的に面白かったものをピックアップして話すことにしています。今回は主に5月に出たLLM周りの論文を紹介していこ…]]></summary>
+        <content type="html"><![CDATA[インターン先であるAirion株式会社で勉強会があり、私は月ごとのLLM周りの論文で個人的に面白かったものをピックアップして話すことにしています。今回は主に5月に出たLLM周りの論文を紹介していこ…]]></content>
+        <published>2025-06-29T14:37:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【生成AIニュース+】『Outbrand』『FLUX.1-Kontext-dev-fp8』『Turntable』『ComfyUI SKBundle』『LayerForge』『Code Graph Model』『Glass Prism Kontext Dev LoRA』『Opik』『Google AI Studioの動画解析』『Software 3.0』『MITの義足』『MetaがOpenAIから人材引き抜き』『生成AI「毎日使う」4割』 | #LLMタグ]]></title>
+        <id>https://note.com/toshia_fuji/n/ne95cf76ce4d3</id>
+        <link href="https://note.com/toshia_fuji/n/ne95cf76ce4d3"/>
+        <updated>2025-06-29T14:07:31.000Z</updated>
+        <summary type="html"><![CDATA[まいどです。本日の生成AIニュース+テクノロジー情報。続きをみる]]></summary>
+        <content type="html"><![CDATA[まいどです。本日の生成AIニュース+テクノロジー情報。続きをみる]]></content>
+        <published>2025-06-29T14:07:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude codeの手抜きを防ぎ、出力の質を上げるコツ：ロールベース開発 | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/deodeo/articles/9bbd2596a4a601</id>
+        <link href="https://zenn.dev/deodeo/articles/9bbd2596a4a601"/>
+        <updated>2025-06-29T13:50:32.000Z</updated>
+        <summary type="html"><![CDATA[はじめにAizackと申します。6月初旬からClaude codeのProプランに契約し、一ヶ月ほど生成AIを利用して学習しています。もともとはAIに良いドキュメントとコードを生成してもらって、教材として利用しようとしていました。ところが、はじめは思ったように開発が進まなかったため、問題意識を持ち生成AIとうまくコミュニケーションを取る方法を探求しています。そうした悩みから以下のようなZennの記]]></summary>
+        <content type="html"><![CDATA[はじめにAizackと申します。6月初旬からClaude codeのProプランに契約し、一ヶ月ほど生成AIを利用して学習しています。もともとはAIに良いドキュメントとコードを生成してもらって、教材として利用しようとしていました。ところが、はじめは思ったように開発が進まなかったため、問題意識を持ち生成AIとうまくコミュニケーションを取る方法を探求しています。そうした悩みから以下のようなZennの記事やプロンプトエンジニアリングについてまとめています。https://zack-k.github.io/gen_ai_report/https://zenn.dev/deodeo/...]]></content>
+        <author>
+            <name>Aizack</name>
+        </author>
+        <published>2025-06-29T13:50:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【論文解説】AIは数学者の”ひらめき”を再現できるか？ 天才的思考プロセスを持つ「Prover Agent」の正体 | #LLMタグ]]></title>
+        <id>https://note.com/omanyuk/n/n2f01c205b3f9</id>
+        <link href="https://note.com/omanyuk/n/n2f01c205b3f9"/>
+        <updated>2025-06-29T13:38:18.000Z</updated>
+        <summary type="html"><![CDATA[AIは数学の天才か、それともただの物知りか？「AIに数学の問題を解かせる」。一昔前のSFのような話が、今や現実のものとなりつつあります。特に、ChatGPTなどで知られる大規模言語モデル（LLM）の登場は、この流れを大きく加速させました。しかし、ここで一つの素朴な疑問が浮かびます。AIは本当に、数学者のように「思考」しているのでしょうか？続きをみる]]></summary>
+        <content type="html"><![CDATA[AIは数学の天才か、それともただの物知りか？「AIに数学の問題を解かせる」。一昔前のSFのような話が、今や現実のものとなりつつあります。特に、ChatGPTなどで知られる大規模言語モデル（LLM）の登場は、この流れを大きく加速させました。しかし、ここで一つの素朴な疑問が浮かびます。AIは本当に、数学者のように「思考」しているのでしょうか？続きをみる]]></content>
+        <published>2025-06-29T13:38:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レシート管理をGoogleのサービスでチャレンジしてみた[Gemini][GAS] | #LLMタグ]]></title>
+        <id>https://note.com/upa_rupa404/n/nfc8404796c40</id>
+        <link href="https://note.com/upa_rupa404/n/nfc8404796c40"/>
+        <updated>2025-06-29T13:23:11.000Z</updated>
+        <summary type="html"><![CDATA[レシートを読み取って、その内容をスプレッドシートに書き込んでくれたら楽なのになぁ。レシート撮影での家計簿アプリは世の中に結構ありますが、スプレッドシートにデータが欲しいだけなんだ自分は……。そう思ってググってみたら、下記の記事を見つけました。続きをみる]]></summary>
+        <content type="html"><![CDATA[レシートを読み取って、その内容をスプレッドシートに書き込んでくれたら楽なのになぁ。レシート撮影での家計簿アプリは世の中に結構ありますが、スプレッドシートにデータが欲しいだけなんだ自分は……。そう思ってググってみたら、下記の記事を見つけました。続きをみる]]></content>
+        <published>2025-06-29T13:23:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AIを転職活動に活かす〜情報収集編その１〜 | #LLMタグ]]></title>
+        <id>https://note.com/hirokivv/n/n5e5e64f88f7a</id>
+        <link href="https://note.com/hirokivv/n/n5e5e64f88f7a"/>
+        <updated>2025-06-29T13:01:47.000Z</updated>
+        <summary type="html"><![CDATA[『LLM無職』という言葉が爆誕しているものの、無職でもサバイブできる才能や能力をもった人はほんの一握りで、凡百やそれに毛が生えた程度の人はやはり毎月安定した収入が入ってくる正社員として仕事をしたほうがよいのではなかろうか、という気持ちです。そんなわけで(？)、転職活動に使える生成AI(LLM)向けのプロンプトを紹介していきます。続きをみる]]></summary>
+        <content type="html"><![CDATA[『LLM無職』という言葉が爆誕しているものの、無職でもサバイブできる才能や能力をもった人はほんの一握りで、凡百やそれに毛が生えた程度の人はやはり毎月安定した収入が入ってくる正社員として仕事をしたほうがよいのではなかろうか、という気持ちです。そんなわけで(？)、転職活動に使える生成AI(LLM)向けのプロンプトを紹介していきます。続きをみる]]></content>
+        <published>2025-06-29T13:01:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI関係の検定試験、受験料高すぎてビビる | #LLMタグ]]></title>
+        <id>https://note.com/risa3210/n/nbd3fe6c3c3ac</id>
+        <link href="https://note.com/risa3210/n/nbd3fe6c3c3ac"/>
+        <updated>2025-06-29T12:57:52.000Z</updated>
+        <summary type="html"><![CDATA[概要 本格的にAIとかLLMの勉強を始めることにしました。 そこで、昨日本屋をウロついていたら、LLMの本の他に、AI関係の検定試験を見つけて興味を持ったものの、受験料がやたら高額でびっくりしました。ただ、何やら特典があるものもあるようですが…。うーん。続きをみる]]></summary>
+        <content type="html"><![CDATA[概要 本格的にAIとかLLMの勉強を始めることにしました。 そこで、昨日本屋をウロついていたら、LLMの本の他に、AI関係の検定試験を見つけて興味を持ったものの、受験料がやたら高額でびっくりしました。ただ、何やら特典があるものもあるようですが…。うーん。続きをみる]]></content>
+        <published>2025-06-29T12:57:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM関連ブックマークまとめ(2025.6.23-2025.6.29):Gemini 2.5 ProのDeep ThinkがOpenAI o3を凌駕、刺客Gemini CLI登場、Anthropic自販機営業に進出？、OpenAIはなんとTPUで動き出す、Claude 4 Sonnetにまとめてもらった。 | #LLMタグ]]></title>
+        <id>https://note.com/mi6242/n/nae10d80438e7</id>
+        <link href="https://note.com/mi6242/n/nae10d80438e7"/>
+        <updated>2025-06-29T12:10:08.000Z</updated>
+        <summary type="html"><![CDATA[「LLM関連ブックマーク（週毎）をまとめる作業をLLMにやらせてみる」にあるように、毎週あつめたLLM関連ブックマークを、LLMにまとめてもらっている。今週は、Gemini 2.5 Pro Deep Thinkのo3越え、gemini cliが颯爽と登場、ClaudeはartifactのAPI挿入でアプリストアへ、OpenAIはTPUで動き出す？今週もClaude 4 Sonnetさんにまとめても]]></summary>
+        <content type="html"><![CDATA[「LLM関連ブックマーク（週毎）をまとめる作業をLLMにやらせてみる」にあるように、毎週あつめたLLM関連ブックマークを、LLMにまとめてもらっている。今週は、Gemini 2.5 Pro Deep Thinkのo3越え、gemini cliが颯爽と登場、ClaudeはartifactのAPI挿入でアプリストアへ、OpenAIはTPUで動き出す？今週もClaude 4 Sonnetさんにまとめてもらいました。まちがって「じっくり考える」モードを選択してまった。違いはあるか？続きをみる]]></content>
+        <published>2025-06-29T12:10:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Codeを使ってPR を"安全に"自動生成するためには | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/taimo/articles/71ed871791f703</id>
+        <link href="https://zenn.dev/taimo/articles/71ed871791f703"/>
+        <updated>2025-06-29T12:06:48.000Z</updated>
+        <summary type="html"><![CDATA[TL;DRPR作成をLLMに任せることで開発フローを高速化できる一方で、LLMの出力のばらつきがリスクになると考えました。LLMにPR作成を全て任せることによるリスクを回避するため、PR作成を安全に行うスクリプトを作成しました。Claude Codeにスクリプトを登録し、/ai-pr-draft コマンドで即座に実行できるようにしました。リポジトリ: https://github.com/taim]]></summary>
+        <content type="html"><![CDATA[TL;DRPR作成をLLMに任せることで開発フローを高速化できる一方で、LLMの出力のばらつきがリスクになると考えました。LLMにPR作成を全て任せることによるリスクを回避するため、PR作成を安全に行うスクリプトを作成しました。Claude Codeにスクリプトを登録し、/ai-pr-draft コマンドで即座に実行できるようにしました。リポジトリ: https://github.com/taimo3810/ai-pr-draft-tool 背景Devin、Cursor、Claude Code などの AI コーディングツールの登場により、多く...]]></content>
+        <author>
+            <name>TAIMO</name>
+        </author>
+        <published>2025-06-29T12:06:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⌨️Drag-and-Drop LLMs プロンプト指示→LoRA重みを生成 | #LLMタグ]]></title>
+        <id>https://note.com/jolly_pansy824/n/nb4e4dde5f7d0</id>
+        <link href="https://note.com/jolly_pansy824/n/nb4e4dde5f7d0"/>
+        <updated>2025-06-29T11:54:37.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！やきとりです。今回は、プロンプトを直接モデル重みに変換してタスク適応を瞬時に行う手法に関する論文を紹介します。元論文情報続きをみる]]></summary>
+        <content type="html"><![CDATA[こんにちは！やきとりです。今回は、プロンプトを直接モデル重みに変換してタスク適応を瞬時に行う手法に関する論文を紹介します。元論文情報続きをみる]]></content>
+        <published>2025-06-29T11:54:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AI時代の歩き方】試験は満点なのに問診が苦手？医療AIの「パラドックス」から僕たちの未来を考える | #LLMタグ]]></title>
+        <id>https://note.com/minhos2021/n/nf66479733908</id>
+        <link href="https://note.com/minhos2021/n/nf66479733908"/>
+        <updated>2025-06-29T11:27:00.000Z</updated>
+        <summary type="html"><![CDATA[みんほす！の永井です。どんどん医療用LLMの進歩がすごいですね。ほか分野もそうですが。さて、今日は少し未来の話をしてみようかと思います。最近、ニュースや学会で「医療AI」という言葉を耳にする機会が増えたよね。なんだかすごそうだけど、僕たちの仕事ってどうなっちゃうんだろう？って、漠然とした不安を感じている人もいるかもしれません。僕も不安です。正直。続きをみる]]></summary>
+        <content type="html"><![CDATA[みんほす！の永井です。どんどん医療用LLMの進歩がすごいですね。ほか分野もそうですが。さて、今日は少し未来の話をしてみようかと思います。最近、ニュースや学会で「医療AI」という言葉を耳にする機会が増えたよね。なんだかすごそうだけど、僕たちの仕事ってどうなっちゃうんだろう？って、漠然とした不安を感じている人もいるかもしれません。僕も不安です。正直。続きをみる]]></content>
+        <published>2025-06-29T11:27:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[週末親子制作もAIを使う時代！車と音ゲーが融合したオリジナルゲームを作ってみた！ | #LLMタグ]]></title>
+        <id>https://note.com/yamatott/n/n8ba5c6a6fd53</id>
+        <link href="https://note.com/yamatott/n/n8ba5c6a6fd53"/>
+        <updated>2025-06-29T11:03:48.000Z</updated>
+        <summary type="html"><![CDATA[週末を使って、子どもと一緒にゲーム開発に挑戦してみました！必要なのは、アイデアと日本語だけです！最近、生成「Claude」のArtifact機能で、ゲームなどの成果物を共有しやすくなったという情報をキャッチ。せっかくなので、作ったものを共有してみよう！と思い立ちました。続きをみる]]></summary>
+        <content type="html"><![CDATA[週末を使って、子どもと一緒にゲーム開発に挑戦してみました！必要なのは、アイデアと日本語だけです！最近、生成「Claude」のArtifact機能で、ゲームなどの成果物を共有しやすくなったという情報をキャッチ。せっかくなので、作ったものを共有してみよう！と思い立ちました。続きをみる]]></content>
+        <published>2025-06-29T11:03:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Complete AI Handover System: Full Template Set for Gemini, Claude, and ChatGPT | #LLMタグ]]></title>
+        <id>https://note.com/sunai0123/n/n400d3714f484</id>
+        <link href="https://note.com/sunai0123/n/n400d3714f484"/>
+        <updated>2025-06-29T10:17:10.000Z</updated>
+        <summary type="html"><![CDATA[Author: AI Control Theory Researcher SunaiPublished: June 29, 2025Price: ¥600続きをみる]]></summary>
+        <content type="html"><![CDATA[Author: AI Control Theory Researcher SunaiPublished: June 29, 2025Price: ¥600続きをみる]]></content>
+        <published>2025-06-29T10:17:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACL2025に参加します！~おもしろ演題探し~ | #LLMタグ]]></title>
+        <id>https://note.com/parfait0707/n/n819940a5c600</id>
+        <link href="https://note.com/parfait0707/n/n819940a5c600"/>
+        <updated>2025-06-29T10:08:15.000Z</updated>
+        <summary type="html"><![CDATA[2025/07/27 - 2025/08/01にオーストリアのウィーンで開催されるThe 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)に遊びに行きます！ The 63rd Annual Meeting of the Association for Computational Lingu]]></summary>
+        <content type="html"><![CDATA[2025/07/27 - 2025/08/01にオーストリアのウィーンで開催されるThe 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)に遊びに行きます！ The 63rd Annual Meeting of the Association for Computational LinguisticsVienna, AustriaJuly 27–August 1st, 20252025.aclweb.org 続きをみる]]></content>
+        <published>2025-06-29T10:08:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“学び方から自分流” - AIで講義を創る勉強アプリを作ったよ[第2回 AI Agent Hackathon] | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/neka_nat/articles/4930d5d90c7d38</id>
+        <link href="https://zenn.dev/neka_nat/articles/4930d5d90c7d38"/>
+        <updated>2025-06-29T09:56:20.000Z</updated>
+        <summary type="html"><![CDATA[!この記事は「第2回 AI Agent Hackathon」の提出用記事です。 はじめにインターネットやデジタルデバイス、AIのようなテクノロジーの進化によって、常に新しく何かを“学ぶ”ことの大切さが増してきています。学ぶと一言で言っても、人によって学びのスピードやその人に合った知識の得方は異なります。学校のように1つのことを1つのアプローチで教えるのではなく、異なる視点、異なる考え方で教えること]]></summary>
+        <content type="html"><![CDATA[!この記事は「第2回 AI Agent Hackathon」の提出用記事です。 はじめにインターネットやデジタルデバイス、AIのようなテクノロジーの進化によって、常に新しく何かを“学ぶ”ことの大切さが増してきています。学ぶと一言で言っても、人によって学びのスピードやその人に合った知識の得方は異なります。学校のように1つのことを1つのアプローチで教えるのではなく、異なる視点、異なる考え方で教えることができ、それを自分で選択できることが重要になってきています。"Lecturia" はAIを使って、ユーザが指示した内容や教え方に沿った講義資料を作成し、AI講師がそれに沿って講義を...]]></content>
+        <author>
+            <name>しろくま</name>
+        </author>
+        <published>2025-06-29T09:56:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[論文紹介：追加学習よりパラメータ切り替え | #LLMタグ]]></title>
+        <id>https://note.com/makokon/n/n7c84674a0da8</id>
+        <link href="https://note.com/makokon/n/n7c84674a0da8"/>
+        <updated>2025-06-29T09:26:04.000Z</updated>
+        <summary type="html"><![CDATA[論文紹介：追加学習よりパラメータ切り替えDrag-and-Drop LLMs：LLMのカスタマイズは「変身」の時代へ？学習不要でタスク特化する続きをみる]]></summary>
+        <content type="html"><![CDATA[論文紹介：追加学習よりパラメータ切り替えDrag-and-Drop LLMs：LLMのカスタマイズは「変身」の時代へ？学習不要でタスク特化する続きをみる]]></content>
+        <published>2025-06-29T09:26:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社内教育のためにIQ100億のプロンプトフレームワークを考えました（没） | #LLMタグ]]></title>
+        <id>https://note.com/quick_bonobo2390/n/n9e10a102d704</id>
+        <link href="https://note.com/quick_bonobo2390/n/n9e10a102d704"/>
+        <updated>2025-06-29T09:19:36.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <content type="html"><![CDATA[続きをみる]]></content>
+        <published>2025-06-29T09:19:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM時代におけるCommon Lispのリファレンス | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/g000001/articles/cldoc-llm-era</id>
+        <link href="https://zenn.dev/g000001/articles/cldoc-llm-era"/>
+        <updated>2025-06-29T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[LLM時代におけるCommon LispのリファレンスプログラミングにおいてもLLMの活用は急速に進んでいます。コーディングではコードそのものも生成させるという動きが活発ではありますが、ここではコードは人間が書くという前提で文献の参照等の効率化にLLMを活用するという視点で眺めてみましょう。 LLM時代の到来で言語の壁がほぼ解消したマニュアルは主に英語で書かれており、英語が苦手な人は翻訳されるのを]]></summary>
+        <content type="html"><![CDATA[LLM時代におけるCommon LispのリファレンスプログラミングにおいてもLLMの活用は急速に進んでいます。コーディングではコードそのものも生成させるという動きが活発ではありますが、ここではコードは人間が書くという前提で文献の参照等の効率化にLLMを活用するという視点で眺めてみましょう。 LLM時代の到来で言語の壁がほぼ解消したマニュアルは主に英語で書かれており、英語が苦手な人は翻訳されるのを待つという状況でしたが、ソースとなる文献が何語で書かれているかは、ほぼ関係なくなりました。何語で書かれているかというよりは、利用しやすい構成や内容であるかが問われる時代になっ...]]></content>
+        <author>
+            <name>g000001</name>
+        </author>
+        <published>2025-06-29T07:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tokenizer.pad_token = tokenizer.eos_tokenって問題ないの？ | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/sinchir0/articles/56442c7a29ca36</id>
+        <link href="https://zenn.dev/sinchir0/articles/56442c7a29ca36"/>
+        <updated>2025-06-29T05:21:10.000Z</updated>
+        <summary type="html"><![CDATA[はじめにLLM の Fine-Tuning の実装を見ていると、以下のように pad_token として eos_token を使っている実装をちらほら見かけます。tokenizer.pad_token = tokenizer.eos_token私はこれを見た時、「pad_token と eos_token に同じトークンを使うと、何か問題が起きそうじゃないか🧐？」と思い、色々調べたのでその結果を]]></summary>
+        <content type="html"><![CDATA[はじめにLLM の Fine-Tuning の実装を見ていると、以下のように pad_token として eos_token を使っている実装をちらほら見かけます。tokenizer.pad_token = tokenizer.eos_token私はこれを見た時、「pad_token と eos_token に同じトークンを使うと、何か問題が起きそうじゃないか🧐？」と思い、色々調べたのでその結果をまとめておきます。 結論大半のケースでは tokenizer.pad_token = tokenizer.eos_token として問題はありません。ただし以下 2 点の前提が...]]></content>
+        <author>
+            <name>sinchir0</name>
+        </author>
+        <published>2025-06-29T05:21:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[概念理解を導くプロンプト（Claude専用） | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/jnst/articles/cfd222370e80a1</id>
+        <link href="https://zenn.dev/jnst/articles/cfd222370e80a1"/>
+        <updated>2025-06-29T02:31:41.000Z</updated>
+        <summary type="html"><![CDATA[毒にも薬にもならない情報 ── 私がもっとも忌み嫌うものの一つです 結論Prompt⚪︎⚪︎について以下の条件を最短経路で満たせる説明をして- 応用が利く（新しい問題にも対応できる）- 長期的に記憶に残りやすい- 他の知識との関連付けができる- 「なぜ？」という問いに答えられる!Claude Sonnet4 または Claude Opus4 専用のプロンプトです AI は「概念理解」をわからない『]]></summary>
+        <content type="html"><![CDATA[毒にも薬にもならない情報 ── 私がもっとも忌み嫌うものの一つです 結論Prompt⚪︎⚪︎について以下の条件を最短経路で満たせる説明をして- 応用が利く（新しい問題にも対応できる）- 長期的に記憶に残りやすい- 他の知識との関連付けができる- 「なぜ？」という問いに答えられる!Claude Sonnet4 または Claude Opus4 専用のプロンプトです AI は「概念理解」をわからない『Claude Code どこまでも』のスライドを見ました。Claude Code 使用者が「なるほど！」と唸る要素が詰まっていますが、その中でも個人的に琴線に触れ...]]></content>
+        <author>
+            <name>jnst</name>
+        </author>
+        <published>2025-06-29T02:31:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[洗濯機の中の洗濯物、じゃなかった。「Manus」を触ったポエム | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/akari1106/articles/086db0c6ff830d</id>
+        <link href="https://zenn.dev/akari1106/articles/086db0c6ff830d"/>
+        <updated>2025-06-28T16:27:57.000Z</updated>
+        <summary type="html"><![CDATA[ぼーっとTwitter見てたら面白そうな記事がｽﾝｯと流れてきたので読んで触ってみたよ、という話。インターネット老人なので、断固Twitter派です。時代は私を置いて先に行け、こっちは老兵だ。▽該当Zenn記事(akinobukatoさん)https://zenn.dev/acntechjp/articles/4f3961b19c46cd 凄そう(小並感)「はえ～、また新しいClaudちゃんに近い]]></summary>
+        <content type="html"><![CDATA[ぼーっとTwitter見てたら面白そうな記事がｽﾝｯと流れてきたので読んで触ってみたよ、という話。インターネット老人なので、断固Twitter派です。時代は私を置いて先に行け、こっちは老兵だ。▽該当Zenn記事(akinobukatoさん)https://zenn.dev/acntechjp/articles/4f3961b19c46cd 凄そう(小並感)「はえ～、また新しいClaudちゃんに近いエンジニアが喜ぶ感じのコード系が出たんかな」くらいだったんですけど、記事を読み進めていくと、なるほどな、と。こりゃまあまたすごいの出てきたなー、と私も思います。中国産生成AIは、やっぱ...]]></content>
+        <author>
+            <name>灯里(akari)</name>
+        </author>
+        <published>2025-06-28T16:27:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[知的作業の見えない仕事を見える化するAIシステム【Sofia】 | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/fkky/articles/e12b7deaf028d6</id>
+        <link href="https://zenn.dev/fkky/articles/e12b7deaf028d6"/>
+        <updated>2025-06-28T15:47:21.000Z</updated>
+        <summary type="html"><![CDATA[1. 知的作業の"暗黙知"問題デジタル化が進んでいる現代でも、エンジニアリングやデータ分析といった知的作業の現場では、暗黙知問題が深刻化しています。 こころあたりありませんか？"〇〇さんがいないと進まない業務がある""いろんな人に同じ質問をされて、同じ説明を繰り返している""資料を作ろうと思いながら、数か月経過"もしひとつでも当てはまるのであれば、暗黙知問題に直面していたと言えます。 3つの暗黙知]]></summary>
+        <content type="html"><![CDATA[1. 知的作業の"暗黙知"問題デジタル化が進んでいる現代でも、エンジニアリングやデータ分析といった知的作業の現場では、暗黙知問題が深刻化しています。 こころあたりありませんか？"〇〇さんがいないと進まない業務がある""いろんな人に同じ質問をされて、同じ説明を繰り返している""資料を作ろうと思いながら、数か月経過"もしひとつでも当てはまるのであれば、暗黙知問題に直面していたと言えます。 3つの暗黙知問題 作業ノウハウのサイロ化先輩「評価項目のレビュー、検査Tに回した？」自分「いや、してないです（そんなルール聞いてない…）」このような「知らなかった」...]]></content>
+        <author>
+            <name>ふっきー</name>
+        </author>
+        <published>2025-06-28T15:47:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firebase Studioで体験型Webアプリのデモをサクっと作ってみた：オンラインキッザニア編 | AIコーディング | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/kayato/articles/bb4ef21528bda3</id>
+        <link href="https://zenn.dev/kayato/articles/bb4ef21528bda3"/>
+        <updated>2025-06-28T05:26:29.000Z</updated>
+        <summary type="html"><![CDATA[公式リンク サービスリンクhttps://studio.firebase.google.com/?hl=ja ドキュメントリンクhttps://firebase.google.com/docs/studio?hl=ja Firebase Studioとは 概要ブラウザベースで生成AIを活用したフルスタックアプリのプロトタイプの開発・デプロイまでをスムーズに行えるサービス。Firebase Stud]]></summary>
+        <content type="html"><![CDATA[公式リンク サービスリンクhttps://studio.firebase.google.com/?hl=ja ドキュメントリンクhttps://firebase.google.com/docs/studio?hl=ja Firebase Studioとは 概要ブラウザベースで生成AIを活用したフルスタックアプリのプロトタイプの開発・デプロイまでをスムーズに行えるサービス。Firebase Studio は、API、バックエンド、フロントエンド、モバイルなど、本番環境品質のフルスタック AI アプリの構築と製品化に役立つクラウドベースのエージェント開発環境です...]]></content>
+        <author>
+            <name>kayato</name>
+        </author>
+        <published>2025-06-28T05:26:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初めてのTTSモデルをずんだもんのデータで作ってみた with LLaSA | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/aratako_lm/articles/7e0b0b6e51baa6</id>
+        <link href="https://zenn.dev/aratako_lm/articles/7e0b0b6e51baa6"/>
+        <updated>2025-06-28T03:00:02.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこの記事は、音声系素人がLLaSAというTTSモデルをずんだもんのデータでファインチューニングしてみたという記事です。 経緯元々私はLLM関連をメインに開発等を行っている人間なのですが、何となく音声系に興味を持ちました。（深い理由はない）理論の勉強の前に何か試しに作ってみたいなと思って色々と調べていたところ、LLaSAというモデルを見つけました。https://arxiv.org/abs/]]></summary>
+        <content type="html"><![CDATA[はじめにこの記事は、音声系素人がLLaSAというTTSモデルをずんだもんのデータでファインチューニングしてみたという記事です。 経緯元々私はLLM関連をメインに開発等を行っている人間なのですが、何となく音声系に興味を持ちました。（深い理由はない）理論の勉強の前に何か試しに作ってみたいなと思って色々と調べていたところ、LLaSAというモデルを見つけました。https://arxiv.org/abs/2502.04128https://huggingface.co/collections/HKUSTAudio/llasa-679b87dbd06ac556cc0e0f44こ...]]></content>
+        <author>
+            <name>Aratako</name>
+        </author>
+        <published>2025-06-28T03:00:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Bytes to Ideas:Language Modeling with Autoregressive U-Nets | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/ses_journalclub/articles/c762d907c38459</id>
+        <link href="https://zenn.dev/ses_journalclub/articles/c762d907c38459"/>
+        <updated>2025-06-27T15:37:35.000Z</updated>
+        <summary type="html"><![CDATA[For my first contribution to the series, I’m Haruumi Omoto and I’m highlighting:Videau, Mathurin, et al. "From Bytes to Ideas: Language Modeling with Autoregressive U-Nets." arXiv preprint arXiv:2506.]]></summary>
+        <content type="html"><![CDATA[For my first contribution to the series, I’m Haruumi Omoto and I’m highlighting:Videau, Mathurin, et al. "From Bytes to Ideas: Language Modeling with Autoregressive U-Nets." arXiv preprint arXiv:2506.14761 (2025).This paper points out the problems of fixed tokenization methods such as BPE comm...]]></content>
+        <author>
+            <name>オモト</name>
+        </author>
+        <published>2025-06-27T15:37:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Q CLIを使ってローグライクゲームを実装してみた | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/opamp/articles/4c6da578d067d5</id>
+        <link href="https://zenn.dev/opamp/articles/4c6da578d067d5"/>
+        <updated>2025-06-27T14:14:10.000Z</updated>
+        <summary type="html"><![CDATA[普段はClaude Codeを使っている私ですが、以下の記事を同僚に教えていただきました。https://aws.amazon.com/jp/blogs/news/build-games-with-amazon-q-cli-and-score-a-t-shirt/テ、Tシャツ・・・！絶対欲しい！ということで、今回はAmazonQ CLIを使ってローグライクゲームを作っていきます。 ローグライクゲー]]></summary>
+        <content type="html"><![CDATA[普段はClaude Codeを使っている私ですが、以下の記事を同僚に教えていただきました。https://aws.amazon.com/jp/blogs/news/build-games-with-amazon-q-cli-and-score-a-t-shirt/テ、Tシャツ・・・！絶対欲しい！ということで、今回はAmazonQ CLIを使ってローグライクゲームを作っていきます。 ローグライクゲームとは？https://ja.wikipedia.org/wiki/ローグライクゲーム特徴的なのはアスキー文字でゲームが構成されることです。今のゲームはグラフィックを売りにしていま...]]></content>
+        <author>
+            <name>OPamp</name>
+        </author>
+        <published>2025-06-27T14:14:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ollamaを使ってみた | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/akasan/articles/389d6234af1c9c</id>
+        <link href="https://zenn.dev/akasan/articles/389d6234af1c9c"/>
+        <updated>2025-06-27T13:28:45.000Z</updated>
+        <summary type="html"><![CDATA[今回はLLMをローカルで動かすためのツールであるOllamaを使ってみました。 Ollamaとは？公式サイトは以下になっており、GitHubも提供されています。Ollamaを使うとローカルでLLMを動かせるようになるため、メモリは結構消費しますが、高速に推論させることができます。https://ollama.com/https://github.com/ollama/ollama 対応モデル一覧記]]></summary>
+        <content type="html"><![CDATA[今回はLLMをローカルで動かすためのツールであるOllamaを使ってみました。 Ollamaとは？公式サイトは以下になっており、GitHubも提供されています。Ollamaを使うとローカルでLLMを動かせるようになるため、メモリは結構消費しますが、高速に推論させることができます。https://ollama.com/https://github.com/ollama/ollama 対応モデル一覧記事執筆時点では以下のページで公開されており、様々なモデルが提供されています。代表的なモデルは以下でしょうか。deepseek-r1gemma3qwen3llama3...]]></content>
+        <author>
+            <name>Akasan</name>
+        </author>
+        <published>2025-06-27T13:28:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[o3 MCPでClaude Codeが最強の検索力を手に入れた | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/yoshiko/articles/claude-code-with-o3</id>
+        <link href="https://zenn.dev/yoshiko/articles/claude-code-with-o3"/>
+        <updated>2025-06-27T13:23:10.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、よしこです。普段の開発にClaude Codeをフル活用する毎日です。ただ、Claude Codeは検索があまり強くないので、なにか解決できないエラーや込み入った問題は別途ChatGPTアプリでo3に聞き、回答をClaude Codeにコピペする、というのが常でした。もう二人で勝手に話してくれ〜って思いながら情報運搬職人をやっていました。しかし！なんと今朝、OpenAI APIのo3 ]]></summary>
+        <content type="html"><![CDATA[こんにちは、よしこです。普段の開発にClaude Codeをフル活用する毎日です。ただ、Claude Codeは検索があまり強くないので、なにか解決できないエラーや込み入った問題は別途ChatGPTアプリでo3に聞き、回答をClaude Codeにコピペする、というのが常でした。もう二人で勝手に話してくれ〜って思いながら情報運搬職人をやっていました。しかし！なんと今朝、OpenAI APIのo3 modelがWebSearchに対応したのです！！https://x.com/OpenAIDevs/status/1938296690563555636つまり、MCP経由でClaud...]]></content>
+        <author>
+            <name>よしこ</name>
+        </author>
+        <published>2025-06-27T13:23:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[o3ちゃんはLispの括弧を閉じれない(OpenAI Codex CLI) | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/kiyoka/articles/coding-agent-1</id>
+        <link href="https://zenn.dev/kiyoka/articles/coding-agent-1"/>
+        <updated>2025-06-27T12:29:16.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこの記事は、OpenAI Codex CLIを使っていて遭遇して感じた事を書いています。私はo3にEmacs Lispで開発してもらっていますが、Lispの括弧を閉じるのが下手ということが分かってきました。もしかしたら他のLLMモデルでは、うまく括弧を閉じれるのかも知れませんが、2025年6月時点では最強格のLLMモデルであるo3でもそんな弱点があるよという記事です。※ 追記: Gemin]]></summary>
+        <content type="html"><![CDATA[はじめにこの記事は、OpenAI Codex CLIを使っていて遭遇して感じた事を書いています。私はo3にEmacs Lispで開発してもらっていますが、Lispの括弧を閉じるのが下手ということが分かってきました。もしかしたら他のLLMモデルでは、うまく括弧を閉じれるのかも知れませんが、2025年6月時点では最強格のLLMモデルであるo3でもそんな弱点があるよという記事です。※ 追記: Gemini CLI + gemini-2.5-pro の構成でも同様にLispの括弧が閉じれない問題が出ることがわかりました。 LLMが得意とする言語、苦手とする言語o3は200行を超える...]]></content>
+        <author>
+            <name>kiyoka</name>
+        </author>
+        <published>2025-06-27T12:29:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【LLM活用事例】GPSの座標情報から地点情報を自動分類してくれるWebアプリ作ってみた(groq) | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/kttmu/articles/020b9cd1313181</id>
+        <link href="https://zenn.dev/kttmu/articles/020b9cd1313181"/>
+        <updated>2025-06-27T11:39:56.000Z</updated>
+        <summary type="html"><![CDATA[はじめに地理データを使った業務や研究で、座標に対して「これは住宅街？交差点？橋の上？」といった分類を手作業で行っていませんか？今回は、CSVで渡された緯度・経度情報をもとに、LLM（大規模言語モデル）とOpenStreetMapの情報を組み合わせて地理的特徴を自動分類するWebアプリを構築しました。GroqのLLM（LLaMA 3）を使えば、無料・高速・商用利用OKで、OpenAI互換のAPIを使]]></summary>
+        <content type="html"><![CDATA[はじめに地理データを使った業務や研究で、座標に対して「これは住宅街？交差点？橋の上？」といった分類を手作業で行っていませんか？今回は、CSVで渡された緯度・経度情報をもとに、LLM（大規模言語モデル）とOpenStreetMapの情報を組み合わせて地理的特徴を自動分類するWebアプリを構築しました。GroqのLLM（LLaMA 3）を使えば、無料・高速・商用利用OKで、OpenAI互換のAPIを使ってあっという間にこの仕組みが作れます！ アプリケーション紹介webブラウザ上のアプリケーションです。地点情報を記述したcsvファイルをimportしたうえでAutoLabel...]]></content>
+        <author>
+            <name>kttmu</name>
+        </author>
+        <published>2025-06-27T11:39:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2017以前の登壇資料 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/output/slide/2017/</id>
+        <link href="https://engineering.dena.com/output/slide/2017/"/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2018年の登壇資料 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/output/slide/2018/</id>
+        <link href="https://engineering.dena.com/output/slide/2018/"/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019年の登壇資料 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/output/slide/2019/</id>
+        <link href="https://engineering.dena.com/output/slide/2019/"/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020年の登壇資料 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/output/slide/2020/</id>
+        <link href="https://engineering.dena.com/output/slide/2020/"/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年の登壇資料 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/output/slide/2021/</id>
+        <link href="https://engineering.dena.com/output/slide/2021/"/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年の登壇資料 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/output/slide/2022/</id>
+        <link href="https://engineering.dena.com/output/slide/2022/"/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年の登壇資料 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/output/slide/2023/</id>
+        <link href="https://engineering.dena.com/output/slide/2023/"/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年の登壇資料 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/output/slide/2024/</id>
+        <link href="https://engineering.dena.com/output/slide/2024/"/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年の登壇資料 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/output/slide/2025/</id>
+        <link href="https://engineering.dena.com/output/slide/2025/"/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeNA TechCon 2019 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeNA TechCon 2020 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeNA TechCon 2021 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeNA TechCon 2022 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeNA TechCon 2023 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeNA TechCon 2024 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeNA × AI Day || DeNA TechCon 2025 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT基盤（インフラ / SRE） | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/team/infra/</id>
+        <link href="https://engineering.dena.com/team/infra/"/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <summary type="html"><![CDATA[DeNA グループ全体のシステム基盤を横断して管理しているインフラ部門、IT 基盤部について紹介します。DeNA は様々な事業分野にチャレンジし、多種多様なサービスを展開していますが、そのサービス/システムの成功を支えていくインフラ部門が IT 基盤部です。 IT 基盤部では、インフラ部門として日々様々な技術的なチャレンジを繰り返しています。 チームカルチャー ミッション これらの一見、両立/鼎立]]></summary>
+        <content type="html"><![CDATA[DeNA グループ全体のシステム基盤を横断して管理しているインフラ部門、IT 基盤部について紹介します。DeNA は様々な事業分野にチャレンジし、多種多様なサービスを展開していますが、そのサービス/システムの成功を支えていくインフラ部門が IT 基盤部です。 IT 基盤部では、インフラ部門として日々様々な技術的なチャレンジを繰り返しています。 チームカルチャー ミッション これらの一見、両立/鼎立が非常に難しい 3 つの要素、QC]]></content>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT戦略（コーポレート / 情報システム） | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/team/it-strategy/</id>
+        <link href="https://engineering.dena.com/team/it-strategy/"/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <summary type="html"><![CDATA[会計や人事などのコーポレート基幹システムをはじめ、Slack 連携などの社内ユーティリティ、各部署内の運用ツールなど、DeNA の社内システムは GUI/API のあるものだけでも 100 近く。しかも、それらの多くを内製しているのが DeNA です。そんな DeNA グループ全体の社内 IT に係る戦略立案/企画/構築/運用を担う「IT 戦略部」について紹介します。 チームカルチャー DeNA ]]></summary>
+        <content type="html"><![CDATA[会計や人事などのコーポレート基幹システムをはじめ、Slack 連携などの社内ユーティリティ、各部署内の運用ツールなど、DeNA の社内システムは GUI/API のあるものだけでも 100 近く。しかも、それらの多くを内製しているのが DeNA です。そんな DeNA グループ全体の社内 IT に係る戦略立案/企画/構築/運用を担う「IT 戦略部」について紹介します。 チームカルチャー DeNA グループの IT 投資対効果を最大化する IT 投資対効果の最大化は費用の最小化]]></content>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobage Open Platform | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/team/mobage/</id>
+        <link href="https://engineering.dena.com/team/mobage/"/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <summary type="html"><![CDATA[Mobage Open Platform（以下Platform）を運用をしているチームについて紹介します。 Mobage は ユーザーとデベロッパーに対しプラットフォームサービスを提供しております。15年以上運用している実績があり、DeNA の提供する事業の大きな柱を担っているサービスでもあります。 組織には自社開発の数多くのバックエンドサービスがあります。ユーザーにエンターテインメントの場所を提]]></summary>
+        <content type="html"><![CDATA[Mobage Open Platform（以下Platform）を運用をしているチームについて紹介します。 Mobage は ユーザーとデベロッパーに対しプラットフォームサービスを提供しております。15年以上運用している実績があり、DeNA の提供する事業の大きな柱を担っているサービスでもあります。 組織には自社開発の数多くのバックエンドサービスがあります。ユーザーにエンターテインメントの場所を提供し価値を届けるためには運用やセキュリテ]]></content>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OSS活動支援 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pococha | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/team/pococha/</id>
+        <link href="https://engineering.dena.com/team/pococha/"/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <summary type="html"><![CDATA[Pocochaとは？ 多様な事業を展開するDeNAの中でも、今、ライブコミュニケーションアプリ「Pococha（ポコチャ）」の勢いが際立っています。2021年3月末時点でダウンロード数は255万を突破、ライバー（配信者）・リスナー（視聴者）ともに1年間で約3倍というペースで成長を遂げています。 Pocochaはソーシャルライブというジャンルに位置づけられますが、類似のソーシャルライブサービスは20]]></summary>
+        <content type="html"><![CDATA[Pocochaとは？ 多様な事業を展開するDeNAの中でも、今、ライブコミュニケーションアプリ「Pococha（ポコチャ）」の勢いが際立っています。2021年3月末時点でダウンロード数は255万を突破、ライバー（配信者）・リスナー（視聴者）ともに1年間で約3倍というペースで成長を遂げています。 Pocochaはソーシャルライブというジャンルに位置づけられますが、類似のソーシャルライブサービスは2015]]></content>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SWET | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/team/quality/swet/</id>
+        <link href="https://engineering.dena.com/team/quality/swet/"/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <summary type="html"><![CDATA[SWETグループの属するIT本部品質管理部は、ゲーム・ソーシャルライブ・ヘルスケア・スポーツなど様々な事業を展開し続けるDeNAグループ全体の様々な品質にコミットしている部署です。その中で、SWET（SoftWare Engineer in Test の略）グループは、ソフトウェアテストを起点とした、「DeNA サービス全般の品質向上」と「DeNA エンジニアの開発生産性向上」の両方により、価値あ]]></summary>
+        <content type="html"><![CDATA[SWETグループの属するIT本部品質管理部は、ゲーム・ソーシャルライブ・ヘルスケア・スポーツなど様々な事業を展開し続けるDeNAグループ全体の様々な品質にコミットしている部署です。その中で、SWET（SoftWare Engineer in Test の略）グループは、ソフトウェアテストを起点とした、「DeNA サービス全般の品質向上」と「DeNA エンジニアの開発生産性向上」の両方により、価値あるものを素早く提供できるようにする]]></content>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[その他福利厚生 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キャリア | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/culture/career/</id>
+        <link href="https://engineering.dena.com/culture/career/"/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <summary type="html"><![CDATA[キャリア適正 キャリア適正は、エンジニアのキャリアを大きく5種類に分け、それぞれに対する適正を表現したものです。 これらの適正や本人の希望をもとに、キャリアを作り上げていきます。 エキスパート 突出した技術力や深い専門性を持ち、それを活かして事業に貢献する。 人工知能、OS、ミドルウェア、データベース、プログラミング言語など、 特定の領域を深く掘り下げて理解し、その知識や技術力を活かして事業に貢献]]></summary>
+        <content type="html"><![CDATA[キャリア適正 キャリア適正は、エンジニアのキャリアを大きく5種類に分け、それぞれに対する適正を表現したものです。 これらの適正や本人の希望をもとに、キャリアを作り上げていきます。 エキスパート 突出した技術力や深い専門性を持ち、それを活かして事業に貢献する。 人工知能、OS、ミドルウェア、データベース、プログラミング言語など、 特定の領域を深く掘り下げて理解し、その知識や技術力を活かして事業に貢献できる。 積極]]></content>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コミュニティ活動 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[データ基盤（データエンジニアリング） | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/team/data/dataengineering/</id>
+        <link href="https://engineering.dena.com/team/data/dataengineering/"/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <summary type="html"><![CDATA[事業部門/共通部門におけるデータドリブンな意思決定をエンジニアリングによって支える、データ基盤部データエンジニアリンググループについてご紹介いたします。データ基盤部に所属するデータエンジニアは全社の各部門を横串で支援しており、各部門のデータ活用水準の向上に努めています。 事業/サービスの成長に伴い、データの量・種類・データを要求する仕事は日々増え続けています。我々データエンジニアは、データパイプラ]]></summary>
+        <content type="html"><![CDATA[事業部門/共通部門におけるデータドリブンな意思決定をエンジニアリングによって支える、データ基盤部データエンジニアリンググループについてご紹介いたします。データ基盤部に所属するデータエンジニアは全社の各部門を横串で支援しており、各部門のデータ活用水準の向上に努めています。 事業/サービスの成長に伴い、データの量・種類・データを要求する仕事は日々増え続けています。我々データエンジニアは、データパイプライ]]></content>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任天堂社との協業 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/team/nintendo/</id>
+        <link href="https://engineering.dena.com/team/nintendo/"/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <summary type="html"><![CDATA[任天堂社との業務提携での開発/運用を行っているチームについて紹介します。 任天堂社との業務提携においては大きく分けて二つの事業を構成しており、一つはニンテンドーアカウントを中心とした会員基盤システムの開発/運用業務、もう一つは任天堂社がパブリッシュしているスマートデバイスアプリの開発/運用業務になります。 どちらの事業においても任天堂社の基本戦略である「任天堂IPに触れる人口の拡大」に貢献できるよ]]></summary>
+        <content type="html"><![CDATA[任天堂社との業務提携での開発/運用を行っているチームについて紹介します。 任天堂社との業務提携においては大きく分けて二つの事業を構成しており、一つはニンテンドーアカウントを中心とした会員基盤システムの開発/運用業務、もう一つは任天堂社がパブリッシュしているスマートデバイスアプリの開発/運用業務になります。 どちらの事業においても任天堂社の基本戦略である「任天堂IPに触れる人口の拡大」に貢献できるように]]></content>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[利用技術 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <summary type="html"><![CDATA[言語 TODO 開発ツール GitHub Enterprise を導入し、JIRA（プロジェクト管理ツール）と連携して活用しています。その他にも、Slack や Circle CI など、各プロジェクトやサービスごとに必要なツールを選定して使用しています。]]></summary>
+        <content type="html"><![CDATA[言語 TODO 開発ツール GitHub Enterprise を導入し、JIRA（プロジェクト管理ツール）と連携して活用しています。その他にも、Slack や Circle CI など、各プロジェクトやサービスごとに必要なツールを選定して使用しています。]]></content>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[品質管理 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/team/quality/quality-control/</id>
+        <link href="https://engineering.dena.com/team/quality/quality-control/"/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <summary type="html"><![CDATA[DeNAグループ全体におけるプロダクト・サービスの品質管理を担っている部門を紹介します。DeNAはゲーム・ライブストリーミング・ヘルスケア・スポーツなど様々な事業を展開しています。お客様にとってベストなプロダクト・サービスであるために、品質という側面から事業を支援し、Delightに繋がるあらゆる品質向上活動を推進していく役割が品質管理となります。 一人ひとりにDelightを届けるため、品質を「]]></summary>
+        <content type="html"><![CDATA[DeNAグループ全体におけるプロダクト・サービスの品質管理を担っている部門を紹介します。DeNAはゲーム・ライブストリーミング・ヘルスケア・スポーツなど様々な事業を展開しています。お客様にとってベストなプロダクト・サービスであるために、品質という側面から事業を支援し、Delightに繋がるあらゆる品質向上活動を推進していく役割が品質管理となります。 一人ひとりにDelightを届けるため、品質を「プ]]></content>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[専門技術チーム | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-06-27T08:51:33.000Z</updated>
+        <published>2025-06-27T08:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dify × HyDE法：チャットボットに「察する力」を与える実装ノート | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/upgradetech/articles/ac34d70e789ca3</id>
+        <link href="https://zenn.dev/upgradetech/articles/ac34d70e789ca3"/>
+        <updated>2025-06-27T08:08:01.000Z</updated>
+        <summary type="html"><![CDATA[✅ この記事を読むとできること本記事では、社内AIチャットボットの検索ヒット率が低いという課題に対し、HyDE （Hypothetical Document Embeddings）法をDifyで実装することで、どのように解決に導くかを解説します。曖昧な自然言語による質問からでも、意図を汲み取って適切な社内ナレッジを提示する実装方法を紹介します。本記事を読むと以下四点について学ぶことができます。ビジ]]></summary>
+        <content type="html"><![CDATA[✅ この記事を読むとできること本記事では、社内AIチャットボットの検索ヒット率が低いという課題に対し、HyDE （Hypothetical Document Embeddings）法をDifyで実装することで、どのように解決に導くかを解説します。曖昧な自然言語による質問からでも、意図を汲み取って適切な社内ナレッジを提示する実装方法を紹介します。本記事を読むと以下四点について学ぶことができます。ビジネスインパクト: なぜHyDEが「検索できない」問題を解決し、従業員の自己解決率向上に繋がるのかを理解できます。プロンプト設計: 検索精度を最大化するHyDE用プロンプトの具...]]></content>
+        <author>
+            <name>ryou</name>
+        </author>
+        <published>2025-06-27T08:08:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【コーディング無し】既存 API サーバーを MCP サーバーに一瞬で変える方法 | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/microsoft/articles/expose-mcp-server-in-apim</id>
+        <link href="https://zenn.dev/microsoft/articles/expose-mcp-server-in-apim"/>
+        <updated>2025-06-27T07:37:18.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこの度、Azure API Management (APIM) で、既存の API を MCP サーバーとして公開する機能 がプレビューでリリースされました。https://learn.microsoft.com/ja-jp/azure/api-management/export-rest-mcp-serverこの機能は先日の Microsoft Build 2025 で発表された機能です]]></summary>
+        <content type="html"><![CDATA[はじめにこの度、Azure API Management (APIM) で、既存の API を MCP サーバーとして公開する機能 がプレビューでリリースされました。https://learn.microsoft.com/ja-jp/azure/api-management/export-rest-mcp-serverこの機能は先日の Microsoft Build 2025 で発表された機能です。以下がその発表の動画です。https://www.youtube.com/watch?v=pr8ltV8XY7g猫も杓子も MCP な時代ですが、既存の API サーバーを MC...]]></content>
+        <author>
+            <name>momosuke | Ryosuke Hyakuta</name>
+        </author>
+        <published>2025-06-27T07:37:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini CLIのコードを読んで内部処理を理解する | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/danimal141/articles/ea29bb42d75d43</id>
+        <link href="https://zenn.dev/danimal141/articles/ea29bb42d75d43"/>
+        <updated>2025-06-27T02:37:02.000Z</updated>
+        <summary type="html"><![CDATA[!※ 私 : AI = 3 : 7ぐらいの記事です。Googleが開発したGemini CLIは、ターミナルから直接AI支援を受けられる強力なツールです。自身の理解のために、geminiコマンドを実行してからレスポンスが表示されるまでの内部処理をコードを参照しながら読んでいき、ログを残しておく。 アーキテクチャ概要Gemini CLIは、モノレポ構造で主に2つのパッケージから構成されている：pac]]></summary>
+        <content type="html"><![CDATA[!※ 私 : AI = 3 : 7ぐらいの記事です。Googleが開発したGemini CLIは、ターミナルから直接AI支援を受けられる強力なツールです。自身の理解のために、geminiコマンドを実行してからレスポンスが表示されるまでの内部処理をコードを参照しながら読んでいき、ログを残しておく。 アーキテクチャ概要Gemini CLIは、モノレポ構造で主に2つのパッケージから構成されている：packages/cli: フロントエンド層（UI、ユーザー入力処理）packages/core: バックエンド層（API通信、ツール実行）gemini-cli/├── ...]]></content>
+        <author>
+            <name>danimal141</name>
+        </author>
+        <published>2025-06-27T02:37:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customizable, no-code voice agent automation with GPT-4o | OpenAI News]]></title>
+        <id>https://openai.com/index/retell-ai</id>
+        <link href="https://openai.com/index/retell-ai"/>
+        <updated>2025-06-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Retell AI is transforming the call center with AI voice automation powered by GPT-4o and GPT-4.1. Its no-code platform enables businesses to launch natural, real-time voice agents that cut call costs,]]></summary>
+        <content type="html"><![CDATA[Retell AI is transforming the call center with AI voice automation powered by GPT-4o and GPT-4.1. Its no-code platform enables businesses to launch natural, real-time voice agents that cut call costs, boost CSAT, and automate customer conversations—without scripts or hold times.]]></content>
+        <published>2025-06-26T10:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロダクトの信頼性を支える技術集団！SREチームの仕事に迫る | Platinum Data Blog by BrainPad ブレインパッド]]></title>
+        <id>hatenablog://entry/6802418398487589462</id>
+        <link href="https://blog.brainpad.co.jp/entry/2025/06/26/160038"/>
+        <updated>2025-06-26T07:00:38.000Z</updated>
+        <summary type="html"><![CDATA[ブレインパッドのSRE（Site Reliability Engineering）チームは、パーソナライズ・プラットフォーム「Rtoaster（アールトースター）」などのデータ活用プロダクトをお客様が安心して利用できるよう、サービスの安定稼働と信頼性の確保に取り組んでいます。普段は明かされないプロダクト運用の舞台裏、SREチームが大切にしている視点など、同チームで活躍する井上さん、内山さん、吉田さ]]></summary>
+        <content type="html"><![CDATA[ブレインパッドのSRE（Site Reliability Engineering）チームは、パーソナライズ・プラットフォーム「Rtoaster（アールトースター）」などのデータ活用プロダクトをお客様が安心して利用できるよう、サービスの安定稼働と信頼性の確保に取り組んでいます。普段は明かされないプロダクト運用の舞台裏、SREチームが大切にしている視点など、同チームで活躍する井上さん、内山さん、吉田さんにお話を伺いました。内山 佐和子 吉田 史也 井上 剛志 XaaSユニットサービスオペレーション XaaSユニットサービスオペレーション XaaSユニットサービスオペレーションリード 多彩なキャリアをもつメンバーが集うチーム──まず、皆さんの自己紹介をお願いします。井上内山吉田「お客様視点」でプロダクトの信頼性を守る── SREチームの役割やミッションを教えてください。井上── 一般的なインフラエンジニアとSREの違いはどのような点にありますか。井上吉田── 他社とブレインパッドのSREチームを比較した際に、何か違いはありますか。井上互いの専門性を活かし合うチーム──井上さんがマネジメントさ]]></content>
+        <category label="SRE"/>
+        <category label="ブレインパッドの仕事"/>
+        <category label="社員インタビュー"/>
+        <published>2025-06-26T07:00:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIコーディング：「Vibe Coding」からプロフェッショナルへ | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+        <id>https://techblog.lycorp.co.jp/ja/20250626a</id>
+        <link href="https://techblog.lycorp.co.jp/ja/20250626a"/>
+        <updated>2025-06-26T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに本記事は、Tech-Verse 2025で発表予定の内容を詳しくまとめたものです。個人の実践経験をもとに、AIコーディングの現場で得た知見や手法を紹介します。AIコーディングを進めるにあたり、...]]></summary>
+        <content type="html"><![CDATA[はじめに本記事は、Tech-Verse 2025で発表予定の内容を詳しくまとめたものです。個人の実践経験をもとに、AIコーディングの現場で得た知見や手法を紹介します。AIコーディングを進めるにあたり、...]]></content>
+        <published>2025-06-26T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ecma International approves ECMAScript 2025: What’s new? | 2ality – JavaScript and more]]></title>
+        <id>https://2ality.com/2025/06/ecmascript-2025.html</id>
+        <link href="https://2ality.com/2025/06/ecmascript-2025.html"/>
+        <updated>2025-06-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[&amp;lt;p&amp;gt;On 25 June 2025, the 129th Ecma General Assembly approved the ECMAScript 2025 language specification (&amp;lt;a href="https://ecma-international.org/news/ecma-international-approves-new-standards-11/"&amp;gt;pre]]></summary>
+        <content type="html"><![CDATA[&amp;lt;p&amp;gt;On 25 June 2025, the 129th Ecma General Assembly approved the ECMAScript 2025 language specification (&amp;lt;a href="https://ecma-international.org/news/ecma-international-approves-new-standards-11/"&amp;gt;press release&amp;lt;/a&amp;gt;), which means that it’s officially a standard now.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;This blog post explains what’s new.&amp;lt;/p&amp;gt;]]></content>
+        <published>2025-06-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android StudioでGeminiのエージェントモードが利用可能に。「ダークモードを追加して」などの指示でAIが自律コーディング | Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/25/android_studiogeminiai.html</id>
+        <link href="https://www.publickey1.jp/blog/25/android_studiogeminiai.html"/>
+        <updated>2025-06-25T15:47:23.000Z</updated>
+        <summary type="html"><![CDATA[GoogleはAndroidの統合開発環境である「Android Studio」の最新版に、生成AIのGeminiが自然言語の指示に応じて自律的にコーディングを行う「エージェントモード」を追加することを明らかにしました。 Agentic A...]]></summary>
+        <content type="html"><![CDATA[GoogleはAndroidの統合開発環境である「Android Studio」の最新版に、生成AIのGeminiが自然言語の指示に応じて自律的にコーディングを行う「エージェントモード」を追加することを明らかにしました。 Agentic A...]]></content>
+        <published>2025-06-25T15:47:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINE iOSアプリ内ブラウザに検索機能を実装しました。 | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+        <id>https://techblog.lycorp.co.jp/ja/20250625a</id>
+        <link href="https://techblog.lycorp.co.jp/ja/20250625a"/>
+        <updated>2025-06-25T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは、iOSアプリエンジニアのKiichiです。こちらの記事で紹介されている通り、今年の3月に、LINEアプリ内ブラウザ上からYahoo!検索できる機能がリリースされました。本記事では、...]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは、iOSアプリエンジニアのKiichiです。こちらの記事で紹介されている通り、今年の3月に、LINEアプリ内ブラウザ上からYahoo!検索できる機能がリリースされました。本記事では、...]]></content>
+        <published>2025-06-25T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS、Google、マイクロソフトらがAIエージェント連携のため「Agent2Agentプロジェクト」設立。Linux Foundation傘下で | Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/25/awsgoogleaiagent2agentlinux_foundation.html</id>
+        <link href="https://www.publickey1.jp/blog/25/awsgoogleaiagent2agentlinux_foundation.html"/>
+        <updated>2025-06-24T14:53:25.000Z</updated>
+        <summary type="html"><![CDATA[異なるベンダが提供する複数のAIエージェント間でのコミュニケーションやコラボレーションを実現するオープンスタンダード確立のための「Agent2Agentプロジェクト」（A2Aプロジェックト）設立を、Linux Foundationが発表しま...]]></summary>
+        <content type="html"><![CDATA[異なるベンダが提供する複数のAIエージェント間でのコミュニケーションやコラボレーションを実現するオープンスタンダード確立のための「Agent2Agentプロジェクト」（A2Aプロジェックト）設立を、Linux Foundationが発表しま...]]></content>
+        <published>2025-06-24T14:53:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セキュリティカンファレンス「Botconf 2025」に登壇してきた話 | NTT Communications Engineers' Blog]]></title>
+        <id>https://engineers.ntt.com/entry/202506-botconf2025/entry</id>
+        <link href="https://engineers.ntt.com/entry/202506-botconf2025/entry"/>
+        <updated>2025-06-24T08:05:44.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、NTT Com イノベーションセンターのNetwork Analytics for Security（NA4Sec）プロジェクトです。 この記事では、2025年5月20日-23日に開催されたセキュリティカンファレンスBotconf 2025について紹介します。 Botconfとは Team NA4Secとは 講演内容 カンファレンスの様子 おわりに Botconfとは Botconfは]]></summary>
+        <content type="html"><![CDATA[こんにちは、NTT Com イノベーションセンターのNetwork Analytics for Security（NA4Sec）プロジェクトです。 この記事では、2025年5月20日-23日に開催されたセキュリティカンファレンスBotconf 2025について紹介します。 Botconfとは Team NA4Secとは 講演内容 カンファレンスの様子 おわりに Botconfとは Botconfは"The Botnet &amp;amp; Malware Ecosystems Fighting Conference"の略称で、その名の通り、ボットネットやマルウェアエコシステムに特化した国際的なセキュリティカン…]]></content>
+        <published>2025-06-24T08:05:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tips for making regular expressions easier to use in JavaScript | 2ality – JavaScript and more]]></title>
+        <id>https://2ality.com/2025/06/javascript-regexp-tips.html</id>
+        <link href="https://2ality.com/2025/06/javascript-regexp-tips.html"/>
+        <updated>2025-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[&amp;lt;p&amp;gt;In this blog post, we explore ways in which we can make regular expressions easier to use.&amp;lt;/p&amp;gt;]]></summary>
+        <content type="html"><![CDATA[&amp;lt;p&amp;gt;In this blog post, we explore ways in which we can make regular expressions easier to use.&amp;lt;/p&amp;gt;]]></content>
+        <published>2025-06-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Driving scalable growth with OpenAI o3, GPT-4.1, and CUA | OpenAI News]]></title>
+        <id>https://openai.com/index/unify</id>
+        <link href="https://openai.com/index/unify"/>
+        <updated>2025-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unify, an AI-powered GTM platform, uses OpenAI’s o3, GPT-4.1, and CUA to automate prospecting, research, and outreach. With hyper-personalized messaging and an always-on workflow, Unify helps teams ge]]></summary>
+        <content type="html"><![CDATA[Unify, an AI-powered GTM platform, uses OpenAI’s o3, GPT-4.1, and CUA to automate prospecting, research, and outreach. With hyper-personalized messaging and an always-on workflow, Unify helps teams generate pipeline at scale while focusing on high-impact customer interactions.]]></content>
+        <category label="API"/>
+        <published>2025-06-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflareが重大なサービス障害の原因を説明。実はWorkers KVがGoogle Cloudに依存しており、Google Cloudの障害が原因だったと | Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/25/cloudflareworkers_kvgoogle_cloudgoogle_cloud.html</id>
+        <link href="https://www.publickey1.jp/blog/25/cloudflareworkers_kvgoogle_cloudgoogle_cloud.html"/>
+        <updated>2025-06-23T15:37:40.000Z</updated>
+        <summary type="html"><![CDATA[日本時間6月13日午前2時52分から約2時間半、CloudflareはキーバリューストアのWorkers KVやCloudflareダッシュボードの一部を含む同社の重要なサービスに影響を与える重大なサービス障害を起こしています。 Cloud...]]></summary>
+        <content type="html"><![CDATA[日本時間6月13日午前2時52分から約2時間半、CloudflareはキーバリューストアのWorkers KVやCloudflareダッシュボードの一部を含む同社の重要なサービスに影響を与える重大なサービス障害を起こしています。 Cloud...]]></content>
+        <published>2025-06-23T15:37:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年7月の技術系イベント予定 | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+        <id>https://techblog.lycorp.co.jp/ja/20250623b</id>
+        <link href="https://techblog.lycorp.co.jp/ja/20250623b"/>
+        <updated>2025-06-23T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[LINEヤフー株式会社では、技術に関するイベントや勉強会の主催・協賛などを行っています。最新情報は各リンク先でご確認ください。タイミングによっては、申し込み開始前や既に満席となっていることがあります。...]]></summary>
+        <content type="html"><![CDATA[LINEヤフー株式会社では、技術に関するイベントや勉強会の主催・協賛などを行っています。最新情報は各リンク先でご確認ください。タイミングによっては、申し込み開始前や既に満席となっていることがあります。...]]></content>
+        <published>2025-06-23T04:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大規模AIリアルタイム埋め込みデータの効率的な扱い方 | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+        <id>https://techblog.lycorp.co.jp/ja/20250623a</id>
+        <link href="https://techblog.lycorp.co.jp/ja/20250623a"/>
+        <updated>2025-06-23T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。LINE VOOM AI組織のサーバー開発者、Chan Woo ParkとYousung Yangです。本記事ではAIに使用されるリアルタイム埋め込みを提供するサーバーを構築するにあたり、...]]></summary>
+        <content type="html"><![CDATA[こんにちは。LINE VOOM AI組織のサーバー開発者、Chan Woo ParkとYousung Yangです。本記事ではAIに使用されるリアルタイム埋め込みを提供するサーバーを構築するにあたり、...]]></content>
+        <published>2025-06-23T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AI と Model Context Protocol サーバーによる 5G コア オペレーション自動化の取り組み紹介 〜Interop Tokyo 2025〜 | NTT Communications Engineers' Blog]]></title>
+        <id>https://engineers.ntt.com/entry/202506-interop-5gc-automation/entry</id>
+        <link href="https://engineers.ntt.com/entry/202506-interop-5gc-automation/entry"/>
+        <updated>2025-06-22T23:03:41.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、イノベーションセンターの福田です。 NTT コミュニケーションズ株式会社は、日本最大級のネットワーク展示会である 「Interop Tokyo 2025（会場：幕張メッセ、会期：2025年6月11日〜13日）」 において構築される ShowNet に対し、生成 AI と Model Context Protocol (MCP) による 5G コアオペレーション自動化のコントリビューショ]]></summary>
+        <content type="html"><![CDATA[こんにちは、イノベーションセンターの福田です。 NTT コミュニケーションズ株式会社は、日本最大級のネットワーク展示会である 「Interop Tokyo 2025（会場：幕張メッセ、会期：2025年6月11日〜13日）」 において構築される ShowNet に対し、生成 AI と Model Context Protocol (MCP) による 5G コアオペレーション自動化のコントリビューションを行いました。 本記事ではその構築にあたって具体的にどのようなことを開発したのか、その実装を通して得た知見やノウハウを紹介します。 背景 どんなことをしたのか Model Context Proto…]]></content>
+        <published>2025-06-22T23:03:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイクロソフト、PCの紛失や故障などのとき一時的に同構成のクラウドPCが使える「Windows 365 Reserve」プレビュー公開 | Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/25/pcpcwindows_365_reserve.html</id>
+        <link href="https://www.publickey1.jp/blog/25/pcpcwindows_365_reserve.html"/>
+        <updated>2025-06-22T15:13:17.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトは、紛失や故障などによってPCが突然使えなくなったときに、一時的にあらかじめ同じ構成に設定されたクラウドPCを利用可能にすることでPCでの仕事が続けられる新サービス「Windows 365 Reserve」のプレビュー公開を発...]]></summary>
+        <content type="html"><![CDATA[マイクロソフトは、紛失や故障などによってPCが突然使えなくなったときに、一時的にあらかじめ同じ構成に設定されたクラウドPCを利用可能にすることでPCでの仕事が続けられる新サービス「Windows 365 Reserve」のプレビュー公開を発...]]></content>
+        <published>2025-06-22T15:13:17.000Z</published>
+    </entry>
+</feed>

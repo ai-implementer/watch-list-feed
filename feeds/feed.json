@@ -1,0 +1,2113 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "テックブログRSS",
+    "home_page_url": "https://feeds.implementer.net/",
+    "feed_url": "https://feeds.implementer.net/feeds/feed.json",
+    "description": "テックブログの更新をまとめたRSSフィード",
+    "icon": "https://feeds.implementer.net/images/icon.png",
+    "items": [
+        {
+            "id": "https://engineers.ntt.com/entry/202506-nttcom-to-nttdocomobiz/entry",
+            "content_html": "NTTコミュニケーションズ開発者ブログチームの小林です。 私たちNTTコミュニケーションズ株式会社は、明日2025年7月1日より社名をNTTドコモビジネス株式会社と改め、NTTグループの法人向け総合ICT事業の中核として新たな出発を迎えることとなりました。 www.ntt.com これに伴い、1999年の設立より親しまれてきたロゴマーク（シャイニングアーク）と、NTT Comの名称については、本日で利用を終了します。 NTT Comの設立は、ちょうど26年前の1999年7月1日でした。長距離・国際通信事業を担う存在としてスタートを切り、いまその歴史に区切りを迎えることとなります。音声通信と固定…",
+            "url": "https://engineers.ntt.com/entry/202506-nttcom-to-nttdocomobiz/entry",
+            "title": "NTT ComはNTTドコモビジネスに変わります | NTT Communications Engineers' Blog",
+            "summary": "NTTコミュニケーションズ開発者ブログチームの小林です。 私たちNTTコミュニケーションズ株式会社は、明日2025年7月1日より社名をNTTドコモビジネス株式会社と改め、NTTグループの法人向け総合ICT事業の中核として新たな出発を迎えることとなりました。 www.ntt.com これに伴い、1999年の設立より親しまれてきたロゴマーク（シャイニングアーク）と、NTT Comの名称については、本日",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/220d315565257f6ea1d31ac11979da9ccfbe04db/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FN%2FNTTCom%2F20250630%2F20250630105918.png",
+                "alt": "NTT ComはNTTドコモビジネスに変わります - NTT Communications Engineers' Blog",
+                "type": "png"
+            },
+            "date_modified": "2025-06-30T02:51:42.000Z",
+            "date_published": "2025-06-30T02:51:42.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "NTT ComはNTTドコモビジネスに変わります",
+                "blogTitle": "NTT Communications Engineers' Blog",
+                "blogLink": "https://engineers.ntt.com/",
+                "blogLinkMd5Hash": "9da314a04336f0a90d8c134771f12e33",
+                "favicon": "https://engineers.ntt.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://note.com/gvatech/n/nbf0e6d0e426c",
+            "content_html": "はじめに～採用広報より～GVA TECHでは、リーガルテックの未来を支えるべく、AIの可能性を日々探求しています。その中核を担うのが、AI領域の戦略と開発をリードする「CAIO（Chief AI Officer）」というポジションです。今回は、GVA TECHのAIチームを牽引するCAIOの岩城さんにインタビューを行いました！CAIOというまだ馴染みのない役割のリアルや、AI開発の裏側、そして一緒に働きたい人物像まで――これからAI×リーガルテックに携わりたいと考える皆さんにとって、ヒントとなるエピソードが満載です。続きをみる",
+            "url": "https://note.com/gvatech/n/nbf0e6d0e426c",
+            "title": "“綺麗なデータ”に恋をして―CAIOがGVA TECHで挑む「AIで法務に新しい価値を」 | #LLMタグ",
+            "summary": "はじめに～採用広報より～GVA TECHでは、リーガルテックの未来を支えるべく、AIの可能性を日々探求しています。その中核を担うのが、AI領域の戦略と開発をリードする「CAIO（Chief AI Officer）」というポジションです。今回は、GVA TECHのAIチームを牽引するCAIOの岩城さんにインタビューを行いました！CAIOというまだ馴染みのない役割のリアルや、AI開発の裏側、そして一緒",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/198057743/rectangle_large_type_2_58ee6c74691966190792727d7ea5f2e3.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-06-30T02:42:42.000Z",
+            "date_published": "2025-06-30T02:42:42.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "“綺麗なデータ”に恋をして―CAIOがGVA TECHで挑む「AIで法務に新しい価値を」",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://note.com/hatti8/n/nd5a6f68c6f2d",
+            "content_html": "1. はじめに続きをみる",
+            "url": "https://note.com/hatti8/n/nd5a6f68c6f2d",
+            "title": "Google ColabでText-to-LoRAを試す | #LLMタグ",
+            "summary": "1. はじめに続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/199202496/rectangle_large_type_2_cd9f4998113058bb34d135d53d6df23e.jpeg?fit=bounds&quality=85&width=1280",
+                "type": "jpeg"
+            },
+            "date_modified": "2025-06-30T02:39:51.000Z",
+            "date_published": "2025-06-30T02:39:51.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Google ColabでText-to-LoRAを試す",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://qiita.com/nabata/items/470032455b5b33a91945",
+            "content_html": "Supershipの名畑です。キンツアのおかげで世界が煌めきで満ちて見える昨今です。はじめにClaude Codeが過去なかなか類を見ないほどの盛り上がりです。ターミナル内で動作し、コードベー…",
+            "url": "https://qiita.com/nabata/items/470032455b5b33a91945",
+            "title": "Amazon Bedrock経由でClaude Codeを使ってみた - MacBook(M2) | LLMタグが付けられた新着記事 - Qiita",
+            "summary": "Supershipの名畑です。キンツアのおかげで世界が煌めきで満ちて見える昨今です。はじめにClaude Codeが過去なかなか類を見ないほどの盛り上がりです。ターミナル内で動作し、コードベー…",
+            "image": {
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMxLmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRnUlMkY1OTM1OTk2JTNGdiUzRDQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9MmZkMmJmZDI2OTQ1NTczN2FkYTk1MDUzNTk4MzgwZTY%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY0ODUwZjk5NzE3MDZhOTVmZGZlMmRiMDk3YjE2NjI0MWMzMmI0YmE4JTJGb3JpZ2luYWwuanBnJTNGMTUzMDc3MDQwND9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZib3JkZXI9MiUyQ0ZGRkZGRiZmbT1wbmczMiZzPWZlNWI5ZDFiMTY5NTk2NTgyZTExOGZiY2FkNTdkOThi%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D0f95f89fa2e7988e56eb553d40f4bfb0?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QW1hem9uJTIwQmVkcm9jayVFNyVCNSU4QyVFNyU5NCVCMSVFMyU4MSVBN0NsYXVkZSUyMENvZGUlRTMlODIlOTIlRTQlQkQlQkYlRTMlODElQTMlRTMlODElQTYlRTMlODElQkYlRTMlODElOUYlMjAtJTIwTWFjQm9vayUyOE0yJTI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ODc2YWQzNGRmNjgzZDZhMDVjMzBiZTQyMDc0ZDk5YjI&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBuYWJhdGEmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz05NmYxMTAzZDgwZWNlMjlkZGM2Nzk0MDUxMmY2OTY2OA&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=U3VwZXJzaGlw5qCq5byP5Lya56S-&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%231E2121&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=7630a28f9378a82276f2ca347e204f62"
+            },
+            "date_modified": "2025-06-30T00:54:15.000Z",
+            "date_published": "2025-06-30T00:54:15.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Amazon Bedrock経由でClaude Codeを使ってみた - MacBook(M2)",
+                "blogTitle": "LLMタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c",
+                "favicon": "https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico"
+            }
+        },
+        {
+            "id": "https://engineers.ntt.com/entry/202503-openxr-optics/entry",
+            "content_html": "こんにちは、イノベーションセンターの安井です。 この記事では、Open XR Opticsという新しい光伝送技術が実装されたトランシーバーの実機検証結果をご紹介します。 本記事で以下を扱います。 1つの光信号を複数に分け、柔軟な帯域保証を可能にする新技術「Open XR Optics」 実機を用いた検証により、その基本性能、障害からの復旧挙動、そして実用上の注意点 5G基地局やデータセンター間接続など、将来のネットワークを支える技術の展望（可能性と課題） P2MP技術 Open XR Opticsとは 検証 検証構成 基本動作の確認 パワー 周波数 自動調整の完了に要する時間 障害復旧の挙動 …",
+            "url": "https://engineers.ntt.com/entry/202503-openxr-optics/entry",
+            "title": "Open XR Optics - 帯域保証型Point-to-Multipoint（P2MP）光伝送を実機検証してみた | NTT Communications Engineers' Blog",
+            "summary": "こんにちは、イノベーションセンターの安井です。 この記事では、Open XR Opticsという新しい光伝送技術が実装されたトランシーバーの実機検証結果をご紹介します。 本記事で以下を扱います。 1つの光信号を複数に分け、柔軟な帯域保証を可能にする新技術「Open XR Optics」 実機を用いた検証により、その基本性能、障害からの復旧挙動、そして実用上の注意点 5G基地局やデータセンター間接続",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/edab6d0d488f9ed28cf2ad195706b9e28b248644/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FN%2FNTTCom%2F20250610%2F20250610155432.png",
+                "alt": "Open XR Optics - 帯域保証型Point-to-Multipoint（P2MP）光伝送を実機検証してみた - NTT Communications Engineers' Blog",
+                "type": "png"
+            },
+            "date_modified": "2025-06-30T00:31:21.000Z",
+            "date_published": "2025-06-30T00:31:21.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Open XR Optics - 帯域保証型Point-to-Multipoint（P2MP）光伝送を実機検証してみた",
+                "blogTitle": "NTT Communications Engineers' Blog",
+                "blogLink": "https://engineers.ntt.com/",
+                "blogLinkMd5Hash": "9da314a04336f0a90d8c134771f12e33",
+                "favicon": "https://engineers.ntt.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://note.com/ainest/n/nac3b04d97bb9",
+            "content_html": "はじめにこんにちは！株式会社AI Nestです。続きをみる",
+            "url": "https://note.com/ainest/n/nac3b04d97bb9",
+            "title": "【論文瞬読】LLMは本音と建前をどう使い分ける？認知モデルで明らかになった価値のトレードオフ | #LLMタグ",
+            "summary": "はじめにこんにちは！株式会社AI Nestです。続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/199181433/rectangle_large_type_2_31eacb9aedbe2889f23ad927f78b625b.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T23:59:21.000Z",
+            "date_published": "2025-06-29T23:59:21.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【論文瞬読】LLMは本音と建前をどう使い分ける？認知モデルで明らかになった価値のトレードオフ",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://note.com/nurruttan/n/n6f42719cce57",
+            "content_html": "本記事は「データ分析領域へのLLM導入動向（各分析ソリューション会社の動き）」というテーマに対して、LLMに対して、具体的かつ納得感が出るまで複数回のプロンプトを重ねて、見解を出力させています。さらに、その見解に対して、自身の体験談を基に私見や所感を述べさせていただきました。ご興味がある方はぜひ、最後までご覧ください。下記、メンバーシップに参加いただけると全記事無料で読み放題となっております。ご興味があればご覧ください。続きをみる",
+            "url": "https://note.com/nurruttan/n/n6f42719cce57",
+            "title": "LLMでエンジニアリング知識の重要性が急増している話 | #LLMタグ",
+            "summary": "本記事は「データ分析領域へのLLM導入動向（各分析ソリューション会社の動き）」というテーマに対して、LLMに対して、具体的かつ納得感が出るまで複数回のプロンプトを重ねて、見解を出力させています。さらに、その見解に対して、自身の体験談を基に私見や所感を述べさせていただきました。ご興味がある方はぜひ、最後までご覧ください。下記、メンバーシップに参加いただけると全記事無料で読み放題となっております。ご興",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/199178985/rectangle_large_type_2_9c5177091a5d9379e9604e728cb98147.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T23:41:51.000Z",
+            "date_published": "2025-06-29T23:41:51.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "LLMでエンジニアリング知識の重要性が急増している話",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://note.com/kenquichi/n/n56588d23f3d4",
+            "content_html": "ルクセンブルク大学とFoyer S.A.の研究チームはLLMの温度設定について体系的に検証した研究を発表温度設定は・創造性や機械翻訳において性能に大きく影響・特に小型モデルでは性能のばらつきが大きくなるhttps://ledge.ai/articles/llm_temperature_taskwise_evaluation 続きをみる",
+            "url": "https://note.com/kenquichi/n/n56588d23f3d4",
+            "title": "ルクセンブルク大学とFoyer S... | #LLMタグ",
+            "summary": "ルクセンブルク大学とFoyer S.A.の研究チームはLLMの温度設定について体系的に検証した研究を発表温度設定は・創造性や機械翻訳において性能に大きく影響・特に小型モデルでは性能のばらつきが大きくなるhttps://ledge.ai/articles/llm_temperature_taskwise_evaluation 続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/116307904/profile_10114bd98c8e4137f25e9ff141467dda.png?fit=bounds&format=jpeg&quality=85&width=330",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T23:22:05.000Z",
+            "date_published": "2025-06-29T23:22:05.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ルクセンブルク大学とFoyer S...",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://note.com/sewasees/n/n43720ecdbe0c",
+            "content_html": "昨日の夜、Claude Codeと格闘していて、ふと奇妙なことに気づいた話です。思いの外深い話になってしまった。続きをみる",
+            "url": "https://note.com/sewasees/n/n43720ecdbe0c",
+            "title": "AIの不思議な矛盾を発見した日：ハードウェア進歩とアテンション制約のギャップ | #LLMタグ",
+            "summary": "昨日の夜、Claude Codeと格闘していて、ふと奇妙なことに気づいた話です。思いの外深い話になってしまった。続きをみる",
+            "image": {
+                "url": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/0aa054a2e43cf73483d0d9ed3c9ef7b38b6a72c6.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T23:00:33.000Z",
+            "date_published": "2025-06-29T23:00:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AIの不思議な矛盾を発見した日：ハードウェア進歩とアテンション制約のギャップ",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://note.com/onemorevision/n/nff2496d8ef7b",
+            "content_html": "こんにちは、STUDIO55技術統括の入江です。いつの間にか、ネット検索の最上部に “AIの答え” が表示されるようになってきました。なんとなく気になっていた…という方もいるのではないでしょうか。続きをみる",
+            "url": "https://note.com/onemorevision/n/nff2496d8ef7b",
+            "title": "1位じゃ足りない時代──AIO・注目スニペット・LLMOで、“AIに選ばれるサイト設計” で「ポジションゼロをねらえ！」 | #LLMタグ",
+            "summary": "こんにちは、STUDIO55技術統括の入江です。いつの間にか、ネット検索の最上部に “AIの答え” が表示されるようになってきました。なんとなく気になっていた…という方もいるのではないでしょうか。続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/198407364/rectangle_large_type_2_1bffcd5dc5936fc437510b0da5f1daa5.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T23:00:00.000Z",
+            "date_published": "2025-06-29T23:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "1位じゃ足りない時代──AIO・注目スニペット・LLMOで、“AIに選ばれるサイト設計” で「ポジションゼロをねらえ！」",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://note.com/deep_gibbon8736/n/n54d152d115bc",
+            "content_html": "ChatGPTに「私のこと好き？」と聞いたら、どんな答えが返ってくる？AIの「好き」は感情？それともただの出力？本記事では、感情・関心・応答という3つの視点から「好き」の構造を探りつつ、AIと人間の対話に潜む意味のズレや問いの可能性を考察します。#ChatGPT #AIとの対話 #生成AI #LLM #メタなんとか #GPT4続きをみる",
+            "url": "https://note.com/deep_gibbon8736/n/n54d152d115bc",
+            "title": "0164_【ChatGPT】「好き」を問い詰める｜LLMとの対話 | #LLMタグ",
+            "summary": "ChatGPTに「私のこと好き？」と聞いたら、どんな答えが返ってくる？AIの「好き」は感情？それともただの出力？本記事では、感情・関心・応答という3つの視点から「好き」の構造を探りつつ、AIと人間の対話に潜む意味のズレや問いの可能性を考察します。#ChatGPT #AIとの対話 #生成AI #LLM #メタなんとか #GPT4続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/198620450/rectangle_large_type_2_b2d8f86033cea022b27a65750cf07171.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T22:05:59.000Z",
+            "date_published": "2025-06-29T22:05:59.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "0164_【ChatGPT】「好き」を問い詰める｜LLMとの対話",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://note.com/deep_gibbon8736/n/ne84aa96c7515",
+            "content_html": "ChatGPTに自分の嫌いなものを演じてもらったら――いつのまにか存在論に踏み込んでいました。「嫌悪対象はなぜ心に居座るのか」「自我は“嫌い”によって輪郭を持つのか」――ユング、レヴィナス、ヘーゲルの思想と、自分の心理を比較しながら考えた記録です#ChatGPT #AIとの対話 #哲学 #生成AI #LLM #GPT4 #心理学 #悪口続きをみる",
+            "url": "https://note.com/deep_gibbon8736/n/ne84aa96c7515",
+            "title": "0163_【ChatGPT】嫌悪対象で考える存在論|LLMとうっかり哲学 | #LLMタグ",
+            "summary": "ChatGPTに自分の嫌いなものを演じてもらったら――いつのまにか存在論に踏み込んでいました。「嫌悪対象はなぜ心に居座るのか」「自我は“嫌い”によって輪郭を持つのか」――ユング、レヴィナス、ヘーゲルの思想と、自分の心理を比較しながら考えた記録です#ChatGPT #AIとの対話 #哲学 #生成AI #LLM #GPT4 #心理学 #悪口続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/199072458/rectangle_large_type_2_e274323ec19caf94665dca83665dda27.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T22:04:20.000Z",
+            "date_published": "2025-06-29T22:04:20.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "0163_【ChatGPT】嫌悪対象で考える存在論|LLMとうっかり哲学",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://note.com/yomikakisan/n/ndd7ece31da0f",
+            "content_html": "はじめに：ドラクエ3の遊び人が教えてくれたこと続きをみる",
+            "url": "https://note.com/yomikakisan/n/ndd7ece31da0f",
+            "title": "LLM無職のLLM無職によるLLM無職のためのサバイバル生活術 | #LLMタグ",
+            "summary": "はじめに：ドラクエ3の遊び人が教えてくれたこと続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/199165416/rectangle_large_type_2_9886318f7710ca9534a8fbaf6f6d5aab.jpeg?fit=bounds&quality=85&width=1280",
+                "type": "jpeg"
+            },
+            "date_modified": "2025-06-29T21:58:02.000Z",
+            "date_published": "2025-06-29T21:58:02.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "LLM無職のLLM無職によるLLM無職のためのサバイバル生活術",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://zenn.dev/shinseitaro/articles/programming-with-llms",
+            "content_html": "Atharva Raykar さんのポスト AI-assisted coding for teams that can't get away with vibes - nilenso blog がとてもよかったので、Grokさんにまとめてもらったものをここに書いておきます。ステータス：本番環境での経験に基づく生きたドキュメント最終更新日：2025年6月5日AIは、思慮深く高品質な製品を構築するエンジニアリングチームに適しており、熟練した使用が求められます。AIを活用すると開発速度が向上し、ユーザとのフィードバックループを強化して優れた製品を生み出せますが、誤った使い方は低品質なコー...",
+            "url": "https://zenn.dev/shinseitaro/articles/programming-with-llms",
+            "title": "AIの効果はエンジニアのスキルに依存 | Zennの「LLM」のフィード",
+            "summary": "Atharva Raykar さんのポスト AI-assisted coding for teams that can't get away with vibes - nilenso blog がとてもよかったので、Grokさんにまとめてもらったものをここに書いておきます。ステータス：本番環境での経験に基づく生きたドキュメント最終更新日：2025年6月5日AIは、思慮深く高品質な製品を構築するエン",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--hxYWsX7B--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AE%25E5%258A%25B9%25E6%259E%259C%25E3%2581%25AF%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25E3%2581%25AB%25E4%25BE%259D%25E5%25AD%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2597%25E3%2582%2593%25E3%2581%259B%25E3%2581%2584%25E3%2581%259F%25E3%2582%258D%25E3%2581%2586%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M1MDNiNTkzZGYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T21:54:35.000Z",
+            "date_published": "2025-06-29T21:54:35.000Z",
+            "author": {
+                "name": "しんせいたろう"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AIの効果はエンジニアのスキルに依存",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://qiita.com/ronitsachdev/items/56b150b3e611c4c24a46",
+            "content_html": "なぜ作ったのか？ある日、暇だったんです。昔のコードを見返していたら、びっくり。「変数名 x1, x2, x3って、なんだこれw」そんな過去の自分を見て爆笑していた時、ふと思いました。「AIに…",
+            "url": "https://qiita.com/ronitsachdev/items/56b150b3e611c4c24a46",
+            "title": "遊びで自分のコードをディスるツールを作ってみた | LLMタグが付けられた新着記事 - Qiita",
+            "summary": "なぜ作ったのか？ある日、暇だったんです。昔のコードを見返していたら、びっくり。「変数名 x1, x2, x3って、なんだこれw」そんな過去の自分を見て爆笑していた時、ふと思いました。「AIに…",
+            "image": {
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSVBLYkhlcmVkdU03ZkJCajFlV0RwRGtmTmhzakZUOFBEY3d1OWNPdUR1SXNaaElJUSUzRHM5Ni1jP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPWE1YWIwZjMzMGFmMzM2OGUwMmU3N2VjNDk1ZDYyYmI5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D507397a662c422c6f362d020f8833548?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU5JTgxJThBJUUzJTgxJUIzJUUzJTgxJUE3JUU4JTg3JUFBJUU1JTg4JTg2JUUzJTgxJUFFJUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg5JUUzJTgyJTkyJUUzJTgzJTg3JUUzJTgyJUEzJUUzJTgyJUI5JUUzJTgyJThCJUUzJTgzJTg0JUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9Y2Y1NjYwNDUyZWZhYjc5ZTQ2ZmNkM2Q3MGM2YWJhM2U&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByb25pdHNhY2hkZXYmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz02MTY0OWVmMWNmYTAxYzIxOTAyNWYwZjVkZDk5OTQ0OA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=5b1d27c9cf769c6d3ee12479688b653f"
+            },
+            "date_modified": "2025-06-29T20:58:56.000Z",
+            "date_published": "2025-06-29T20:58:56.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "遊びで自分のコードをディスるツールを作ってみた",
+                "blogTitle": "LLMタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c",
+                "favicon": "https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico"
+            }
+        },
+        {
+            "id": "https://note.com/catap_art3d/n/na72aaba93d8d",
+            "content_html": "はじめにゲシュタルト崩壊とは、同じ文字や図形を集中して長時間見続けることで、そのまとまり（ゲシュタルト）が意識から失われ、個々の部分に分解されて認識されてしまう現象です。続きをみる",
+            "url": "https://note.com/catap_art3d/n/na72aaba93d8d",
+            "title": "AIは頻繁にゲシュタルト崩壊している話 | #LLMタグ",
+            "summary": "はじめにゲシュタルト崩壊とは、同じ文字や図形を集中して長時間見続けることで、そのまとまり（ゲシュタルト）が意識から失われ、個々の部分に分解されて認識されてしまう現象です。続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/199157815/rectangle_large_type_2_d49056624311bc858a9185e605385095.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T19:20:28.000Z",
+            "date_published": "2025-06-29T19:20:28.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AIは頻繁にゲシュタルト崩壊している話",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://www.publickey1.jp/blog/25/visual_studio_codeaigithub_copilot_chat.html",
+            "content_html": "Visual Studio Codeの拡張機能「GitHub Copilot Chat」のソースコードがMITライセンスで公開されました。 公開されたソースコードはまだバージョン0.29のプレリリース版と位置づけられています。 オープンソー...",
+            "url": "https://www.publickey1.jp/blog/25/visual_studio_codeaigithub_copilot_chat.html",
+            "title": "Visual Studio CodeのAIエディタ化が前進、GitHub Copilot Chatがオープンソースで公開。現在プレリリース版 | Publickey",
+            "summary": "Visual Studio Codeの拡張機能「GitHub Copilot Chat」のソースコードがMITライセンスで公開されました。 公開されたソースコードはまだバージョン0.29のプレリリース版と位置づけられています。 オープンソー...",
+            "image": {
+                "url": "https://www.publickey1.jp/2025/github-copilot-chat-oss-la01.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2025-06-29T15:59:51.000Z",
+            "date_published": "2025-06-29T15:59:51.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 45,
+                "originalTitle": "Visual Studio CodeのAIエディタ化が前進、GitHub Copilot Chatがオープンソースで公開。現在プレリリース版",
+                "blogTitle": "Publickey",
+                "blogLink": "https://www.publickey1.jp/",
+                "blogLinkMd5Hash": "98314ba2e89a65accec03a81f0250c1e",
+                "favicon": "https://www.publickey1.jp/favicon.ico"
+            }
+        },
+        {
+            "id": "https://qiita.com/ke-suke-Soft/items/d1ca3fe6c751ec25b126",
+            "content_html": "はじめに今回は、最新の研究成果である「Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalizati…",
+            "url": "https://qiita.com/ke-suke-Soft/items/d1ca3fe6c751ec25b126",
+            "title": "7B MoEで探るLLMのGrokking現象：テスト不要の新指標でリアルタイム一般化を可視化 | LLMタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに今回は、最新の研究成果である「Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalizati…",
+            "image": {
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjc3NTg2ODEyJTNGdiUzRDQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9N2NlNjhjZjVjZDE2MzdmN2YxZGZlYzg1NTA2MjcxN2Y%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc6e96f1be383b24561c0f22647424738?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9N0IlMjBNb0UlRTMlODElQTclRTYlOEUlQTIlRTMlODIlOEJMTE0lRTMlODElQUVHcm9ra2luZyVFNyU4RiVCRSVFOCVCMSVBMSVFRiVCQyU5QSVFMyU4MyU4NiVFMyU4MiVCOSVFMyU4MyU4OCVFNCVCOCU4RCVFOCVBNiU4MSVFMyU4MSVBRSVFNiU5NiVCMCVFNiU4QyU4NyVFNiVBOCU5OSVFMyU4MSVBNyVFMyU4MyVBQSVFMyU4MiVBMiVFMyU4MyVBQiVFMyU4MiVCRiVFMyU4MiVBNCVFMyU4MyVBMCVFNCVCOCU4MCVFOCU4OCVBQyVFNSU4QyU5NiVFMyU4MiU5MiVFNSU4RiVBRiVFOCVBNiU5NiVFNSU4QyU5NiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWNkMTM0M2I0YzI0OWU2MTE4MDRlYjNjZDIwZTBhM2I4&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrZS1zdWtlLVNvZnQmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1lY2I3N2IyMzRhZWY2M2RhMTMyYzEzZjU3ZTE4MzMyNg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=4a68ab31f4ca71e064cf55f2dac02d4c"
+            },
+            "date_modified": "2025-06-29T15:10:57.000Z",
+            "date_published": "2025-06-29T15:10:57.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "7B MoEで探るLLMのGrokking現象：テスト不要の新指標でリアルタイム一般化を可視化",
+                "blogTitle": "LLMタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c",
+                "favicon": "https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico"
+            }
+        },
+        {
+            "id": "https://note.com/cozy_weasel7851/n/nce33a84f6539",
+            "content_html": "数独を解く環境を LibreOffice の Calc で構築しようと試行錯誤した話。プログラムだの環境だののややこしい話は後にして、成果物を見ていただくのが早いと思う。ここで登場する Skyscraper とは数独の解法の名前である、この解法が何故そんな名前なのか、その話は今は関係ないので先に進む。続きをみる",
+            "url": "https://note.com/cozy_weasel7851/n/nce33a84f6539",
+            "title": "数独を解くためにLLMと相談しながらPythonでマクロを組んだ話の第1回：Skyscraperを見つけた！ | #LLMタグ",
+            "summary": "数独を解く環境を LibreOffice の Calc で構築しようと試行錯誤した話。プログラムだの環境だののややこしい話は後にして、成果物を見ていただくのが早いと思う。ここで登場する Skyscraper とは数独の解法の名前である、この解法が何故そんな名前なのか、その話は今は関係ないので先に進む。続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/198970053/rectangle_large_type_2_b25166c3883a4e638b2c0b665ddc03bb.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T14:49:16.000Z",
+            "date_published": "2025-06-29T14:49:16.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "数独を解くためにLLMと相談しながらPythonでマクロを組んだ話の第1回：Skyscraperを見つけた！",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://qiita.com/kittokito/items/9e09d64776c5b828e4e4",
+            "content_html": "インターン先であるAirion株式会社で勉強会があり、私は月ごとのLLM周りの論文で個人的に面白かったものをピックアップして話すことにしています。今回は主に5月に出たLLM周りの論文を紹介していこ…",
+            "url": "https://qiita.com/kittokito/items/9e09d64776c5b828e4e4",
+            "title": "最新LLM研究まとめ：2025年5月 | LLMタグが付けられた新着記事 - Qiita",
+            "summary": "インターン先であるAirion株式会社で勉強会があり、私は月ごとのLLM周りの論文で個人的に面白かったものをピックアップして話すことにしています。今回は主に5月に出たLLM周りの論文を紹介していこ…",
+            "image": {
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDEwOTc5NCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc0OTU1Nzk0Mj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz05YjA5NGM0ZmY0YWE3Nzk4NzgxNDczMTczYzE1ZjRmZA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Daed13ff3ab30c7480b9c08d8d7cd935d?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTlDJTgwJUU2JTk2JUIwTExNJUU3JUEwJTk0JUU3JUE5JUI2JUUzJTgxJUJFJUUzJTgxJUE4JUUzJTgyJTgxJUVGJUJDJTlBMjAyNSVFNSVCOSVCNDUlRTYlOUMlODgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03ODk2NTkyOWFhNGQwOWViMmRhYjU5Y2VkYmE1MTU1ZA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBraXR0b2tpdG8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hMTY1NWE3NGVhNzI5ZTlmMzA0NTEzMDU2OTNmMTBmNQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=b70c9d743a46226b747a7f84ebf3cc91"
+            },
+            "date_modified": "2025-06-29T14:37:14.000Z",
+            "date_published": "2025-06-29T14:37:14.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "最新LLM研究まとめ：2025年5月",
+                "blogTitle": "LLMタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c",
+                "favicon": "https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico"
+            }
+        },
+        {
+            "id": "https://note.com/toshia_fuji/n/ne95cf76ce4d3",
+            "content_html": "まいどです。本日の生成AIニュース+テクノロジー情報。続きをみる",
+            "url": "https://note.com/toshia_fuji/n/ne95cf76ce4d3",
+            "title": "【生成AIニュース+】『Outbrand』『FLUX.1-Kontext-dev-fp8』『Turntable』『ComfyUI SKBundle』『LayerForge』『Code Graph Model』『Glass Prism Kontext Dev LoRA』『Opik』『Google AI Studioの動画解析』『Software 3.0』『MITの義足』『MetaがOpenAIから人材引き抜き』『生成AI「毎日使う」4割』 | #LLMタグ",
+            "summary": "まいどです。本日の生成AIニュース+テクノロジー情報。続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/199128999/rectangle_large_type_2_ef3ce8c68e0b40b58d49fc6e6980d7f1.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T14:07:31.000Z",
+            "date_published": "2025-06-29T14:07:31.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【生成AIニュース+】『Outbrand』『FLUX.1-Kontext-dev-fp8』『Turntable』『ComfyUI SKBundle』『LayerForge』『Code Graph Model』『Glass Prism Kontext Dev LoRA』『Opik』『Google AI Studioの動画解析』『Software 3.0』『MITの義足』『MetaがOpenAIから人材引き抜き』『生成AI「毎日使う」4割』",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://zenn.dev/deodeo/articles/9bbd2596a4a601",
+            "content_html": "はじめにAizackと申します。6月初旬からClaude codeのProプランに契約し、一ヶ月ほど生成AIを利用して学習しています。もともとはAIに良いドキュメントとコードを生成してもらって、教材として利用しようとしていました。ところが、はじめは思ったように開発が進まなかったため、問題意識を持ち生成AIとうまくコミュニケーションを取る方法を探求しています。そうした悩みから以下のようなZennの記事やプロンプトエンジニアリングについてまとめています。https://zack-k.github.io/gen_ai_report/https://zenn.dev/deodeo/...",
+            "url": "https://zenn.dev/deodeo/articles/9bbd2596a4a601",
+            "title": "Claude codeの手抜きを防ぎ、出力の質を上げるコツ：ロールベース開発 | Zennの「LLM」のフィード",
+            "summary": "はじめにAizackと申します。6月初旬からClaude codeのProプランに契約し、一ヶ月ほど生成AIを利用して学習しています。もともとはAIに良いドキュメントとコードを生成してもらって、教材として利用しようとしていました。ところが、はじめは思ったように開発が進まなかったため、問題意識を持ち生成AIとうまくコミュニケーションを取る方法を探求しています。そうした悩みから以下のようなZennの記",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--a-Tt61Uw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520code%25E3%2581%25AE%25E6%2589%258B%25E6%258A%259C%25E3%2581%258D%25E3%2582%2592%25E9%2598%25B2%25E3%2581%258E%25E3%2580%2581%25E5%2587%25BA%25E5%258A%259B%25E3%2581%25AE%25E8%25B3%25AA%25E3%2582%2592%25E4%25B8%258A%25E3%2581%2592%25E3%2582%258B%25E3%2582%25B3%25E3%2583%2584%25EF%25BC%259A%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9%25E9%2596%258B%25E7%2599%25BA%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Aizack%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2x3NXFYSERMUE5Sazc2QzAtaEdOWWN1Wm9nV0ZmeWZFVzgwRVFiSmZhbGN5UWppbz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T13:50:32.000Z",
+            "date_published": "2025-06-29T13:50:32.000Z",
+            "author": {
+                "name": "Aizack"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Claude codeの手抜きを防ぎ、出力の質を上げるコツ：ロールベース開発",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://note.com/omanyuk/n/n2f01c205b3f9",
+            "content_html": "AIは数学の天才か、それともただの物知りか？「AIに数学の問題を解かせる」。一昔前のSFのような話が、今や現実のものとなりつつあります。特に、ChatGPTなどで知られる大規模言語モデル（LLM）の登場は、この流れを大きく加速させました。しかし、ここで一つの素朴な疑問が浮かびます。AIは本当に、数学者のように「思考」しているのでしょうか？続きをみる",
+            "url": "https://note.com/omanyuk/n/n2f01c205b3f9",
+            "title": "【論文解説】AIは数学者の”ひらめき”を再現できるか？ 天才的思考プロセスを持つ「Prover Agent」の正体 | #LLMタグ",
+            "summary": "AIは数学の天才か、それともただの物知りか？「AIに数学の問題を解かせる」。一昔前のSFのような話が、今や現実のものとなりつつあります。特に、ChatGPTなどで知られる大規模言語モデル（LLM）の登場は、この流れを大きく加速させました。しかし、ここで一つの素朴な疑問が浮かびます。AIは本当に、数学者のように「思考」しているのでしょうか？続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/199123399/rectangle_large_type_2_01bbcf818bd94ee048225543f0b59892.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T13:38:18.000Z",
+            "date_published": "2025-06-29T13:38:18.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【論文解説】AIは数学者の”ひらめき”を再現できるか？ 天才的思考プロセスを持つ「Prover Agent」の正体",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://note.com/upa_rupa404/n/nfc8404796c40",
+            "content_html": "レシートを読み取って、その内容をスプレッドシートに書き込んでくれたら楽なのになぁ。レシート撮影での家計簿アプリは世の中に結構ありますが、スプレッドシートにデータが欲しいだけなんだ自分は……。そう思ってググってみたら、下記の記事を見つけました。続きをみる",
+            "url": "https://note.com/upa_rupa404/n/nfc8404796c40",
+            "title": "レシート管理をGoogleのサービスでチャレンジしてみた[Gemini][GAS] | #LLMタグ",
+            "summary": "レシートを読み取って、その内容をスプレッドシートに書き込んでくれたら楽なのになぁ。レシート撮影での家計簿アプリは世の中に結構ありますが、スプレッドシートにデータが欲しいだけなんだ自分は……。そう思ってググってみたら、下記の記事を見つけました。続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/199122283/rectangle_large_type_2_09ad2bba7a35d2e8edbe3a3f865573dc.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T13:23:11.000Z",
+            "date_published": "2025-06-29T13:23:11.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "レシート管理をGoogleのサービスでチャレンジしてみた[Gemini][GAS]",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://note.com/hirokivv/n/n5e5e64f88f7a",
+            "content_html": "『LLM無職』という言葉が爆誕しているものの、無職でもサバイブできる才能や能力をもった人はほんの一握りで、凡百やそれに毛が生えた程度の人はやはり毎月安定した収入が入ってくる正社員として仕事をしたほうがよいのではなかろうか、という気持ちです。そんなわけで(？)、転職活動に使える生成AI(LLM)向けのプロンプトを紹介していきます。続きをみる",
+            "url": "https://note.com/hirokivv/n/n5e5e64f88f7a",
+            "title": "生成AIを転職活動に活かす〜情報収集編その１〜 | #LLMタグ",
+            "summary": "『LLM無職』という言葉が爆誕しているものの、無職でもサバイブできる才能や能力をもった人はほんの一握りで、凡百やそれに毛が生えた程度の人はやはり毎月安定した収入が入ってくる正社員として仕事をしたほうがよいのではなかろうか、という気持ちです。そんなわけで(？)、転職活動に使える生成AI(LLM)向けのプロンプトを紹介していきます。続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/199114631/rectangle_large_type_2_09acb659290315bfb555023c565a369b.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T13:01:47.000Z",
+            "date_published": "2025-06-29T13:01:47.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "生成AIを転職活動に活かす〜情報収集編その１〜",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://note.com/risa3210/n/nbd3fe6c3c3ac",
+            "content_html": "概要 本格的にAIとかLLMの勉強を始めることにしました。 そこで、昨日本屋をウロついていたら、LLMの本の他に、AI関係の検定試験を見つけて興味を持ったものの、受験料がやたら高額でびっくりしました。ただ、何やら特典があるものもあるようですが…。うーん。続きをみる",
+            "url": "https://note.com/risa3210/n/nbd3fe6c3c3ac",
+            "title": "AI関係の検定試験、受験料高すぎてビビる | #LLMタグ",
+            "summary": "概要 本格的にAIとかLLMの勉強を始めることにしました。 そこで、昨日本屋をウロついていたら、LLMの本の他に、AI関係の検定試験を見つけて興味を持ったものの、受験料がやたら高額でびっくりしました。ただ、何やら特典があるものもあるようですが…。うーん。続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/199002809/rectangle_large_type_2_62d3497181bce545b84d6a86b0388196.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T12:57:52.000Z",
+            "date_published": "2025-06-29T12:57:52.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AI関係の検定試験、受験料高すぎてビビる",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://note.com/mi6242/n/nae10d80438e7",
+            "content_html": "「LLM関連ブックマーク（週毎）をまとめる作業をLLMにやらせてみる」にあるように、毎週あつめたLLM関連ブックマークを、LLMにまとめてもらっている。今週は、Gemini 2.5 Pro Deep Thinkのo3越え、gemini cliが颯爽と登場、ClaudeはartifactのAPI挿入でアプリストアへ、OpenAIはTPUで動き出す？今週もClaude 4 Sonnetさんにまとめてもらいました。まちがって「じっくり考える」モードを選択してまった。違いはあるか？続きをみる",
+            "url": "https://note.com/mi6242/n/nae10d80438e7",
+            "title": "LLM関連ブックマークまとめ(2025.6.23-2025.6.29):Gemini 2.5 ProのDeep ThinkがOpenAI o3を凌駕、刺客Gemini CLI登場、Anthropic自販機営業に進出？、OpenAIはなんとTPUで動き出す、Claude 4 Sonnetにまとめてもらった。 | #LLMタグ",
+            "summary": "「LLM関連ブックマーク（週毎）をまとめる作業をLLMにやらせてみる」にあるように、毎週あつめたLLM関連ブックマークを、LLMにまとめてもらっている。今週は、Gemini 2.5 Pro Deep Thinkのo3越え、gemini cliが颯爽と登場、ClaudeはartifactのAPI挿入でアプリストアへ、OpenAIはTPUで動き出す？今週もClaude 4 Sonnetさんにまとめても",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/199103269/rectangle_large_type_2_1457a82f7e39657ce5c88a0a1ddaad1f.jpeg?fit=bounds&quality=85&width=1280",
+                "type": "jpeg"
+            },
+            "date_modified": "2025-06-29T12:10:08.000Z",
+            "date_published": "2025-06-29T12:10:08.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "LLM関連ブックマークまとめ(2025.6.23-2025.6.29):Gemini 2.5 ProのDeep ThinkがOpenAI o3を凌駕、刺客Gemini CLI登場、Anthropic自販機営業に進出？、OpenAIはなんとTPUで動き出す、Claude 4 Sonnetにまとめてもらった。",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://zenn.dev/taimo/articles/71ed871791f703",
+            "content_html": "TL;DRPR作成をLLMに任せることで開発フローを高速化できる一方で、LLMの出力のばらつきがリスクになると考えました。LLMにPR作成を全て任せることによるリスクを回避するため、PR作成を安全に行うスクリプトを作成しました。Claude Codeにスクリプトを登録し、/ai-pr-draft コマンドで即座に実行できるようにしました。リポジトリ: https://github.com/taimo3810/ai-pr-draft-tool 背景Devin、Cursor、Claude Code などの AI コーディングツールの登場により、多く...",
+            "url": "https://zenn.dev/taimo/articles/71ed871791f703",
+            "title": "Claude Codeを使ってPR を\"安全に\"自動生成するためには | Zennの「LLM」のフィード",
+            "summary": "TL;DRPR作成をLLMに任せることで開発フローを高速化できる一方で、LLMの出力のばらつきがリスクになると考えました。LLMにPR作成を全て任せることによるリスクを回避するため、PR作成を安全に行うスクリプトを作成しました。Claude Codeにスクリプトを登録し、/ai-pr-draft コマンドで即座に実行できるようにしました。リポジトリ: https://github.com/taim",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--6cj53kRF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6PR%2520%25E3%2582%2592%2522%25E5%25AE%2589%25E5%2585%25A8%25E3%2581%25AB%2522%25E8%2587%25AA%25E5%258B%2595%25E7%2594%259F%25E6%2588%2590%25E3%2581%2599%25E3%2582%258B%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB%25E3%2581%25AF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:TAIMO%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q4NDY0ZDg4MDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T12:06:48.000Z",
+            "date_published": "2025-06-29T12:06:48.000Z",
+            "author": {
+                "name": "TAIMO"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Claude Codeを使ってPR を\"安全に\"自動生成するためには",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://note.com/jolly_pansy824/n/nb4e4dde5f7d0",
+            "content_html": "こんにちは！やきとりです。今回は、プロンプトを直接モデル重みに変換してタスク適応を瞬時に行う手法に関する論文を紹介します。元論文情報続きをみる",
+            "url": "https://note.com/jolly_pansy824/n/nb4e4dde5f7d0",
+            "title": "⌨️Drag-and-Drop LLMs プロンプト指示→LoRA重みを生成 | #LLMタグ",
+            "summary": "こんにちは！やきとりです。今回は、プロンプトを直接モデル重みに変換してタスク適応を瞬時に行う手法に関する論文を紹介します。元論文情報続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/199100225/rectangle_large_type_2_dda4b0dafbb70672b4a980469a65a05f.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T11:54:37.000Z",
+            "date_published": "2025-06-29T11:54:37.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "⌨️Drag-and-Drop LLMs プロンプト指示→LoRA重みを生成",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://note.com/minhos2021/n/nf66479733908",
+            "content_html": "みんほす！の永井です。どんどん医療用LLMの進歩がすごいですね。ほか分野もそうですが。さて、今日は少し未来の話をしてみようかと思います。最近、ニュースや学会で「医療AI」という言葉を耳にする機会が増えたよね。なんだかすごそうだけど、僕たちの仕事ってどうなっちゃうんだろう？って、漠然とした不安を感じている人もいるかもしれません。僕も不安です。正直。続きをみる",
+            "url": "https://note.com/minhos2021/n/nf66479733908",
+            "title": "【AI時代の歩き方】試験は満点なのに問診が苦手？医療AIの「パラドックス」から僕たちの未来を考える | #LLMタグ",
+            "summary": "みんほす！の永井です。どんどん医療用LLMの進歩がすごいですね。ほか分野もそうですが。さて、今日は少し未来の話をしてみようかと思います。最近、ニュースや学会で「医療AI」という言葉を耳にする機会が増えたよね。なんだかすごそうだけど、僕たちの仕事ってどうなっちゃうんだろう？って、漠然とした不安を感じている人もいるかもしれません。僕も不安です。正直。続きをみる",
+            "image": {
+                "url": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/4ce8f416a864697dcafdbb3e6f431456d5300c90.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T11:27:00.000Z",
+            "date_published": "2025-06-29T11:27:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【AI時代の歩き方】試験は満点なのに問診が苦手？医療AIの「パラドックス」から僕たちの未来を考える",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://note.com/yamatott/n/n8ba5c6a6fd53",
+            "content_html": "週末を使って、子どもと一緒にゲーム開発に挑戦してみました！必要なのは、アイデアと日本語だけです！最近、生成「Claude」のArtifact機能で、ゲームなどの成果物を共有しやすくなったという情報をキャッチ。せっかくなので、作ったものを共有してみよう！と思い立ちました。続きをみる",
+            "url": "https://note.com/yamatott/n/n8ba5c6a6fd53",
+            "title": "週末親子制作もAIを使う時代！車と音ゲーが融合したオリジナルゲームを作ってみた！ | #LLMタグ",
+            "summary": "週末を使って、子どもと一緒にゲーム開発に挑戦してみました！必要なのは、アイデアと日本語だけです！最近、生成「Claude」のArtifact機能で、ゲームなどの成果物を共有しやすくなったという情報をキャッチ。せっかくなので、作ったものを共有してみよう！と思い立ちました。続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/199090074/rectangle_large_type_2_ced8dd9b8935242347ed974774ee4343.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T11:03:48.000Z",
+            "date_published": "2025-06-29T11:03:48.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "週末親子制作もAIを使う時代！車と音ゲーが融合したオリジナルゲームを作ってみた！",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://note.com/sunai0123/n/n400d3714f484",
+            "content_html": "Author: AI Control Theory Researcher SunaiPublished: June 29, 2025Price: ¥600続きをみる",
+            "url": "https://note.com/sunai0123/n/n400d3714f484",
+            "title": "The Complete AI Handover System: Full Template Set for Gemini, Claude, and ChatGPT | #LLMタグ",
+            "summary": "Author: AI Control Theory Researcher SunaiPublished: June 29, 2025Price: ¥600続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/199080330/rectangle_large_type_2_8cf13498e821b4654379f29c3df19e66.jpeg?fit=bounds&quality=85&width=1280",
+                "type": "jpeg"
+            },
+            "date_modified": "2025-06-29T10:17:10.000Z",
+            "date_published": "2025-06-29T10:17:10.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The Complete AI Handover System: Full Template Set for Gemini, Claude, and ChatGPT",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://note.com/parfait0707/n/n819940a5c600",
+            "content_html": "2025/07/27 - 2025/08/01にオーストリアのウィーンで開催されるThe 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)に遊びに行きます！ The 63rd Annual Meeting of the Association for Computational LinguisticsVienna, AustriaJuly 27–August 1st, 20252025.aclweb.org 続きをみる",
+            "url": "https://note.com/parfait0707/n/n819940a5c600",
+            "title": "ACL2025に参加します！~おもしろ演題探し~ | #LLMタグ",
+            "summary": "2025/07/27 - 2025/08/01にオーストリアのウィーンで開催されるThe 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)に遊びに行きます！ The 63rd Annual Meeting of the Association for Computational Lingu",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/199078684/rectangle_large_type_2_41339dd9a60cbdb570a251459a999baf.jpeg?fit=bounds&quality=85&width=1280",
+                "type": "jpeg"
+            },
+            "date_modified": "2025-06-29T10:08:15.000Z",
+            "date_published": "2025-06-29T10:08:15.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ACL2025に参加します！~おもしろ演題探し~",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://zenn.dev/neka_nat/articles/4930d5d90c7d38",
+            "content_html": "!この記事は「第2回 AI Agent Hackathon」の提出用記事です。 はじめにインターネットやデジタルデバイス、AIのようなテクノロジーの進化によって、常に新しく何かを“学ぶ”ことの大切さが増してきています。学ぶと一言で言っても、人によって学びのスピードやその人に合った知識の得方は異なります。学校のように1つのことを1つのアプローチで教えるのではなく、異なる視点、異なる考え方で教えることができ、それを自分で選択できることが重要になってきています。\"Lecturia\" はAIを使って、ユーザが指示した内容や教え方に沿った講義資料を作成し、AI講師がそれに沿って講義を...",
+            "url": "https://zenn.dev/neka_nat/articles/4930d5d90c7d38",
+            "title": "“学び方から自分流” - AIで講義を創る勉強アプリを作ったよ[第2回 AI Agent Hackathon] | Zennの「LLM」のフィード",
+            "summary": "!この記事は「第2回 AI Agent Hackathon」の提出用記事です。 はじめにインターネットやデジタルデバイス、AIのようなテクノロジーの進化によって、常に新しく何かを“学ぶ”ことの大切さが増してきています。学ぶと一言で言っても、人によって学びのスピードやその人に合った知識の得方は異なります。学校のように1つのことを1つのアプローチで教えるのではなく、異なる視点、異なる考え方で教えること",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--jtNeHtjH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E2%2580%259C%25E5%25AD%25A6%25E3%2581%25B3%25E6%2596%25B9%25E3%2581%258B%25E3%2582%2589%25E8%2587%25AA%25E5%2588%2586%25E6%25B5%2581%25E2%2580%259D%2520-%2520AI%25E3%2581%25A7%25E8%25AC%259B%25E7%25BE%25A9%25E3%2582%2592%25E5%2589%25B5%25E3%2582%258B%25E5%258B%2589%25E5%25BC%25B7%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25E3%2582%2588%255B%25E7%25AC%25AC2%25E5%259B%259E%2520AI%2520Agent%2520Hackathon%255D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2597%25E3%2582%258D%25E3%2581%258F%25E3%2581%25BE%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM0NjU3ODEwYjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T09:56:20.000Z",
+            "date_published": "2025-06-29T09:56:20.000Z",
+            "author": {
+                "name": "しろくま"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "“学び方から自分流” - AIで講義を創る勉強アプリを作ったよ[第2回 AI Agent Hackathon]",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://note.com/makokon/n/n7c84674a0da8",
+            "content_html": "論文紹介：追加学習よりパラメータ切り替えDrag-and-Drop LLMs：LLMのカスタマイズは「変身」の時代へ？学習不要でタスク特化する続きをみる",
+            "url": "https://note.com/makokon/n/n7c84674a0da8",
+            "title": "論文紹介：追加学習よりパラメータ切り替え | #LLMタグ",
+            "summary": "論文紹介：追加学習よりパラメータ切り替えDrag-and-Drop LLMs：LLMのカスタマイズは「変身」の時代へ？学習不要でタスク特化する続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/199070720/rectangle_large_type_2_55ac28810f02b6e74094a59e07e607e0.jpeg?fit=bounds&quality=85&width=1280",
+                "type": "jpeg"
+            },
+            "date_modified": "2025-06-29T09:26:04.000Z",
+            "date_published": "2025-06-29T09:26:04.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "論文紹介：追加学習よりパラメータ切り替え",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://note.com/quick_bonobo2390/n/n9e10a102d704",
+            "content_html": "続きをみる",
+            "url": "https://note.com/quick_bonobo2390/n/n9e10a102d704",
+            "title": "社内教育のためにIQ100億のプロンプトフレームワークを考えました（没） | #LLMタグ",
+            "summary": "続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/199071099/rectangle_large_type_2_1b6bc17c43ecbb60ffa3faf892607bff.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T09:19:36.000Z",
+            "date_published": "2025-06-29T09:19:36.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "社内教育のためにIQ100億のプロンプトフレームワークを考えました（没）",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://zenn.dev/g000001/articles/cldoc-llm-era",
+            "content_html": "LLM時代におけるCommon LispのリファレンスプログラミングにおいてもLLMの活用は急速に進んでいます。コーディングではコードそのものも生成させるという動きが活発ではありますが、ここではコードは人間が書くという前提で文献の参照等の効率化にLLMを活用するという視点で眺めてみましょう。 LLM時代の到来で言語の壁がほぼ解消したマニュアルは主に英語で書かれており、英語が苦手な人は翻訳されるのを待つという状況でしたが、ソースとなる文献が何語で書かれているかは、ほぼ関係なくなりました。何語で書かれているかというよりは、利用しやすい構成や内容であるかが問われる時代になっ...",
+            "url": "https://zenn.dev/g000001/articles/cldoc-llm-era",
+            "title": "LLM時代におけるCommon Lispのリファレンス | Zennの「LLM」のフィード",
+            "summary": "LLM時代におけるCommon LispのリファレンスプログラミングにおいてもLLMの活用は急速に進んでいます。コーディングではコードそのものも生成させるという動きが活発ではありますが、ここではコードは人間が書くという前提で文献の参照等の効率化にLLMを活用するという視点で眺めてみましょう。 LLM時代の到来で言語の壁がほぼ解消したマニュアルは主に英語で書かれており、英語が苦手な人は翻訳されるのを",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--fv5AYJGB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLM%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258BCommon%2520Lisp%25E3%2581%25AE%25E3%2583%25AA%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:g000001%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2o4YUNPbEVsZWRvckhHbjJ4bndxMHB3WER2TExPLVd0bmp4ak1GPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T07:00:00.000Z",
+            "date_published": "2025-06-29T07:00:00.000Z",
+            "author": {
+                "name": "g000001"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "LLM時代におけるCommon Lispのリファレンス",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/sinchir0/articles/56442c7a29ca36",
+            "content_html": "はじめにLLM の Fine-Tuning の実装を見ていると、以下のように pad_token として eos_token を使っている実装をちらほら見かけます。tokenizer.pad_token = tokenizer.eos_token私はこれを見た時、「pad_token と eos_token に同じトークンを使うと、何か問題が起きそうじゃないか🧐？」と思い、色々調べたのでその結果をまとめておきます。 結論大半のケースでは tokenizer.pad_token = tokenizer.eos_token として問題はありません。ただし以下 2 点の前提が...",
+            "url": "https://zenn.dev/sinchir0/articles/56442c7a29ca36",
+            "title": "tokenizer.pad_token = tokenizer.eos_tokenって問題ないの？ | Zennの「LLM」のフィード",
+            "summary": "はじめにLLM の Fine-Tuning の実装を見ていると、以下のように pad_token として eos_token を使っている実装をちらほら見かけます。tokenizer.pad_token = tokenizer.eos_token私はこれを見た時、「pad_token と eos_token に同じトークンを使うと、何か問題が起きそうじゃないか🧐？」と思い、色々調べたのでその結果を",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--TCj07IhZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:tokenizer.pad_token%2520%253D%2520tokenizer.eos_token%25E3%2581%25A3%25E3%2581%25A6%25E5%2595%258F%25E9%25A1%258C%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:sinchir0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzJiODg5OWM2MmQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T05:21:10.000Z",
+            "date_published": "2025-06-29T05:21:10.000Z",
+            "author": {
+                "name": "sinchir0"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "tokenizer.pad_token = tokenizer.eos_tokenって問題ないの？",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/jnst/articles/cfd222370e80a1",
+            "content_html": "毒にも薬にもならない情報 ── 私がもっとも忌み嫌うものの一つです 結論Prompt⚪︎⚪︎について以下の条件を最短経路で満たせる説明をして- 応用が利く（新しい問題にも対応できる）- 長期的に記憶に残りやすい- 他の知識との関連付けができる- 「なぜ？」という問いに答えられる!Claude Sonnet4 または Claude Opus4 専用のプロンプトです AI は「概念理解」をわからない『Claude Code どこまでも』のスライドを見ました。Claude Code 使用者が「なるほど！」と唸る要素が詰まっていますが、その中でも個人的に琴線に触れ...",
+            "url": "https://zenn.dev/jnst/articles/cfd222370e80a1",
+            "title": "概念理解を導くプロンプト（Claude専用） | Zennの「LLM」のフィード",
+            "summary": "毒にも薬にもならない情報 ── 私がもっとも忌み嫌うものの一つです 結論Prompt⚪︎⚪︎について以下の条件を最短経路で満たせる説明をして- 応用が利く（新しい問題にも対応できる）- 長期的に記憶に残りやすい- 他の知識との関連付けができる- 「なぜ？」という問いに答えられる!Claude Sonnet4 または Claude Opus4 専用のプロンプトです AI は「概念理解」をわからない『",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--OzWgxqm1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25A6%2582%25E5%25BF%25B5%25E7%2590%2586%25E8%25A7%25A3%25E3%2582%2592%25E5%25B0%258E%25E3%2581%258F%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25EF%25BC%2588Claude%25E5%25B0%2582%25E7%2594%25A8%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:jnst%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M3YzYyZmQ2ZmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-29T02:31:41.000Z",
+            "date_published": "2025-06-29T02:31:41.000Z",
+            "author": {
+                "name": "jnst"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "概念理解を導くプロンプト（Claude専用）",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/akari1106/articles/086db0c6ff830d",
+            "content_html": "ぼーっとTwitter見てたら面白そうな記事がｽﾝｯと流れてきたので読んで触ってみたよ、という話。インターネット老人なので、断固Twitter派です。時代は私を置いて先に行け、こっちは老兵だ。▽該当Zenn記事(akinobukatoさん)https://zenn.dev/acntechjp/articles/4f3961b19c46cd 凄そう(小並感)「はえ～、また新しいClaudちゃんに近いエンジニアが喜ぶ感じのコード系が出たんかな」くらいだったんですけど、記事を読み進めていくと、なるほどな、と。こりゃまあまたすごいの出てきたなー、と私も思います。中国産生成AIは、やっぱ...",
+            "url": "https://zenn.dev/akari1106/articles/086db0c6ff830d",
+            "title": "洗濯機の中の洗濯物、じゃなかった。「Manus」を触ったポエム | Zennの「LLM」のフィード",
+            "summary": "ぼーっとTwitter見てたら面白そうな記事がｽﾝｯと流れてきたので読んで触ってみたよ、という話。インターネット老人なので、断固Twitter派です。時代は私を置いて先に行け、こっちは老兵だ。▽該当Zenn記事(akinobukatoさん)https://zenn.dev/acntechjp/articles/4f3961b19c46cd 凄そう(小並感)「はえ～、また新しいClaudちゃんに近い",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--ywITw_zR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25B4%2597%25E6%25BF%25AF%25E6%25A9%259F%25E3%2581%25AE%25E4%25B8%25AD%25E3%2581%25AE%25E6%25B4%2597%25E6%25BF%25AF%25E7%2589%25A9%25E3%2580%2581%25E3%2581%2598%25E3%2582%2583%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2580%2582%25E3%2580%258CManus%25E3%2580%258D%25E3%2582%2592%25E8%25A7%25A6%25E3%2581%25A3%25E3%2581%259F%25E3%2583%259D%25E3%2582%25A8%25E3%2583%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E7%2581%25AF%25E9%2587%258C%2528akari%2529%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnY5VlN6TUNweXVSbVB1Nm8ydnZGVTFDdUdabnFqa29vaEdua3daWFNFUTZSQWRTTWI9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-28T16:27:57.000Z",
+            "date_published": "2025-06-28T16:27:57.000Z",
+            "author": {
+                "name": "灯里(akari)"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "洗濯機の中の洗濯物、じゃなかった。「Manus」を触ったポエム",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/fkky/articles/e12b7deaf028d6",
+            "content_html": "1. 知的作業の\"暗黙知\"問題デジタル化が進んでいる現代でも、エンジニアリングやデータ分析といった知的作業の現場では、暗黙知問題が深刻化しています。 こころあたりありませんか？\"〇〇さんがいないと進まない業務がある\"\"いろんな人に同じ質問をされて、同じ説明を繰り返している\"\"資料を作ろうと思いながら、数か月経過\"もしひとつでも当てはまるのであれば、暗黙知問題に直面していたと言えます。 3つの暗黙知問題 作業ノウハウのサイロ化先輩「評価項目のレビュー、検査Tに回した？」自分「いや、してないです（そんなルール聞いてない…）」このような「知らなかった」...",
+            "url": "https://zenn.dev/fkky/articles/e12b7deaf028d6",
+            "title": "知的作業の見えない仕事を見える化するAIシステム【Sofia】 | Zennの「LLM」のフィード",
+            "summary": "1. 知的作業の\"暗黙知\"問題デジタル化が進んでいる現代でも、エンジニアリングやデータ分析といった知的作業の現場では、暗黙知問題が深刻化しています。 こころあたりありませんか？\"〇〇さんがいないと進まない業務がある\"\"いろんな人に同じ質問をされて、同じ説明を繰り返している\"\"資料を作ろうと思いながら、数か月経過\"もしひとつでも当てはまるのであれば、暗黙知問題に直面していたと言えます。 3つの暗黙知",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--zPdfIkIo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%259F%25A5%25E7%259A%2584%25E4%25BD%259C%25E6%25A5%25AD%25E3%2581%25AE%25E8%25A6%258B%25E3%2581%2588%25E3%2581%25AA%25E3%2581%2584%25E4%25BB%2595%25E4%25BA%258B%25E3%2582%2592%25E8%25A6%258B%25E3%2581%2588%25E3%2582%258B%25E5%258C%2596%25E3%2581%2599%25E3%2582%258BAI%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2580%2590Sofia%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25B5%25E3%2581%25A3%25E3%2581%258D%25E3%2583%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY0ZDk5NTljYzAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-28T15:47:21.000Z",
+            "date_published": "2025-06-28T15:47:21.000Z",
+            "author": {
+                "name": "ふっきー"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "知的作業の見えない仕事を見える化するAIシステム【Sofia】",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/kayato/articles/bb4ef21528bda3",
+            "content_html": "公式リンク サービスリンクhttps://studio.firebase.google.com/?hl=ja ドキュメントリンクhttps://firebase.google.com/docs/studio?hl=ja Firebase Studioとは 概要ブラウザベースで生成AIを活用したフルスタックアプリのプロトタイプの開発・デプロイまでをスムーズに行えるサービス。Firebase Studio は、API、バックエンド、フロントエンド、モバイルなど、本番環境品質のフルスタック AI アプリの構築と製品化に役立つクラウドベースのエージェント開発環境です...",
+            "url": "https://zenn.dev/kayato/articles/bb4ef21528bda3",
+            "title": "Firebase Studioで体験型Webアプリのデモをサクっと作ってみた：オンラインキッザニア編 | AIコーディング | Zennの「LLM」のフィード",
+            "summary": "公式リンク サービスリンクhttps://studio.firebase.google.com/?hl=ja ドキュメントリンクhttps://firebase.google.com/docs/studio?hl=ja Firebase Studioとは 概要ブラウザベースで生成AIを活用したフルスタックアプリのプロトタイプの開発・デプロイまでをスムーズに行えるサービス。Firebase Stud",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--CMxU4bR9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Firebase%2520Studio%25E3%2581%25A7%25E4%25BD%2593%25E9%25A8%2593%25E5%259E%258BWeb%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AE%25E3%2583%2587%25E3%2583%25A2%25E3%2582%2592%25E3%2582%25B5%25E3%2582%25AF%25E3%2581%25A3%25E3%2581%25A8%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BC%259A%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25AD%25E3%2583%2583%25E3%2582%25B6%25E3%2583%258B%25E3%2582%25A2%25E7%25B7%25A8%2520%257C%2520AI%25E3%2582%25B3%25E3%2583%25BC...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kayato%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y0YjAyMzY4OTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-28T05:26:29.000Z",
+            "date_published": "2025-06-28T05:26:29.000Z",
+            "author": {
+                "name": "kayato"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Firebase Studioで体験型Webアプリのデモをサクっと作ってみた：オンラインキッザニア編 | AIコーディング",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/aratako_lm/articles/7e0b0b6e51baa6",
+            "content_html": "はじめにこの記事は、音声系素人がLLaSAというTTSモデルをずんだもんのデータでファインチューニングしてみたという記事です。 経緯元々私はLLM関連をメインに開発等を行っている人間なのですが、何となく音声系に興味を持ちました。（深い理由はない）理論の勉強の前に何か試しに作ってみたいなと思って色々と調べていたところ、LLaSAというモデルを見つけました。https://arxiv.org/abs/2502.04128https://huggingface.co/collections/HKUSTAudio/llasa-679b87dbd06ac556cc0e0f44こ...",
+            "url": "https://zenn.dev/aratako_lm/articles/7e0b0b6e51baa6",
+            "title": "初めてのTTSモデルをずんだもんのデータで作ってみた with LLaSA | Zennの「LLM」のフィード",
+            "summary": "はじめにこの記事は、音声系素人がLLaSAというTTSモデルをずんだもんのデータでファインチューニングしてみたという記事です。 経緯元々私はLLM関連をメインに開発等を行っている人間なのですが、何となく音声系に興味を持ちました。（深い理由はない）理論の勉強の前に何か試しに作ってみたいなと思って色々と調べていたところ、LLaSAというモデルを見つけました。https://arxiv.org/abs/",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--y-bx69F2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2588%259D%25E3%2582%2581%25E3%2581%25A6%25E3%2581%25AETTS%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2582%2592%25E3%2581%259A%25E3%2582%2593%25E3%2581%25A0%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25A7%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2520with%2520LLaSA%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Aratako%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY1MThmOTRmNmEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-28T03:00:02.000Z",
+            "date_published": "2025-06-28T03:00:02.000Z",
+            "author": {
+                "name": "Aratako"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "初めてのTTSモデルをずんだもんのデータで作ってみた with LLaSA",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/ses_journalclub/articles/c762d907c38459",
+            "content_html": "For my first contribution to the series, I’m Haruumi Omoto and I’m highlighting:Videau, Mathurin, et al. \"From Bytes to Ideas: Language Modeling with Autoregressive U-Nets.\" arXiv preprint arXiv:2506.14761 (2025).This paper points out the problems of fixed tokenization methods such as BPE comm...",
+            "url": "https://zenn.dev/ses_journalclub/articles/c762d907c38459",
+            "title": "From Bytes to Ideas:Language Modeling with Autoregressive U-Nets | Zennの「LLM」のフィード",
+            "summary": "For my first contribution to the series, I’m Haruumi Omoto and I’m highlighting:Videau, Mathurin, et al. \"From Bytes to Ideas: Language Modeling with Autoregressive U-Nets.\" arXiv preprint arXiv:2506.",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--p7q3twlj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:From%2520Bytes%2520to%2520Ideas%253ALanguage%2520Modeling%2520with%2520Autoregressive...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2582%25AA%25E3%2583%25A2%25E3%2583%2588%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JkZjUxN2M2NjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:SES%2520Lab%2527s%2520Journal%2520Clu...%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSUxTaHJnQ09DMGVmT2t5M1RrcEVlSWctbTZ1RDBWY1VMblhrckNwZTRpM2VnOENBPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T15:37:35.000Z",
+            "date_published": "2025-06-27T15:37:35.000Z",
+            "author": {
+                "name": "オモト"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "From Bytes to Ideas:Language Modeling with Autoregressive U-Nets",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/opamp/articles/4c6da578d067d5",
+            "content_html": "普段はClaude Codeを使っている私ですが、以下の記事を同僚に教えていただきました。https://aws.amazon.com/jp/blogs/news/build-games-with-amazon-q-cli-and-score-a-t-shirt/テ、Tシャツ・・・！絶対欲しい！ということで、今回はAmazonQ CLIを使ってローグライクゲームを作っていきます。 ローグライクゲームとは？https://ja.wikipedia.org/wiki/ローグライクゲーム特徴的なのはアスキー文字でゲームが構成されることです。今のゲームはグラフィックを売りにしていま...",
+            "url": "https://zenn.dev/opamp/articles/4c6da578d067d5",
+            "title": "Amazon Q CLIを使ってローグライクゲームを実装してみた | Zennの「LLM」のフィード",
+            "summary": "普段はClaude Codeを使っている私ですが、以下の記事を同僚に教えていただきました。https://aws.amazon.com/jp/blogs/news/build-games-with-amazon-q-cli-and-score-a-t-shirt/テ、Tシャツ・・・！絶対欲しい！ということで、今回はAmazonQ CLIを使ってローグライクゲームを作っていきます。 ローグライクゲー",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--U5Nrvov1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Amazon%2520Q%2520CLI%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25A4%25E3%2582%25AF%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:OPamp%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzdiNTY2YTVkZDUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T14:14:10.000Z",
+            "date_published": "2025-06-27T14:14:10.000Z",
+            "author": {
+                "name": "OPamp"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Amazon Q CLIを使ってローグライクゲームを実装してみた",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/akasan/articles/389d6234af1c9c",
+            "content_html": "今回はLLMをローカルで動かすためのツールであるOllamaを使ってみました。 Ollamaとは？公式サイトは以下になっており、GitHubも提供されています。Ollamaを使うとローカルでLLMを動かせるようになるため、メモリは結構消費しますが、高速に推論させることができます。https://ollama.com/https://github.com/ollama/ollama 対応モデル一覧記事執筆時点では以下のページで公開されており、様々なモデルが提供されています。代表的なモデルは以下でしょうか。deepseek-r1gemma3qwen3llama3...",
+            "url": "https://zenn.dev/akasan/articles/389d6234af1c9c",
+            "title": "Ollamaを使ってみた | Zennの「LLM」のフィード",
+            "summary": "今回はLLMをローカルで動かすためのツールであるOllamaを使ってみました。 Ollamaとは？公式サイトは以下になっており、GitHubも提供されています。Ollamaを使うとローカルでLLMを動かせるようになるため、メモリは結構消費しますが、高速に推論させることができます。https://ollama.com/https://github.com/ollama/ollama 対応モデル一覧記",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--IXxrvebn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Ollama%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Akasan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNXJfNDFtel9OY3dPYUtMRE1vc09tbVB6YmxHM0V5N3lNZzI3QWM9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T13:28:45.000Z",
+            "date_published": "2025-06-27T13:28:45.000Z",
+            "author": {
+                "name": "Akasan"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Ollamaを使ってみた",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/yoshiko/articles/claude-code-with-o3",
+            "content_html": "こんにちは、よしこです。普段の開発にClaude Codeをフル活用する毎日です。ただ、Claude Codeは検索があまり強くないので、なにか解決できないエラーや込み入った問題は別途ChatGPTアプリでo3に聞き、回答をClaude Codeにコピペする、というのが常でした。もう二人で勝手に話してくれ〜って思いながら情報運搬職人をやっていました。しかし！なんと今朝、OpenAI APIのo3 modelがWebSearchに対応したのです！！https://x.com/OpenAIDevs/status/1938296690563555636つまり、MCP経由でClaud...",
+            "url": "https://zenn.dev/yoshiko/articles/claude-code-with-o3",
+            "title": "o3 MCPでClaude Codeが最強の検索力を手に入れた | Zennの「LLM」のフィード",
+            "summary": "こんにちは、よしこです。普段の開発にClaude Codeをフル活用する毎日です。ただ、Claude Codeは検索があまり強くないので、なにか解決できないエラーや込み入った問題は別途ChatGPTアプリでo3に聞き、回答をClaude Codeにコピペする、というのが常でした。もう二人で勝手に話してくれ〜って思いながら情報運搬職人をやっていました。しかし！なんと今朝、OpenAI APIのo3 ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--xAYvgHwM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:o3%2520MCP%25E3%2581%25A7Claude%2520Code%25E3%2581%258C%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AE%25E6%25A4%259C%25E7%25B4%25A2%25E5%258A%259B%25E3%2582%2592%25E6%2589%258B%25E3%2581%25AB%25E5%2585%25A5%25E3%2582%258C%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2588%25E3%2581%2597%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2kwU3JDUjBpVERyUHpqWnF4YjJLZ0tueHgtamE0N253SEE0NGE4RDhrPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T13:23:10.000Z",
+            "date_published": "2025-06-27T13:23:10.000Z",
+            "author": {
+                "name": "よしこ"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 276,
+                "originalTitle": "o3 MCPでClaude Codeが最強の検索力を手に入れた",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/kiyoka/articles/coding-agent-1",
+            "content_html": "はじめにこの記事は、OpenAI Codex CLIを使っていて遭遇して感じた事を書いています。私はo3にEmacs Lispで開発してもらっていますが、Lispの括弧を閉じるのが下手ということが分かってきました。もしかしたら他のLLMモデルでは、うまく括弧を閉じれるのかも知れませんが、2025年6月時点では最強格のLLMモデルであるo3でもそんな弱点があるよという記事です。※ 追記: Gemini CLI + gemini-2.5-pro の構成でも同様にLispの括弧が閉じれない問題が出ることがわかりました。 LLMが得意とする言語、苦手とする言語o3は200行を超える...",
+            "url": "https://zenn.dev/kiyoka/articles/coding-agent-1",
+            "title": "o3ちゃんはLispの括弧を閉じれない(OpenAI Codex CLI) | Zennの「LLM」のフィード",
+            "summary": "はじめにこの記事は、OpenAI Codex CLIを使っていて遭遇して感じた事を書いています。私はo3にEmacs Lispで開発してもらっていますが、Lispの括弧を閉じるのが下手ということが分かってきました。もしかしたら他のLLMモデルでは、うまく括弧を閉じれるのかも知れませんが、2025年6月時点では最強格のLLMモデルであるo3でもそんな弱点があるよという記事です。※ 追記: Gemin",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--CGwyETjQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:o3%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%25E3%2581%25AFLisp%25E3%2581%25AE%25E6%258B%25AC%25E5%25BC%25A7%25E3%2582%2592%25E9%2596%2589%25E3%2581%2598%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%2528OpenAI%2520Codex%2520CLI%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kiyoka%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lYZ2VWTkNVMk14cFR6RGJOb080VlJEaXpoamhWODZPTFhRekN4PXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T12:29:16.000Z",
+            "date_published": "2025-06-27T12:29:16.000Z",
+            "author": {
+                "name": "kiyoka"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "o3ちゃんはLispの括弧を閉じれない(OpenAI Codex CLI)",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/kttmu/articles/020b9cd1313181",
+            "content_html": "はじめに地理データを使った業務や研究で、座標に対して「これは住宅街？交差点？橋の上？」といった分類を手作業で行っていませんか？今回は、CSVで渡された緯度・経度情報をもとに、LLM（大規模言語モデル）とOpenStreetMapの情報を組み合わせて地理的特徴を自動分類するWebアプリを構築しました。GroqのLLM（LLaMA 3）を使えば、無料・高速・商用利用OKで、OpenAI互換のAPIを使ってあっという間にこの仕組みが作れます！ アプリケーション紹介webブラウザ上のアプリケーションです。地点情報を記述したcsvファイルをimportしたうえでAutoLabel...",
+            "url": "https://zenn.dev/kttmu/articles/020b9cd1313181",
+            "title": "【LLM活用事例】GPSの座標情報から地点情報を自動分類してくれるWebアプリ作ってみた(groq) | Zennの「LLM」のフィード",
+            "summary": "はじめに地理データを使った業務や研究で、座標に対して「これは住宅街？交差点？橋の上？」といった分類を手作業で行っていませんか？今回は、CSVで渡された緯度・経度情報をもとに、LLM（大規模言語モデル）とOpenStreetMapの情報を組み合わせて地理的特徴を自動分類するWebアプリを構築しました。GroqのLLM（LLaMA 3）を使えば、無料・高速・商用利用OKで、OpenAI互換のAPIを使",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--Sx-2JPBe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590LLM%25E6%25B4%25BB%25E7%2594%25A8%25E4%25BA%258B%25E4%25BE%258B%25E3%2580%2591GPS%25E3%2581%25AE%25E5%25BA%25A7%25E6%25A8%2599%25E6%2583%2585%25E5%25A0%25B1%25E3%2581%258B%25E3%2582%2589%25E5%259C%25B0%25E7%2582%25B9%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E5%2588%2586%25E9%25A1%259E%25E3%2581%2597%25E3%2581%25A6%25E3%2581%258F%25E3%2582%258C%25E3%2582%258BWeb%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2528groq%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kttmu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzc0ODg5ODFjMzAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T11:39:56.000Z",
+            "date_published": "2025-06-27T11:39:56.000Z",
+            "author": {
+                "name": "kttmu"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【LLM活用事例】GPSの座標情報から地点情報を自動分類してくれるWebアプリ作ってみた(groq)",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/output/slide/2017/",
+            "content_html": "",
+            "url": "https://engineering.dena.com/output/slide/2017/",
+            "title": "2017以前の登壇資料 | DeNA Engineering on DeNA Engineering",
+            "image": {
+                "url": "https://engineering.dena.com/og.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2017以前の登壇資料",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a",
+                "favicon": "https://engineering.dena.com/favicon.png"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/output/slide/2018/",
+            "content_html": "",
+            "url": "https://engineering.dena.com/output/slide/2018/",
+            "title": "2018年の登壇資料 | DeNA Engineering on DeNA Engineering",
+            "image": {
+                "url": "https://engineering.dena.com/og.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "2018年の登壇資料",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a",
+                "favicon": "https://engineering.dena.com/favicon.png"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/output/slide/2019/",
+            "content_html": "",
+            "url": "https://engineering.dena.com/output/slide/2019/",
+            "title": "2019年の登壇資料 | DeNA Engineering on DeNA Engineering",
+            "image": {
+                "url": "https://engineering.dena.com/og.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "2019年の登壇資料",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a",
+                "favicon": "https://engineering.dena.com/favicon.png"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/output/slide/2020/",
+            "content_html": "",
+            "url": "https://engineering.dena.com/output/slide/2020/",
+            "title": "2020年の登壇資料 | DeNA Engineering on DeNA Engineering",
+            "image": {
+                "url": "https://engineering.dena.com/og.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "2020年の登壇資料",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a",
+                "favicon": "https://engineering.dena.com/favicon.png"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/output/slide/2021/",
+            "content_html": "",
+            "url": "https://engineering.dena.com/output/slide/2021/",
+            "title": "2021年の登壇資料 | DeNA Engineering on DeNA Engineering",
+            "image": {
+                "url": "https://engineering.dena.com/og.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "2021年の登壇資料",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a",
+                "favicon": "https://engineering.dena.com/favicon.png"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/output/slide/2022/",
+            "content_html": "",
+            "url": "https://engineering.dena.com/output/slide/2022/",
+            "title": "2022年の登壇資料 | DeNA Engineering on DeNA Engineering",
+            "image": {
+                "url": "https://engineering.dena.com/og.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "2022年の登壇資料",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a",
+                "favicon": "https://engineering.dena.com/favicon.png"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/output/slide/2023/",
+            "content_html": "",
+            "url": "https://engineering.dena.com/output/slide/2023/",
+            "title": "2023年の登壇資料 | DeNA Engineering on DeNA Engineering",
+            "image": {
+                "url": "https://engineering.dena.com/og.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2023年の登壇資料",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a",
+                "favicon": "https://engineering.dena.com/favicon.png"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/output/slide/2024/",
+            "content_html": "",
+            "url": "https://engineering.dena.com/output/slide/2024/",
+            "title": "2024年の登壇資料 | DeNA Engineering on DeNA Engineering",
+            "image": {
+                "url": "https://engineering.dena.com/og.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2024年の登壇資料",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a",
+                "favicon": "https://engineering.dena.com/favicon.png"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/output/slide/2025/",
+            "content_html": "",
+            "url": "https://engineering.dena.com/output/slide/2025/",
+            "title": "2025年の登壇資料 | DeNA Engineering on DeNA Engineering",
+            "image": {
+                "url": "https://engineering.dena.com/og.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2025年の登壇資料",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a",
+                "favicon": "https://engineering.dena.com/favicon.png"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "",
+            "title": "DeNA TechCon 2019 | DeNA Engineering on DeNA Engineering",
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "DeNA TechCon 2019",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "",
+            "title": "DeNA TechCon 2020 | DeNA Engineering on DeNA Engineering",
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "DeNA TechCon 2020",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "",
+            "title": "DeNA TechCon 2021 | DeNA Engineering on DeNA Engineering",
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "DeNA TechCon 2021",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "",
+            "title": "DeNA TechCon 2022 | DeNA Engineering on DeNA Engineering",
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "DeNA TechCon 2022",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "",
+            "title": "DeNA TechCon 2023 | DeNA Engineering on DeNA Engineering",
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "DeNA TechCon 2023",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "",
+            "title": "DeNA TechCon 2024 | DeNA Engineering on DeNA Engineering",
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "DeNA TechCon 2024",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "",
+            "title": "DeNA × AI Day || DeNA TechCon 2025 | DeNA Engineering on DeNA Engineering",
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "DeNA × AI Day || DeNA TechCon 2025",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/team/infra/",
+            "content_html": "DeNA グループ全体のシステム基盤を横断して管理しているインフラ部門、IT 基盤部について紹介します。DeNA は様々な事業分野にチャレンジし、多種多様なサービスを展開していますが、そのサービス/システムの成功を支えていくインフラ部門が IT 基盤部です。 IT 基盤部では、インフラ部門として日々様々な技術的なチャレンジを繰り返しています。 チームカルチャー ミッション これらの一見、両立/鼎立が非常に難しい 3 つの要素、QC",
+            "url": "https://engineering.dena.com/team/infra/",
+            "title": "IT基盤（インフラ / SRE） | DeNA Engineering on DeNA Engineering",
+            "summary": "DeNA グループ全体のシステム基盤を横断して管理しているインフラ部門、IT 基盤部について紹介します。DeNA は様々な事業分野にチャレンジし、多種多様なサービスを展開していますが、そのサービス/システムの成功を支えていくインフラ部門が IT 基盤部です。 IT 基盤部では、インフラ部門として日々様々な技術的なチャレンジを繰り返しています。 チームカルチャー ミッション これらの一見、両立/鼎立",
+            "image": {
+                "url": "https://engineering.dena.com/team/infra/cover.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "IT基盤（インフラ / SRE）",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a",
+                "favicon": "https://engineering.dena.com/favicon.png"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/team/it-strategy/",
+            "content_html": "会計や人事などのコーポレート基幹システムをはじめ、Slack 連携などの社内ユーティリティ、各部署内の運用ツールなど、DeNA の社内システムは GUI/API のあるものだけでも 100 近く。しかも、それらの多くを内製しているのが DeNA です。そんな DeNA グループ全体の社内 IT に係る戦略立案/企画/構築/運用を担う「IT 戦略部」について紹介します。 チームカルチャー DeNA グループの IT 投資対効果を最大化する IT 投資対効果の最大化は費用の最小化",
+            "url": "https://engineering.dena.com/team/it-strategy/",
+            "title": "IT戦略（コーポレート / 情報システム） | DeNA Engineering on DeNA Engineering",
+            "summary": "会計や人事などのコーポレート基幹システムをはじめ、Slack 連携などの社内ユーティリティ、各部署内の運用ツールなど、DeNA の社内システムは GUI/API のあるものだけでも 100 近く。しかも、それらの多くを内製しているのが DeNA です。そんな DeNA グループ全体の社内 IT に係る戦略立案/企画/構築/運用を担う「IT 戦略部」について紹介します。 チームカルチャー DeNA ",
+            "image": {
+                "url": "https://engineering.dena.com/team/it-strategy/cover.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "IT戦略（コーポレート / 情報システム）",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a",
+                "favicon": "https://engineering.dena.com/favicon.png"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/team/mobage/",
+            "content_html": "Mobage Open Platform（以下Platform）を運用をしているチームについて紹介します。 Mobage は ユーザーとデベロッパーに対しプラットフォームサービスを提供しております。15年以上運用している実績があり、DeNA の提供する事業の大きな柱を担っているサービスでもあります。 組織には自社開発の数多くのバックエンドサービスがあります。ユーザーにエンターテインメントの場所を提供し価値を届けるためには運用やセキュリテ",
+            "url": "https://engineering.dena.com/team/mobage/",
+            "title": "Mobage Open Platform | DeNA Engineering on DeNA Engineering",
+            "summary": "Mobage Open Platform（以下Platform）を運用をしているチームについて紹介します。 Mobage は ユーザーとデベロッパーに対しプラットフォームサービスを提供しております。15年以上運用している実績があり、DeNA の提供する事業の大きな柱を担っているサービスでもあります。 組織には自社開発の数多くのバックエンドサービスがあります。ユーザーにエンターテインメントの場所を提",
+            "image": {
+                "url": "https://engineering.dena.com/team/mobage/cover.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Mobage Open Platform",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a",
+                "favicon": "https://engineering.dena.com/favicon.png"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "",
+            "title": "OSS活動支援 | DeNA Engineering on DeNA Engineering",
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "OSS活動支援",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/team/pococha/",
+            "content_html": "Pocochaとは？ 多様な事業を展開するDeNAの中でも、今、ライブコミュニケーションアプリ「Pococha（ポコチャ）」の勢いが際立っています。2021年3月末時点でダウンロード数は255万を突破、ライバー（配信者）・リスナー（視聴者）ともに1年間で約3倍というペースで成長を遂げています。 Pocochaはソーシャルライブというジャンルに位置づけられますが、類似のソーシャルライブサービスは2015",
+            "url": "https://engineering.dena.com/team/pococha/",
+            "title": "Pococha | DeNA Engineering on DeNA Engineering",
+            "summary": "Pocochaとは？ 多様な事業を展開するDeNAの中でも、今、ライブコミュニケーションアプリ「Pococha（ポコチャ）」の勢いが際立っています。2021年3月末時点でダウンロード数は255万を突破、ライバー（配信者）・リスナー（視聴者）ともに1年間で約3倍というペースで成長を遂げています。 Pocochaはソーシャルライブというジャンルに位置づけられますが、類似のソーシャルライブサービスは20",
+            "image": {
+                "url": "https://engineering.dena.com/team/pococha/cover.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Pococha",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a",
+                "favicon": "https://engineering.dena.com/favicon.png"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/team/quality/swet/",
+            "content_html": "SWETグループの属するIT本部品質管理部は、ゲーム・ソーシャルライブ・ヘルスケア・スポーツなど様々な事業を展開し続けるDeNAグループ全体の様々な品質にコミットしている部署です。その中で、SWET（SoftWare Engineer in Test の略）グループは、ソフトウェアテストを起点とした、「DeNA サービス全般の品質向上」と「DeNA エンジニアの開発生産性向上」の両方により、価値あるものを素早く提供できるようにする",
+            "url": "https://engineering.dena.com/team/quality/swet/",
+            "title": "SWET | DeNA Engineering on DeNA Engineering",
+            "summary": "SWETグループの属するIT本部品質管理部は、ゲーム・ソーシャルライブ・ヘルスケア・スポーツなど様々な事業を展開し続けるDeNAグループ全体の様々な品質にコミットしている部署です。その中で、SWET（SoftWare Engineer in Test の略）グループは、ソフトウェアテストを起点とした、「DeNA サービス全般の品質向上」と「DeNA エンジニアの開発生産性向上」の両方により、価値あ",
+            "image": {
+                "url": "https://engineering.dena.com/team/quality/swet/cover.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 8,
+                "originalTitle": "SWET",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a",
+                "favicon": "https://engineering.dena.com/favicon.png"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "",
+            "title": "その他福利厚生 | DeNA Engineering on DeNA Engineering",
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "その他福利厚生",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/culture/career/",
+            "content_html": "キャリア適正 キャリア適正は、エンジニアのキャリアを大きく5種類に分け、それぞれに対する適正を表現したものです。 これらの適正や本人の希望をもとに、キャリアを作り上げていきます。 エキスパート 突出した技術力や深い専門性を持ち、それを活かして事業に貢献する。 人工知能、OS、ミドルウェア、データベース、プログラミング言語など、 特定の領域を深く掘り下げて理解し、その知識や技術力を活かして事業に貢献できる。 積極",
+            "url": "https://engineering.dena.com/culture/career/",
+            "title": "キャリア | DeNA Engineering on DeNA Engineering",
+            "summary": "キャリア適正 キャリア適正は、エンジニアのキャリアを大きく5種類に分け、それぞれに対する適正を表現したものです。 これらの適正や本人の希望をもとに、キャリアを作り上げていきます。 エキスパート 突出した技術力や深い専門性を持ち、それを活かして事業に貢献する。 人工知能、OS、ミドルウェア、データベース、プログラミング言語など、 特定の領域を深く掘り下げて理解し、その知識や技術力を活かして事業に貢献",
+            "image": {
+                "url": "https://engineering.dena.com/og.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "キャリア",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a",
+                "favicon": "https://engineering.dena.com/favicon.png"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "",
+            "title": "コミュニティ活動 | DeNA Engineering on DeNA Engineering",
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "コミュニティ活動",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/team/data/dataengineering/",
+            "content_html": "事業部門/共通部門におけるデータドリブンな意思決定をエンジニアリングによって支える、データ基盤部データエンジニアリンググループについてご紹介いたします。データ基盤部に所属するデータエンジニアは全社の各部門を横串で支援しており、各部門のデータ活用水準の向上に努めています。 事業/サービスの成長に伴い、データの量・種類・データを要求する仕事は日々増え続けています。我々データエンジニアは、データパイプライ",
+            "url": "https://engineering.dena.com/team/data/dataengineering/",
+            "title": "データ基盤（データエンジニアリング） | DeNA Engineering on DeNA Engineering",
+            "summary": "事業部門/共通部門におけるデータドリブンな意思決定をエンジニアリングによって支える、データ基盤部データエンジニアリンググループについてご紹介いたします。データ基盤部に所属するデータエンジニアは全社の各部門を横串で支援しており、各部門のデータ活用水準の向上に努めています。 事業/サービスの成長に伴い、データの量・種類・データを要求する仕事は日々増え続けています。我々データエンジニアは、データパイプラ",
+            "image": {
+                "url": "https://engineering.dena.com/team/data/dataengineering/cover.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "データ基盤（データエンジニアリング）",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a",
+                "favicon": "https://engineering.dena.com/favicon.png"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/team/nintendo/",
+            "content_html": "任天堂社との業務提携での開発/運用を行っているチームについて紹介します。 任天堂社との業務提携においては大きく分けて二つの事業を構成しており、一つはニンテンドーアカウントを中心とした会員基盤システムの開発/運用業務、もう一つは任天堂社がパブリッシュしているスマートデバイスアプリの開発/運用業務になります。 どちらの事業においても任天堂社の基本戦略である「任天堂IPに触れる人口の拡大」に貢献できるように",
+            "url": "https://engineering.dena.com/team/nintendo/",
+            "title": "任天堂社との協業 | DeNA Engineering on DeNA Engineering",
+            "summary": "任天堂社との業務提携での開発/運用を行っているチームについて紹介します。 任天堂社との業務提携においては大きく分けて二つの事業を構成しており、一つはニンテンドーアカウントを中心とした会員基盤システムの開発/運用業務、もう一つは任天堂社がパブリッシュしているスマートデバイスアプリの開発/運用業務になります。 どちらの事業においても任天堂社の基本戦略である「任天堂IPに触れる人口の拡大」に貢献できるよ",
+            "image": {
+                "url": "https://engineering.dena.com/team/nintendo/cover.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "任天堂社との協業",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a",
+                "favicon": "https://engineering.dena.com/favicon.png"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "言語 TODO 開発ツール GitHub Enterprise を導入し、JIRA（プロジェクト管理ツール）と連携して活用しています。その他にも、Slack や Circle CI など、各プロジェクトやサービスごとに必要なツールを選定して使用しています。",
+            "title": "利用技術 | DeNA Engineering on DeNA Engineering",
+            "summary": "言語 TODO 開発ツール GitHub Enterprise を導入し、JIRA（プロジェクト管理ツール）と連携して活用しています。その他にも、Slack や Circle CI など、各プロジェクトやサービスごとに必要なツールを選定して使用しています。",
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "利用技術",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/team/quality/quality-control/",
+            "content_html": "DeNAグループ全体におけるプロダクト・サービスの品質管理を担っている部門を紹介します。DeNAはゲーム・ライブストリーミング・ヘルスケア・スポーツなど様々な事業を展開しています。お客様にとってベストなプロダクト・サービスであるために、品質という側面から事業を支援し、Delightに繋がるあらゆる品質向上活動を推進していく役割が品質管理となります。 一人ひとりにDelightを届けるため、品質を「プ",
+            "url": "https://engineering.dena.com/team/quality/quality-control/",
+            "title": "品質管理 | DeNA Engineering on DeNA Engineering",
+            "summary": "DeNAグループ全体におけるプロダクト・サービスの品質管理を担っている部門を紹介します。DeNAはゲーム・ライブストリーミング・ヘルスケア・スポーツなど様々な事業を展開しています。お客様にとってベストなプロダクト・サービスであるために、品質という側面から事業を支援し、Delightに繋がるあらゆる品質向上活動を推進していく役割が品質管理となります。 一人ひとりにDelightを届けるため、品質を「",
+            "image": {
+                "url": "https://engineering.dena.com/team/quality/quality-control/cover.jpeg",
+                "type": "jpeg"
+            },
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "品質管理",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a",
+                "favicon": "https://engineering.dena.com/favicon.png"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "",
+            "title": "専門技術チーム | DeNA Engineering on DeNA Engineering",
+            "date_modified": "2025-06-27T08:51:33.000Z",
+            "date_published": "2025-06-27T08:51:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "専門技術チーム",
+                "blogTitle": "DeNA Engineering on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/",
+                "blogLinkMd5Hash": "963239cc089ddb9d9c4d121ea50aeb1a"
+            }
+        },
+        {
+            "id": "https://zenn.dev/upgradetech/articles/ac34d70e789ca3",
+            "content_html": "✅ この記事を読むとできること本記事では、社内AIチャットボットの検索ヒット率が低いという課題に対し、HyDE （Hypothetical Document Embeddings）法をDifyで実装することで、どのように解決に導くかを解説します。曖昧な自然言語による質問からでも、意図を汲み取って適切な社内ナレッジを提示する実装方法を紹介します。本記事を読むと以下四点について学ぶことができます。ビジネスインパクト: なぜHyDEが「検索できない」問題を解決し、従業員の自己解決率向上に繋がるのかを理解できます。プロンプト設計: 検索精度を最大化するHyDE用プロンプトの具...",
+            "url": "https://zenn.dev/upgradetech/articles/ac34d70e789ca3",
+            "title": "Dify × HyDE法：チャットボットに「察する力」を与える実装ノート | Zennの「LLM」のフィード",
+            "summary": "✅ この記事を読むとできること本記事では、社内AIチャットボットの検索ヒット率が低いという課題に対し、HyDE （Hypothetical Document Embeddings）法をDifyで実装することで、どのように解決に導くかを解説します。曖昧な自然言語による質問からでも、意図を汲み取って適切な社内ナレッジを提示する実装方法を紹介します。本記事を読むと以下四点について学ぶことができます。ビジ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--MqaceUcK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Dify%2520%25C3%2597%2520HyDE%25E6%25B3%2595%25EF%25BC%259A%25E3%2583%2581%25E3%2583%25A3%25E3%2583%2583%25E3%2583%2588%25E3%2583%259C%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AB%25E3%2580%258C%25E5%25AF%259F%25E3%2581%2599%25E3%2582%258B%25E5%258A%259B%25E3%2580%258D%25E3%2582%2592%25E4%25B8%258E%25E3%2581%2588%25E3%2582%258B%25E5%25AE%259F%25E8%25A3%2585%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ryou%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzI4NmJmMzNhODkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:UPGRADE%2520tech%2520blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSjROVUUzelRvU0Q3WnFHRVltX2RyTzRlcTl5UjM5WW9SNVk1QWhaRkFrZ0lFVlZnPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T08:08:01.000Z",
+            "date_published": "2025-06-27T08:08:01.000Z",
+            "author": {
+                "name": "ryou"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Dify × HyDE法：チャットボットに「察する力」を与える実装ノート",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/microsoft/articles/expose-mcp-server-in-apim",
+            "content_html": "はじめにこの度、Azure API Management (APIM) で、既存の API を MCP サーバーとして公開する機能 がプレビューでリリースされました。https://learn.microsoft.com/ja-jp/azure/api-management/export-rest-mcp-serverこの機能は先日の Microsoft Build 2025 で発表された機能です。以下がその発表の動画です。https://www.youtube.com/watch?v=pr8ltV8XY7g猫も杓子も MCP な時代ですが、既存の API サーバーを MC...",
+            "url": "https://zenn.dev/microsoft/articles/expose-mcp-server-in-apim",
+            "title": "【コーディング無し】既存 API サーバーを MCP サーバーに一瞬で変える方法 | Zennの「LLM」のフィード",
+            "summary": "はじめにこの度、Azure API Management (APIM) で、既存の API を MCP サーバーとして公開する機能 がプレビューでリリースされました。https://learn.microsoft.com/ja-jp/azure/api-management/export-rest-mcp-serverこの機能は先日の Microsoft Build 2025 で発表された機能です",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--PUO93B-A--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E7%2584%25A1%25E3%2581%2597%25E3%2580%2591%25E6%2597%25A2%25E5%25AD%2598%2520API%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2582%2592%2520MCP%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2581%25AB%25E4%25B8%2580%25E7%259E%25AC%25E3%2581%25A7%25E5%25A4%2589%25E3%2581%2588%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:momosuke%2520%257C%2520Ryosuke...%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q5ODc4NmI0NjguanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T07:37:18.000Z",
+            "date_published": "2025-06-27T07:37:18.000Z",
+            "author": {
+                "name": "momosuke | Ryosuke Hyakuta"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 30,
+                "originalTitle": "【コーディング無し】既存 API サーバーを MCP サーバーに一瞬で変える方法",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/danimal141/articles/ea29bb42d75d43",
+            "content_html": "!※ 私 : AI = 3 : 7ぐらいの記事です。Googleが開発したGemini CLIは、ターミナルから直接AI支援を受けられる強力なツールです。自身の理解のために、geminiコマンドを実行してからレスポンスが表示されるまでの内部処理をコードを参照しながら読んでいき、ログを残しておく。 アーキテクチャ概要Gemini CLIは、モノレポ構造で主に2つのパッケージから構成されている：packages/cli: フロントエンド層（UI、ユーザー入力処理）packages/core: バックエンド層（API通信、ツール実行）gemini-cli/├── ...",
+            "url": "https://zenn.dev/danimal141/articles/ea29bb42d75d43",
+            "title": "Gemini CLIのコードを読んで内部処理を理解する | Zennの「LLM」のフィード",
+            "summary": "!※ 私 : AI = 3 : 7ぐらいの記事です。Googleが開発したGemini CLIは、ターミナルから直接AI支援を受けられる強力なツールです。自身の理解のために、geminiコマンドを実行してからレスポンスが表示されるまでの内部処理をコードを参照しながら読んでいき、ログを残しておく。 アーキテクチャ概要Gemini CLIは、モノレポ構造で主に2つのパッケージから構成されている：pac",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--uu7Hn3uK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Gemini%2520CLI%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2593%25E3%2581%25A7%25E5%2586%2585%25E9%2583%25A8%25E5%2587%25A6%25E7%2590%2586%25E3%2582%2592%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:danimal141%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzVlMzc0YjE0N2UuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-27T02:37:02.000Z",
+            "date_published": "2025-06-27T02:37:02.000Z",
+            "author": {
+                "name": "danimal141"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Gemini CLIのコードを読んで内部処理を理解する",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://openai.com/index/retell-ai",
+            "content_html": "Retell AI is transforming the call center with AI voice automation powered by GPT-4o and GPT-4.1. Its no-code platform enables businesses to launch natural, real-time voice agents that cut call costs, boost CSAT, and automate customer conversations—without scripts or hold times.",
+            "url": "https://openai.com/index/retell-ai",
+            "title": "Customizable, no-code voice agent automation with GPT-4o | OpenAI News",
+            "summary": "Retell AI is transforming the call center with AI voice automation powered by GPT-4o and GPT-4.1. Its no-code platform enables businesses to launch natural, real-time voice agents that cut call costs,",
+            "image": {
+                "height": "900",
+                "url": "https://images.ctfassets.net/kftzwdyauwt9/1rlg2wlCTLN87OUhRRqiRE/29c34cafa93d0c2d43c710b7338f61cb/oai_RetellAI_SEO__1_.png?w=1600&h=900&fit=fill",
+                "width": "1600",
+                "alt": " Retell AI logo with white text and icon on a blue background with raised circular patterns.",
+                "type": "png"
+            },
+            "date_modified": "2025-06-26T10:00:00.000Z",
+            "date_published": "2025-06-26T10:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Customizable, no-code voice agent automation with GPT-4o",
+                "blogTitle": "OpenAI News",
+                "blogLink": "https://openai.com/news",
+                "blogLinkMd5Hash": "b7bdf49a430db42cc8cff6f875912178",
+                "favicon": "https://openai.com/favicon.ico"
+            }
+        },
+        {
+            "id": "hatenablog://entry/6802418398487589462",
+            "content_html": "ブレインパッドのSRE（Site Reliability Engineering）チームは、パーソナライズ・プラットフォーム「Rtoaster（アールトースター）」などのデータ活用プロダクトをお客様が安心して利用できるよう、サービスの安定稼働と信頼性の確保に取り組んでいます。普段は明かされないプロダクト運用の舞台裏、SREチームが大切にしている視点など、同チームで活躍する井上さん、内山さん、吉田さんにお話を伺いました。内山 佐和子 吉田 史也 井上 剛志 XaaSユニットサービスオペレーション XaaSユニットサービスオペレーション XaaSユニットサービスオペレーションリード 多彩なキャリアをもつメンバーが集うチーム──まず、皆さんの自己紹介をお願いします。井上内山吉田「お客様視点」でプロダクトの信頼性を守る── SREチームの役割やミッションを教えてください。井上── 一般的なインフラエンジニアとSREの違いはどのような点にありますか。井上吉田── 他社とブレインパッドのSREチームを比較した際に、何か違いはありますか。井上互いの専門性を活かし合うチーム──井上さんがマネジメントさ",
+            "url": "https://blog.brainpad.co.jp/entry/2025/06/26/160038",
+            "title": "プロダクトの信頼性を支える技術集団！SREチームの仕事に迫る | Platinum Data Blog by BrainPad ブレインパッド",
+            "summary": "ブレインパッドのSRE（Site Reliability Engineering）チームは、パーソナライズ・プラットフォーム「Rtoaster（アールトースター）」などのデータ活用プロダクトをお客様が安心して利用できるよう、サービスの安定稼働と信頼性の確保に取り組んでいます。普段は明かされないプロダクト運用の舞台裏、SREチームが大切にしている視点など、同チームで活躍する井上さん、内山さん、吉田さ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/a8ac022b85b249ef2ab21aa2aa022f98a3c40185/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbpblog_ougimoto%2F20250625%2F20250625134452.jpg",
+                "alt": "プロダクトの信頼性を支える技術集団！SREチームの仕事に迫る - Platinum Data Blog by BrainPad ブレインパッド",
+                "type": "jpg"
+            },
+            "date_modified": "2025-06-26T07:00:38.000Z",
+            "date_published": "2025-06-26T07:00:38.000Z",
+            "tags": [
+                "SRE",
+                "ブレインパッドの仕事",
+                "社員インタビュー"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "プロダクトの信頼性を支える技術集団！SREチームの仕事に迫る",
+                "blogTitle": "Platinum Data Blog by BrainPad ブレインパッド",
+                "blogLink": "https://blog.brainpad.co.jp/",
+                "blogLinkMd5Hash": "ad4cd1fd453efdb9e89c3b2528111d3e",
+                "favicon": "https://blog.brainpad.co.jp/icon/favicon"
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20250626a",
+            "content_html": "はじめに本記事は、Tech-Verse 2025で発表予定の内容を詳しくまとめたものです。個人の実践経験をもとに、AIコーディングの現場で得た知見や手法を紹介します。AIコーディングを進めるにあたり、...",
+            "url": "https://techblog.lycorp.co.jp/ja/20250626a",
+            "title": "AIコーディング：「Vibe Coding」からプロフェッショナルへ | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "はじめに本記事は、Tech-Verse 2025で発表予定の内容を詳しくまとめたものです。個人の実践経験をもとに、AIコーディングの現場で得た知見や手法を紹介します。AIコーディングを進めるにあたり、...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/029a9aed2883f1db1acf1cb83efed4f3/5787c/0b8e34191d404bf6874bd76e116367c8.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-26T02:00:00.000Z",
+            "date_published": "2025-06-26T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 14,
+                "originalTitle": "AIコーディング：「Vibe Coding」からプロフェッショナルへ",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632"
+            }
+        },
+        {
+            "id": "https://2ality.com/2025/06/ecmascript-2025.html",
+            "content_html": "&lt;p&gt;On 25 June 2025, the 129th Ecma General Assembly approved the ECMAScript 2025 language specification (&lt;a href=\"https://ecma-international.org/news/ecma-international-approves-new-standards-11/\"&gt;press release&lt;/a&gt;), which means that it’s officially a standard now.&lt;/p&gt;&lt;p&gt;This blog post explains what’s new.&lt;/p&gt;",
+            "url": "https://2ality.com/2025/06/ecmascript-2025.html",
+            "title": "Ecma International approves ECMAScript 2025: What’s new? | 2ality – JavaScript and more",
+            "summary": "&lt;p&gt;On 25 June 2025, the 129th Ecma General Assembly approved the ECMAScript 2025 language specification (&lt;a href=\"https://ecma-international.org/news/ecma-international-approves-new-standards-11/\"&gt;pre",
+            "date_modified": "2025-06-26T00:00:00.000Z",
+            "date_published": "2025-06-26T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Ecma International approves ECMAScript 2025: What’s new?",
+                "blogTitle": "2ality – JavaScript and more",
+                "blogLink": "https://2ality.com/",
+                "blogLinkMd5Hash": "03b9a47ab592768a7d4df7d9bb623813",
+                "favicon": "https://2ality.com/img/favicons/2ality-favicon-opaque.svg"
+            }
+        },
+        {
+            "id": "https://www.publickey1.jp/blog/25/android_studiogeminiai.html",
+            "content_html": "GoogleはAndroidの統合開発環境である「Android Studio」の最新版に、生成AIのGeminiが自然言語の指示に応じて自律的にコーディングを行う「エージェントモード」を追加することを明らかにしました。 Agentic A...",
+            "url": "https://www.publickey1.jp/blog/25/android_studiogeminiai.html",
+            "title": "Android StudioでGeminiのエージェントモードが利用可能に。「ダークモードを追加して」などの指示でAIが自律コーディング | Publickey",
+            "summary": "GoogleはAndroidの統合開発環境である「Android Studio」の最新版に、生成AIのGeminiが自然言語の指示に応じて自律的にコーディングを行う「エージェントモード」を追加することを明らかにしました。 Agentic A...",
+            "image": {
+                "url": "https://www.publickey1.jp/2025/android-studio-gemini-agentmode-la04.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-25T15:47:23.000Z",
+            "date_published": "2025-06-25T15:47:23.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 14,
+                "originalTitle": "Android StudioでGeminiのエージェントモードが利用可能に。「ダークモードを追加して」などの指示でAIが自律コーディング",
+                "blogTitle": "Publickey",
+                "blogLink": "https://www.publickey1.jp/",
+                "blogLinkMd5Hash": "98314ba2e89a65accec03a81f0250c1e",
+                "favicon": "https://www.publickey1.jp/favicon.ico"
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20250625a",
+            "content_html": "はじめにこんにちは、iOSアプリエンジニアのKiichiです。こちらの記事で紹介されている通り、今年の3月に、LINEアプリ内ブラウザ上からYahoo!検索できる機能がリリースされました。本記事では、...",
+            "url": "https://techblog.lycorp.co.jp/ja/20250625a",
+            "title": "LINE iOSアプリ内ブラウザに検索機能を実装しました。 | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "はじめにこんにちは、iOSアプリエンジニアのKiichiです。こちらの記事で紹介されている通り、今年の3月に、LINEアプリ内ブラウザ上からYahoo!検索できる機能がリリースされました。本記事では、...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/22c20b813c7c0d75f63c551c9ed56b0b/7d66e/08d931c896e746e6a58d2ade8779c204.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-25T02:00:00.000Z",
+            "date_published": "2025-06-25T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "LINE iOSアプリ内ブラウザに検索機能を実装しました。",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632"
+            }
+        },
+        {
+            "id": "https://www.publickey1.jp/blog/25/awsgoogleaiagent2agentlinux_foundation.html",
+            "content_html": "異なるベンダが提供する複数のAIエージェント間でのコミュニケーションやコラボレーションを実現するオープンスタンダード確立のための「Agent2Agentプロジェクト」（A2Aプロジェックト）設立を、Linux Foundationが発表しま...",
+            "url": "https://www.publickey1.jp/blog/25/awsgoogleaiagent2agentlinux_foundation.html",
+            "title": "AWS、Google、マイクロソフトらがAIエージェント連携のため「Agent2Agentプロジェクト」設立。Linux Foundation傘下で | Publickey",
+            "summary": "異なるベンダが提供する複数のAIエージェント間でのコミュニケーションやコラボレーションを実現するオープンスタンダード確立のための「Agent2Agentプロジェクト」（A2Aプロジェックト）設立を、Linux Foundationが発表しま...",
+            "image": {
+                "url": "https://www.publickey1.jp/2025/GuI94osXIAAjo3T.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2025-06-24T14:53:25.000Z",
+            "date_published": "2025-06-24T14:53:25.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 175,
+                "originalTitle": "AWS、Google、マイクロソフトらがAIエージェント連携のため「Agent2Agentプロジェクト」設立。Linux Foundation傘下で",
+                "blogTitle": "Publickey",
+                "blogLink": "https://www.publickey1.jp/",
+                "blogLinkMd5Hash": "98314ba2e89a65accec03a81f0250c1e",
+                "favicon": "https://www.publickey1.jp/favicon.ico"
+            }
+        },
+        {
+            "id": "https://engineers.ntt.com/entry/202506-botconf2025/entry",
+            "content_html": "こんにちは、NTT Com イノベーションセンターのNetwork Analytics for Security（NA4Sec）プロジェクトです。 この記事では、2025年5月20日-23日に開催されたセキュリティカンファレンスBotconf 2025について紹介します。 Botconfとは Team NA4Secとは 講演内容 カンファレンスの様子 おわりに Botconfとは Botconfは\"The Botnet &amp; Malware Ecosystems Fighting Conference\"の略称で、その名の通り、ボットネットやマルウェアエコシステムに特化した国際的なセキュリティカン…",
+            "url": "https://engineers.ntt.com/entry/202506-botconf2025/entry",
+            "title": "セキュリティカンファレンス「Botconf 2025」に登壇してきた話 | NTT Communications Engineers' Blog",
+            "summary": "こんにちは、NTT Com イノベーションセンターのNetwork Analytics for Security（NA4Sec）プロジェクトです。 この記事では、2025年5月20日-23日に開催されたセキュリティカンファレンスBotconf 2025について紹介します。 Botconfとは Team NA4Secとは 講演内容 カンファレンスの様子 おわりに Botconfとは Botconfは",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/9d5e222294878bdec217d2ac70a6bcff9c62fa21/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FN%2FNTTCom%2F20250618%2F20250618201739.jpg",
+                "alt": "セキュリティカンファレンス「Botconf 2025」に登壇してきた話 - NTT Communications Engineers' Blog",
+                "type": "jpg"
+            },
+            "date_modified": "2025-06-24T08:05:44.000Z",
+            "date_published": "2025-06-24T08:05:44.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 4,
+                "originalTitle": "セキュリティカンファレンス「Botconf 2025」に登壇してきた話",
+                "blogTitle": "NTT Communications Engineers' Blog",
+                "blogLink": "https://engineers.ntt.com/",
+                "blogLinkMd5Hash": "9da314a04336f0a90d8c134771f12e33",
+                "favicon": "https://engineers.ntt.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://2ality.com/2025/06/javascript-regexp-tips.html",
+            "content_html": "&lt;p&gt;In this blog post, we explore ways in which we can make regular expressions easier to use.&lt;/p&gt;",
+            "url": "https://2ality.com/2025/06/javascript-regexp-tips.html",
+            "title": "Tips for making regular expressions easier to use in JavaScript | 2ality – JavaScript and more",
+            "summary": "&lt;p&gt;In this blog post, we explore ways in which we can make regular expressions easier to use.&lt;/p&gt;",
+            "date_modified": "2025-06-24T00:00:00.000Z",
+            "date_published": "2025-06-24T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Tips for making regular expressions easier to use in JavaScript",
+                "blogTitle": "2ality – JavaScript and more",
+                "blogLink": "https://2ality.com/",
+                "blogLinkMd5Hash": "03b9a47ab592768a7d4df7d9bb623813",
+                "favicon": "https://2ality.com/img/favicons/2ality-favicon-opaque.svg"
+            }
+        },
+        {
+            "id": "https://openai.com/index/unify",
+            "content_html": "Unify, an AI-powered GTM platform, uses OpenAI’s o3, GPT-4.1, and CUA to automate prospecting, research, and outreach. With hyper-personalized messaging and an always-on workflow, Unify helps teams generate pipeline at scale while focusing on high-impact customer interactions.",
+            "url": "https://openai.com/index/unify",
+            "title": "Driving scalable growth with OpenAI o3, GPT-4.1, and CUA | OpenAI News",
+            "summary": "Unify, an AI-powered GTM platform, uses OpenAI’s o3, GPT-4.1, and CUA to automate prospecting, research, and outreach. With hyper-personalized messaging and an always-on workflow, Unify helps teams ge",
+            "image": {
+                "height": "900",
+                "url": "https://images.ctfassets.net/kftzwdyauwt9/4Zk21VkqRdhQg95kIcrmKc/9a51d3c304e36df765c60d834f6c8552/oai_unify_hero_1x1.png?w=1600&h=900&fit=fill",
+                "width": "1600",
+                "alt": "Unify logo in white against a backdrop of dandelion seed heads",
+                "type": "png"
+            },
+            "date_modified": "2025-06-24T00:00:00.000Z",
+            "date_published": "2025-06-24T00:00:00.000Z",
+            "tags": [
+                "API"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Driving scalable growth with OpenAI o3, GPT-4.1, and CUA",
+                "blogTitle": "OpenAI News",
+                "blogLink": "https://openai.com/news",
+                "blogLinkMd5Hash": "b7bdf49a430db42cc8cff6f875912178",
+                "favicon": "https://openai.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.publickey1.jp/blog/25/cloudflareworkers_kvgoogle_cloudgoogle_cloud.html",
+            "content_html": "日本時間6月13日午前2時52分から約2時間半、CloudflareはキーバリューストアのWorkers KVやCloudflareダッシュボードの一部を含む同社の重要なサービスに影響を与える重大なサービス障害を起こしています。 Cloud...",
+            "url": "https://www.publickey1.jp/blog/25/cloudflareworkers_kvgoogle_cloudgoogle_cloud.html",
+            "title": "Cloudflareが重大なサービス障害の原因を説明。実はWorkers KVがGoogle Cloudに依存しており、Google Cloudの障害が原因だったと | Publickey",
+            "summary": "日本時間6月13日午前2時52分から約2時間半、CloudflareはキーバリューストアのWorkers KVやCloudflareダッシュボードの一部を含む同社の重要なサービスに影響を与える重大なサービス障害を起こしています。 Cloud...",
+            "image": {
+                "url": "https://www.publickey1.jp/2025/cloudflare-failure-2025june.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-23T15:37:40.000Z",
+            "date_published": "2025-06-23T15:37:40.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 87,
+                "originalTitle": "Cloudflareが重大なサービス障害の原因を説明。実はWorkers KVがGoogle Cloudに依存しており、Google Cloudの障害が原因だったと",
+                "blogTitle": "Publickey",
+                "blogLink": "https://www.publickey1.jp/",
+                "blogLinkMd5Hash": "98314ba2e89a65accec03a81f0250c1e",
+                "favicon": "https://www.publickey1.jp/favicon.ico"
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20250623b",
+            "content_html": "LINEヤフー株式会社では、技術に関するイベントや勉強会の主催・協賛などを行っています。最新情報は各リンク先でご確認ください。タイミングによっては、申し込み開始前や既に満席となっていることがあります。...",
+            "url": "https://techblog.lycorp.co.jp/ja/20250623b",
+            "title": "2025年7月の技術系イベント予定 | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "LINEヤフー株式会社では、技術に関するイベントや勉強会の主催・協賛などを行っています。最新情報は各リンク先でご確認ください。タイミングによっては、申し込み開始前や既に満席となっていることがあります。...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/465087ce4ce931011086a89c9a0611ad/7d66e/44f2040b0d6a4558bbb5bc8a9b2df437.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-23T04:30:00.000Z",
+            "date_published": "2025-06-23T04:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2025年7月の技術系イベント予定",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632"
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20250623a",
+            "content_html": "こんにちは。LINE VOOM AI組織のサーバー開発者、Chan Woo ParkとYousung Yangです。本記事ではAIに使用されるリアルタイム埋め込みを提供するサーバーを構築するにあたり、...",
+            "url": "https://techblog.lycorp.co.jp/ja/20250623a",
+            "title": "大規模AIリアルタイム埋め込みデータの効率的な扱い方 | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "こんにちは。LINE VOOM AI組織のサーバー開発者、Chan Woo ParkとYousung Yangです。本記事ではAIに使用されるリアルタイム埋め込みを提供するサーバーを構築するにあたり、...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/1a4a1c038bb357bf96f20f14de1b16ed/7d66e/f73bbaeb6f3944ecbbe34c7ca070af6c.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-23T02:00:00.000Z",
+            "date_published": "2025-06-23T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "大規模AIリアルタイム埋め込みデータの効率的な扱い方",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632"
+            }
+        },
+        {
+            "id": "https://engineers.ntt.com/entry/202506-interop-5gc-automation/entry",
+            "content_html": "こんにちは、イノベーションセンターの福田です。 NTT コミュニケーションズ株式会社は、日本最大級のネットワーク展示会である 「Interop Tokyo 2025（会場：幕張メッセ、会期：2025年6月11日〜13日）」 において構築される ShowNet に対し、生成 AI と Model Context Protocol (MCP) による 5G コアオペレーション自動化のコントリビューションを行いました。 本記事ではその構築にあたって具体的にどのようなことを開発したのか、その実装を通して得た知見やノウハウを紹介します。 背景 どんなことをしたのか Model Context Proto…",
+            "url": "https://engineers.ntt.com/entry/202506-interop-5gc-automation/entry",
+            "title": "生成AI と Model Context Protocol サーバーによる 5G コア オペレーション自動化の取り組み紹介 〜Interop Tokyo 2025〜 | NTT Communications Engineers' Blog",
+            "summary": "こんにちは、イノベーションセンターの福田です。 NTT コミュニケーションズ株式会社は、日本最大級のネットワーク展示会である 「Interop Tokyo 2025（会場：幕張メッセ、会期：2025年6月11日〜13日）」 において構築される ShowNet に対し、生成 AI と Model Context Protocol (MCP) による 5G コアオペレーション自動化のコントリビューショ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/4142cfd26e856b7152a0c44a246b560e99a727f8/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FN%2FNTTCom%2F20250610%2F20250610132856.png",
+                "alt": "生成AI と Model Context Protocol サーバーによる 5G コア オペレーション自動化の取り組み紹介 〜Interop Tokyo 2025〜 - NTT Communications Engineers' Blog",
+                "type": "png"
+            },
+            "date_modified": "2025-06-22T23:03:41.000Z",
+            "date_published": "2025-06-22T23:03:41.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 6,
+                "originalTitle": "生成AI と Model Context Protocol サーバーによる 5G コア オペレーション自動化の取り組み紹介 〜Interop Tokyo 2025〜",
+                "blogTitle": "NTT Communications Engineers' Blog",
+                "blogLink": "https://engineers.ntt.com/",
+                "blogLinkMd5Hash": "9da314a04336f0a90d8c134771f12e33",
+                "favicon": "https://engineers.ntt.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://www.publickey1.jp/blog/25/pcpcwindows_365_reserve.html",
+            "content_html": "マイクロソフトは、紛失や故障などによってPCが突然使えなくなったときに、一時的にあらかじめ同じ構成に設定されたクラウドPCを利用可能にすることでPCでの仕事が続けられる新サービス「Windows 365 Reserve」のプレビュー公開を発...",
+            "url": "https://www.publickey1.jp/blog/25/pcpcwindows_365_reserve.html",
+            "title": "マイクロソフト、PCの紛失や故障などのとき一時的に同構成のクラウドPCが使える「Windows 365 Reserve」プレビュー公開 | Publickey",
+            "summary": "マイクロソフトは、紛失や故障などによってPCが突然使えなくなったときに、一時的にあらかじめ同じ構成に設定されたクラウドPCを利用可能にすることでPCでの仕事が続けられる新サービス「Windows 365 Reserve」のプレビュー公開を発...",
+            "image": {
+                "url": "https://www.publickey1.jp/2025/ms365reserve-prev01.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-22T15:13:17.000Z",
+            "date_published": "2025-06-22T15:13:17.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 87,
+                "originalTitle": "マイクロソフト、PCの紛失や故障などのとき一時的に同構成のクラウドPCが使える「Windows 365 Reserve」プレビュー公開",
+                "blogTitle": "Publickey",
+                "blogLink": "https://www.publickey1.jp/",
+                "blogLinkMd5Hash": "98314ba2e89a65accec03a81f0250c1e",
+                "favicon": "https://www.publickey1.jp/favicon.ico"
+            }
+        }
+    ]
+}
