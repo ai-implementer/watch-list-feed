@@ -22,7 +22,7 @@ export default {
   },
 
   // リンク
-  author: 'ai-implementer',
+  author: 'implementer',
   gitHubUserUrl: 'https://github.com/ai-implementer/',
   gitHubRepositoryUrl: 'https://github.com/ai-implementer/watch-list-feed/',
   xUserUrl: 'https://x.com/',
