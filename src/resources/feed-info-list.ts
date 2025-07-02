@@ -40,9 +40,14 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['LINEヤフーTech Blog', 'https://techblog.lycorp.co.jp/ja/feed/index.xml'],
   ['DeNA Engineering on DeNA Engineering', 'https://engineering.dena.com/index.xml'],
   ["NTT Communications Engineers' Blog", 'https://engineers.ntt.com/feed'],
+  ['Microsoft AI Blogs', 'https://www.microsoft.com/en-us/ai/blog/feed/'],
+  ['Salesforce AI Research Blog', 'https://www.salesforce.com/blog/category/ai-research/feed/'],
+  ['NVIDIA Developer Blog', 'https://developer.nvidia.com/blog/feed'],
+  ['Google Research Blog', 'https://research.google/blog/rss/'],
 
   // Zenn, Qiita, Noteが提供しているfeed
   ['Zennの「LLM」のフィード', 'https://zenn.dev/topics/llm/feed'],
   ['LLMタグが付けられた新着記事 - Qiita', 'https://qiita.com/tags/llm/feed'],
   ['「#LLM」の人気タグ記事一覧｜note ――つくる、つながる、とどける。', 'https://note.com/hashtag/LLM/rss'],
+  ["Simon Willison's Weblog", 'https://simonwillison.net/atom/everything/'],
 ]);
