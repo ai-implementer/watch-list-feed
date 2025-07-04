@@ -41,7 +41,6 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['DeNA Engineering on DeNA Engineering', 'https://engineering.dena.com/index.xml'],
   ["NTT Communications Engineers' Blog", 'https://engineers.ntt.com/feed'],
   ['Microsoft AI Blogs', 'https://www.microsoft.com/en-us/ai/blog/feed/'],
-  ['NVIDIA Developer Blog', 'https://developer.nvidia.com/blog/feed'],
   ['Google Research Blog', 'https://research.google/blog/rss/'],
 
   // Zenn, Qiita, Noteが提供しているfeed
