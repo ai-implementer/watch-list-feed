@@ -386,6 +386,9 @@ export class FeedCrawler {
   }
 
   private static async fetchOgObject(url: string): Promise<CustomOgObject> {
+    if (url?.length === 0) {
+      return Promise.reject(new Error('url情報が定義されておりません。'));
+    }
     const ogObjectCacheKey = `og-object-${textToMd5Hash(url)}`;
     const ogObjectCache = flatCacheCreate({
       cacheId: ogObjectCacheKey,
