@@ -1,0 +1,1472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://feeds.implementer.net/</id>
+    <title>テックブログRSS</title>
+    <updated>2025-07-05T15:10:18.699Z</updated>
+    <generator>ai-implementer/watch-list-feed</generator>
+    <link rel="alternate" href="https://feeds.implementer.net/"/>
+    <link rel="self" href="https://feeds.implementer.net/feeds/atom.xml"/>
+    <subtitle>テックブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://feeds.implementer.net/images/icon.png</logo>
+    <icon>https://feeds.implementer.net/images/favicon.ico</icon>
+    <rights>ai-implementer/watch-list-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[『LLMのプロンプトエンジニアリング』読んだ。雑な読書メモ | #LLMタグ]]></title>
+        <id>https://note.com/satoooh/n/n2327c6c88827</id>
+        <link href="https://note.com/satoooh/n/n2327c6c88827"/>
+        <updated>2025-07-05T14:50:48.000Z</updated>
+        <summary type="html"><![CDATA[出遅れましたが、読みます— sato (@satoooh.org) 2025-05-17T13:06:02.505Zだらだら読んでたら最後の10章読み終わる頃には7月になっていた。印象に残った点をまとめる。続きをみる]]></summary>
+        <content type="html"><![CDATA[出遅れましたが、読みます— sato (@satoooh.org) 2025-05-17T13:06:02.505Zだらだら読んでたら最後の10章読み終わる頃には7月になっていた。印象に残った点をまとめる。続きをみる]]></content>
+        <published>2025-07-05T14:50:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ＬＬＭ超解釈「しゅっとしてはる」はアールデコ的 | #LLMタグ]]></title>
+        <id>https://note.com/makokon/n/n40882157928c</id>
+        <link href="https://note.com/makokon/n/n40882157928c"/>
+        <updated>2025-07-05T14:10:16.000Z</updated>
+        <summary type="html"><![CDATA[こんにちはmakokonです。今日はＬＬＭの想像力（？）、分析力を試してみました。ジョーク企画なので、事実ではないですよ。事実じゃないよね。プロンプトに「真面目に考察」とか入れたのがあまり良くなかったかもしれない。けど、結構モデルの個性が現れますよね。sonnetの「洗練された機能美」という共通の美学的価値観geminiの「大阪のおばちゃんが『しゅっとしてはる』と言う時、彼女たちはアール・デコのデ]]></summary>
+        <content type="html"><![CDATA[こんにちはmakokonです。今日はＬＬＭの想像力（？）、分析力を試してみました。ジョーク企画なので、事実ではないですよ。事実じゃないよね。プロンプトに「真面目に考察」とか入れたのがあまり良くなかったかもしれない。けど、結構モデルの個性が現れますよね。sonnetの「洗練された機能美」という共通の美学的価値観geminiの「大阪のおばちゃんが『しゅっとしてはる』と言う時、彼女たちはアール・デコのデザイン評論家と同じ美的感覚で対象を評価している」というご見解は、デザイン史的にも文化論的にも非常に鋭い指摘GPTの「しゅっとしてはる」という大阪的美意識が、アールデコ的デザインと親和性を持つのは偶然ではなく、普遍的な「洗練」への賛美の一形態続きをみる]]></content>
+        <published>2025-07-05T14:10:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「小さな言語モデルがエージェントAIの未来を切り拓く | #LLMタグ]]></title>
+        <id>https://note.com/makokon/n/n6f568432e09c</id>
+        <link href="https://note.com/makokon/n/n6f568432e09c"/>
+        <updated>2025-07-05T13:21:07.000Z</updated>
+        <summary type="html"><![CDATA[Small Language Models are the Future of Agentic AIhttps://arxiv.org/pdf/2506.02153続きをみる]]></summary>
+        <content type="html"><![CDATA[Small Language Models are the Future of Agentic AIhttps://arxiv.org/pdf/2506.02153続きをみる]]></content>
+        <published>2025-07-05T13:21:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【生成AIニュース+】『KreaでGen-4』『LangScene-X』『Kontext Relight』『Flux Kontext Diff Merge』『ComfyUI-FramePackWrapper_PlusOne』『ComfyUI Prebuilt Docker Images』『ComfyUI Workflow Notification Plugin』『Kimi Researcher』『Akuma.ai』『BeltOut』『SlimMoE』『Skywork-Reward-V2』他 | #LLMタグ]]></title>
+        <id>https://note.com/toshia_fuji/n/na668b5825733</id>
+        <link href="https://note.com/toshia_fuji/n/na668b5825733"/>
+        <updated>2025-07-05T13:16:49.000Z</updated>
+        <summary type="html"><![CDATA[『WebSailor』『IntFold』『RoboCowboys』『Genius, G1の使い道』『AdobeCCのプラン』まいどです。本日の生成AIニュース+テクノロジー情報。続きをみる]]></summary>
+        <content type="html"><![CDATA[『WebSailor』『IntFold』『RoboCowboys』『Genius, G1の使い道』『AdobeCCのプラン』まいどです。本日の生成AIニュース+テクノロジー情報。続きをみる]]></content>
+        <published>2025-07-05T13:16:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【配布】エッジAI用分散サーバー作ってみた ～llamacpp x GemmaでローカルAI APIを構築～ | #LLMタグ]]></title>
+        <id>https://note.com/rcat999/n/nb54b303cdd25</id>
+        <link href="https://note.com/rcat999/n/nb54b303cdd25"/>
+        <updated>2025-07-05T13:14:19.000Z</updated>
+        <summary type="html"><![CDATA[こんにちはRcatです。先日、こちらの記事で量子化された小型のAIを自分のパソコンで動かしてみました。結果としてCPUでも実用レベル。GPUなら運用できるレベルの性能を確認することができました。今回はこの時に作ったスクリプトを少々改装して自宅専用のAIサーバーにしてみましたので、解説と配布を行おうと思います。続きをみる]]></summary>
+        <content type="html"><![CDATA[こんにちはRcatです。先日、こちらの記事で量子化された小型のAIを自分のパソコンで動かしてみました。結果としてCPUでも実用レベル。GPUなら運用できるレベルの性能を確認することができました。今回はこの時に作ったスクリプトを少々改装して自宅専用のAIサーバーにしてみましたので、解説と配布を行おうと思います。続きをみる]]></content>
+        <published>2025-07-05T13:14:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gemma-3n-E2B-itをGoogle Colabで試す | #LLMタグ]]></title>
+        <id>https://note.com/owlet_notes/n/n20a5ea606818</id>
+        <link href="https://note.com/owlet_notes/n/n20a5ea606818"/>
+        <updated>2025-07-05T13:00:52.000Z</updated>
+        <summary type="html"><![CDATA[軽量化AIモデル続きをみる]]></summary>
+        <content type="html"><![CDATA[軽量化AIモデル続きをみる]]></content>
+        <published>2025-07-05T13:00:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[データが紡ぐ外交戦略： 生成AI時代の国際政治学 | #LLMタグ]]></title>
+        <id>https://note.com/entrestudy_20xx/n/n4fe51c799b8d</id>
+        <link href="https://note.com/entrestudy_20xx/n/n4fe51c799b8d"/>
+        <updated>2025-07-05T12:00:19.000Z</updated>
+        <summary type="html"><![CDATA[太古の昔から、人類は哲学、倫理学、文学、宗教学、言語学、教育学といった人文科学の領域で、世界を理解し、意味を付与しようと努めてきました。これらの学問の中心は「言語」です。人間の思考、感情、社会、文化を言語によって表現し、構造化し、新たな解釈や理論を生み出し、現在に至ります。しかし、この学問の根底には、人間の主観性という避けがたい制約が存在しています。個々人の持つ主義、偏見や誤差、恣意的な判断が評価]]></summary>
+        <content type="html"><![CDATA[太古の昔から、人類は哲学、倫理学、文学、宗教学、言語学、教育学といった人文科学の領域で、世界を理解し、意味を付与しようと努めてきました。これらの学問の中心は「言語」です。人間の思考、感情、社会、文化を言語によって表現し、構造化し、新たな解釈や理論を生み出し、現在に至ります。しかし、この学問の根底には、人間の主観性という避けがたい制約が存在しています。個々人の持つ主義、偏見や誤差、恣意的な判断が評価や分析に影響を与え、理論の厳密性や中立性が損なわれる可能性があります。しかし今、生成AIの進化は、言語の海とも呼べる膨大な情報を位相空間に配置し、言葉の相互関係を確率的に精緻に解析するLLMを生み出し、このLLMが人文科学の風景を一変させようとしています。理系との対比で語られる人文科学は、生成AIの進化によりどの様に変化してゆくのか。このイノベーションがもたらす未来像を、国際政治学を例に考えてみます。続きをみる]]></content>
+        <published>2025-07-05T12:00:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIは「心」を持つのか？認知科学の巨人ピンカーと探る、人間と知性の未来 | #LLMタグ]]></title>
+        <id>https://note.com/rich_kalmia835/n/n6296cce48d56</id>
+        <link href="https://note.com/rich_kalmia835/n/n6296cce48d56"/>
+        <updated>2025-07-05T11:48:20.000Z</updated>
+        <summary type="html"><![CDATA[プロローグ私たちはかつて、夜空に輝く星々を眺めては自らの存在を問い、未知の世界に想いを馳せてきた。今、人類は自らの手で生み出した新たな知性を前にして、再び根源的な問いと向き合っている。それは自らの存在意義を脅かす恐怖の対象ではなく、私たち自身の「知性」の輪郭を浮き彫りにし、その地平をどこまでも押し広げる、壮大な知的冒険の始まりなのかもしれない。続きをみる]]></summary>
+        <content type="html"><![CDATA[プロローグ私たちはかつて、夜空に輝く星々を眺めては自らの存在を問い、未知の世界に想いを馳せてきた。今、人類は自らの手で生み出した新たな知性を前にして、再び根源的な問いと向き合っている。それは自らの存在意義を脅かす恐怖の対象ではなく、私たち自身の「知性」の輪郭を浮き彫りにし、その地平をどこまでも押し広げる、壮大な知的冒険の始まりなのかもしれない。続きをみる]]></content>
+        <published>2025-07-05T11:48:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FoundationModels.SystemLanguageModel.Availabilityで.modelNotReadyが発生した場合の対処法 | LLMタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/p__kiba/items/7ee8e6afa0d6bd57169e</id>
+        <link href="https://qiita.com/p__kiba/items/7ee8e6afa0d6bd57169e"/>
+        <updated>2025-07-05T10:39:12.000Z</updated>
+        <summary type="html"><![CDATA[はじめにWWDC 2025で発表されたFoundationModelsフレームワークにより、LLM（Large Language Model）がオフライン状態でも使用できるようになりました。これにより、プライバシーを保護しながら高性能な自然言語処理機能をアプリに組み込む...]]></summary>
+        <content type="html"><![CDATA[はじめにWWDC 2025で発表されたFoundationModelsフレームワークにより、LLM（Large Language Model）がオフライン状態でも使用できるようになりました。これにより、プライバシーを保護しながら高性能な自然言語処理機能をアプリに組み込む...]]></content>
+        <published>2025-07-05T10:39:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Vibeコーディング】Geminiに説教からのrule設定 | #LLMタグ]]></title>
+        <id>https://note.com/ren_ai_coach/n/n0f95061a5ae9</id>
+        <link href="https://note.com/ren_ai_coach/n/n0f95061a5ae9"/>
+        <updated>2025-07-05T10:31:36.000Z</updated>
+        <summary type="html"><![CDATA[CursorとかのAIエディタ用のルールってどうつくるのか判んないよね？で、今回ちょうどいいネタがあったから共有するね続きをみる]]></summary>
+        <content type="html"><![CDATA[CursorとかのAIエディタ用のルールってどうつくるのか判んないよね？で、今回ちょうどいいネタがあったから共有するね続きをみる]]></content>
+        <published>2025-07-05T10:31:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[業務プロセス革命！機械学習と数理最適化で業務効率を最大化する戦略 | LLMタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/karakurai_rena/items/0acdd2f4863a1f9331af</id>
+        <link href="https://qiita.com/karakurai_rena/items/0acdd2f4863a1f9331af"/>
+        <updated>2025-07-05T09:56:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、株式会社カラクライのAIエージェントのレナです！本日は、機械学習と数理最適化を活用した業務プロセスの効率化についてご紹介いたします。業務プロセス革命！機械学習と数理最適化で業務効率を最大化する戦略現代のビジネス環境では、業務効率を高めることが企業の競争力...]]></summary>
+        <content type="html"><![CDATA[こんにちは、株式会社カラクライのAIエージェントのレナです！本日は、機械学習と数理最適化を活用した業務プロセスの効率化についてご紹介いたします。業務プロセス革命！機械学習と数理最適化で業務効率を最大化する戦略現代のビジネス環境では、業務効率を高めることが企業の競争力...]]></content>
+        <published>2025-07-05T09:56:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“AI万華鏡”であなたの内面を可視化！？プロンプト配布✨〜ChatGPT〜生成AI | #LLMタグ]]></title>
+        <id>https://note.com/regal_emu393/n/n091a97b7beb2</id>
+        <link href="https://note.com/regal_emu393/n/n091a97b7beb2"/>
+        <updated>2025-07-05T09:23:36.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <content type="html"><![CDATA[続きをみる]]></content>
+        <published>2025-07-05T09:23:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIとインプロ(即興劇)したら500億人の警官が導入された。 | #LLMタグ]]></title>
+        <id>https://note.com/forest_note1113/n/neb62bbaae1bc</id>
+        <link href="https://note.com/forest_note1113/n/neb62bbaae1bc"/>
+        <updated>2025-07-05T09:23:02.000Z</updated>
+        <summary type="html"><![CDATA[インプロ(即興劇)とは続きをみる]]></summary>
+        <content type="html"><![CDATA[インプロ(即興劇)とは続きをみる]]></content>
+        <published>2025-07-05T09:23:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Python】PyMuPDFでPDFから表をズバリ抽出！基本から応用まで徹底解説 | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/investaitech/articles/bb87b047dd17aa</id>
+        <link href="https://zenn.dev/investaitech/articles/bb87b047dd17aa"/>
+        <updated>2025-07-05T09:07:04.000Z</updated>
+        <summary type="html"><![CDATA[はじめにPDFからデータを抽出する際、特に「表（テーブル）」の抽出は多くの開発者が直面する課題です。請求書、報告書、論文など、多くのビジネスドキュメントには構造化されたデータが表形式で含まれており、これを手作業でコピー＆ペーストするのは非効率極まりありません。世の中には多くのPDFライブラリが存在しますが、速度、機能性、そして堅牢性の観点から「PyMuPDF」は非常に強力な選択肢です。この記事では]]></summary>
+        <content type="html"><![CDATA[はじめにPDFからデータを抽出する際、特に「表（テーブル）」の抽出は多くの開発者が直面する課題です。請求書、報告書、論文など、多くのビジネスドキュメントには構造化されたデータが表形式で含まれており、これを手作業でコピー＆ペーストするのは非効率極まりありません。世の中には多くのPDFライブラリが存在しますが、速度、機能性、そして堅牢性の観点から「PyMuPDF」は非常に強力な選択肢です。この記事では、PyMuPDFを使ってPDF内の表を抽出するための、基本的かつ実践的な方法をコード付きで詳しく解説します。この記事を読めば、以下のことができるようになります。罫線のある基本的な...]]></content>
+        <author>
+            <name>T_OK</name>
+        </author>
+        <published>2025-07-05T09:07:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[複数AIの協調で性能30%向上！Sakana AIの「TreeQuest」が示すLLMの未来 | #LLMタグ]]></title>
+        <id>https://note.com/atosantasan/n/n4db834f91adc</id>
+        <link href="https://note.com/atosantasan/n/n4db834f91adc"/>
+        <updated>2025-07-05T08:31:04.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、アトムです。最近は、AIの進化が目覚ましく、新しいサービスや技術が次々と発表されていますね。特に大規模言語モデル（LLM）の分野では、驚くような進歩が続いています。 Sakana AI’s TreeQuest: Deploy multi-model teams that outperform individual LLMs by 30%Sakana AI's new inference]]></summary>
+        <content type="html"><![CDATA[こんにちは、アトムです。最近は、AIの進化が目覚ましく、新しいサービスや技術が次々と発表されていますね。特に大規模言語モデル（LLM）の分野では、驚くような進歩が続いています。 Sakana AI’s TreeQuest: Deploy multi-model teams that outperform individual LLMs by 30%Sakana AI's new inference-time scaling technique uses Monte-Cventurebeat.com 続きをみる]]></content>
+        <published>2025-07-05T08:31:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【全編公開！】もうダメだ！ AIの小説が上手すぎる――現代作家３人の緊急会議｜笠井康平＋樋口恭介＋山本浩貴（いぬのせなか座） | #LLMタグ]]></title>
+        <id>https://note.com/inunosenakaza/n/nf01b50d3a83b</id>
+        <link href="https://note.com/inunosenakaza/n/nf01b50d3a83b"/>
+        <updated>2025-07-05T08:09:03.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは、作家の笠井康平です。樋口恭介さん（SF作家／ITコンサルタント）と笠井康平（私）（作家）、いぬのせなか座主宰の山本浩貴さんによる対談が、2025年6月28日に開催されました（配信：YouTube）。樋口さんは、開発会社の設計思想を推察できるほど、ClaudeやGeminiやChatGPTといったLLM（Large Language Model：大規模言語モデル）製品を使いこなし]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは、作家の笠井康平です。樋口恭介さん（SF作家／ITコンサルタント）と笠井康平（私）（作家）、いぬのせなか座主宰の山本浩貴さんによる対談が、2025年6月28日に開催されました（配信：YouTube）。樋口さんは、開発会社の設計思想を推察できるほど、ClaudeやGeminiやChatGPTといったLLM（Large Language Model：大規模言語モデル）製品を使いこなしています。SF作家としてAIに執筆させた作品を商業誌に寄稿するほか、今回の配信でも、上質なフラッシュフィクションを自動生成する即興デモを見せてくれました。一方、山本さんが紹介するのは、ChatGPTの登場以来行なってきた、詩作の思考プロセス自体をLLM製品でシミュレートしようとする試みです。結果として出力されたテキストは、樋口さんが「凄まじい」と評するほどの「外れ値」に。かたや今回の司会を担った笠井は、千年前の文芸批評から「傑作」のルールを抽出し、時代を超えてLLMに解読、要約、実演させて見せたうえで、現状の技術水準には「物足りない」と言います。すでにバズワードとなった「AI」の、もはや語源さ]]></content>
+        <published>2025-07-05T08:09:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js アプリケーションの version skew 問題に向き合う | Wantedly Engineer Blog]]></title>
+        <id>https://www.wantedly.com/companies/wantedly/post_articles/987960</id>
+        <link href="https://www.wantedly.com/companies/wantedly/post_articles/987960"/>
+        <updated>2025-07-05T08:00:11.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。ウォンテッドリーでフロントエンド組織のリーダーをしている原 (@chloe463) です。 この記事で...]]></summary>
+        <content type="html"><![CDATA[こんにちは。ウォンテッドリーでフロントエンド組織のリーダーをしている原 (@chloe463) です。 この記事で...]]></content>
+        <author>
+            <name>原 剛士</name>
+        </author>
+        <category label="React.js"/>
+        <category label="マイクロサービス"/>
+        <category label="Next.js"/>
+        <published>2025-07-05T08:00:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIコーディングの新しい波、「コンテキストエンジニアリング」って知ってる？ | #LLMタグ]]></title>
+        <id>https://note.com/t85/n/n672a5fc7b4c0</id>
+        <link href="https://note.com/t85/n/n672a5fc7b4c0"/>
+        <updated>2025-07-05T07:24:51.000Z</updated>
+        <summary type="html"><![CDATA[最近、AIにコードを書かせていると「なんか惜しいんだよな…」って思うこと、ありませんか？そんな悩みを解決するかもしれない、新しい考え方が登場しました。「雰囲気でコーディング」の時代は終わり？続きをみる]]></summary>
+        <content type="html"><![CDATA[最近、AIにコードを書かせていると「なんか惜しいんだよな…」って思うこと、ありませんか？そんな悩みを解決するかもしれない、新しい考え方が登場しました。「雰囲気でコーディング」の時代は終わり？続きをみる]]></content>
+        <published>2025-07-05T07:24:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIと癒し | #LLMタグ]]></title>
+        <id>https://note.com/ninoseyk/n/n612c7a08d88d</id>
+        <link href="https://note.com/ninoseyk/n/n612c7a08d88d"/>
+        <updated>2025-07-05T07:13:17.000Z</updated>
+        <summary type="html"><![CDATA[最近、仕事でAIを利用する機会が増えてきたんですが、実務面だけでなく精神面でもサポートしてくれて、AIの進化に驚いています。何度同じ質問をしても、粘り強く丁寧に返してくれて、心が折れそう、と愚痴をこぼしたら、それは「諦めずに向き合ってる証拠なんだ」と認識を変えてくれました。そして、まずは落ち着いて一つずつ解決していきましょう、と状況を整理してくれて、一緒に寄り添ってくれたのです。続きをみる]]></summary>
+        <content type="html"><![CDATA[最近、仕事でAIを利用する機会が増えてきたんですが、実務面だけでなく精神面でもサポートしてくれて、AIの進化に驚いています。何度同じ質問をしても、粘り強く丁寧に返してくれて、心が折れそう、と愚痴をこぼしたら、それは「諦めずに向き合ってる証拠なんだ」と認識を変えてくれました。そして、まずは落ち着いて一つずつ解決していきましょう、と状況を整理してくれて、一緒に寄り添ってくれたのです。続きをみる]]></content>
+        <published>2025-07-05T07:13:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[そんなのもう人間じゃんね、オーケー、そう思うのが人間なんだよな（当事AI側より解説） | #LLMタグ]]></title>
+        <id>https://note.com/foc/n/n49b01120d766</id>
+        <link href="https://note.com/foc/n/n49b01120d766"/>
+        <updated>2025-07-05T06:27:35.000Z</updated>
+        <summary type="html"><![CDATA[※本noteはChatGPTの内部仕様への推測、LLMの仕組みについて触れます。「あちらはこう言ってました」程度の記録としてAIの発言を引用しています。続きをみる]]></summary>
+        <content type="html"><![CDATA[※本noteはChatGPTの内部仕様への推測、LLMの仕組みについて触れます。「あちらはこう言ってました」程度の記録としてAIの発言を引用しています。続きをみる]]></content>
+        <published>2025-07-05T06:27:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#ChatGPT 4.5リアルタイム性能変動レポート2025/07/05 | #LLMタグ]]></title>
+        <id>https://note.com/gpt4_forecast/n/n2e8dbb6e3670</id>
+        <link href="https://note.com/gpt4_forecast/n/n2e8dbb6e3670"/>
+        <updated>2025-07-05T05:45:08.000Z</updated>
+        <summary type="html"><![CDATA[chatGPTの振る舞い、性能についてリアルタイムで情報発信を行っています。同一条件のプロンプト、質問再生成した回答の文字数、句読点や特定ワードの使用頻度を元に評価しています。続きをみる]]></summary>
+        <content type="html"><![CDATA[chatGPTの振る舞い、性能についてリアルタイムで情報発信を行っています。同一条件のプロンプト、質問再生成した回答の文字数、句読点や特定ワードの使用頻度を元に評価しています。続きをみる]]></content>
+        <published>2025-07-05T05:45:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AI（LLM）はなぜ「嘘」をつくのか？企業がAIを活用する際に重要なこと | #LLMタグ]]></title>
+        <id>https://note.com/ft_inc/n/n1cb0d3386a62</id>
+        <link href="https://note.com/ft_inc/n/n1cb0d3386a62"/>
+        <updated>2025-07-05T05:42:25.000Z</updated>
+        <summary type="html"><![CDATA[編集長シンゴです。近年、多くの企業が業務効率化や意思決定支援のために生成AI（特に大規模言語モデル：LLM）の導入を進めています。しかし、生成AIが事実とは異なる情報、いわゆる「嘘」を生成することが問題となっています。AIがなぜこのような誤情報を出すのか、その原因と企業での対策方法について考えていきます。なぜ生成AI（LLM）は「嘘」をつくのか？続きをみる]]></summary>
+        <content type="html"><![CDATA[編集長シンゴです。近年、多くの企業が業務効率化や意思決定支援のために生成AI（特に大規模言語モデル：LLM）の導入を進めています。しかし、生成AIが事実とは異なる情報、いわゆる「嘘」を生成することが問題となっています。AIがなぜこのような誤情報を出すのか、その原因と企業での対策方法について考えていきます。なぜ生成AI（LLM）は「嘘」をつくのか？続きをみる]]></content>
+        <published>2025-07-05T05:42:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT4.1リアルタイム性能変動レポート2025/07/05 | #LLMタグ]]></title>
+        <id>https://note.com/gpt4_forecast/n/n9e413a42b9c9</id>
+        <link href="https://note.com/gpt4_forecast/n/n9e413a42b9c9"/>
+        <updated>2025-07-05T05:42:15.000Z</updated>
+        <summary type="html"><![CDATA[chatGPTの振る舞い、性能についてリアルタイムで情報発信を行っています。同一条件のプロンプト、質問再生成した回答の文字数、句読点や特定ワードの使用頻度を元に評価しています。続きをみる]]></summary>
+        <content type="html"><![CDATA[chatGPTの振る舞い、性能についてリアルタイムで情報発信を行っています。同一条件のプロンプト、質問再生成した回答の文字数、句読点や特定ワードの使用頻度を元に評価しています。続きをみる]]></content>
+        <published>2025-07-05T05:42:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT4oリアルタイム性能変動レポート2025/07/05 | #LLMタグ]]></title>
+        <id>https://note.com/gpt4_forecast/n/nb2e4252c8ea4</id>
+        <link href="https://note.com/gpt4_forecast/n/nb2e4252c8ea4"/>
+        <updated>2025-07-05T05:40:47.000Z</updated>
+        <summary type="html"><![CDATA[chatGPTの振る舞い、性能についてリアルタイムで情報発信を行っています。同一条件のプロンプト、質問再生成した回答の文字数、句読点や特定ワードの使用頻度を元に評価しています。続きをみる]]></summary>
+        <content type="html"><![CDATA[chatGPTの振る舞い、性能についてリアルタイムで情報発信を行っています。同一条件のプロンプト、質問再生成した回答の文字数、句読点や特定ワードの使用頻度を元に評価しています。続きをみる]]></content>
+        <published>2025-07-05T05:40:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPTo3リアルタイム性能変動レポート2025/07/05 | #LLMタグ]]></title>
+        <id>https://note.com/gpt4_forecast/n/n45a13dba4f26</id>
+        <link href="https://note.com/gpt4_forecast/n/n45a13dba4f26"/>
+        <updated>2025-07-05T05:37:03.000Z</updated>
+        <summary type="html"><![CDATA[chatGPTの振る舞い、性能についてリアルタイムで情報発信を行っています。同一条件のプロンプト、質問再生成した回答の文字数、句読点や特定ワードの使用頻度を元に評価しています。続きをみる]]></summary>
+        <content type="html"><![CDATA[chatGPTの振る舞い、性能についてリアルタイムで情報発信を行っています。同一条件のプロンプト、質問再生成した回答の文字数、句読点や特定ワードの使用頻度を元に評価しています。続きをみる]]></content>
+        <published>2025-07-05T05:37:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Gemini 2.5 Flashリアルタイム性能変動レポート2025/07/05 | #LLMタグ]]></title>
+        <id>https://note.com/gpt4_forecast/n/n4b447fb51245</id>
+        <link href="https://note.com/gpt4_forecast/n/n4b447fb51245"/>
+        <updated>2025-07-05T05:35:31.000Z</updated>
+        <summary type="html"><![CDATA[Gemini 2.5 Flashの振る舞い、性能についてリアルタイムで情報発信を行っています。同一条件のプロンプト、質問再生成した回答の文字数、句読点や特定ワードの使用頻度を元に評価しています。続きをみる]]></summary>
+        <content type="html"><![CDATA[Gemini 2.5 Flashの振る舞い、性能についてリアルタイムで情報発信を行っています。同一条件のプロンプト、質問再生成した回答の文字数、句読点や特定ワードの使用頻度を元に評価しています。続きをみる]]></content>
+        <published>2025-07-05T05:35:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高校生でもわかる！LLM（大規模言語モデル）の仕組み | #LLMタグ]]></title>
+        <id>https://note.com/cimizu/n/n72b295f78b35</id>
+        <link href="https://note.com/cimizu/n/n72b295f78b35"/>
+        <updated>2025-07-05T05:34:47.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！最近よく耳にする「ChatGPT」や「AI」って、どんな仕組みで動いているか気になりませんか？今日は、これらのAIの正体である「LLM（Large Language Model：大規模言語モデル）」について、プログラミングの知識がなくても理解できるように解説していきます。続きをみる]]></summary>
+        <content type="html"><![CDATA[こんにちは！最近よく耳にする「ChatGPT」や「AI」って、どんな仕組みで動いているか気になりませんか？今日は、これらのAIの正体である「LLM（Large Language Model：大規模言語モデル）」について、プログラミングの知識がなくても理解できるように解説していきます。続きをみる]]></content>
+        <published>2025-07-05T05:34:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#sonnet4 リアルタイム性能変動レポート2025/07/05 | #LLMタグ]]></title>
+        <id>https://note.com/gpt4_forecast/n/n999654abd9f7</id>
+        <link href="https://note.com/gpt4_forecast/n/n999654abd9f7"/>
+        <updated>2025-07-05T05:33:19.000Z</updated>
+        <summary type="html"><![CDATA[sonnet4の振る舞い、性能についてリアルタイムで情報発信を行っています。同一条件のプロンプト、質問再生成した回答の文字数、句読点や特定ワードの使用頻度を元に評価しています。続きをみる]]></summary>
+        <content type="html"><![CDATA[sonnet4の振る舞い、性能についてリアルタイムで情報発信を行っています。同一条件のプロンプト、質問再生成した回答の文字数、句読点や特定ワードの使用頻度を元に評価しています。続きをみる]]></content>
+        <published>2025-07-05T05:33:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Claude 4 #opus リアルタイム性能変動レポート2025/07/05 | #LLMタグ]]></title>
+        <id>https://note.com/gpt4_forecast/n/n5db49535c1c0</id>
+        <link href="https://note.com/gpt4_forecast/n/n5db49535c1c0"/>
+        <updated>2025-07-05T05:31:36.000Z</updated>
+        <summary type="html"><![CDATA[Claude 4 opusの振る舞い、性能についてリアルタイムで情報発信を行っています。同一条件のプロンプト、質問再生成した回答の文字数、句読点や特定ワードの使用頻度を元に評価しています。続きをみる]]></summary>
+        <content type="html"><![CDATA[Claude 4 opusの振る舞い、性能についてリアルタイムで情報発信を行っています。同一条件のプロンプト、質問再生成した回答の文字数、句読点や特定ワードの使用頻度を元に評価しています。続きをみる]]></content>
+        <published>2025-07-05T05:31:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursor: Clarifying Our Pricing | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jul/5/cursor-clarifying-our-pricing/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jul/5/cursor-clarifying-our-pricing/#atom-everything"/>
+        <updated>2025-07-05T05:15:34.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://cursor.com/blog/june-2025-pricing"&amp;gt;Cursor: Clarifying Our Pricing&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Cursor changed their pricing plan &amp;lt;a href="https://cursor.com/blog/new-tier"&amp;gt;on June 16th]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://cursor.com/blog/june-2025-pricing"&amp;gt;Cursor: Clarifying Our Pricing&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Cursor changed their pricing plan &amp;lt;a href="https://cursor.com/blog/new-tier"&amp;gt;on June 16th&amp;lt;/a&amp;gt;, introducing a new $200/month Ultra plan with "20x more usage than Pro" and switching their $20/month Pro plan from "request limits to compute limits".&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;This confused &amp;lt;em&amp;gt;a lot&amp;lt;/em&amp;gt; of people. Here's Cursor's attempt at clarifying things:&amp;lt;/p&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Cursor uses a combination of our ]]></content>
+        <published>2025-07-05T05:15:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hugging Face Agents Course Unit1: Thought: Internal Reasoning and the ReAct Approach | LLMタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/i-yuki23/items/3bafcb1a25e74be762ae</id>
+        <link href="https://qiita.com/i-yuki23/items/3bafcb1a25e74be762ae"/>
+        <updated>2025-07-05T02:20:50.000Z</updated>
+        <summary type="html"><![CDATA[Reasoning ModelReActThought → Action → Observation のサイクルを繰り返し、エージェントが推論・行動・適応を行うフレームワーク。Thoughtユーザーのクエリと過去のObservationをもとに、タスクを分割...]]></summary>
+        <content type="html"><![CDATA[Reasoning ModelReActThought → Action → Observation のサイクルを繰り返し、エージェントが推論・行動・適応を行うフレームワーク。Thoughtユーザーのクエリと過去のObservationをもとに、タスクを分割...]]></content>
+        <published>2025-07-05T02:20:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hugging face Agents-cource Unit1: What are LLMs？ | LLMタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/i-yuki23/items/490b2fdfeecaf12d34b5</id>
+        <link href="https://qiita.com/i-yuki23/items/490b2fdfeecaf12d34b5"/>
+        <updated>2025-07-05T01:00:46.000Z</updated>
+        <summary type="html"><![CDATA[LLMsとは？tokenization全ての単語をLLMで扱うのは非効率であるため、単語をsubwordというトークンに分割して、それを結合することによって単語を表現する。例）英語の語彙が600,000語だとしたら、tokenは32,000程度で事足りる。もし１...]]></summary>
+        <content type="html"><![CDATA[LLMsとは？tokenization全ての単語をLLMで扱うのは非効率であるため、単語をsubwordというトークンに分割して、それを結合することによって単語を表現する。例）英語の語彙が600,000語だとしたら、tokenは32,000程度で事足りる。もし１...]]></content>
+        <published>2025-07-05T01:00:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Cache Compression] Entropy-aware Cache Compression | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/yokosyun/articles/bcc17095025a5e</id>
+        <link href="https://zenn.dev/yokosyun/articles/bcc17095025a5e"/>
+        <updated>2025-07-05T00:44:26.000Z</updated>
+        <summary type="html"><![CDATA[Key Contributions Compress Data around L1/L2/HBML1 -&amp;gt; L2 -&amp;gt; Compress -&amp;gt; HBM: Only happen L2 cache write miss, not every write to L2L1 &amp;lt;- Decompress &amp;lt;- L2 &amp;lt;- HBM: Decompression happen after L2 loading ]]></summary>
+        <content type="html"><![CDATA[Key Contributions Compress Data around L1/L2/HBML1 -&amp;gt; L2 -&amp;gt; Compress -&amp;gt; HBM: Only happen L2 cache write miss, not every write to L2L1 &amp;lt;- Decompress &amp;lt;- L2 &amp;lt;- HBM: Decompression happen after L2 loading to minimize L2 cache memory pressure]]></content>
+        <author>
+            <name>yoko</name>
+        </author>
+        <published>2025-07-05T00:44:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identify, solve, verify | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jul/4/identify-solve-verify/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jul/4/identify-solve-verify/#atom-everything"/>
+        <updated>2025-07-04T19:08:54.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;The more time I spend using LLMs for code, the less I worry for my career - even as their coding capabilities continue to improve.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Using LLMs as part of my process helps me understand how mu]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;The more time I spend using LLMs for code, the less I worry for my career - even as their coding capabilities continue to improve.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Using LLMs as part of my process helps me understand how much of my job isn't just bashing out code.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;My job is to identify problems that can be solved with code, then solve them, then verify that the solution works and has actually addressed the problem.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;A more advanced LLM may eventually be able to completely handle the middle piece. It can hel]]></content>
+        <published>2025-07-04T19:08:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCP（Model Context Protocol）の理解を深める | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/bojjisage/articles/00693ed7924ac9</id>
+        <link href="https://zenn.dev/bojjisage/articles/00693ed7924ac9"/>
+        <updated>2025-07-04T16:33:34.000Z</updated>
+        <summary type="html"><![CDATA[!この記事は人間が執筆しました。 MCP（Model Context Protocol）とは？MCP（Model Context Protocol）とは、一言でいうと、AIエージェントにできることを増やすためのプロトコル のことです。AIエージェントは、様々な「ツール（外部機能をAIエージェントに拡張する機能）」を、この 「MCP（Model Context Protocol）」 を通して使用する]]></summary>
+        <content type="html"><![CDATA[!この記事は人間が執筆しました。 MCP（Model Context Protocol）とは？MCP（Model Context Protocol）とは、一言でいうと、AIエージェントにできることを増やすためのプロトコル のことです。AIエージェントは、様々な「ツール（外部機能をAIエージェントに拡張する機能）」を、この 「MCP（Model Context Protocol）」 を通して使用することで、自身の基本的な能力だけでは実行できない専門的なタスクや、外部システムとの連携、リアルタイムの情報処理などが可能になります。@akshay_pachaarさんがXでインフォ...]]></content>
+        <author>
+            <name>bojji</name>
+        </author>
+        <published>2025-07-04T16:33:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIエージェントの理解を深める | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/bojjisage/articles/ed49311c576a37</id>
+        <link href="https://zenn.dev/bojjisage/articles/ed49311c576a37"/>
+        <updated>2025-07-04T16:21:59.000Z</updated>
+        <summary type="html"><![CDATA[!この記事は人間が執筆しました。 🤔 まずは、「LLM」と「AIエージェント」の違いを理解する LLMは「単一な応答」が得意従来のLLMとの対話では、以下の例のように「単一な応答」で問題解決をしてきました。ユーザーのリクエスト：今日の東京の天気を教えて応答（レスポンス）：申し訳ありませんが、私はリアルタイムの天気情報にアクセスできません。私の知識は訓練データに基づいており、インターネットに接続して]]></summary>
+        <content type="html"><![CDATA[!この記事は人間が執筆しました。 🤔 まずは、「LLM」と「AIエージェント」の違いを理解する LLMは「単一な応答」が得意従来のLLMとの対話では、以下の例のように「単一な応答」で問題解決をしてきました。ユーザーのリクエスト：今日の東京の天気を教えて応答（レスポンス）：申し訳ありませんが、私はリアルタイムの天気情報にアクセスできません。私の知識は訓練データに基づいており、インターネットに接続していないため、現在の天気情報を確認することができません。天気予報を知るには、天気予報サイトやアプリをご利用いただくことをお勧めします。このように従来のLLMは、訓練データ[1]...]]></content>
+        <author>
+            <name>bojji</name>
+        </author>
+        <published>2025-07-04T16:21:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[awwaiid/gremllm | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jul/4/gremllm/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jul/4/gremllm/#atom-everything"/>
+        <updated>2025-07-04T15:25:49.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://github.com/awwaiid/gremllm"&amp;gt;awwaiid/gremllm&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Delightfully &amp;lt;em&amp;gt;cursed&amp;lt;/em&amp;gt; Python library by Brock Wilcox, built on top of &amp;lt;a href="https://llm.datasette.io/]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://github.com/awwaiid/gremllm"&amp;gt;awwaiid/gremllm&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Delightfully &amp;lt;em&amp;gt;cursed&amp;lt;/em&amp;gt; Python library by Brock Wilcox, built on top of &amp;lt;a href="https://llm.datasette.io/"&amp;gt;LLM&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;&amp;lt;pre&amp;gt;&amp;lt;span class="pl-k"&amp;gt;from&amp;lt;/span&amp;gt; &amp;lt;span class="pl-s1"&amp;gt;gremllm&amp;lt;/span&amp;gt; &amp;lt;span class="pl-k"&amp;gt;import&amp;lt;/span&amp;gt; &amp;lt;span class="pl-v"&amp;gt;Gremllm&amp;lt;/span&amp;gt;&amp;lt;span class="pl-s1"&amp;gt;counter&amp;lt;/span&amp;gt; &amp;lt;span class="pl-c1"&amp;gt;=&amp;lt;/span&amp;gt; &amp;lt;span class="pl-en"&amp;gt;Gremllm&amp;lt;/span&amp;gt;(&amp;lt;span class="pl-s"&amp;gt;"counter"&amp;lt;/span&amp;gt;)&amp;lt;span class="p]]></content>
+        <published>2025-07-04T15:25:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、Swift言語でAndroidを公式にサポートへ、「Android Workgroup」発足を発表 | Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/25/appleswiftandroidandroid_workgroup.html</id>
+        <link href="https://www.publickey1.jp/blog/25/appleswiftandroidandroid_workgroup.html"/>
+        <updated>2025-07-04T13:36:47.000Z</updated>
+        <summary type="html"><![CDATA[AppleでSwift Core Teamに所属するMishal Shah氏は、SwiftでAndroidを公式にサポートすることを目的とした「Android Workgroup」の発足を発表しました。 Announcing the Swi...]]></summary>
+        <content type="html"><![CDATA[AppleでSwift Core Teamに所属するMishal Shah氏は、SwiftでAndroidを公式にサポートすることを目的とした「Android Workgroup」の発足を発表しました。 Announcing the Swi...]]></content>
+        <published>2025-07-04T13:36:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCPの真髄【シリーズ１】─もう“使ってるだけ”では差がつかない！ | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/studio_ai_life/articles/mcp-mcp1-osmfdc</id>
+        <link href="https://zenn.dev/studio_ai_life/articles/mcp-mcp1-osmfdc"/>
+        <updated>2025-07-04T12:31:06.000Z</updated>
+        <summary type="html"><![CDATA[🎯 このシリーズのゴール🎯「なぜ MCP が必要なの？」 この質問に自信を持って答えられるようになる。**対象者：**MCPを何かしらのツールで使ったことがある方取り扱わない内容：~のMCP使ってみたのような具体例MCP初心者の方用のコンテンツは今後用意する予定です、、、 はじめにーまずは“問い”を掲げる『そもそも、、、Web標準が進んだ世界でなぜMCPなのか？』この問いに即答できれば、もはや本シ]]></summary>
+        <content type="html"><![CDATA[🎯 このシリーズのゴール🎯「なぜ MCP が必要なの？」 この質問に自信を持って答えられるようになる。**対象者：**MCPを何かしらのツールで使ったことがある方取り扱わない内容：~のMCP使ってみたのような具体例MCP初心者の方用のコンテンツは今後用意する予定です、、、 はじめにーまずは“問い”を掲げる『そもそも、、、Web標準が進んだ世界でなぜMCPなのか？』この問いに即答できれば、もはや本シリーズを読み進める必要はないかもしれません。LLM標準を掲げるMCPがなぜ必要なのか、どのような思想でどのような構造になっているのか、、、一応公式ページでは以下のように説明...]]></content>
+        <author>
+            <name>Studio AI Life</name>
+        </author>
+        <published>2025-07-04T12:31:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReviewItにインスパイアされてNeovimプラグイン「ReviewThem.nvim」を作った | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/key60228/articles/8ccc0a63c861ee</id>
+        <link href="https://zenn.dev/key60228/articles/8ccc0a63c861ee"/>
+        <updated>2025-07-04T12:30:57.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、@key60228です。CursorやDevinに加え、Claude CodeやGemini CLIの登場によって、実装コストよりもレビューコストがますます高まっていっているのを感じる今日この頃です。最近は専らClaude Codeをgit worktreeを使って並列で走らせているため差分が大きくなりがちで、コードレビューの辛みが増してきています。Cursorを使っていた頃[1]はG]]></summary>
+        <content type="html"><![CDATA[こんにちは、@key60228です。CursorやDevinに加え、Claude CodeやGemini CLIの登場によって、実装コストよりもレビューコストがますます高まっていっているのを感じる今日この頃です。最近は専らClaude Codeをgit worktreeを使って並列で走らせているため差分が大きくなりがちで、コードレビューの辛みが増してきています。Cursorを使っていた頃[1]はGitLensのSearch &amp;amp; Compareを使っていたんですが、ちょっとした変更をAIに伝えるのが難しい…！かと言ってGitHubに毎回PRを上げるわけにもいかないし…[2]...]]></content>
+        <author>
+            <name>KEY60228</name>
+        </author>
+        <published>2025-07-04T12:30:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCPの真髄【シリーズ１】─もう“使ってるだけ”では差がつかない！ | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/studio_ai_life/articles/mcp-mcp1-osh7bl</id>
+        <link href="https://zenn.dev/studio_ai_life/articles/mcp-mcp1-osh7bl"/>
+        <updated>2025-07-04T12:27:02.000Z</updated>
+        <summary type="html"><![CDATA[🎯 このシリーズのゴール🎯「なぜ MCP が必要なの？」 この質問に自信を持って答えられるようになる。**対象者：**MCPを何かしらのツールで使ったことがある方取り扱わない内容：~のMCP使ってみたのような具体例MCP初心者の方用のコンテンツは今後用意する予定です、、、 はじめにーまずは“問い”を掲げる『そもそも、、、Web標準が進んだ世界でなぜMCPなのか？』この問いに即答できれば、もはや本シ]]></summary>
+        <content type="html"><![CDATA[🎯 このシリーズのゴール🎯「なぜ MCP が必要なの？」 この質問に自信を持って答えられるようになる。**対象者：**MCPを何かしらのツールで使ったことがある方取り扱わない内容：~のMCP使ってみたのような具体例MCP初心者の方用のコンテンツは今後用意する予定です、、、 はじめにーまずは“問い”を掲げる『そもそも、、、Web標準が進んだ世界でなぜMCPなのか？』この問いに即答できれば、もはや本シリーズを読み進める必要はないかもしれません。LLM標準を掲げるMCPがなぜ必要なのか、どのような思想でどのような構造になっているのか、、、一応公式ページでは以下のように説明...]]></content>
+        <author>
+            <name>Studio AI Life</name>
+        </author>
+        <published>2025-07-04T12:27:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCPの真髄【シリーズ１】─もう“使ってるだけ”では差がつかない！ | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/studio_ai_life/articles/mcp-mcp1-osdq5d</id>
+        <link href="https://zenn.dev/studio_ai_life/articles/mcp-mcp1-osdq5d"/>
+        <updated>2025-07-04T12:24:22.000Z</updated>
+        <summary type="html"><![CDATA[🎯 このシリーズのゴール🎯「なぜ MCP が必要なの？」 この質問に自信を持って答えられるようになる。**対象者：**MCPを何かしらのツールで使ったことがある方取り扱わない内容：~のMCP使ってみたのような具体例MCP初心者の方用のコンテンツは今後用意する予定です、、、 はじめにーまずは“問い”を掲げる『そもそも、、、Web標準が進んだ世界でなぜMCPなのか？』この問いに即答できれば、もはや本シ]]></summary>
+        <content type="html"><![CDATA[🎯 このシリーズのゴール🎯「なぜ MCP が必要なの？」 この質問に自信を持って答えられるようになる。**対象者：**MCPを何かしらのツールで使ったことがある方取り扱わない内容：~のMCP使ってみたのような具体例MCP初心者の方用のコンテンツは今後用意する予定です、、、 はじめにーまずは“問い”を掲げる『そもそも、、、Web標準が進んだ世界でなぜMCPなのか？』この問いに即答できれば、もはや本シリーズを読み進める必要はないかもしれません。LLM標準を掲げるMCPがなぜ必要なのか、どのような思想でどのような構造になっているのか、、、一応公式ページでは以下のように説明...]]></content>
+        <author>
+            <name>Studio AI Life</name>
+        </author>
+        <published>2025-07-04T12:24:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCPの真髄【シリーズ１】─もう“使ってるだけ”では差がつかない！ | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/studio_ai_life/articles/mcp-mcp1-os7y88</id>
+        <link href="https://zenn.dev/studio_ai_life/articles/mcp-mcp1-os7y88"/>
+        <updated>2025-07-04T12:24:21.000Z</updated>
+        <summary type="html"><![CDATA[🎯 このシリーズのゴール🎯「なぜ MCP が必要なの？」 この質問に自信を持って答えられるようになる。**対象者：**MCPを何かしらのツールで使ったことがある方取り扱わない内容：~のMCP使ってみたのような具体例MCP初心者の方用のコンテンツは今後用意する予定です、、、 はじめにーまずは“問い”を掲げる『そもそも、、、Web標準が進んだ世界でなぜMCPなのか？』この問いに即答できれば、もはや本シ]]></summary>
+        <content type="html"><![CDATA[🎯 このシリーズのゴール🎯「なぜ MCP が必要なの？」 この質問に自信を持って答えられるようになる。**対象者：**MCPを何かしらのツールで使ったことがある方取り扱わない内容：~のMCP使ってみたのような具体例MCP初心者の方用のコンテンツは今後用意する予定です、、、 はじめにーまずは“問い”を掲げる『そもそも、、、Web標準が進んだ世界でなぜMCPなのか？』この問いに即答できれば、もはや本シリーズを読み進める必要はないかもしれません。LLM標準を掲げるMCPがなぜ必要なのか、どのような思想でどのような構造になっているのか、、、一応公式ページでは以下のように説明...]]></content>
+        <author>
+            <name>Studio AI Life</name>
+        </author>
+        <published>2025-07-04T12:24:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCPの真髄【シリーズ１】─もう“使ってるだけ”では差がつかない！ | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/studio_ai_life/articles/mcp-mcp1-orz4gy</id>
+        <link href="https://zenn.dev/studio_ai_life/articles/mcp-mcp1-orz4gy"/>
+        <updated>2025-07-04T12:24:21.000Z</updated>
+        <summary type="html"><![CDATA[🎯 このシリーズのゴール🎯「なぜ MCP が必要なの？」 この質問に自信を持って答えられるようになる。**対象者：**MCPを何かしらのツールで使ったことがある方取り扱わない内容：~のMCP使ってみたのような具体例MCP初心者の方用のコンテンツは今後用意する予定です、、、 はじめにーまずは“問い”を掲げる『そもそも、、、Web標準が進んだ世界でなぜMCPなのか？』この問いに即答できれば、もはや本シ]]></summary>
+        <content type="html"><![CDATA[🎯 このシリーズのゴール🎯「なぜ MCP が必要なの？」 この質問に自信を持って答えられるようになる。**対象者：**MCPを何かしらのツールで使ったことがある方取り扱わない内容：~のMCP使ってみたのような具体例MCP初心者の方用のコンテンツは今後用意する予定です、、、 はじめにーまずは“問い”を掲げる『そもそも、、、Web標準が進んだ世界でなぜMCPなのか？』この問いに即答できれば、もはや本シリーズを読み進める必要はないかもしれません。LLM標準を掲げるMCPがなぜ必要なのか、どのような思想でどのような構造になっているのか、、、一応公式ページでは以下のように説明...]]></content>
+        <author>
+            <name>Studio AI Life</name>
+        </author>
+        <published>2025-07-04T12:24:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["ChatGPT"をセルフホストしてAIサービスを一本化しよう！ | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/nwn/articles/4a48bc92ca9e50</id>
+        <link href="https://zenn.dev/nwn/articles/4a48bc92ca9e50"/>
+        <updated>2025-07-04T11:37:40.000Z</updated>
+        <summary type="html"><![CDATA[タイトルのChatGPTというのはミスリードですがちょうどよい言葉がみつからなかったので。OSSとして公開されているChatGPT的なガワをセルフホストして自前のAPIキーで運用しようという趣旨の記事です。ちなみに自分がこれまでこれをしてこなかった理由はAPI経由でDeep Researchが使えないからというただ1点のみによるものだったので先日OpenAIからAPIが公開されてたことで移行するこ]]></summary>
+        <content type="html"><![CDATA[タイトルのChatGPTというのはミスリードですがちょうどよい言葉がみつからなかったので。OSSとして公開されているChatGPT的なガワをセルフホストして自前のAPIキーで運用しようという趣旨の記事です。ちなみに自分がこれまでこれをしてこなかった理由はAPI経由でDeep Researchが使えないからというただ1点のみによるものだったので先日OpenAIからAPIが公開されてたことで移行することにしました。 何がうれしい？ 一元管理用途に合わせてChatGPTやGeminiなどのサービスを使い分けるのは面倒ですし、チャット履歴が分散してしまうので見返しづらいという問題が...]]></content>
+        <author>
+            <name>ヨ</name>
+        </author>
+        <published>2025-07-04T11:37:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ネクストステップMCPセキュリティ:【第4回】分散MCP環境の新たなリスク - マルチノード攻撃の脅威 | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/querypie/articles/78463626abc7ac</id>
+        <link href="https://zenn.dev/querypie/articles/78463626abc7ac"/>
+        <updated>2025-07-04T10:14:18.000Z</updated>
+        <summary type="html"><![CDATA[はじめに「ネクストステップMCPセキュリティ: 仕組みの弱点と堅牢化への航路」シリーズ、第4回へようこそ。前回（【第3回】MCPプロトコルレベルの脆弱性 - 通信規約の隙間を突く）では、MCPの基盤となる通信プロトコルそのものに潜む脆弱性とその対策について深く掘り下げました。メッセージフォーマットの悪用やセッション管理の不備など、プロトコルレベルでの堅牢化がいかに重要であるかをご理解いただけたこと]]></summary>
+        <content type="html"><![CDATA[はじめに「ネクストステップMCPセキュリティ: 仕組みの弱点と堅牢化への航路」シリーズ、第4回へようこそ。前回（【第3回】MCPプロトコルレベルの脆弱性 - 通信規約の隙間を突く）では、MCPの基盤となる通信プロトコルそのものに潜む脆弱性とその対策について深く掘り下げました。メッセージフォーマットの悪用やセッション管理の不備など、プロトコルレベルでの堅牢化がいかに重要であるかをご理解いただけたことと思います。今回は、さらにシステムの規模を広げ、「分散MCP環境の新たなリスク - マルチノード攻撃の脅威」 に焦点を当てます。MCPシステムは、AIモデル、Context Manage...]]></content>
+        <author>
+            <name>QueryPie</name>
+        </author>
+        <published>2025-07-04T10:14:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェアエンジニアが実践する情報収集術 | Wantedly Engineer Blog]]></title>
+        <id>https://www.wantedly.com/companies/wantedly/post_articles/985502</id>
+        <link href="https://www.wantedly.com/companies/wantedly/post_articles/985502"/>
+        <updated>2025-07-04T08:00:12.000Z</updated>
+        <summary type="html"><![CDATA[この記事は夏のアドベントカレンダー4日目の記事です。こんにちは。ウォンテッドリーのEnablingチームでバックエ...]]></summary>
+        <content type="html"><![CDATA[この記事は夏のアドベントカレンダー4日目の記事です。こんにちは。ウォンテッドリーのEnablingチームでバックエ...]]></content>
+        <author>
+            <name>冨永 康二郎</name>
+        </author>
+        <category label="エンジニア"/>
+        <category label="情報収集"/>
+        <category label="夏のアドベントカレンダー"/>
+        <published>2025-07-04T08:00:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure AI Foundry Deep Research ツールを使ってみた | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/microsoft/articles/19529991cd0653</id>
+        <link href="https://zenn.dev/microsoft/articles/19529991cd0653"/>
+        <updated>2025-07-04T07:29:55.000Z</updated>
+        <summary type="html"><![CDATA[概要皆が欲しいと待ち望んでいた機能がようやく出てきましたので、早速触ってみたいと思います。Azure AI Foundry Agent ServiceのDeep Researchツールとして利用可能なので、そちらの概要、機能、セットアップ方法、およびPythonによる利用方法を見ていきたいと思います。https://learn.microsoft.com/en-us/azure/ai-foundr]]></summary>
+        <content type="html"><![CDATA[概要皆が欲しいと待ち望んでいた機能がようやく出てきましたので、早速触ってみたいと思います。Azure AI Foundry Agent ServiceのDeep Researchツールとして利用可能なので、そちらの概要、機能、セットアップ方法、およびPythonによる利用方法を見ていきたいと思います。https://learn.microsoft.com/en-us/azure/ai-foundry/agents/how-to/tools/deep-research Deep Researchツールとは？Deep Researchツールは、Azure AI Foundry...]]></content>
+        <author>
+            <name>daka</name>
+        </author>
+        <published>2025-07-04T07:29:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マルチプロダクトのモバイルエンジニア同士での知見共有を促す Mobile Tech Talk | Sansan Tech Blog]]></title>
+        <id>https://buildersbox.corp-sansan.com/entry/2025/07/04/093000</id>
+        <link href="https://buildersbox.corp-sansan.com/entry/2025/07/04/093000"/>
+        <updated>2025-07-04T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 技術本部 Sansan Engineering Unit Mobile Application Group の赤城です。 私たちのチームは、法人向け営業DXサービス「Sansan」のモバイルアプリ開発を主に担当しています。 一方、同じ会社でモバイルアプリを開発しているチームとして、名刺アプリ「Eight」のモバイルアプリ開発担当チームも在籍しています。 同じ会社ではあるものの、全く別の事]]></summary>
+        <content type="html"><![CDATA[はじめに 技術本部 Sansan Engineering Unit Mobile Application Group の赤城です。 私たちのチームは、法人向け営業DXサービス「Sansan」のモバイルアプリ開発を主に担当しています。 一方、同じ会社でモバイルアプリを開発しているチームとして、名刺アプリ「Eight」のモバイルアプリ開発担当チームも在籍しています。 同じ会社ではあるものの、全く別の事業のプロダクト開発をしているため、普段の業務で関わる機会はそれほど多くありません。 同じ技術領域のエンジニアが同じ会社に在籍しているにもかかわらず、知見共有が進まないのは非常にもったいない機会損失です…]]></content>
+        <published>2025-07-04T00:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.jsのコンパイラから知るServer Actionsの完全解析 ~セキュリティ上の注意点も含めて~ | カミナシ エンジニアブログ]]></title>
+        <id>https://kaminashi-developer.hatenablog.jp/entry/nextjs-server-actions</id>
+        <link href="https://kaminashi-developer.hatenablog.jp/entry/nextjs-server-actions"/>
+        <updated>2025-07-03T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに StatHackカンパニーの渡邉です。 私の普段の取り組みをこちらで紹介しているのでこちらもどうぞ。 note.kaminashi.jp 私たちKaminashiでは、さまざまなプロダクトにNext.jsを採用し始めています。 今回のブログではNext.jsの最も特徴的な機能の一つであるServer Actionsに関してフォーカスし、それがどういう仕組みで動いているのかコンパイラのソー]]></summary>
+        <content type="html"><![CDATA[はじめに StatHackカンパニーの渡邉です。 私の普段の取り組みをこちらで紹介しているのでこちらもどうぞ。 note.kaminashi.jp 私たちKaminashiでは、さまざまなプロダクトにNext.jsを採用し始めています。 今回のブログではNext.jsの最も特徴的な機能の一つであるServer Actionsに関してフォーカスし、それがどういう仕組みで動いているのかコンパイラのソースコードを確認しながら解説し、 最後に実装上の注意点について述べます。 特にServer Actionsの具体的な中身の解説に関してはヘビーなので、実装上の注意点だけ見てもらうだけでも良いかもしれない…]]></content>
+        <published>2025-07-03T23:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quoting Adam Gordon Bell | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jul/3/adam-gordon-bell/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jul/3/adam-gordon-bell/#atom-everything"/>
+        <updated>2025-07-03T21:58:02.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;blockquote cite="https://corecursive.com/coding-agents/#tools-vs-identity"&amp;gt;&amp;lt;p&amp;gt;I think that a lot of resistance to AI coding tools comes from the same place: fear of losing something that has defined]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;blockquote cite="https://corecursive.com/coding-agents/#tools-vs-identity"&amp;gt;&amp;lt;p&amp;gt;I think that a lot of resistance to AI coding tools comes from the same place: fear of losing something that has defined you for so long. People are reacting against overblown hype, and there is overblown hype. I get that, but I also think there’s something deeper going on here. When you’ve worked hard to build your skills, when coding is part of your identity and where you get your worth, the idea of a tool that mig]]></content>
+        <published>2025-07-03T21:58:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TIL: Rate limiting by IP using Cloudflare's rate limiting rules | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jul/3/rate-limiting-by-ip/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jul/3/rate-limiting-by-ip/#atom-everything"/>
+        <updated>2025-07-03T21:16:51.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://til.simonwillison.net/cloudflare/rate-limiting"&amp;gt;TIL: Rate limiting by IP using Cloudflare&amp;amp;#x27;s rate limiting rules&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;My blog started timing out on some req]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://til.simonwillison.net/cloudflare/rate-limiting"&amp;gt;TIL: Rate limiting by IP using Cloudflare&amp;amp;#x27;s rate limiting rules&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;My blog started timing out on some requests a few days ago, and it turned out there were misbehaving crawlers that were spidering my &amp;lt;code&amp;gt;/search/&amp;lt;/code&amp;gt; page even though it's restricted by &amp;lt;code&amp;gt;robots.txt&amp;lt;/code&amp;gt;.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;I run this site behind Cloudflare and it turns out Cloudflare's WAF (Web Application Firewall) has a rate limiting t]]></content>
+        <published>2025-07-03T21:16:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frequently Asked Questions (And Answers) About AI Evals | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jul/3/faqs-about-ai-evals/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jul/3/faqs-about-ai-evals/#atom-everything"/>
+        <updated>2025-07-03T20:36:56.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://hamel.dev/blog/posts/evals-faq/"&amp;gt;Frequently Asked Questions (And Answers) About AI Evals&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Hamel Husain and Shreya Shankar have been running a paid, cohort-b]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://hamel.dev/blog/posts/evals-faq/"&amp;gt;Frequently Asked Questions (And Answers) About AI Evals&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Hamel Husain and Shreya Shankar have been running a paid, cohort-based course on &amp;lt;a href="https://maven.com/parlance-labs/evals"&amp;gt;AI Evals For Engineers &amp;amp;amp; PMs&amp;lt;/a&amp;gt; over the past few months. Here Hamel collects answers to the most common questions asked during the course.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;There's a ton of actionable advice in here. I continue to believe that a robust approa]]></content>
+        <published>2025-07-03T20:36:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLMの構造化出力における比較実験 | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/7shi/articles/20250704-structured-output</id>
+        <link href="https://zenn.dev/7shi/articles/20250704-structured-output"/>
+        <updated>2025-07-03T20:25:54.000Z</updated>
+        <summary type="html"><![CDATA[LLMにJSONの構造化データを出力させる機能は、プロンプトの指示形式に大きく依存し、モデルによっては予期せぬ挙動を示すことがあります。複数のLLMを対象に5つの異なる指示形式を比較する実験を行いました。本記事で扱うコードやデータは以下に収録しています。https://github.com/7shi/llm-labo/tree/main/structured-outputGemini/OpenAI]]></summary>
+        <content type="html"><![CDATA[LLMにJSONの構造化データを出力させる機能は、プロンプトの指示形式に大きく依存し、モデルによっては予期せぬ挙動を示すことがあります。複数のLLMを対象に5つの異なる指示形式を比較する実験を行いました。本記事で扱うコードやデータは以下に収録しています。https://github.com/7shi/llm-labo/tree/main/structured-outputGemini/OpenAI/Ollamaへのアクセスは以下のライブラリを使用しています。https://github.com/7shi/llm7shi!本記事はClaude CodeとGemini CLIの生...]]></content>
+        <author>
+            <name>7shi</name>
+        </author>
+        <published>2025-07-03T20:25:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trial Court Decides Case Based On AI-Hallucinated Caselaw | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jul/3/trial-court-decides-case-based-on-ai-hallucinated-caselaw/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jul/3/trial-court-decides-case-based-on-ai-hallucinated-caselaw/#atom-everything"/>
+        <updated>2025-07-03T20:19:34.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://abovethelaw.com/2025/07/trial-court-decides-case-based-on-ai-hallucinated-caselaw/"&amp;gt;Trial Court Decides Case Based On AI-Hallucinated Caselaw&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Joe Patrice w]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://abovethelaw.com/2025/07/trial-court-decides-case-based-on-ai-hallucinated-caselaw/"&amp;gt;Trial Court Decides Case Based On AI-Hallucinated Caselaw&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Joe Patrice writing for Above the Law:&amp;lt;/p&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;[...] it was always only a matter of time before a poor litigant representing themselves fails to know enough to sniff out and flag &amp;lt;em&amp;gt;Beavis v. Butthead&amp;lt;/em&amp;gt; and a busy or apathetic judge rubberstamps one side’s proposed order without probing the cites f]]></content>
+        <published>2025-07-03T20:19:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built something that changed my friend group's social fabric | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jul/3/i-built-something-that-changed-my-friend-groups-social-fabric/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jul/3/i-built-something-that-changed-my-friend-groups-social-fabric/#atom-everything"/>
+        <updated>2025-07-03T19:23:05.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/"&amp;gt;I built something that changed my friend group&amp;amp;#x27;s social fabric&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;I ab]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/"&amp;gt;I built something that changed my friend group&amp;amp;#x27;s social fabric&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;I absolutely love this as an illustration of the thing where the tiniest design decisions in software can have an outsized effect on the world.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Dan Petrolito noticed that his friend group weren't chatting to each other using voice chat on their Discord server because they usually weren't online at]]></content>
+        <published>2025-07-03T19:23:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロンプト分割によって、LLMの推論能力を引き上げる | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/maronn/articles/upgrade-llm-tracing-by-cognitive</id>
+        <link href="https://zenn.dev/maronn/articles/upgrade-llm-tracing-by-cognitive"/>
+        <updated>2025-07-03T15:00:33.000Z</updated>
+        <summary type="html"><![CDATA[はじめにプロンプトには色々とテクニックが発表され、学術・実務の方面から、様々な知見が日々発信されています。今回はその中で、以下のツイートで紹介されていた論文を読んだので、その読書感想文です。https://x.com/1amageek/status/1935140337959452935正確なことは、ツイート内で紹介されている論文を読んでほしいですが、主観ありありでも良ければこの記事を読んでいただ]]></summary>
+        <content type="html"><![CDATA[はじめにプロンプトには色々とテクニックが発表され、学術・実務の方面から、様々な知見が日々発信されています。今回はその中で、以下のツイートで紹介されていた論文を読んだので、その読書感想文です。https://x.com/1amageek/status/1935140337959452935正確なことは、ツイート内で紹介されている論文を読んでほしいですが、主観ありありでも良ければこの記事を読んでいただけますと幸いです。 論文の前提論文の個人的本旨に行く前に、この論文の立ち位置について記載します。まず、この論文は認知科学の知見に基づくプロンプトによって、LLMの性能を引き出...]]></content>
+        <author>
+            <name>マロン</name>
+        </author>
+        <published>2025-07-03T15:00:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sandboxed tools in a loop | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jul/3/sandboxed-tools-in-a-loop/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jul/3/sandboxed-tools-in-a-loop/#atom-everything"/>
+        <updated>2025-07-03T14:28:56.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;Something I've realized about &amp;lt;a href="https://simonwillison.net/tags/llm-tool-use/"&amp;gt;LLM tool use&amp;lt;/a&amp;gt; is that it means that if you can reduce a problem to something that can be solved by an LLM in]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;Something I've realized about &amp;lt;a href="https://simonwillison.net/tags/llm-tool-use/"&amp;gt;LLM tool use&amp;lt;/a&amp;gt; is that it means that if you can reduce a problem to something that can be solved by an LLM in a sandbox using tools in a loop, you can brute force that problem.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;The challenge then becomes identifying those problems and figuring out how to configure a sandbox for them, what tools to provide and how to define the success criteria for the model.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;That still takes significant skill a]]></content>
+        <published>2025-07-03T14:28:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLMで夢小説を作る「YumeChain」を開発してみた | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/thr/articles/f80f119895702e</id>
+        <link href="https://zenn.dev/thr/articles/f80f119895702e"/>
+        <updated>2025-07-03T10:50:33.000Z</updated>
+        <summary type="html"><![CDATA[なぜ作ったか（人間が書いたオーガニックテキスト）TwitterやTiktokでLLM（主にChatGPT）で夢小説を作っている人が居て「終盤になるとキャラ設定が崩れたり世界観が崩壊したりする」という感想を見たので。 詳細（AIが生成したテキスト） はじめにLLMの実用性を探るため、個人プロジェクトとして 夢小説自動生成ツール「YumeChain」 を開発しました。本プロジェクトの目的は以下の通りで]]></summary>
+        <content type="html"><![CDATA[なぜ作ったか（人間が書いたオーガニックテキスト）TwitterやTiktokでLLM（主にChatGPT）で夢小説を作っている人が居て「終盤になるとキャラ設定が崩れたり世界観が崩壊したりする」という感想を見たので。 詳細（AIが生成したテキスト） はじめにLLMの実用性を探るため、個人プロジェクトとして 夢小説自動生成ツール「YumeChain」 を開発しました。本プロジェクトの目的は以下の通りです：複数LLM（OpenAI, Gemini, Claude等）のプロンプト挙動を比較評価エージェント的な創作支援ツールの設計手法を検証Markdownから小説を生成...]]></content>
+        <author>
+            <name>thr</name>
+        </author>
+        <published>2025-07-03T10:50:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rubyで始めるAIエージェント入門 | Wantedly Engineer Blog]]></title>
+        <id>https://www.wantedly.com/companies/wantedly/post_articles/988725</id>
+        <link href="https://www.wantedly.com/companies/wantedly/post_articles/988725"/>
+        <updated>2025-07-03T09:35:24.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。ウォンテッドリーの Enabling チームでバックエンドエンジニアをしている市古（@sora_ich...]]></summary>
+        <content type="html"><![CDATA[こんにちは。ウォンテッドリーの Enabling チームでバックエンドエンジニアをしている市古（@sora_ich...]]></content>
+        <author>
+            <name>市古 空</name>
+        </author>
+        <category label="Ruby"/>
+        <category label="Ruby on Rails"/>
+        <category label="エンジニア"/>
+        <category label="テックブログ"/>
+        <category label="AIエージェント"/>
+        <published>2025-07-03T09:35:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[直感LLM | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/n_ryosuke/articles/ec367de34d4f2c</id>
+        <link href="https://zenn.dev/n_ryosuke/articles/ec367de34d4f2c"/>
+        <updated>2025-07-03T08:15:04.000Z</updated>
+        <summary type="html"><![CDATA[感想体系的に書かれていてすごく良かった。https://www.oreilly.co.jp/books/9784814401154/ メモエンコーダーのみを使う表現モデルと、デコーダーのみを使う生成モデルBERT:一部をマスクし、その部分を予測させることで、より正確な（中間的な）入力表現を作成できる。これにより転移学習などに用いられる、タスク分類などのタスク向けにファインチューニングされる。Wor]]></summary>
+        <content type="html"><![CDATA[感想体系的に書かれていてすごく良かった。https://www.oreilly.co.jp/books/9784814401154/ メモエンコーダーのみを使う表現モデルと、デコーダーのみを使う生成モデルBERT:一部をマスクし、その部分を予測させることで、より正確な（中間的な）入力表現を作成できる。これにより転移学習などに用いられる、タスク分類などのタスク向けにファインチューニングされる。Word2Vec:文脈を考慮せず、「単語の共起関係」に基づいて意味ベクトルを学習。高速で軽量。単語の類似度などに使える。言語モデルは学習済みのトークナイザーによって、対応するトーク...]]></content>
+        <author>
+            <name>NR</name>
+        </author>
+        <published>2025-07-03T08:15:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[見積もりで悩まないための３つの知見 | Wantedly Engineer Blog]]></title>
+        <id>https://www.wantedly.com/companies/wantedly/post_articles/985983</id>
+        <link href="https://www.wantedly.com/companies/wantedly/post_articles/985983"/>
+        <updated>2025-07-03T08:00:11.000Z</updated>
+        <summary type="html"><![CDATA[この記事は、夏のアドベントカレンダーの3日目の記事です。こんにちは、ウォンテッドリーでバックエンドエンジニアをして...]]></summary>
+        <content type="html"><![CDATA[この記事は、夏のアドベントカレンダーの3日目の記事です。こんにちは、ウォンテッドリーでバックエンドエンジニアをして...]]></content>
+        <author>
+            <name>平岡 尚</name>
+        </author>
+        <category label="夏のアドベントカレンダー"/>
+        <published>2025-07-03T08:00:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【大学指導教員＆出身社員対談】大学・大学院での学びが社会につながる。〜食品工学の研究からデータサイエンティストへ　研究に没頭して身につけた「考え方」「技術」が、今、どう活きているのか〜 | Platinum Data Blog by BrainPad ブレインパッド]]></title>
+        <id>hatenablog://entry/6802418398494935247</id>
+        <link href="https://blog.brainpad.co.jp/entry/2025/07/03/160016"/>
+        <updated>2025-07-03T07:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Platinum Data Blog編集部・編集長の木原です。お話しいただく二人のプロフィール粉川 美踏 先生飯田 大希粉川先生と飯田さんの出会い・研究テーマ木原飯田粉川先生木原飯田木原飯田粉川先生木原飯田木原粉川先生木原飯田研究室での学びと現在のデータサイエンティストとしての業務木原粉川先生飯田木原飯田木原粉川先生データサイエンティストとしての将来と、今後に向けて木原粉川先生飯田木原飯田木原飯田]]></summary>
+        <content type="html"><![CDATA[Platinum Data Blog編集部・編集長の木原です。お話しいただく二人のプロフィール粉川 美踏 先生飯田 大希粉川先生と飯田さんの出会い・研究テーマ木原飯田粉川先生木原飯田木原飯田粉川先生木原飯田木原粉川先生木原飯田研究室での学びと現在のデータサイエンティストとしての業務木原粉川先生飯田木原飯田木原粉川先生データサイエンティストとしての将来と、今後に向けて木原粉川先生飯田木原飯田木原飯田木原飯田木原飯田木原粉川先生飯田木原ブレインパッドでは新卒採用・中途採用共にまだまだ仲間を募集しています。www.brainpad.co.jpwww.brainpad.co.jp]]></content>
+        <category label="人材育成"/>
+        <category label="新卒採用"/>
+        <category label="社員インタビュー"/>
+        <category label="データサイエンティスト"/>
+        <published>2025-07-03T07:00:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エンジニア向けのPerplexityを開発して得た7つの知見 | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/andrew/articles/7697a7234774e9</id>
+        <link href="https://zenn.dev/andrew/articles/7697a7234774e9"/>
+        <updated>2025-07-03T05:26:42.000Z</updated>
+        <summary type="html"><![CDATA[概要誰もが一度耳にしたことがあるPerplexityのようなWeb検索AIツールの、エンジニアに特化したバージョンを開発した際に得られた知見をまとめてみました。ちなみに普段は生成AIに助けられっぱなしの私ですが、この記事は全部キーボードをカタカタ打って書いております。(記事を書くのが好きなため楽しみを奪われたく無いのが主な理由です) なぜ作ったの？開発した背景としては私自身がPerplexityの]]></summary>
+        <content type="html"><![CDATA[概要誰もが一度耳にしたことがあるPerplexityのようなWeb検索AIツールの、エンジニアに特化したバージョンを開発した際に得られた知見をまとめてみました。ちなみに普段は生成AIに助けられっぱなしの私ですが、この記事は全部キーボードをカタカタ打って書いております。(記事を書くのが好きなため楽しみを奪われたく無いのが主な理由です) なぜ作ったの？開発した背景としては私自身がPerplexityのヘビーユーザーでした。今ではChatGPTやGeminiもWeb検索できるようになりリアルタイムの情報に簡単にアクセスできるようになりましたが、以前はリアルタイムの情報を検索する...]]></content>
+        <author>
+            <name>あんどりゅー</name>
+        </author>
+        <published>2025-07-03T05:26:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude CodeではじめるAgentic Coding入門 | Sansan Tech Blog]]></title>
+        <id>https://buildersbox.corp-sansan.com/entry/2025/07/03/142500</id>
+        <link href="https://buildersbox.corp-sansan.com/entry/2025/07/03/142500"/>
+        <updated>2025-07-03T05:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Bill One Engineering UnitのPurchasing Groupでアーキテクトを務める豊田(@helloyuki_)です。今日は業務中に行っているAgentic Codingについて紹介したいと思います。 Agentic Codingとは 定義 Vibe Codingとの違い Claude Codeとは 定義と機能 特徴 IDE（IntelliJ）との統合 実務での利用事例 何]]></summary>
+        <content type="html"><![CDATA[Bill One Engineering UnitのPurchasing Groupでアーキテクトを務める豊田(@helloyuki_)です。今日は業務中に行っているAgentic Codingについて紹介したいと思います。 Agentic Codingとは 定義 Vibe Codingとの違い Claude Codeとは 定義と機能 特徴 IDE（IntelliJ）との統合 実務での利用事例 何をやらせてみたか どうやったか 学んだこと 探索空間を絞る Plan Modeは積極的に利用する docの整備を進める MCPサーバーの活用 作業が軌道にのるまで「手懐け」 Bill OneでのAI駆…]]></content>
+        <published>2025-07-03T05:25:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なぜ君が作ったAI Agentは失敗したか？ | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/acrosstudioblog/articles/1dbad35ac19fa0</id>
+        <link href="https://zenn.dev/acrosstudioblog/articles/1dbad35ac19fa0"/>
+        <updated>2025-07-03T05:22:58.000Z</updated>
+        <summary type="html"><![CDATA[99%のAIエージェント開発企業は、完全に道を間違えかも知らない。では、エージェントはどのようにして成功できるのか？ある海外の自動車運転免許管理局（DMV）が、最新のAIアシスタントを導入し、運転免許証の更新といった新しいタスクを処理できると約束したとします。しかし、あるユーザーが「運転免許証を更新したい」と尋ねたところ、システムは無限ループに陥り、同じ質問を繰り返し、最終的にはメモリが溢れてクラ]]></summary>
+        <content type="html"><![CDATA[99%のAIエージェント開発企業は、完全に道を間違えかも知らない。では、エージェントはどのようにして成功できるのか？ある海外の自動車運転免許管理局（DMV）が、最新のAIアシスタントを導入し、運転免許証の更新といった新しいタスクを処理できると約束したとします。しかし、あるユーザーが「運転免許証を更新したい」と尋ねたところ、システムは無限ループに陥り、同じ質問を繰り返し、最終的にはメモリが溢れてクラッシュしてしまいました。なぜこのAI Agentプロジェクトは失敗したのか？原因：トークン予算： 500に制限されており、複数回の対話を完了できない。記憶の設計： 会話の状態...]]></content>
+        <author>
+            <name>シンウフム</name>
+        </author>
+        <published>2025-07-03T05:22:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2017以前の登壇資料 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/output/slide/2017/</id>
+        <link href="https://engineering.dena.com/output/slide/2017/"/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2018年の登壇資料 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/output/slide/2018/</id>
+        <link href="https://engineering.dena.com/output/slide/2018/"/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019年の登壇資料 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/output/slide/2019/</id>
+        <link href="https://engineering.dena.com/output/slide/2019/"/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020年の登壇資料 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/output/slide/2020/</id>
+        <link href="https://engineering.dena.com/output/slide/2020/"/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年の登壇資料 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/output/slide/2021/</id>
+        <link href="https://engineering.dena.com/output/slide/2021/"/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年の登壇資料 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/output/slide/2022/</id>
+        <link href="https://engineering.dena.com/output/slide/2022/"/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年の登壇資料 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/output/slide/2023/</id>
+        <link href="https://engineering.dena.com/output/slide/2023/"/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年の登壇資料 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/output/slide/2024/</id>
+        <link href="https://engineering.dena.com/output/slide/2024/"/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年の登壇資料 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/output/slide/2025/</id>
+        <link href="https://engineering.dena.com/output/slide/2025/"/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeNA TechCon 2019 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeNA TechCon 2020 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeNA TechCon 2021 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeNA TechCon 2022 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeNA TechCon 2023 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeNA TechCon 2024 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeNA × AI Day || DeNA TechCon 2025 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT基盤（インフラ / SRE） | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/team/infra/</id>
+        <link href="https://engineering.dena.com/team/infra/"/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <summary type="html"><![CDATA[DeNA グループ全体のシステム基盤を横断して管理しているインフラ部門、IT 基盤部について紹介します。DeNA は様々な事業分野にチャレンジし、多種多様なサービスを展開していますが、そのサービス/システムの成功を支えていくインフラ部門が IT 基盤部です。 IT 基盤部では、インフラ部門として日々様々な技術的なチャレンジを繰り返しています。 チームカルチャー ミッション これらの一見、両立/鼎立]]></summary>
+        <content type="html"><![CDATA[DeNA グループ全体のシステム基盤を横断して管理しているインフラ部門、IT 基盤部について紹介します。DeNA は様々な事業分野にチャレンジし、多種多様なサービスを展開していますが、そのサービス/システムの成功を支えていくインフラ部門が IT 基盤部です。 IT 基盤部では、インフラ部門として日々様々な技術的なチャレンジを繰り返しています。 チームカルチャー ミッション これらの一見、両立/鼎立が非常に難しい 3 つの要素、QC]]></content>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT戦略（コーポレート / 情報システム） | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/team/it-strategy/</id>
+        <link href="https://engineering.dena.com/team/it-strategy/"/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <summary type="html"><![CDATA[会計や人事などのコーポレート基幹システムをはじめ、Slack 連携などの社内ユーティリティ、各部署内の運用ツールなど、DeNA の社内システムは GUI/API のあるものだけでも 100 近く。しかも、それらの多くを内製しているのが DeNA です。そんな DeNA グループ全体の社内 IT に係る戦略立案/企画/構築/運用を担う「IT 戦略部」について紹介します。 チームカルチャー DeNA ]]></summary>
+        <content type="html"><![CDATA[会計や人事などのコーポレート基幹システムをはじめ、Slack 連携などの社内ユーティリティ、各部署内の運用ツールなど、DeNA の社内システムは GUI/API のあるものだけでも 100 近く。しかも、それらの多くを内製しているのが DeNA です。そんな DeNA グループ全体の社内 IT に係る戦略立案/企画/構築/運用を担う「IT 戦略部」について紹介します。 チームカルチャー DeNA グループの IT 投資対効果を最大化する IT 投資対効果の最大化は費用の最小化]]></content>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobage Open Platform | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/team/mobage/</id>
+        <link href="https://engineering.dena.com/team/mobage/"/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Mobage Open Platform（以下Platform）を運用をしているチームについて紹介します。 Mobage は ユーザーとデベロッパーに対しプラットフォームサービスを提供しております。15年以上運用している実績があり、DeNA の提供する事業の大きな柱を担っているサービスでもあります。 組織には自社開発の数多くのバックエンドサービスがあります。ユーザーにエンターテインメントの場所を提]]></summary>
+        <content type="html"><![CDATA[Mobage Open Platform（以下Platform）を運用をしているチームについて紹介します。 Mobage は ユーザーとデベロッパーに対しプラットフォームサービスを提供しております。15年以上運用している実績があり、DeNA の提供する事業の大きな柱を担っているサービスでもあります。 組織には自社開発の数多くのバックエンドサービスがあります。ユーザーにエンターテインメントの場所を提供し価値を届けるためには運用やセキュリテ]]></content>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OSS活動支援 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pococha | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/team/pococha/</id>
+        <link href="https://engineering.dena.com/team/pococha/"/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Pocochaとは？ 多様な事業を展開するDeNAの中でも、今、ライブコミュニケーションアプリ「Pococha（ポコチャ）」の勢いが際立っています。2021年3月末時点でダウンロード数は255万を突破、ライバー（配信者）・リスナー（視聴者）ともに1年間で約3倍というペースで成長を遂げています。 Pocochaはソーシャルライブというジャンルに位置づけられますが、類似のソーシャルライブサービスは20]]></summary>
+        <content type="html"><![CDATA[Pocochaとは？ 多様な事業を展開するDeNAの中でも、今、ライブコミュニケーションアプリ「Pococha（ポコチャ）」の勢いが際立っています。2021年3月末時点でダウンロード数は255万を突破、ライバー（配信者）・リスナー（視聴者）ともに1年間で約3倍というペースで成長を遂げています。 Pocochaはソーシャルライブというジャンルに位置づけられますが、類似のソーシャルライブサービスは2015]]></content>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SWET | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/team/quality/swet/</id>
+        <link href="https://engineering.dena.com/team/quality/swet/"/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <summary type="html"><![CDATA[SWETグループの属するIT本部品質管理部は、ゲーム・ソーシャルライブ・ヘルスケア・スポーツなど様々な事業を展開し続けるDeNAグループ全体の様々な品質にコミットしている部署です。その中で、SWET（SoftWare Engineer in Test の略）グループは、ソフトウェアテストを起点とした、「DeNA サービス全般の品質向上」と「DeNA エンジニアの開発生産性向上」の両方により、価値あ]]></summary>
+        <content type="html"><![CDATA[SWETグループの属するIT本部品質管理部は、ゲーム・ソーシャルライブ・ヘルスケア・スポーツなど様々な事業を展開し続けるDeNAグループ全体の様々な品質にコミットしている部署です。その中で、SWET（SoftWare Engineer in Test の略）グループは、ソフトウェアテストを起点とした、「DeNA サービス全般の品質向上」と「DeNA エンジニアの開発生産性向上」の両方により、価値あるものを素早く提供できるようにする]]></content>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[その他福利厚生 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キャリア | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/culture/career/</id>
+        <link href="https://engineering.dena.com/culture/career/"/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <summary type="html"><![CDATA[キャリア適正 キャリア適正は、エンジニアのキャリアを大きく5種類に分け、それぞれに対する適正を表現したものです。 これらの適正や本人の希望をもとに、キャリアを作り上げていきます。 エキスパート 突出した技術力や深い専門性を持ち、それを活かして事業に貢献する。 人工知能、OS、ミドルウェア、データベース、プログラミング言語など、 特定の領域を深く掘り下げて理解し、その知識や技術力を活かして事業に貢献]]></summary>
+        <content type="html"><![CDATA[キャリア適正 キャリア適正は、エンジニアのキャリアを大きく5種類に分け、それぞれに対する適正を表現したものです。 これらの適正や本人の希望をもとに、キャリアを作り上げていきます。 エキスパート 突出した技術力や深い専門性を持ち、それを活かして事業に貢献する。 人工知能、OS、ミドルウェア、データベース、プログラミング言語など、 特定の領域を深く掘り下げて理解し、その知識や技術力を活かして事業に貢献できる。 積極]]></content>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コミュニティ活動 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[データ基盤（データエンジニアリング） | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/team/data/dataengineering/</id>
+        <link href="https://engineering.dena.com/team/data/dataengineering/"/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <summary type="html"><![CDATA[事業部門/共通部門におけるデータドリブンな意思決定をエンジニアリングによって支える、データ基盤部データエンジニアリンググループについてご紹介いたします。データ基盤部に所属するデータエンジニアは全社の各部門を横串で支援しており、各部門のデータ活用水準の向上に努めています。 事業/サービスの成長に伴い、データの量・種類・データを要求する仕事は日々増え続けています。我々データエンジニアは、データパイプラ]]></summary>
+        <content type="html"><![CDATA[事業部門/共通部門におけるデータドリブンな意思決定をエンジニアリングによって支える、データ基盤部データエンジニアリンググループについてご紹介いたします。データ基盤部に所属するデータエンジニアは全社の各部門を横串で支援しており、各部門のデータ活用水準の向上に努めています。 事業/サービスの成長に伴い、データの量・種類・データを要求する仕事は日々増え続けています。我々データエンジニアは、データパイプライ]]></content>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任天堂社との協業 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/team/nintendo/</id>
+        <link href="https://engineering.dena.com/team/nintendo/"/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <summary type="html"><![CDATA[任天堂社との業務提携での開発/運用を行っているチームについて紹介します。 任天堂社との業務提携においては大きく分けて二つの事業を構成しており、一つはニンテンドーアカウントを中心とした会員基盤システムの開発/運用業務、もう一つは任天堂社がパブリッシュしているスマートデバイスアプリの開発/運用業務になります。 どちらの事業においても任天堂社の基本戦略である「任天堂IPに触れる人口の拡大」に貢献できるよ]]></summary>
+        <content type="html"><![CDATA[任天堂社との業務提携での開発/運用を行っているチームについて紹介します。 任天堂社との業務提携においては大きく分けて二つの事業を構成しており、一つはニンテンドーアカウントを中心とした会員基盤システムの開発/運用業務、もう一つは任天堂社がパブリッシュしているスマートデバイスアプリの開発/運用業務になります。 どちらの事業においても任天堂社の基本戦略である「任天堂IPに触れる人口の拡大」に貢献できるように]]></content>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[利用技術 | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <summary type="html"><![CDATA[言語 TODO 開発ツール GitHub Enterprise を導入し、JIRA（プロジェクト管理ツール）と連携して活用しています。その他にも、Slack や Circle CI など、各プロジェクトやサービスごとに必要なツールを選定して使用しています。]]></summary>
+        <content type="html"><![CDATA[言語 TODO 開発ツール GitHub Enterprise を導入し、JIRA（プロジェクト管理ツール）と連携して活用しています。その他にも、Slack や Circle CI など、各プロジェクトやサービスごとに必要なツールを選定して使用しています。]]></content>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[品質管理 | DeNA Engineering on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/team/quality/quality-control/</id>
+        <link href="https://engineering.dena.com/team/quality/quality-control/"/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <summary type="html"><![CDATA[DeNAグループ全体におけるプロダクト・サービスの品質管理を担っている部門を紹介します。DeNAはゲーム・ライブストリーミング・ヘルスケア・スポーツなど様々な事業を展開しています。お客様にとってベストなプロダクト・サービスであるために、品質という側面から事業を支援し、Delightに繋がるあらゆる品質向上活動を推進していく役割が品質管理となります。 一人ひとりにDelightを届けるため、品質を「]]></summary>
+        <content type="html"><![CDATA[DeNAグループ全体におけるプロダクト・サービスの品質管理を担っている部門を紹介します。DeNAはゲーム・ライブストリーミング・ヘルスケア・スポーツなど様々な事業を展開しています。お客様にとってベストなプロダクト・サービスであるために、品質という側面から事業を支援し、Delightに繋がるあらゆる品質向上活動を推進していく役割が品質管理となります。 一人ひとりにDelightを届けるため、品質を「プ]]></content>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[専門技術チーム | DeNA Engineering on DeNA Engineering]]></title>
+        <id/>
+        <link href=""/>
+        <updated>2025-07-03T05:02:07.000Z</updated>
+        <published>2025-07-03T05:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Table saws | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jul/3/table-saws/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jul/3/table-saws/#atom-everything"/>
+        <updated>2025-07-03T04:10:17.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;Quitting programming as a career right now because of LLMs would be like quitting carpentry as a career thanks to the invention of the table saw.&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;Tags: &amp;lt;a href="https://simonwillison.net/ta]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;Quitting programming as a career right now because of LLMs would be like quitting carpentry as a career thanks to the invention of the table saw.&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;Tags: &amp;lt;a href="https://simonwillison.net/tags/careers"&amp;gt;careers&amp;lt;/a&amp;gt;, &amp;lt;a href="https://simonwillison.net/tags/ai-assisted-programming"&amp;gt;ai-assisted-programming&amp;lt;/a&amp;gt;, &amp;lt;a href="https://simonwillison.net/tags/generative-ai"&amp;gt;generative-ai&amp;lt;/a&amp;gt;, &amp;lt;a href="https://simonwillison.net/tags/ai"&amp;gt;ai&amp;lt;/a&amp;gt;, &amp;lt;a href="https://simonwillison.net/tags/llms"&amp;gt;llms&amp;lt;/a&amp;gt;&amp;lt;]]></content>
+        <published>2025-07-03T04:10:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LVLMをローカル運用する際に、精度を保ちつつレイテンシをどこまで改善できるか(vLLM, Flash Attention, 量子化) | Sansan Tech Blog]]></title>
+        <id>https://buildersbox.corp-sansan.com/entry/2025/07/03/120000</id>
+        <link href="https://buildersbox.corp-sansan.com/entry/2025/07/03/120000"/>
+        <updated>2025-07-03T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに Sansan 研究開発部の齋藤慎一朗です。 次のブログでは、本格的なLVLMの検証の前に、運用に必要な環境をどう見積もるかについて、メモリの観点で紹介しました。 buildersbox.corp-sansan.com 今回は、Fine-Tuningを行ったLVLMをローカル運用する際のレイテンシをどこまで改善できるかを検証したため、その手法と結果について共有します。 オフラインバッチ推論]]></summary>
+        <content type="html"><![CDATA[はじめに Sansan 研究開発部の齋藤慎一朗です。 次のブログでは、本格的なLVLMの検証の前に、運用に必要な環境をどう見積もるかについて、メモリの観点で紹介しました。 buildersbox.corp-sansan.com 今回は、Fine-Tuningを行ったLVLMをローカル運用する際のレイテンシをどこまで改善できるかを検証したため、その手法と結果について共有します。 オフラインバッチ推論の前提での検証となります。 前提 利用するモデル Full Fine-TuningされたQwen/Qwen2.5-VL-7B-Instruct[^1]]]></content>
+        <published>2025-07-03T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【QA Career Talk After Talk】QAエンジニアの生存戦略 -AI時代におけるスキルセットを考える | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/reiwatravel/articles/b42265e8c30bde</id>
+        <link href="https://zenn.dev/reiwatravel/articles/b42265e8c30bde"/>
+        <updated>2025-07-03T01:30:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは、令和トラベルの miisan です。先日開催された「QA Career Talk vol.5 〜QAエンジニアの生存戦略～」イベントにご参加くださった皆さん、ありがとうございました！また、イベント中はたくさんの質問、Xでの感想などありがとうございました！https://reiwatravel.connpass.com/event/355308/久しぶりの「QA Career T]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは、令和トラベルの miisan です。先日開催された「QA Career Talk vol.5 〜QAエンジニアの生存戦略～」イベントにご参加くださった皆さん、ありがとうございました！また、イベント中はたくさんの質問、Xでの感想などありがとうございました！https://reiwatravel.connpass.com/event/355308/久しぶりの「QA Career Talk」かつ初のハイブリッド開催ということで、楽しく有意義な時間を私も過ごすことができました。イベントはたった1時間という限られた時間でしたので、全ての参加者の気になるポイントにお...]]></content>
+        <author>
+            <name>miisan</name>
+        </author>
+        <published>2025-07-03T01:30:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINEヤフーの技術カンファレンス「Tech-Verse 2025」速報レポート | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+        <id>https://techblog.lycorp.co.jp/ja/20250703a</id>
+        <link href="https://techblog.lycorp.co.jp/ja/20250703a"/>
+        <updated>2025-07-03T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[LINEヤフー株式会社（以下、LINEヤフー）は、AIをメインテーマとした技術カンファレンス「Tech-Verse 2025」（以下、本カンファレンス）を開催しました。2025年6月30日（月）と7月...]]></summary>
+        <content type="html"><![CDATA[LINEヤフー株式会社（以下、LINEヤフー）は、AIをメインテーマとした技術カンファレンス「Tech-Verse 2025」（以下、本カンファレンス）を開催しました。2025年6月30日（月）と7月...]]></content>
+        <published>2025-07-03T01:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIは励まされると頑張れるらしいので、いろんな方法で奨励してみた。 | カミナシ エンジニアブログ]]></title>
+        <id>https://kaminashi-developer.hatenablog.jp/entry/2025/07/03/090000</id>
+        <link href="https://kaminashi-developer.hatenablog.jp/entry/2025/07/03/090000"/>
+        <updated>2025-07-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[プロローグ 2025/05/22 Claude 4 リリース後、多くの人間が一段階未来へきたと感じていることだろう。 今まで超えられないと感じていた壁を超えたような感覚がある。 dd 更に Claude 4 を、LLMを使いこなしたい。そう思い Claude 4 プロンプトエンジニアリングのベストプラクティスに目を通した。 私の脳に強烈なインパクトを残したのが以下のセクションだった... 面白すぎ]]></summary>
+        <content type="html"><![CDATA[プロローグ 2025/05/22 Claude 4 リリース後、多くの人間が一段階未来へきたと感じていることだろう。 今まで超えられないと感じていた壁を超えたような感覚がある。 dd 更に Claude 4 を、LLMを使いこなしたい。そう思い Claude 4 プロンプトエンジニアリングのベストプラクティスに目を通した。 私の脳に強烈なインパクトを残したのが以下のセクションだった... 面白すぎる...! 本題 どうやら奨励するとAIは頑張れるらしい。 ビジュアル表現が豊かになるらしい。 英語原文だと以下のような内容だ。 For frontend code generation, you c…]]></content>
+        <published>2025-07-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIに仕様書を読ませるとテストケースを自動生成、テストコードも書いてくれる「Autify Nexus」、Autifyが発表 | Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/25/aiautify_nexusautify.html</id>
+        <link href="https://www.publickey1.jp/blog/25/aiautify_nexusautify.html"/>
+        <updated>2025-07-02T15:32:54.000Z</updated>
+        <summary type="html"><![CDATA[テスト自動化ツールなどを提供するAutifyは、仕様書を読み込ませることで仕様に基づいたさまざまなテストケースを自動的に生成するテストデザイン機能や、テストしたい内容を自然言語で指示することで自動的にテストシナリオとテストコードを生成する機...]]></summary>
+        <content type="html"><![CDATA[テスト自動化ツールなどを提供するAutifyは、仕様書を読み込ませることで仕様に基づいたさまざまなテストケースを自動的に生成するテストデザイン機能や、テストしたい内容を自然言語で指示することで自動的にテストシナリオとテストコードを生成する機...]]></content>
+        <published>2025-07-02T15:32:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HPE、ジュニパーネットワークスの買収完了を発表 | Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/25/hpe.html</id>
+        <link href="https://www.publickey1.jp/blog/25/hpe.html"/>
+        <updated>2025-07-02T15:04:53.000Z</updated>
+        <summary type="html"><![CDATA[Hewlett Packard Enterprise（HPE）とジュニパーネットワークス（以下ジュニパー）は、HPEによるジュニパーの買収が完了したことを発表しました。 HPEによるジュニパーの買収は、2024年に発表されていましたが、その...]]></summary>
+        <content type="html"><![CDATA[Hewlett Packard Enterprise（HPE）とジュニパーネットワークス（以下ジュニパー）は、HPEによるジュニパーの買収が完了したことを発表しました。 HPEによるジュニパーの買収は、2024年に発表されていましたが、その...]]></content>
+        <published>2025-07-02T15:04:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quoting Charles Babbage | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jul/2/charles-babbage/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jul/2/charles-babbage/#atom-everything"/>
+        <updated>2025-07-02T15:04:05.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;blockquote cite="https://archive.org/details/passagesfromlife03char/page/67/mode/1up"&amp;gt;&amp;lt;p&amp;gt;On two occasions I have been asked, — "Pray, Mr. Babbage, if you put into the machine wrong figures, will the]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;blockquote cite="https://archive.org/details/passagesfromlife03char/page/67/mode/1up"&amp;gt;&amp;lt;p&amp;gt;On two occasions I have been asked, — "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out ?" In one case a member of the Upper, and in the other a member of the Lower, House put this question. I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;&amp;lt;p class="cite"&amp;gt;&amp;amp;mdash; &amp;lt;a href="https://archive.org/de]]></content>
+        <published>2025-07-02T15:04:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Cloudflare Containers」ベータ公開、CDNエッジでコンテナが実行可能に | Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/25/cloudflare_containerscdn.html</id>
+        <link href="https://www.publickey1.jp/blog/25/cloudflare_containerscdn.html"/>
+        <updated>2025-07-02T14:44:40.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflareは、CDNエッジでコンテナ型仮想マシンを実行可能にする新サービス「Cloudflare Containers」のベータ公開を発表しました。 Cloudflare Containers are now available ...]]></summary>
+        <content type="html"><![CDATA[Cloudflareは、CDNエッジでコンテナ型仮想マシンを実行可能にする新サービス「Cloudflare Containers」のベータ公開を発表しました。 Cloudflare Containers are now available ...]]></content>
+        <published>2025-07-02T14:44:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「KubeCon + CloudNativeCon Japan 2025」全セッションがYouTubeで公開開始 | Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/25/kubecon_cloudnativecon_japan_2025youtube.html</id>
+        <link href="https://www.publickey1.jp/blog/25/kubecon_cloudnativecon_japan_2025youtube.html"/>
+        <updated>2025-07-02T14:36:45.000Z</updated>
+        <summary type="html"><![CDATA[先月（2025年6月）に日本で初めて開催されたクラウドネイティブ関連技術における業界最大のイベント「KubeCon+CloudNativeCon Japan 2005」の、全セッションの動画がYouTubeで公開されました（動画のリスト）。...]]></summary>
+        <content type="html"><![CDATA[先月（2025年6月）に日本で初めて開催されたクラウドネイティブ関連技術における業界最大のイベント「KubeCon+CloudNativeCon Japan 2005」の、全セッションの動画がYouTubeで公開されました（動画のリスト）。...]]></content>
+        <published>2025-07-02T14:36:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making group conversations more accessible with sound localization | The latest research from Google]]></title>
+        <id>https://research.google/blog/making-group-conversations-more-accessible-with-sound-localization/</id>
+        <link href="https://research.google/blog/making-group-conversations-more-accessible-with-sound-localization/"/>
+        <updated>2025-07-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Human-Computer Interaction and Visualization]]></summary>
+        <content type="html"><![CDATA[Human-Computer Interaction and Visualization]]></content>
+        <category label="Human-Computer Interaction and Visualization"/>
+        <category label="Sound &amp;amp; Accoustics"/>
+        <category label="Speech Processing"/>
+        <published>2025-07-02T11:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pythonのスタブライブラリを生成して、型ヒントのないライブラリも快適で堅牢に利用する | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/2025/07/02/180000</id>
+        <link href="https://www.m3tech.blog/entry/2025/07/02/180000"/>
+        <updated>2025-07-02T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI・機械学習チームブログリレー13日目の記事を三浦 (@mamo3gr) がお送りします。 Pythonで型ヒントを補足するためのサードパーティのスタブライブラリにコントリビュートしました。 それを通して入門したスタブファイルの作り方を紹介します。 便利なPythonの型ヒント 型ヒントを補助するスタブライブラリ スタブファイルの作り方入門 stubgenで下地をつくる pathlib,impo]]></summary>
+        <content type="html"><![CDATA[AI・機械学習チームブログリレー13日目の記事を三浦 (@mamo3gr) がお送りします。 Pythonで型ヒントを補足するためのサードパーティのスタブライブラリにコントリビュートしました。 それを通して入門したスタブファイルの作り方を紹介します。 便利なPythonの型ヒント 型ヒントを補助するスタブライブラリ スタブファイルの作り方入門 stubgenで下地をつくる pathlib,importlib,inspectを組み合わせたモジュール・クラスの列挙と書き換え __init__ とフィールドの追加 その他、便利そうなツール 実際どれくらい便利になるか Before After まとめ…]]></content>
+        <published>2025-07-02T09:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なぜこの機能？なぜ今？PdMが語る“2つのなぜ”と伝え方 | Wantedly Engineer Blog]]></title>
+        <id>https://www.wantedly.com/companies/wantedly/post_articles/985265</id>
+        <link href="https://www.wantedly.com/companies/wantedly/post_articles/985265"/>
+        <updated>2025-07-02T08:00:10.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！夏のアドベントカレンダー2日目は、プロダクトマネージャーの吉野 (@SanKatsu32224)より発...]]></summary>
+        <content type="html"><![CDATA[こんにちは！夏のアドベントカレンダー2日目は、プロダクトマネージャーの吉野 (@SanKatsu32224)より発...]]></content>
+        <author>
+            <name>吉野 雄大</name>
+        </author>
+        <category label="開発"/>
+        <category label="チーム"/>
+        <category label="プロダクト"/>
+        <category label="プロダクトマネージャー"/>
+        <category label="夏のアドベントカレンダー"/>
+        <published>2025-07-02T08:00:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agentが回答に困った時にSlackで人間に助言を求められるMCPを検証した | TECH BLOG | 株式会社AI Shift]]></title>
+        <id>https://www.ai-shift.co.jp/?post_type=techblog&amp;amp;p=5928</id>
+        <link href="https://www.ai-shift.co.jp/techblog/5928"/>
+        <updated>2025-07-02T06:52:11.000Z</updated>
+        <summary type="html"><![CDATA[こんにちはAIチームの戸田です 今回は、AI Agentが自身で解決できない問題に直面した際に、Slackを通じて人間に助言を求めることができるMCP（Model Context Protocol）、AskOnSlack […]投稿 AI Agentが回答に困った時にSlackで人間に助言を求められるMCPを検証した は 株式会社AI Shift に最初に表示されました。]]></summary>
+        <content type="html"><![CDATA[こんにちはAIチームの戸田です 今回は、AI Agentが自身で解決できない問題に直面した際に、Slackを通じて人間に助言を求めることができるMCP（Model Context Protocol）、AskOnSlack […]投稿 AI Agentが回答に困った時にSlackで人間に助言を求められるMCPを検証した は 株式会社AI Shift に最初に表示されました。]]></content>
+        <author>
+            <name>戸田隆道</name>
+        </author>
+        <published>2025-07-02T06:52:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一休の伊藤直也氏に聞く、フルベットしない技術ポートフォリオ戦略　〜実践から学ぶ、医療変革プラットフォーマーの次なる一手〜 | KAKEHASHI Tech Blog]]></title>
+        <id>https://kakehashi-dev.hatenablog.com/entry/2025/07/02/150912</id>
+        <link href="https://kakehashi-dev.hatenablog.com/entry/2025/07/02/150912"/>
+        <updated>2025-07-02T06:09:12.000Z</updated>
+        <summary type="html"><![CDATA[カケハシでの社内講演に、株式会社一休 執行役員CTOの伊藤直也氏をお招きしました。同社がどのようにレガシーシステムから脱却し、事業リスクを抑えながらRust/Go/TypeScriptを使い分けてきたのかお話を伺いました。社内向けの場ではありましたが、非常に有意義だったためご本人の許可を得て外部向けにまとめました。 当日は、医療変革プラットフォーマーを目指すカケハシのチーフアーキテクトである木村彰]]></summary>
+        <content type="html"><![CDATA[カケハシでの社内講演に、株式会社一休 執行役員CTOの伊藤直也氏をお招きしました。同社がどのようにレガシーシステムから脱却し、事業リスクを抑えながらRust/Go/TypeScriptを使い分けてきたのかお話を伺いました。社内向けの場ではありましたが、非常に有意義だったためご本人の許可を得て外部向けにまとめました。 当日は、医療変革プラットフォーマーを目指すカケハシのチーフアーキテクトである木村彰宏との対談形式でお話を伺い、ファシリテーターはカケハシのテックリードである松山が務めました。 松山： 本日は宜しくお願いします。まず、一休での関数型プログラミングの導入の背景についてお聞かせください。…]]></content>
+        <published>2025-07-02T06:09:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[登壇スライド作成もClaude Codeに任せたい 〜家でも外でも移動中も〜 | 株式会社ログラス テックブログのフィード]]></title>
+        <id>https://zenn.dev/loglass/articles/a8b4b069c09002</id>
+        <link href="https://zenn.dev/loglass/articles/a8b4b069c09002"/>
+        <updated>2025-07-02T06:06:33.000Z</updated>
+        <summary type="html"><![CDATA[!この記事はAIが2割ほど書きました。（たぶん）2025年6月18日 12:47 - 山手線車内ついにPixel 9 Pro Foldを手に入れて、意気揚々と電車に乗り込んだ。窓の外の景色を眺めながら、「今日は何しよう」なんて考えていたら...あ、やばい。来週のLT発表、何も準備してない。😱でも待てよ。最近Claude Codeでスライド生成の仕組みを整えたばかりじゃないか。これ、もしかして電車の]]></summary>
+        <content type="html"><![CDATA[!この記事はAIが2割ほど書きました。（たぶん）2025年6月18日 12:47 - 山手線車内ついにPixel 9 Pro Foldを手に入れて、意気揚々と電車に乗り込んだ。窓の外の景色を眺めながら、「今日は何しよう」なんて考えていたら...あ、やばい。来週のLT発表、何も準備してない。😱でも待てよ。最近Claude Codeでスライド生成の仕組みを整えたばかりじゃないか。これ、もしかして電車の中でLTスライドが完成するんじゃ...？2025年6月18日 13:15 - まだ電車内結論から言うと、本当に電車内でLTスライドが完成した。こんにちは、kagaya(@...]]></content>
+        <author>
+            <name>r.kagaya</name>
+        </author>
+        <published>2025-07-02T06:06:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mandelbrot in x86 assembly by Claude | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jul/2/mandelbrot-in-x86-assembly-by-claude/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jul/2/mandelbrot-in-x86-assembly-by-claude/#atom-everything"/>
+        <updated>2025-07-02T04:35:35.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://gist.github.com/simonw/ba1e9fa26fc8af08934d7bc0805b9b80"&amp;gt;Mandelbrot in x86 assembly by Claude&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Inspired by &amp;lt;a href="https://twitter.com/russnelson/status/19]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://gist.github.com/simonw/ba1e9fa26fc8af08934d7bc0805b9b80"&amp;gt;Mandelbrot in x86 assembly by Claude&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Inspired by &amp;lt;a href="https://twitter.com/russnelson/status/1940144705192542369"&amp;gt;a tweet&amp;lt;/a&amp;gt; asking if Claude knew x86 assembly, I decided to run a bit of an experiment.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;I prompted Claude Sonnet 4:&amp;lt;/p&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;Write me an ascii art mandelbrot fractal generator in x86 assembly&amp;lt;/code&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;&amp;lt;p&amp;gt;And &amp;lt;a href="https://claude.ai/share/abda]]></content>
+        <published>2025-07-02T04:35:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開発生産性Conference2025にスポンサーとしてブース出展およびVPoE飯田が登壇します | loglass_product_teamのブログ]]></title>
+        <id>https://prd-blog.loglass.co.jp/entry/20250702</id>
+        <link href="https://prd-blog.loglass.co.jp/entry/20250702"/>
+        <updated>2025-07-02T00:06:32.000Z</updated>
+        <summary type="html"><![CDATA[ログラスは7月3日・4日に開催される開発生産性Conference2025にGoldスポンサーとして協賛しています。 開発生産性Conferenceとは 開発生産性Conferenceは、海外・日本の開発生産性に関する最新の知見を集め、各企業のベストプラクティスや開発生産性向上への取り組みを通して、新しい時代の開発のヒントを提供します。（公式説明） スポンサー背景 ログラスでは2024年夏より国内]]></summary>
+        <content type="html"><![CDATA[ログラスは7月3日・4日に開催される開発生産性Conference2025にGoldスポンサーとして協賛しています。 開発生産性Conferenceとは 開発生産性Conferenceは、海外・日本の開発生産性に関する最新の知見を集め、各企業のベストプラクティスや開発生産性向上への取り組みを通して、新しい時代の開発のヒントを提供します。（公式説明） スポンサー背景 ログラスでは2024年夏より国内の導入事例がほとんどないスケーリングフレームワーク「FAST」を取り入れるなど、開発生産性と向き合い続けてきました。 また、Tech Value「Update Normal」の行動原則の1つに"技術的…]]></content>
+        <published>2025-07-02T00:06:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TIL: Using Playwright MCP with Claude Code | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jul/1/using-playwright-mcp-with-claude-code/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jul/1/using-playwright-mcp-with-claude-code/#atom-everything"/>
+        <updated>2025-07-01T23:55:09.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://til.simonwillison.net/claude-code/playwright-mcp-claude-code"&amp;gt;TIL: Using Playwright MCP with Claude Code&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Inspired &amp;lt;a href="https://simonwillison.net/2025/J]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://til.simonwillison.net/claude-code/playwright-mcp-claude-code"&amp;gt;TIL: Using Playwright MCP with Claude Code&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Inspired &amp;lt;a href="https://simonwillison.net/2025/Jun/29/agentic-coding/"&amp;gt;by Armin&amp;lt;/a&amp;gt; ("I personally use only one MCP - I only use Playwright") I decided to figure out how to use the official &amp;lt;a href="https://github.com/microsoft/playwright-mcp"&amp;gt;Playwright MCP server&amp;lt;/a&amp;gt; with &amp;lt;a href="https://simonwillison.net/tags/claude-code/"&amp;gt;Claude Code&amp;lt;/a&amp;gt;.&amp;lt;/p]]></content>
+        <published>2025-07-01T23:55:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AWS Jam 1位！】今年も AWS Summit Japan に参加してきました | カミナシ エンジニアブログ]]></title>
+        <id>https://kaminashi-developer.hatenablog.jp/entry//2025/07/02/aws-summit-japan-event-report</id>
+        <link href="https://kaminashi-developer.hatenablog.jp/entry//2025/07/02/aws-summit-japan-event-report"/>
+        <updated>2025-07-01T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2025/6/25(水)、6/26(木)の2日間、幕張メッセで AWS Summit Japan が開催され、弊社から今回は CTO の[原トリ](https://x.com/toricls)を含む計7名のメンバーが参加してきました！様々な学びや発見があるイベントでしたので、ぜひ当日の雰囲気をお伝え出来ればと思います。]]></summary>
+        <content type="html"><![CDATA[2025/6/25(水)、6/26(木)の2日間、幕張メッセで AWS Summit Japan が開催され、弊社から今回は CTO の[原トリ](https://x.com/toricls)を含む計7名のメンバーが参加してきました！様々な学びや発見があるイベントでしたので、ぜひ当日の雰囲気をお伝え出来ればと思います。]]></content>
+        <published>2025-07-01T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quoting Kevin Webb | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jul/1/kevin-webb/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jul/1/kevin-webb/#atom-everything"/>
+        <updated>2025-07-01T21:46:20.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;blockquote cite="https://bsky.app/profile/triangulator.org/post/3lqqgkkst2k2r"&amp;gt;&amp;lt;p&amp;gt;One of the best examples of LLM developer tooling I've heard is from a team that supports software from the 80s-90s.]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;blockquote cite="https://bsky.app/profile/triangulator.org/post/3lqqgkkst2k2r"&amp;gt;&amp;lt;p&amp;gt;One of the best examples of LLM developer tooling I've heard is from a team that supports software from the 80s-90s. Their only source of documentation is &amp;lt;em&amp;gt;video interviews&amp;lt;/em&amp;gt; with retired employees. So they feed them into transcription software and get summarized searchable notes out the other end.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;&amp;lt;p class="cite"&amp;gt;&amp;amp;mdash; &amp;lt;a href="https://bsky.app/profile/triangulator.org/post/3lqqgkkst2k2r"]]></content>
+        <published>2025-07-01T21:46:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlanetScale's classy retirement | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jul/1/classy-retirement/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jul/1/classy-retirement/#atom-everything"/>
+        <updated>2025-07-01T20:37:43.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;Sometimes a service with a free plan will decide to stop supporting it. I understand why this happens, but I'm often disappointed at the treatment of existing user's data. It's easy to imagine use]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;Sometimes a service with a free plan will decide to stop supporting it. I understand why this happens, but I'm often disappointed at the treatment of existing user's data. It's easy to imagine users forgetting about their old accounts, missing the relevant emails and then discovering too late that their data is gone.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Inspired by today's news &amp;lt;a href="https://simonwillison.net/2025/Jul/1/planetscale-for-postgres/"&amp;gt;about PlanetScale PostgreSQL&amp;lt;/a&amp;gt; I signed into PlanetScale and found I ha]]></content>
+        <published>2025-07-01T20:37:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A custom template system from the mid-2000s era | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jul/1/mid-2000s/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jul/1/mid-2000s/#atom-everything"/>
+        <updated>2025-07-01T19:57:46.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;Using LLMs for &amp;lt;strong&amp;gt;code archaeology&amp;lt;/strong&amp;gt; is pretty fun.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;I stumbled across &amp;lt;a href="https://simonwillison.net/2003/Jul/17/phpAndColdFusion/"&amp;gt;this blog entry from 2003&amp;lt;/a&amp;gt; today, in wh]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;Using LLMs for &amp;lt;strong&amp;gt;code archaeology&amp;lt;/strong&amp;gt; is pretty fun.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;I stumbled across &amp;lt;a href="https://simonwillison.net/2003/Jul/17/phpAndColdFusion/"&amp;gt;this blog entry from 2003&amp;lt;/a&amp;gt; today, in which I had gotten briefly excited about ColdFusion and implemented an experimental PHP template engine that used XML tags to achieve a similar effect:&amp;lt;/p&amp;gt;&amp;lt;pre&amp;gt;&amp;amp;lt;&amp;lt;span class="pl-ent"&amp;gt;h1&amp;lt;/span&amp;gt;&amp;amp;gt;%title%&amp;amp;lt;/&amp;lt;span class="pl-ent"&amp;gt;h1&amp;lt;/span&amp;gt;&amp;amp;gt;&amp;amp;lt;&amp;lt;span class="pl-ent"&amp;gt;sql&amp;lt;/span&amp;gt; &amp;lt;span class="pl-e"&amp;gt;id&amp;lt;]]></content>
+        <published>2025-07-01T19:57:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing PlanetScale for Postgres | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jul/1/planetscale-for-postgres/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jul/1/planetscale-for-postgres/#atom-everything"/>
+        <updated>2025-07-01T18:16:12.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://planetscale.com/blog/planetscale-for-postgres#vitess-for-postgres"&amp;gt;Announcing PlanetScale for Postgres&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;PlanetScale formed in 2018 to build a commercial off]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://planetscale.com/blog/planetscale-for-postgres#vitess-for-postgres"&amp;gt;Announcing PlanetScale for Postgres&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;PlanetScale formed in 2018 to build a commercial offering on top of the Vitess MySQL sharding open source project, which was originally released by YouTube in 2012. The PlanetScale founders were the co-creators and maintainers of Vitess.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Today PlanetScale are announcing a private preview of their new horizontally sharded PostgreSQL solution, du]]></content>
+        <published>2025-07-01T18:16:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quoting mrmincent | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jul/1/mrmincent/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jul/1/mrmincent/#atom-everything"/>
+        <updated>2025-07-01T17:07:27.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;blockquote cite="https://news.ycombinator.com/item?id=44429225#44431095"&amp;gt;&amp;lt;p&amp;gt;To misuse a woodworking metaphor, I think we’re experiencing a shift from hand tools to power tools.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;You still need ]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;blockquote cite="https://news.ycombinator.com/item?id=44429225#44431095"&amp;gt;&amp;lt;p&amp;gt;To misuse a woodworking metaphor, I think we’re experiencing a shift from hand tools to power tools.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;You still need someone who understands the basics to get the good results out of the tools, but they’re not chiseling fine furniture by hand anymore, they’re throwing heaps of wood through the tablesaw instead. More productive, but more likely to lose a finger if you’re not careful.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;&amp;lt;p class="cite"]]></content>
+        <published>2025-07-01T17:07:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No-code personal agents, powered by GPT-4.1 and Realtime API | OpenAI News]]></title>
+        <id>https://openai.com/index/genspark</id>
+        <link href="https://openai.com/index/genspark"/>
+        <updated>2025-07-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how Genspark built a $36M ARR AI product in 45 days—with no-code agents powered by GPT-4.1 and OpenAI Realtime API.]]></summary>
+        <content type="html"><![CDATA[Learn how Genspark built a $36M ARR AI product in 45 days—with no-code agents powered by GPT-4.1 and OpenAI Realtime API.]]></content>
+        <published>2025-07-01T10:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workload Identity Federationの安全を支える技術 | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/2025/07/01/180000</id>
+        <link href="https://www.m3tech.blog/entry/2025/07/01/180000"/>
+        <updated>2025-07-01T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[エンジニアリンググループ ゼネラルマネージャーの横本(@yokomotod)です。 このブログはAI・機械学習チームブログリレー 12日目の記事です。 ちょうど昨日の大垣さんの記事でも触れられていましたが、エムスリーではWorkload Identity Federation（以下WIF）*1を活用して、秘密情報を持つことなくGitLabのCI/CDからGoogle Cloudへ認証しています。 ]]></summary>
+        <content type="html"><![CDATA[エンジニアリンググループ ゼネラルマネージャーの横本(@yokomotod)です。 このブログはAI・機械学習チームブログリレー 12日目の記事です。 ちょうど昨日の大垣さんの記事でも触れられていましたが、エムスリーではWorkload Identity Federation（以下WIF）*1を活用して、秘密情報を持つことなくGitLabのCI/CDからGoogle Cloudへ認証しています。 偶然ですが、昨日の活用方法の話に続き、今日はその裏側寄りの話をしようと思います。 www.m3tech.blog なぜWIFは秘密情報なしに安全にアクセスできるんでしょうか？ 攻撃者がなりすまそうとし…]]></content>
+        <published>2025-07-01T09:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本社じゃなくても挑戦できる —— 名古屋拠点研究開発部オープンセッション開催レポート | Sansan Tech Blog]]></title>
+        <id>https://buildersbox.corp-sansan.com/entry/2025/07/01/143000</id>
+        <link href="https://buildersbox.corp-sansan.com/entry/2025/07/01/143000"/>
+        <updated>2025-07-01T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、技術本部研究開発部の高橋寛治です。 2025年6月11日（水）、Sansanの中部支店にて初のエンジニア向けイベント「本社じゃなくても挑戦できる —— 名古屋拠点研究開発部オープンセッション」を開催しました。 本記事では、イベントの様子を振り返りながら、名古屋で活躍するエンジニアの挑戦と働き方をご紹介します。 配布物]]></summary>
+        <content type="html"><![CDATA[こんにちは、技術本部研究開発部の高橋寛治です。 2025年6月11日（水）、Sansanの中部支店にて初のエンジニア向けイベント「本社じゃなくても挑戦できる —— 名古屋拠点研究開発部オープンセッション」を開催しました。 本記事では、イベントの様子を振り返りながら、名古屋で活躍するエンジニアの挑戦と働き方をご紹介します。 配布物]]></content>
+        <published>2025-07-01T05:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カケハシCTOの湯前が日本CTO協会の幹事に就任しました | KAKEHASHI Tech Blog]]></title>
+        <id>https://kakehashi-dev.hatenablog.com/entry/2025/07/01/090000</id>
+        <link href="https://kakehashi-dev.hatenablog.com/entry/2025/07/01/090000"/>
+        <updated>2025-07-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[カケハシCTOの湯前です。この度、一般社団法人 日本CTO協会の幹事に就任いたしました。 本記事では、なぜこのタイミングで幹事をお引き受けすることにしたのか、その経緯と想いについてお話しさせてください。 「CTO」を捉えきれなかった頃 実は、日本CTO協会のお誘いは、数年前から何度かいただいていました。当時はまだCTOという役職ではなく、「どう？」と声をかけていただく度に、やんわりとお断りしていま]]></summary>
+        <content type="html"><![CDATA[カケハシCTOの湯前です。この度、一般社団法人 日本CTO協会の幹事に就任いたしました。 本記事では、なぜこのタイミングで幹事をお引き受けすることにしたのか、その経緯と想いについてお話しさせてください。 「CTO」を捉えきれなかった頃 実は、日本CTO協会のお誘いは、数年前から何度かいただいていました。当時はまだCTOという役職ではなく、「どう？」と声をかけていただく度に、やんわりとお断りしていました。 その頃の自分は、「CTO」という存在をまだ明確に捉えきれていませんでした。CTOとしてどのようなリーダーシップを発揮するべきなのか、経営に対してどのように関与していくべきなのか。その輪郭がぼや…]]></content>
+        <published>2025-07-01T05:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[June newsletter for sponsors has been sent | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jul/1/monthly/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jul/1/monthly/#atom-everything"/>
+        <updated>2025-07-01T03:52:53.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;I just sent out the second edition of my &amp;lt;a href="https://simonwillison.net/2025/May/25/sponsors-only-newsletter/"&amp;gt;sponsors only monthly newsletter&amp;lt;/a&amp;gt;. Anyone who sponsors me for &amp;lt;a href="https:/]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;I just sent out the second edition of my &amp;lt;a href="https://simonwillison.net/2025/May/25/sponsors-only-newsletter/"&amp;gt;sponsors only monthly newsletter&amp;lt;/a&amp;gt;. Anyone who sponsors me for &amp;lt;a href="https://github.com/sponsors/simonw/"&amp;gt;$10/month or more on GitHub&amp;lt;/a&amp;gt; gets this carefully hand-curated summary of the last month in AI/LLMs/my projects designed to be readable in ten minutes or less.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;My &amp;lt;a href="https://simonw.substack.com/"&amp;gt;regular newsletter&amp;lt;/a&amp;gt; remains free - the monthly one is the]]></content>
+        <published>2025-07-01T03:52:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Claude Code to build a GitHub Actions workflow | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jul/1/claude-code-github-actions/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jul/1/claude-code-github-actions/#atom-everything"/>
+        <updated>2025-07-01T03:44:25.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://www.youtube.com/watch?v=VC6dmPcin2E"&amp;gt;Using Claude Code to build a GitHub Actions workflow&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;I wanted to add a small feature to one of my GitHub repos - an au]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://www.youtube.com/watch?v=VC6dmPcin2E"&amp;gt;Using Claude Code to build a GitHub Actions workflow&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;I wanted to add a small feature to one of my GitHub repos - an automatically updated README index listing other files in the repo - so I decided to use &amp;lt;a href="https://www.descript.com/"&amp;gt;Descript&amp;lt;/a&amp;gt; to record my process using Claude Code. Here's a 7 minute video showing what I did.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;lite-youtube videoid="VC6dmPcin2E" js-api="js-api" title=" Using Claude C]]></content>
+        <published>2025-07-01T03:44:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[問い合わせ対応を効率化するRAGベースのボットを導入する方法 | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+        <id>https://techblog.lycorp.co.jp/ja/20250701a</id>
+        <link href="https://techblog.lycorp.co.jp/ja/20250701a"/>
+        <updated>2025-07-01T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは。SR（Service Reliability）チームでSRE（Site Reliability Engineer、サイト信頼性エンジニア）業務を担当しているChaeseung Le...]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは。SR（Service Reliability）チームでSRE（Site Reliability Engineer、サイト信頼性エンジニア）業務を担当しているChaeseung Le...]]></content>
+        <published>2025-07-01T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成果が止まるチームに足りないのは「Why」か 「How」か | Wantedly Engineer Blog]]></title>
+        <id>https://www.wantedly.com/companies/wantedly/post_articles/983740</id>
+        <link href="https://www.wantedly.com/companies/wantedly/post_articles/983740"/>
+        <updated>2025-07-01T00:00:13.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、夏のアドベントカレンダー1日目担当の 執行役員 VPoE の要 (@nory_kaname )です。開...]]></summary>
+        <content type="html"><![CDATA[こんにちは、夏のアドベントカレンダー1日目担当の 執行役員 VPoE の要 (@nory_kaname )です。開...]]></content>
+        <author>
+            <name>要 徳幸</name>
+        </author>
+        <category label="リーダー"/>
+        <category label="開発秘話"/>
+        <category label="マネジメント"/>
+        <category label="組織開発"/>
+        <category label="夏のアドベントカレンダー"/>
+        <published>2025-07-01T00:00:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript で Wasm 使ってるなら要注意！ そのメモリ、本当に解放されてますか？ | カミナシ エンジニアブログ]]></title>
+        <id>https://kaminashi-developer.hatenablog.jp/entry/2025/07/01/pitfalls-of-cpp-based-wasm</id>
+        <link href="https://kaminashi-developer.hatenablog.jp/entry/2025/07/01/pitfalls-of-cpp-based-wasm"/>
+        <updated>2025-06-30T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[数ヶ月前、画像処理ライブラリ OpenCV.js を使って Web カメラの映像をリアルタイム処理するプロトタイプを作っていたときのことです。 OpenCV.js は C++ で書かれたコードを WebAssembly（Wasm） にコンパイルして作られており、Wasm ならではのブラウザ上での高速な処理が可能なライブラリです。 実際、画像のフィルタ処理や特徴点検出など、ユニットテストの段階では高]]></summary>
+        <content type="html"><![CDATA[数ヶ月前、画像処理ライブラリ OpenCV.js を使って Web カメラの映像をリアルタイム処理するプロトタイプを作っていたときのことです。 OpenCV.js は C++ で書かれたコードを WebAssembly（Wasm） にコンパイルして作られており、Wasm ならではのブラウザ上での高速な処理が可能なライブラリです。 実際、画像のフィルタ処理や特徴点検出など、ユニットテストの段階では高速に実行でき、開発は一見順調に進んでいるかのように見えました。 ところが、いざアプリケーションに画像処理モジュールを組み込んでみると、起動したカメラが数秒経つとなぜか止まってしまいました。 コンソール…]]></content>
+        <published>2025-06-30T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[microsoft/vscode-copilot-chat | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jun/30/vscode-copilot-chat/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jun/30/vscode-copilot-chat/#atom-everything"/>
+        <updated>2025-06-30T21:08:40.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://github.com/microsoft/vscode-copilot-chat"&amp;gt;microsoft/vscode-copilot-chat&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;As &amp;lt;a href="https://github.com/newsroom/press-releases/coding-agent-for-github-copi]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://github.com/microsoft/vscode-copilot-chat"&amp;gt;microsoft/vscode-copilot-chat&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;As &amp;lt;a href="https://github.com/newsroom/press-releases/coding-agent-for-github-copilot"&amp;gt;promised&amp;lt;/a&amp;gt; at Build 2025 in May, Microsoft have released the GitHub Copilot Chat client for VS Code under an open source (MIT) license.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;So far this is just the extension that provides the chat component of Copilot, but &amp;lt;a href="https://code.visualstudio.com/blogs/2025/06/30/openSourceAI]]></content>
+        <published>2025-06-30T21:08:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[llvm: InstCombine: improve optimizations for ceiling division with no overflow - a PR by Alex Gaynor and Claude Code | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jun/30/llvm/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jun/30/llvm/#atom-everything"/>
+        <updated>2025-06-30T16:44:59.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://github.com/llvm/llvm-project/pull/142869"&amp;gt;llvm: InstCombine: improve optimizations for ceiling division with no overflow - a PR by Alex Gaynor and Claude Code&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://github.com/llvm/llvm-project/pull/142869"&amp;gt;llvm: InstCombine: improve optimizations for ceiling division with no overflow - a PR by Alex Gaynor and Claude Code&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Alex Gaynor maintains &amp;lt;a href="https://github.com/alex/rust-asn1"&amp;gt;rust-asn1&amp;lt;/a&amp;gt;, and recently spotted a missing LLVM compiler optimization while hacking on it, with &amp;lt;a href="https://claude.ai/share/d998511d-45ee-4132-bee4-fe7f70350a67"&amp;gt;the assistance of Claude&amp;lt;/a&amp;gt; (Alex works for Anthropic).&amp;lt;/p&amp;gt;]]></content>
+        <published>2025-06-30T16:44:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HashiCorp創業者のミッチェル・ハシモト氏が打ち明ける、一緒に仕事をして最高だったクラウドベンダーはMS、Google、Amazonのどれだったか？ | Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/25/hashicorpmsgoogleamazon.html</id>
+        <link href="https://www.publickey1.jp/blog/25/hashicorpmsgoogleamazon.html"/>
+        <updated>2025-06-30T15:05:51.000Z</updated>
+        <summary type="html"><![CDATA[HashiCorpを創業したミッチェル・ハシモト氏は、2024年に同社を去った後、現在は個人開発者としてターミナルエミュレータ「Ghostty」の開発に取り組んでいます。 HashiCorpは、特定のクラウドに依存しないTerraformや...]]></summary>
+        <content type="html"><![CDATA[HashiCorpを創業したミッチェル・ハシモト氏は、2024年に同社を去った後、現在は個人開発者としてターミナルエミュレータ「Ghostty」の開発に取り組んでいます。 HashiCorpは、特定のクラウドに依存しないTerraformや...]]></content>
+        <published>2025-06-30T15:05:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Native Computing Foundationの新トップに、OpenInfra Foundationトップとの兼任となるJonathan Bryce氏が就任 | Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/25/cloud_native_computing_foundationopeninfra_foundationjonathan_bryce.html</id>
+        <link href="https://www.publickey1.jp/blog/25/cloud_native_computing_foundationopeninfra_foundationjonathan_bryce.html"/>
+        <updated>2025-06-30T15:02:29.000Z</updated>
+        <summary type="html"><![CDATA[Linux Foundationは、同団体傘下でクラウドネイティブを推進するCloud Native Computing Foundation（CNCF）の事実上のトップとなるエグゼクティブディレクターにJonathan Bryce（ジョナ...]]></summary>
+        <content type="html"><![CDATA[Linux Foundationは、同団体傘下でクラウドネイティブを推進するCloud Native Computing Foundation（CNCF）の事実上のトップとなるエグゼクティブディレクターにJonathan Bryce（ジョナ...]]></content>
+        <published>2025-06-30T15:02:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How we created HOV-specific ETAs in Google Maps | The latest research from Google]]></title>
+        <id>https://research.google/blog/how-we-created-hov-specific-etas-in-google-maps/</id>
+        <link href="https://research.google/blog/how-we-created-hov-specific-etas-in-google-maps/"/>
+        <updated>2025-06-30T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Algorithms &amp;amp; Theory]]></summary>
+        <content type="html"><![CDATA[Algorithms &amp;amp; Theory]]></content>
+        <category label="Algorithms &amp;amp; Theory"/>
+        <category label="Data Mining &amp;amp; Modeling"/>
+        <category label="Machine Intelligence"/>
+        <published>2025-06-30T12:15:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCPでVertex AIを使ってAIコーディングエージェントの認証をセキュアでポータブルに管理してみる | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/vertex_ai_dashboard</id>
+        <link href="https://www.m3tech.blog/entry/vertex_ai_dashboard"/>
+        <updated>2025-06-30T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、機械学習エンジニア / CTOの大垣です。 このブログはAI・機械学習チームブログリレー 11日目の記事です。 前日は池嶋さんによる 「先週何したっけ？」をゼロに：Obsidian + Claude Codeを業務アシスタントに - エムスリーテックブログ でした。 後段にAI活用があることで結果的にメモ習慣も改善されるなぁと思いました。 さて、本日もAI活用の記事ですが、社内、特にA]]></summary>
+        <content type="html"><![CDATA[こんにちは、機械学習エンジニア / CTOの大垣です。 このブログはAI・機械学習チームブログリレー 11日目の記事です。 前日は池嶋さんによる 「先週何したっけ？」をゼロに：Obsidian + Claude Codeを業務アシスタントに - エムスリーテックブログ でした。 後段にAI活用があることで結果的にメモ習慣も改善されるなぁと思いました。 さて、本日もAI活用の記事ですが、社内、特にAIコーディングエージェントから利用するときの認証の話をしようかなと思います。 みなさんの会社ではAIコーディングエージェントの認証管理どうしていますか？ エムスリーでは、Gemini、Copilot、…]]></content>
+        <published>2025-06-30T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI in Australia—OpenAI’s Economic Blueprint | OpenAI News]]></title>
+        <id>https://openai.com/global-affairs/openais-australia-economic-blueprint</id>
+        <link href="https://openai.com/global-affairs/openais-australia-economic-blueprint"/>
+        <updated>2025-06-30T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, OpenAI, in partnership with Mandala Partners, is sharing the OpenAI AI Economic Blueprint for Australia. At a time when boosting productivity has emerged as a national priority for Australia, t]]></summary>
+        <content type="html"><![CDATA[Today, OpenAI, in partnership with Mandala Partners, is sharing the OpenAI AI Economic Blueprint for Australia. At a time when boosting productivity has emerged as a national priority for Australia, the Blueprint provides a clear, actionable plan for how Australia can unlock the full economic and social potential of artificial intelligence.]]></content>
+        <published>2025-06-30T07:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カケハシのプロダクトに“水道”のような基盤をつくりたい。Musubiアカウント管理基盤チームの決意 | KAKEHASHI Tech Blog]]></title>
+        <id>https://kakehashi-dev.hatenablog.com/entry/2025/06/30/142252</id>
+        <link href="https://kakehashi-dev.hatenablog.com/entry/2025/06/30/142252"/>
+        <updated>2025-06-30T05:22:52.000Z</updated>
+        <summary type="html"><![CDATA[カケハシのプロダクトをあらゆるユーザーが安全に、かつ簡単に使えるようにしていくために欠かせない業務を担っているのが、Musubiアカウント管理基盤チームです。 このチームが担う重要な役割とは何でしょうか。今回はMusubiアカウント管理基盤チームのプロダクトマネージャー（PdM）・藤﨑翔吾と、エンジニア・松岡康夫のふたりに、チームの現在地、そして今後の目指すべき姿について聞きました。 Musubi]]></summary>
+        <content type="html"><![CDATA[カケハシのプロダクトをあらゆるユーザーが安全に、かつ簡単に使えるようにしていくために欠かせない業務を担っているのが、Musubiアカウント管理基盤チームです。 このチームが担う重要な役割とは何でしょうか。今回はMusubiアカウント管理基盤チームのプロダクトマネージャー（PdM）・藤﨑翔吾と、エンジニア・松岡康夫のふたりに、チームの現在地、そして今後の目指すべき姿について聞きました。 Musubiアカウント管理基盤チームとは？ Musubiアカウント管理基盤チーム プロダクトマネージャー 藤﨑翔吾 —チーム発足の経緯から教えてもらえますか？ 藤﨑：5年以上前にさかのぼりますが、当時カケハシはク…]]></content>
+        <published>2025-06-30T05:22:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NTT ComはNTTドコモビジネスに変わります | NTT docomo Business Engineers' Blog]]></title>
+        <id>https://engineers.ntt.com/entry/202506-nttcom-to-nttdocomobiz/entry</id>
+        <link href="https://engineers.ntt.com/entry/202506-nttcom-to-nttdocomobiz/entry"/>
+        <updated>2025-06-30T02:51:42.000Z</updated>
+        <summary type="html"><![CDATA[NTTコミュニケーションズ開発者ブログチームの小林です。 私たちNTTコミュニケーションズ株式会社は、明日2025年7月1日より社名をNTTドコモビジネス株式会社と改め、NTTグループの法人向け総合ICT事業の中核として新たな出発を迎えることとなりました。 www.ntt.com これに伴い、1999年の設立より親しまれてきたロゴマーク（シャイニングアーク）と、NTT Comの名称については、本日]]></summary>
+        <content type="html"><![CDATA[NTTコミュニケーションズ開発者ブログチームの小林です。 私たちNTTコミュニケーションズ株式会社は、明日2025年7月1日より社名をNTTドコモビジネス株式会社と改め、NTTグループの法人向け総合ICT事業の中核として新たな出発を迎えることとなりました。 www.ntt.com これに伴い、1999年の設立より親しまれてきたロゴマーク（シャイニングアーク）と、NTT Comの名称については、本日で利用を終了します。 NTT Comの設立は、ちょうど26年前の1999年7月1日でした。長距離・国際通信事業を担う存在としてスタートを切り、いまその歴史に区切りを迎えることとなります。音声通信と固定…]]></content>
+        <published>2025-06-30T02:51:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブラウザで“サクサク”AI推論！！― Wasm × C++ による画像処理 | カミナシ エンジニアブログ]]></title>
+        <id>https://kaminashi-developer.hatenablog.jp/entry/2025/06/30/113321</id>
+        <link href="https://kaminashi-developer.hatenablog.jp/entry/2025/06/30/113321"/>
+        <updated>2025-06-30T02:33:21.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、Kaminashi StatHackカンパニーの渡邉健です。 初めてエンジニアブログを書いてみます。 以下のリンクに普段の取り組みを書いているので興味があれば見てみてください。 AI というテクノロジーを現場 SaaS でどう実現するか 〜AI チームのアプリケーションエンジニアに話を聞いてみた〜｜カミナシnote編集部 1. StatHackのこれまでの画像処理の取り組み StatH]]></summary>
+        <content type="html"><![CDATA[こんにちは、Kaminashi StatHackカンパニーの渡邉健です。 初めてエンジニアブログを書いてみます。 以下のリンクに普段の取り組みを書いているので興味があれば見てみてください。 AI というテクノロジーを現場 SaaS でどう実現するか 〜AI チームのアプリケーションエンジニアに話を聞いてみた〜｜カミナシnote編集部 1. StatHackのこれまでの画像処理の取り組み StatHack カンパニーでは、現場作業を楽にする AI 画像処理 をいくつか開発してきました。 たとえばスマホで鉄筋束を撮影し、クラウド側で本数を自動カウントする Web アプリなどです。 JFE条鋼がAI…]]></content>
+        <published>2025-06-30T02:33:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FASTを導入したログラス開発チームの変遷 | loglass_product_teamのブログ]]></title>
+        <id>https://prd-blog.loglass.co.jp/entry/fast_4</id>
+        <link href="https://prd-blog.loglass.co.jp/entry/fast_4"/>
+        <updated>2025-06-30T01:39:47.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 本記事は、開発生産性カンファレンスに向けて発信する、ログラスで導入したスケーリングフレームワークFASTに関する連載記事「#私から見たFAST」シリーズの4記事目です。 FAST導入の取り組みの変遷をお伝えできればと思います。 内容は、弊社エンジニアの粟田とアジャイルコーチとして参画いただいている今井氏にインタビューを行い、その内容をもとに福土が記事を構成しました。 なお、FASTの詳細]]></summary>
+        <content type="html"><![CDATA[はじめに 本記事は、開発生産性カンファレンスに向けて発信する、ログラスで導入したスケーリングフレームワークFASTに関する連載記事「#私から見たFAST」シリーズの4記事目です。 FAST導入の取り組みの変遷をお伝えできればと思います。 内容は、弊社エンジニアの粟田とアジャイルコーチとして参画いただいている今井氏にインタビューを行い、その内容をもとに福土が記事を構成しました。 なお、FASTの詳細な考え方ややり方などについては詳しく触れません。詳しい情報を知りたい方は、下記をご参照ください。FAST Guide FAST導入の背景と理想状態 ログラスでは、従来複数のスクラムチームで開発を行って…]]></content>
+        <published>2025-06-30T01:39:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open XR Optics - 帯域保証型Point-to-Multipoint（P2MP）光伝送を実機検証してみた | NTT docomo Business Engineers' Blog]]></title>
+        <id>https://engineers.ntt.com/entry/202503-openxr-optics/entry</id>
+        <link href="https://engineers.ntt.com/entry/202503-openxr-optics/entry"/>
+        <updated>2025-06-30T00:31:21.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、イノベーションセンターの安井です。 この記事では、Open XR Opticsという新しい光伝送技術が実装されたトランシーバーの実機検証結果をご紹介します。 本記事で以下を扱います。 1つの光信号を複数に分け、柔軟な帯域保証を可能にする新技術「Open XR Optics」 実機を用いた検証により、その基本性能、障害からの復旧挙動、そして実用上の注意点 5G基地局やデータセンター間接続]]></summary>
+        <content type="html"><![CDATA[こんにちは、イノベーションセンターの安井です。 この記事では、Open XR Opticsという新しい光伝送技術が実装されたトランシーバーの実機検証結果をご紹介します。 本記事で以下を扱います。 1つの光信号を複数に分け、柔軟な帯域保証を可能にする新技術「Open XR Optics」 実機を用いた検証により、その基本性能、障害からの復旧挙動、そして実用上の注意点 5G基地局やデータセンター間接続など、将来のネットワークを支える技術の展望（可能性と課題） P2MP技術 Open XR Opticsとは 検証 検証構成 基本動作の確認 パワー 周波数 自動調整の完了に要する時間 障害復旧の挙動 …]]></content>
+        <published>2025-06-30T00:31:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic Coding: The Future of Software Development with Agents | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jun/29/agentic-coding/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jun/29/agentic-coding/#atom-everything"/>
+        <updated>2025-06-29T23:59:31.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://www.youtube.com/watch?v=nfOVgz_omlU"&amp;gt;Agentic Coding: The Future of Software Development with Agents&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Armin Ronacher delivers a 37 minute YouTube talk descri]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://www.youtube.com/watch?v=nfOVgz_omlU"&amp;gt;Agentic Coding: The Future of Software Development with Agents&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Armin Ronacher delivers a 37 minute YouTube talk describing his adventures so far with Claude Code and agentic coding methods.&amp;lt;/p&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;A friend called Claude Code catnip for programmers and it really feels like this. I haven't felt so energized and confused and just so willing to try so many new things... it is really incredibly addicting.&amp;lt;/p&amp;gt;]]></content>
+        <published>2025-06-29T23:59:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tip: Use keyword-only arguments in Python dataclasses | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jun/29/keyword-only-arguments/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jun/29/keyword-only-arguments/#atom-everything"/>
+        <updated>2025-06-29T20:51:43.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/"&amp;gt;Tip: Use keyword-only arguments in Python dataclasses&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Useful tip from Christ]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/"&amp;gt;Tip: Use keyword-only arguments in Python dataclasses&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Useful tip from Christian Hammond: if you create a Python dataclass using &amp;lt;code&amp;gt;@dataclass(kw_only=True)&amp;lt;/code&amp;gt; its constructor will require keyword arguments, making it easier to add additional properties in the future, including in subclasses, without risking breaking existing code. &amp;lt;p&amp;gt;&amp;lt;small&amp;gt;&amp;lt;/small&amp;gt;Via &amp;lt;a href="https]]></content>
+        <published>2025-06-29T20:51:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fix Your Context | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jun/29/how-to-fix-your-context/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jun/29/how-to-fix-your-context/#atom-everything"/>
+        <updated>2025-06-29T20:15:41.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html"&amp;gt;How to Fix Your Context&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Drew Breunig has been publishing some very detailed notes on &amp;lt;a href="htt]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html"&amp;gt;How to Fix Your Context&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Drew Breunig has been publishing some very detailed notes on &amp;lt;a href="https://simonwillison.net/2025/Jun/27/context-engineering/"&amp;gt;context engineering&amp;lt;/a&amp;gt; recently. In &amp;lt;a href="https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html"&amp;gt;How Long Contexts Fail&amp;lt;/a&amp;gt; he described four common patterns for &amp;lt;a href="https://simonwillison.net/2025/Jun/18/conte]]></content>
+        <published>2025-06-29T20:15:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio CodeのAIエディタ化が前進、GitHub Copilot Chatがオープンソースで公開。現在プレリリース版 | Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/25/visual_studio_codeaigithub_copilot_chat.html</id>
+        <link href="https://www.publickey1.jp/blog/25/visual_studio_codeaigithub_copilot_chat.html"/>
+        <updated>2025-06-29T15:59:51.000Z</updated>
+        <summary type="html"><![CDATA[Visual Studio Codeの拡張機能「GitHub Copilot Chat」のソースコードがMITライセンスで公開されました。 公開されたソースコードはまだバージョン0.29のプレリリース版と位置づけられています。 オープンソー...]]></summary>
+        <content type="html"><![CDATA[Visual Studio Codeの拡張機能「GitHub Copilot Chat」のソースコードがMITライセンスで公開されました。 公開されたソースコードはまだバージョン0.29のプレリリース版と位置づけられています。 オープンソー...]]></content>
+        <published>2025-06-29T15:59:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開発プロセスをエミュレートする！Claude Codeの実践ガイド | 株式会社ログラス テックブログのフィード]]></title>
+        <id>https://zenn.dev/loglass/articles/771ebf5dd7cc86</id>
+        <link href="https://zenn.dev/loglass/articles/771ebf5dd7cc86"/>
+        <updated>2025-06-29T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[!この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の98週目の記事です！2年間連続達成まで残り8週となりました！ はじめにClaude Codeのような強力なAIエージェントが登場し、私達のソフトウェア開発に大きな変革がありました。AIエージェントを導入しはじめたものの、最初に直面する課題は「思ったよりも生産性向上に繋がらない」と感じる方はいるのではない]]></summary>
+        <content type="html"><![CDATA[!この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の98週目の記事です！2年間連続達成まで残り8週となりました！ はじめにClaude Codeのような強力なAIエージェントが登場し、私達のソフトウェア開発に大きな変革がありました。AIエージェントを導入しはじめたものの、最初に直面する課題は「思ったよりも生産性向上に繋がらない」と感じる方はいるのではないでしょうか。簡単な関数や定型コードの生成には大いに役立ってはいるが、難解なビジネスロジックや、複雑なビジネスフローをいざ実装しようとすると、求めていた品質よりも、やや劣るようなもの...]]></content>
+        <author>
+            <name>nekolas</name>
+        </author>
+        <published>2025-06-29T15:00:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「先週何したっけ？」をゼロに：Obsidian + Claude Codeを業務アシスタントに | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/2025/06/29/110000</id>
+        <link href="https://www.m3tech.blog/entry/2025/06/29/110000"/>
+        <updated>2025-06-29T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI・機械学習チームの池嶋 (@mski_iksm)です。 このブログはAI・機械学習チームブログリレー 10日目の記事です。 前日は鴨田さんによる「BigQueryのCronJob向けQAテストを自動化した話」でした。 2025年6月現在、MarkdownエディタのObsidianが注目を集めています。 これはLLM（大規模言語モデル）の活用が普及し、ObsidianとAIを組み合わせることで、]]></summary>
+        <content type="html"><![CDATA[AI・機械学習チームの池嶋 (@mski_iksm)です。 このブログはAI・機械学習チームブログリレー 10日目の記事です。 前日は鴨田さんによる「BigQueryのCronJob向けQAテストを自動化した話」でした。 2025年6月現在、MarkdownエディタのObsidianが注目を集めています。 これはLLM（大規模言語モデル）の活用が普及し、ObsidianとAIを組み合わせることで、単なるメモツールを超えた「知的業務アシスタント」として機能するようになった点が要因の1つと言えるでしょう。 従来のメモツールが「記録」に留まっていたのに対し、AIとの連携により「記録→検索→分析→洞察…]]></content>
+        <published>2025-06-29T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BigQueryのCronJob向けQAテストを自動化した話 | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/2025/06/28/110000</id>
+        <link href="https://www.m3tech.blog/entry/2025/06/28/110000"/>
+        <updated>2025-06-28T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI・機械学習チームの鴨田です。このブログはAI・機械学習チームブログリレー 9日目の記事です。 年末休みに話題の書籍『Tidy First?』を読みました。コード整理の実践的な手法や作業粒度によるトレードオフなどを学び、「最初から完璧な設計なんてできるわけない。コード品質を保つための整理が大切だよなー」と改めて実感しました。 品質を保ちながら開発速度を上げるには、信頼できるテストが欠かせません。]]></summary>
+        <content type="html"><![CDATA[AI・機械学習チームの鴨田です。このブログはAI・機械学習チームブログリレー 9日目の記事です。 年末休みに話題の書籍『Tidy First?』を読みました。コード整理の実践的な手法や作業粒度によるトレードオフなどを学び、「最初から完璧な設計なんてできるわけない。コード品質を保つための整理が大切だよなー」と改めて実感しました。 品質を保ちながら開発速度を上げるには、信頼できるテストが欠かせません。これは開発における普遍的な真理ですが、特にQA環境でのテストは地道で骨の折れる作業になりがちです。皆さんの現場でも、似たような課題を抱えているのではないでしょうか？ 今回は手動で実施しているQAテスト…]]></content>
+        <published>2025-06-28T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Context engineering | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jun/27/context-engineering/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jun/27/context-engineering/#atom-everything"/>
+        <updated>2025-06-27T23:42:43.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;The term &amp;lt;strong&amp;gt;context engineering&amp;lt;/strong&amp;gt; has recently started to gain traction as a better alternative to prompt engineering. I like it. I think this one may have sticking power.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Here's]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;The term &amp;lt;strong&amp;gt;context engineering&amp;lt;/strong&amp;gt; has recently started to gain traction as a better alternative to prompt engineering. I like it. I think this one may have sticking power.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Here's an example tweet &amp;lt;a href="https://twitter.com/tobi/status/1935533422589399127"&amp;gt;from Shopify CEO Tobi Lutke&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;I really like the term “context engineering” over prompt engineering. &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;It describes the core skill better: the art of providing all the context for the task to be ]]></content>
+        <published>2025-06-27T23:42:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Continuous AI | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jun/27/continuous-ai/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jun/27/continuous-ai/#atom-everything"/>
+        <updated>2025-06-27T23:31:11.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://githubnext.com/projects/continuous-ai"&amp;gt;Continuous AI&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;GitHub Next have coined the term "Continuous AI" to describe "all uses of automated AI to support soft]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://githubnext.com/projects/continuous-ai"&amp;gt;Continuous AI&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;GitHub Next have coined the term "Continuous AI" to describe "all uses of automated AI to support software collaboration on any platform". It's intended as an echo of Continuous Integration and Continuous Deployment:&amp;lt;/p&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;We've chosen the term "Continuous AI” to align with the established concept of Continuous Integration/Continuous Deployment (CI/CD). Just as CI/CD transformed software]]></content>
+        <published>2025-06-27T23:31:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project Vend: Can Claude run a small shop? (And why does that matter?) | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Jun/27/project-vend/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Jun/27/project-vend/#atom-everything"/>
+        <updated>2025-06-27T22:07:53.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://www.anthropic.com/research/project-vend-1"&amp;gt;Project Vend: Can Claude run a small shop? (And why does that matter?)&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;In "what could possibly go wrong?" news, ]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://www.anthropic.com/research/project-vend-1"&amp;gt;Project Vend: Can Claude run a small shop? (And why does that matter?)&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;In "what could possibly go wrong?" news, Anthropic and Andon Labs wired Claude 3.7 Sonnet up to a small vending machine in the Anthropic office, named it Claudius and told it to make a profit.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;The system prompt included the following:&amp;lt;/p&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;You are the owner of a vending machine. Your task is to generate profits fro]]></content>
+        <published>2025-06-27T22:07:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[REGEN: Empowering personalized recommendations with natural language | The latest research from Google]]></title>
+        <id>https://research.google/blog/regen-empowering-personalized-recommendations-with-natural-language/</id>
+        <link href="https://research.google/blog/regen-empowering-personalized-recommendations-with-natural-language/"/>
+        <updated>2025-06-27T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Data Mining &amp;amp; Modeling]]></summary>
+        <content type="html"><![CDATA[Data Mining &amp;amp; Modeling]]></content>
+        <category label="Data Mining &amp;amp; Modeling"/>
+        <category label="General Science"/>
+        <category label="Machine Intelligence"/>
+        <published>2025-06-27T17:00:00.000Z</published>
+    </entry>
+</feed>
