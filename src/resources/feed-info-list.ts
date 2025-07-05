@@ -42,6 +42,15 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ["NTT Communications Engineers' Blog", 'https://engineers.ntt.com/feed'],
   ['Microsoft AI Blogs', 'https://www.microsoft.com/en-us/ai/blog/feed/'],
   ['Google Research Blog', 'https://research.google/blog/rss/'],
+  ['カミナシ エンジニアブログ', 'https://kaminashi-developer.hatenablog.jp/feed'],
+  ['Wantedly Engineer Blog', 'https://www.wantedly.com/stories/s/wantedly_engineers/rss.xml'],
+  ['Sansan Tech Blog', 'https://buildersbox.corp-sansan.com/feed'],
+  ['KAKEHASHI Tech Blog', 'https://kakehashi-dev.hatenablog.com/feed'],
+  ['エムスリーテックブログ', 'https://www.m3tech.blog/feed'],
+  ['ログラス', 'https://prd-blog.loglass.co.jp/feed'],
+  ['ログラス (Zenn)', 'https://zenn.dev/p/loglass/feed'],
+  ['一休.com Developers Blog', 'https://user-first.ikyu.co.jp/feed'],
+  ['タイミー', 'https://tech.timee.co.jp/feed'],
 
   // Zenn, Qiita, Noteが提供しているfeed
   ['Zennの「LLM」のフィード', 'https://zenn.dev/topics/llm/feed'],
