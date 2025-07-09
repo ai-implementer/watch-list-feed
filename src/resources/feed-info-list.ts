@@ -40,7 +40,6 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['LINEヤフーTech Blog', 'https://techblog.lycorp.co.jp/ja/feed/index.xml'],
   ['DeNA Engineering on DeNA Engineering', 'https://engineering.dena.com/index.xml'],
   ["NTT Communications Engineers' Blog", 'https://engineers.ntt.com/feed'],
-  ['Microsoft AI Blogs', 'https://www.microsoft.com/en-us/ai/blog/feed/'],
   ['Google Research Blog', 'https://research.google/blog/rss/'],
   ['カミナシ エンジニアブログ', 'https://kaminashi-developer.hatenablog.jp/feed'],
   ['Wantedly Engineer Blog', 'https://www.wantedly.com/stories/s/wantedly_engineers/rss.xml'],
