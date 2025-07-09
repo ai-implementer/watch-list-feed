@@ -56,5 +56,4 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['LLMタグが付けられた新着記事 - Qiita', 'https://qiita.com/tags/llm/feed'],
   ['「#LLM」の人気タグ記事一覧｜note ――つくる、つながる、とどける。', 'https://note.com/hashtag/LLM/rss'],
   ["Simon Willison's Weblog", 'https://simonwillison.net/atom/everything/'],
-
 ]);
