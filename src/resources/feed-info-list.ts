@@ -54,7 +54,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['ログラス (Zenn)', 'https://zenn.dev/p/loglass/feed'],
   ['一休.com Developers Blog', 'https://user-first.ikyu.co.jp/feed'],
   ['タイミー', 'https://tech.timee.co.jp/feed'],
-  ['O\'Reilly Radar - Insight, analysis, and research about emerging technologies', 'https://feeds.feedburner.com/oreilly/radar/atom'],
+  ["O'Reilly Radar", 'https://feeds.feedburner.com/oreilly/radar/atom'],
   ['Developers.IO', 'https://dev.classmethod.jp/feed/'],
 
   // Zenn, Qiita, Noteが提供しているfeed
