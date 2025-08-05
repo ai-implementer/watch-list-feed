@@ -34,6 +34,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['yhara.jp', 'https://yhara.jp/_feed.xml'],
   ['きしだのはてな', 'https://nowokay.hatenablog.com/feed'],
   ['WWW WATCH', 'https://feeds.feedburner.com/wacth'],
+  ['PYMNTS.com', 'https://www.pymnts.com/feed/'],
 
   // 企業のBlog
   ['OpenAI News', 'https://openai.com/news/rss.xml'],
