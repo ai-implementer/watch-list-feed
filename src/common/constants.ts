@@ -1,13 +1,6 @@
 const siteUrlStem = 'https://feeds.implementer.net';
 const siteUrl = `${siteUrlStem}/`;
 
-const newRelicScript = `
-;window.NREUM||(NREUM={});NREUM.init={session_replay:{enabled:true,block_selector:'',mask_text_selector:'*',sampling_rate:10.0,error_sampling_rate:100.0,mask_all_inputs:true,collect_fonts:true,inline_images:false,inline_stylesheet:true,fix_stylesheets:true,preload:false,mask_input_options:{}},distributed_tracing:{enabled:true},privacy:{cookies_enabled:true},ajax:{deny_list:["bam.nr-data.net"]}};
-
-;NREUM.loader_config={accountID:"6974364",trustKey:"6974364",agentID:"1120434693",licenseKey:"NRJS-2bf604a278afcaa2599",applicationID:"1120434693"};
-;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"NRJS-2bf604a278afcaa2599",applicationID:"1120434693",sa:1};
-`;
-
 export default {
   // サイト設定
   siteUrl: `${siteUrl}`,
@@ -45,7 +38,7 @@ export default {
   howToAddSiteLink:
     'https://github.com/ai-implementer/watch-list-feed#%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E8%BF%BD%E5%8A%A0%E6%96%B9%E6%B3%95',
 
-  newRelicScript,
+  newRelicScript: true,
 
   // 処理の設定
   feedFetchConcurrency: 50, // フィードを取得する並列数
