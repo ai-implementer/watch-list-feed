@@ -1,5 +1,3 @@
-import fs from 'node:fs';
-import path from 'node:path';
 import EleventyImage from '@11ty/eleventy-img';
 import constants from './src/common/constants';
 import {
@@ -34,11 +32,6 @@ module.exports = (eleventyConfig: any) => {
 
   // TypeScript
   supportTypeScriptTemplate(eleventyConfig);
-
-  eleventyConfig.addShortcode('includeRaw', (filePath: string) => {
-    const fullPath = path.join(__dirname, filePath);
-    return fs.readFileSync(fullPath, 'utf8');
-  });
 
   // TODO: _data も TypeScript 対応したい
   // @see https://github.com/11ty/eleventy/discussions/1835
