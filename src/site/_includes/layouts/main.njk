@@ -24,6 +24,10 @@
 
     <meta name="thumbnail" content="{{ constants.siteUrl }}images/og-image.png" />
 
+    <script>
+      {% includeRaw "scripts/newrelic.ts" %}
+    </script>
+
     <link rel="preload" href="{{ page.url | relativeUrl }}styles/bundle.css" as="style">
     {% if ['/'].includes(page.url) %}
       <link rel="prerender" href="{{ page.url | relativeUrl }}hot/">
