@@ -10,7 +10,7 @@
       "eleventy.config.ts",
       "vite.config.ts"
     ],
-    "ignore": ["./src/site/feeds/**/*", "./src/site/blog-feeds/**/*", "./src/site/_includes/scripts/newrelic.js"]
+    "ignore": ["./src/site/feeds/**/*", "./src/site/blog-feeds/**/*", "./src/site/_includes/scripts/newrelic.ts"]
   },
   "organizeImports": {
     "enabled": true

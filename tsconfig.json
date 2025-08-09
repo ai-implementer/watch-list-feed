@@ -14,5 +14,6 @@
     "sourceMap": true,
     "resolveJsonModule": true
   },
-  "include": ["src/**/*", "tests/**/*", "vitest.config.ts", "eleventy.config.ts"]
+  "include": ["src/**/*", "tests/**/*", "vitest.config.ts", "eleventy.config.ts"],
+  "exclude": ["src/site/_includes/scripts/newrelic.ts"]
 }
