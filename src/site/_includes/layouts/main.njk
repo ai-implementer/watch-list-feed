@@ -39,6 +39,10 @@
     <link rel="alternate" type="application/rss+xml" title="RSS2.0" href="{{ page.url | relativeUrl }}feeds/rss.xml" />
     <link rel="alternate" type="application/json" href="{{ page.url | relativeUrl }}feeds/feed.json" />
 
+    <script>
+      {% include "scripts/newrelic.js" %}
+    </script>
+
     <link rel="stylesheet" type="text/css" href="{{ page.url | relativeUrl }}styles/bundle.css" />
 
     {% if constants.globalSiteTagKey %}
@@ -55,15 +59,6 @@
 
           gtag('config', '{{ constants.globalSiteTagKey }}');
         </script>
-    {% endif %}
-
-    {% if constants.newRelicScript %}
-      <script type="text/javascript">
-        ;window.NREUM||(NREUM={});NREUM.init={session_replay:{enabled:true,block_selector:'',mask_text_selector:'*',sampling_rate:10.0,error_sampling_rate:100.0,mask_all_inputs:true,collect_fonts:true,inline_images:false,inline_stylesheet:true,fix_stylesheets:true,preload:false,mask_input_options:{}},distributed_tracing:{enabled:true},privacy:{cookies_enabled:true},ajax:{deny_list:["bam.nr-data.net"]}};
-
-        ;NREUM.loader_config={accountID:"6974364",trustKey:"6974364",agentID:"1120434693",licenseKey:"NRJS-2bf604a278afcaa2599",applicationID:"1120434693"};
-        ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"NRJS-2bf604a278afcaa2599",applicationID:"1120434693",sa:1};
-      </script>
     {% endif %}
 
     <title>{{ pageTitle }}</title>
