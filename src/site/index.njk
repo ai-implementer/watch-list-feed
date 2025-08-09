@@ -5,6 +5,10 @@ eleventyComputed:
     lastUpdated: "{{ lastModifiedBlogsDate }}"
 ---
 
+<script>
+  {% include "scripts/newrelic.ts" %}
+</script>
+
 {% include 'layouts/partials/top-section.njk' %}
 
 {% include 'layouts/partials/nav.njk' %}

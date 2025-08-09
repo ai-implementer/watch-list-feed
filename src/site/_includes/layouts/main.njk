@@ -39,10 +39,6 @@
     <link rel="alternate" type="application/rss+xml" title="RSS2.0" href="{{ page.url | relativeUrl }}feeds/rss.xml" />
     <link rel="alternate" type="application/json" href="{{ page.url | relativeUrl }}feeds/feed.json" />
 
-    <script>
-      {% include "scripts/newrelic.ts" %}
-    </script>
-
     <link rel="stylesheet" type="text/css" href="{{ page.url | relativeUrl }}styles/bundle.css" />
 
     {% if constants.globalSiteTagKey %}
