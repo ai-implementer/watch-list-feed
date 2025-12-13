@@ -58,6 +58,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ["O'Reilly Radar", 'https://feeds.feedburner.com/oreilly/radar/atom'],
   ['Developers.IO', 'https://dev.classmethod.jp/feed/'],
   ['Socket', 'https://socket.dev/api/blog/feed.atom'],
+  ['Cybozu Inside Out', 'https://blog.cybozu.io/rss'],
 
   // Zenn, Qiita, Noteが提供しているfeed
   ['Zennの「LLM」のフィード', 'https://zenn.dev/topics/llm/feed'],
