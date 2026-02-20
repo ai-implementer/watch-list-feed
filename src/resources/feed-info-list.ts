@@ -66,4 +66,5 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   // ['「#LLM」の人気タグ記事一覧｜note ――つくる、つながる、とどける。', 'https://note.com/hashtag/LLM/rss'],
   ["Simon Willison's Weblog", 'https://simonwillison.net/atom/everything/'],
   ['hang-up | note', 'https://note.com/git_yamazaki/rss'],
+  ['akira_cloudjob | Zenn', 'https://zenn.dev/akira_cloudjob/feed'],
 ]);
