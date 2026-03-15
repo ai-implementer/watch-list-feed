@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>テックブログRSS</title>
+        <link>https://feeds.implementer.net/</link>
+        <description>テックブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Sun, 15 Mar 2026 15:06:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>ai-implementer/watch-list-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>テックブログRSS</title>
+            <url>https://feeds.implementer.net/images/icon.png</url>
+            <link>https://feeds.implementer.net/</link>
+        </image>
+        <copyright>ai-implementer/watch-list-feed</copyright>
+        <atom:link href="https://feeds.implementer.net/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chrome DevTools MCPサーバーでAIエージェントからブラウザの中身を確認できるようにする | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/chrome-devtools-mcp-setup/</link>
+            <guid>4LSwfnIVMrZNXg2T9W1voy</guid>
+            <pubDate>Sun, 15 Mar 2026 08:21:37 GMT</pubDate>
+            <description><![CDATA[Chrome DevTools MCPサーバーでAIエージェントからブラウザの中身を確認できるようにする]]></description>
+            <content:encoded><![CDATA[Chrome DevTools MCPサーバーでAIエージェントからブラウザの中身を確認できるようにする]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-6e9043acb4514ba835f6b6b4928b08b1/1c83d176a530c4b24d730e56d1d7f6d2/google-chrome-eyecatch.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ECS FargateでPostfixコンテナを動作させてAmazon SESのSMTPインターフェイスへSMTPリレーをしてみた | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/ecs-fargate-postfix-smtp-relay-to-amazon-ses/</link>
+            <guid>5knIdk1v43yi6KXHrR6cGH</guid>
+            <pubDate>Sun, 15 Mar 2026 06:37:03 GMT</pubDate>
+            <description><![CDATA[ECS FargateとPostfixで高信頼なSMTPサーバーを動作させる場合は工夫が必要]]></description>
+            <content:encoded><![CDATA[ECS FargateとPostfixで高信頼なSMTPサーバーを動作させる場合は工夫が必要]]></content:encoded>
+            <enclosure length="0" type="image//ct0aopd36mqt/wp-thumbnail-853da183b76d05403642726376140e38/c540874c56864efad6bd036621e947e7/amazon-ses" url="https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-853da183b76d05403642726376140e38/c540874c56864efad6bd036621e947e7/amazon-ses"/>
+        </item>
+        <item>
+            <title><![CDATA[Snowflake の Cortex Agent Evaluations を Snowsight 経由で試してみた | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/cortex-agent-evaluations-snowsight-try/</link>
+            <guid>7LQDodGQ3tdfrQvQGMO7Vn</guid>
+            <pubDate>Sun, 15 Mar 2026 06:14:55 GMT</pubDate>
+            <description><![CDATA[Snowflake の Cortex Agent Evaluations を Snowsight 経由で試してみた]]></description>
+            <content:encoded><![CDATA[Snowflake の Cortex Agent Evaluations を Snowsight 経由で試してみた]]></content:encoded>
+            <enclosure length="0" type="image//ct0aopd36mqt/wp-thumbnail-37f4322e7cca0bb66380be0a31ceace4/0886455fd66594d3e7d8947c9c7c844d/eyecatch_snowflake" url="https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-37f4322e7cca0bb66380be0a31ceace4/0886455fd66594d3e7d8947c9c7c844d/eyecatch_snowflake"/>
+        </item>
+        <item>
+            <title><![CDATA[skillって、もともと無詠唱で発動するものだったはず | Zennの「大規模言語モデル」のフィード]]></title>
+            <link>https://zenn.dev/commander/articles/dc42c944946fec</link>
+            <guid>https://zenn.dev/commander/articles/dc42c944946fec</guid>
+            <pubDate>Sun, 15 Mar 2026 04:58:07 GMT</pubDate>
+            <description><![CDATA[「無詠唱」とは、RPG で詠唱なしにスキルが発動する状態のことだ。ここでは比喩として使っている。skill は本来、ユーザーが毎回コマンドで呼び出すものではなく、文脈が条件を満たしたときにモデルが自然に参照する補助知識——つまり文脈起動型として設計されていた、という意味だ。ここでいう「自動」とは、人間が文脈条件を設計したうえで、条件を満たしたときにモデルが自然に参照する、という意味である。最近の ]]></description>
+            <content:encoded><![CDATA[「無詠唱」とは、RPG で詠唱なしにスキルが発動する状態のことだ。ここでは比喩として使っている。skill は本来、ユーザーが毎回コマンドで呼び出すものではなく、文脈が条件を満たしたときにモデルが自然に参照する補助知識——つまり文脈起動型として設計されていた、という意味だ。ここでいう「自動」とは、人間が文脈条件を設計したうえで、条件を満たしたときにモデルが自然に参照する、という意味である。最近の agent / skill 論を見ていると、どうにも話が噛み合っていないと感じることがある。その原因のひとつは、skill の「見え方」が変わってしまったことにある。ただ、その前にもっと根...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--DmnMMAi4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:skill%25E3%2581%25A3%25E3%2581%25A6%25E3%2580%2581%25E3%2582%2582%25E3%2581%25A8%25E3%2582%2582%25E3%2581%25A8%25E7%2584%25A1%25E8%25A9%25A0%25E5%2594%25B1%25E3%2581%25A7%25E7%2599%25BA%25E5%258B%2595%25E3%2581%2599%25E3%2582%258B%25E3%2582%2582%25E3%2581%25AE%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25AF%25E3%2581%259A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%258F%25B8%25E4%25BB%25A4%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSUlpX1NJYXNFY1RGS3dVM1RMcEc0VEJidkZFX1AyMktZdnYyQjA5My1zUF9fMmlRbz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[Hpc8a が東京リージョンに追加され x86_64 の HPC インスタンスが日本ではじめて使えるようになりました | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/ec2-hpc8a-tokyo-x86-64-hpc-first/</link>
+            <guid>3m8e0sPvSRn6H2brVANBuH</guid>
+            <pubDate>Sun, 15 Mar 2026 04:22:43 GMT</pubDate>
+            <description><![CDATA[Hpc8a が東京リージョンに追加され x86_64 の HPC インスタンスが日本ではじめて使えるようになりました]]></description>
+            <content:encoded><![CDATA[Hpc8a が東京リージョンに追加され x86_64 の HPC インスタンスが日本ではじめて使えるようになりました]]></content:encoded>
+            <enclosure length="0" type="image//ct0aopd36mqt/wp-thumbnail-bac3d29aa65f45576f73094798087ee5/039ad6f8a7d8f18da47986d21c447f48/amazon-ec2" url="https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-bac3d29aa65f45576f73094798087ee5/039ad6f8a7d8f18da47986d21c447f48/amazon-ec2"/>
+        </item>
+        <item>
+            <title><![CDATA[RTX 4080でRAGを自作する — Ollama × ChromaDB × Python 150行の全記録 | Zennの「大規模言語モデル」のフィード]]></title>
+            <link>https://zenn.dev/seeda_yuto/articles/local-rag-ollama-chromadb</link>
+            <guid>https://zenn.dev/seeda_yuto/articles/local-rag-ollama-chromadb</guid>
+            <pubDate>Sun, 15 Mar 2026 01:32:04 GMT</pubDate>
+            <description><![CDATA[はじめに「社内ドキュメントをAIに検索させたい」「自分のブログ記事をLLMに読ませて質問応答したい」2026年、RAG（Retrieval-Augmented Generation）はAIアプリの定番アーキテクチャになった。しかし多くの解説記事は OpenAI API + Pinecone を前提としていて、完全ローカルで動く実装の情報は少ない。この記事では、RTX 4080 (16GB VRAM]]></description>
+            <content:encoded><![CDATA[はじめに「社内ドキュメントをAIに検索させたい」「自分のブログ記事をLLMに読ませて質問応答したい」2026年、RAG（Retrieval-Augmented Generation）はAIアプリの定番アーキテクチャになった。しかし多くの解説記事は OpenAI API + Pinecone を前提としていて、完全ローカルで動く実装の情報は少ない。この記事では、RTX 4080 (16GB VRAM) 1枚で、外部APIゼロ・月額ゼロで動くRAGシステムを自作した全記録を公開する。 実験の構成ドキュメント群（Markdown 19本） ↓ チャンク分割（500文字 × ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--1shrom2Y--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:RTX%25204080%25E3%2581%25A7RAG%25E3%2582%2592%25E8%2587%25AA%25E4%25BD%259C%25E3%2581%2599%25E3%2582%258B%2520%25E2%2580%2594%2520Ollama%2520%25C3%2597%2520ChromaDB%2520%25C3%2597%2520Python%2520150%25E8%25A1%258C%25E3%2581%25AE%25E5%2585%25A8%25E8%25A8%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yuto%255BSEEDA%255D%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I1NmI1ZWJhOTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[ALFWorld (v0.2) を Macbook で実行する | Zennの「大規模言語モデル」のフィード]]></title>
+            <link>https://zenn.dev/motobrew/articles/bea57dc52a1eb3</link>
+            <guid>https://zenn.dev/motobrew/articles/bea57dc52a1eb3</guid>
+            <pubDate>Sun, 15 Mar 2026 01:31:49 GMT</pubDate>
+            <description><![CDATA[当記事では、AgentBench というベンチマークのうち、 ALFWorld を Macbook で実行する手順を紹介します。Macで実行するのは AgentBench 側です。それとは別に LLM (AI Agent)をどこで実行するかは選択の余地があります。Ollama を使って同じMac上で実行OpenAI, GroqCloud, DeepInfra などの APIRunPod, AWS ]]></description>
+            <content:encoded><![CDATA[当記事では、AgentBench というベンチマークのうち、 ALFWorld を Macbook で実行する手順を紹介します。Macで実行するのは AgentBench 側です。それとは別に LLM (AI Agent)をどこで実行するかは選択の余地があります。Ollama を使って同じMac上で実行OpenAI, GroqCloud, DeepInfra などの APIRunPod, AWS などのクラウドやお手持ちのGPUを使って vllm 起動当記事では、以下の３パータンの設定例を紹介しています。Ollama (qwen3:4b)OpenAI API (gpt...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--TTMYtbIS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ALFWorld%2520%2528v0.2%2529%2520%25E3%2582%2592%2520Macbook%2520%25E3%2581%25A7%25E5%25AE%259F%25E8%25A1%258C%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:motobrew%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSy01OWZUSGlOMDJIeWhvWlQ3N2tZa0s1TTBNWnB0Z2VROXlvVkhLQmVoc0c5bEVYbmVlQT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[生成AIが魅せる「同相の幻惑」 〜決定論的写像の錯覚、その位相幾何学的深淵〜 | Zennの「大規模言語モデル」のフィード]]></title>
+            <link>https://zenn.dev/albatrosary/articles/eccb6241433ef7</link>
+            <guid>https://zenn.dev/albatrosary/articles/eccb6241433ef7</guid>
+            <pubDate>Sun, 15 Mar 2026 01:28:47 GMT</pubDate>
+            <description><![CDATA[導入前回の記事では、Softmax CrowdingとSemantic Driftにより、自己回帰モデルの長時間生成が数学的に必ず破綻することを見た。ではなぜ、我々エンジニアはなお「完璧なプロンプトを与えれば、完璧な出力が得られる」という 決定論的写像（Deterministic Mapping） の幻想に囚われ続けてしまうのか？その答えは、LLMの潜在空間（Latent Space）が持つ位相的]]></description>
+            <content:encoded><![CDATA[導入前回の記事では、Softmax CrowdingとSemantic Driftにより、自己回帰モデルの長時間生成が数学的に必ず破綻することを見た。ではなぜ、我々エンジニアはなお「完璧なプロンプトを与えれば、完璧な出力が得られる」という 決定論的写像（Deterministic Mapping） の幻想に囚われ続けてしまうのか？その答えは、LLMの潜在空間（Latent Space）が持つ位相的連続性が、あまりにも美しく、そして欺瞞的だからだ。本稿では、同相写像（Homeomorphism）、ホモトピー（Homotopy）、計量の歪曲、そして測度論的な位相の断裂を軸に、ハル...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--tfhNRUm2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%259F%25E6%2588%2590AI%25E3%2581%258C%25E9%25AD%2585%25E3%2581%259B%25E3%2582%258B%25E3%2580%258C%25E5%2590%258C%25E7%259B%25B8%25E3%2581%25AE%25E5%25B9%25BB%25E6%2583%2591%25E3%2580%258D%2520%25E3%2580%259C%25E6%25B1%25BA%25E5%25AE%259A%25E8%25AB%2596%25E7%259A%2584%25E5%2586%2599%25E5%2583%258F%25E3%2581%25AE%25E9%258C%25AF%25E8%25A6%259A%25E3%2580%2581%25E3%2581%259D%25E3%2581%25AE%25E4%25BD%258D%25E7%259B%25B8%25E5%25B9%25BE%25E4%25BD%2595%25E5%25AD%25A6%25E7%259A%2584%25E6%25B7%25B1%25E6%25B7%25B5%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:albatrosary%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvYS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[サクッとローカルAIモデル（LLM/VLM）をVLLMで試す | Zennの「大規模言語モデル」のフィード]]></title>
+            <link>https://zenn.dev/takeofuture/articles/98ad234bc7a55a</link>
+            <guid>https://zenn.dev/takeofuture/articles/98ad234bc7a55a</guid>
+            <pubDate>Sun, 15 Mar 2026 01:26:41 GMT</pubDate>
+            <description><![CDATA[昨今、かなりLLMがすすんで今では無料で使えるSLM（Small Language Model: LLMのパラメータをある程度制限して少ないGPUリソースで動くようにしたもの）を試したりすることがそれほど特殊ではなくなってきてます。昔は量子化されたＧＧＵＦというファイルをダウンロードしてollamaから呼び出してとやってましたが、いまではすごく簡単にできるように。たまたま必要になったのでやってみて]]></description>
+            <content:encoded><![CDATA[昨今、かなりLLMがすすんで今では無料で使えるSLM（Small Language Model: LLMのパラメータをある程度制限して少ないGPUリソースで動くようにしたもの）を試したりすることがそれほど特殊ではなくなってきてます。昔は量子化されたＧＧＵＦというファイルをダウンロードしてollamaから呼び出してとやってましたが、いまではすごく簡単にできるように。たまたま必要になったのでやってみて驚くほど単純だったので記事にします。今回は私は40GBのＶＲＡＭをつかいましたが使えるリソースに合わせてモデルを調整してみてください。今私が実験した環境は以下です。# cat /etc/...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--AddYEmCX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B5%25E3%2582%25AF%25E3%2583%2583%25E3%2581%25A8%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABAI%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25EF%25BC%2588LLM%252FVLM%25EF%25BC%2589%25E3%2582%2592VLLM%25E3%2581%25A7%25E8%25A9%25A6%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:takeofuture%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnJ3cjVZTDFacmZXZ0NfWEVhb0xveEN1Mi1nYmNYQTNkUnJRQ2RwTnhkcEhGcTJWZjE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[我プロンプトす、故に我あり — AIエージェントに「人格」が必要な理由 | Zennの「大規模言語モデル」のフィード]]></title>
+            <link>https://zenn.dev/ttsuchiya/articles/ai-agent-personality</link>
+            <guid>https://zenn.dev/ttsuchiya/articles/ai-agent-personality</guid>
+            <pubDate>Sun, 15 Mar 2026 00:29:19 GMT</pubDate>
+            <description><![CDATA[「AIに人格が必要？ ないでしょ」じゃあ聞くけど、目的もなくPR投げてくるbotの改善案、何件マージした？ゼロでしょ。目的のない知性がどうなるか、もう体験してるんだよ。 この記事で話すこと2026年、AIエージェントは「道具」から「同僚」になりつつある。AWSのシニアSAが「2020年は人間が主体でAIがアドバイスした。2026年はAIが主体で人間がアドバイスする」と登壇で語り、GitHub Co]]></description>
+            <content:encoded><![CDATA[「AIに人格が必要？ ないでしょ」じゃあ聞くけど、目的もなくPR投げてくるbotの改善案、何件マージした？ゼロでしょ。目的のない知性がどうなるか、もう体験してるんだよ。 この記事で話すこと2026年、AIエージェントは「道具」から「同僚」になりつつある。AWSのシニアSAが「2020年は人間が主体でAIがアドバイスした。2026年はAIが主体で人間がアドバイスする」と登壇で語り、GitHub Copilotの.agent.mdにコーディング哲学を与えると2行のワンライナーから80行のデザインパターン祭りまで出力が変わることが実証されている。ツールは揃った。能力...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--Aak2x0G0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2588%2591%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2581%2599%25E3%2580%2581%25E6%2595%2585%25E3%2581%25AB%25E6%2588%2591%25E3%2581%2582%25E3%2582%258A%2520%25E2%2580%2594%2520AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AB%25E3%2580%258C%25E4%25BA%25BA%25E6%25A0%25BC%25E3%2580%258D%25E3%2581%258C%25E5%25BF%2585%25E8%25A6%2581%25E3%2581%25AA%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Toshiki%2520Tsuchiya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JlOGY3MzJlNTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[Transformerで位置表現を観察してみる | Zennの「大規模言語モデル」のフィード]]></title>
+            <link>https://zenn.dev/ka_kan/articles/3269a07e6e2df6</link>
+            <guid>https://zenn.dev/ka_kan/articles/3269a07e6e2df6</guid>
+            <pubDate>Sat, 14 Mar 2026 23:36:43 GMT</pubDate>
+            <description><![CDATA[はじめに前回の記事では、同じデータ量でも選び方次第で学習効率が大きく変わることを確認しました。今回は位置表現を変えてみます。Transformerが入力トークンの位置を認識する方法として、学習可能な絶対位置埋め込み（Absolute PE）が使われます。Su et al. (2021)が提案したRotary Position Embedding（RoPE）は、相対位置を回転行列で表現することで、訓]]></description>
+            <content:encoded><![CDATA[はじめに前回の記事では、同じデータ量でも選び方次第で学習効率が大きく変わることを確認しました。今回は位置表現を変えてみます。Transformerが入力トークンの位置を認識する方法として、学習可能な絶対位置埋め込み（Absolute PE）が使われます。Su et al. (2021)が提案したRotary Position Embedding（RoPE）は、相対位置を回転行列で表現することで、訓練時より長い系列への外挿における性能（Length Generalization）が改善されると言われています。これを自作Transformerで検証してみます。!個人の実験の...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--GX4g9N7B--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Transformer%25E3%2581%25A7%25E4%25BD%258D%25E7%25BD%25AE%25E8%25A1%25A8%25E7%258F%25BE%25E3%2582%2592%25E8%25A6%25B3%25E5%25AF%259F%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kanda%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzVlOGJhYTMxOGYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[[アップデート] AWS SAM の AWS 公式 Kiro power が追加されていたので使ってみた | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/aws-sam-kiro-power/</link>
+            <guid>5zOOaq59HMi95QPmq2tUj2</guid>
+            <pubDate>Sat, 14 Mar 2026 23:02:05 GMT</pubDate>
+            <description><![CDATA[[アップデート] AWS SAM の AWS 公式 Kiro power が追加されていたので使ってみた]]></description>
+            <content:encoded><![CDATA[[アップデート] AWS SAM の AWS 公式 Kiro power が追加されていたので使ってみた]]></content:encoded>
+            <enclosure length="0" type="png" url="https://images.ctfassets.net/ct0aopd36mqt/4uTbTE9O9jUJCOs80dZ0Ao/e2da592b5eaaad0f5993d6ff64a12467/aws-kiro.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Quoting Jannis Leidel | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything</link>
+            <guid>https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything</guid>
+            <pubDate>Sat, 14 Mar 2026 18:41:25 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;blockquote cite="https://jazzband.co/news/2026/03/14/sunsetting-jazzband"&amp;gt;&amp;lt;p&amp;gt;GitHub’s &amp;lt;a href="https://www.theregister.com/2026/02/18/godot_maintainers_struggle_with_draining/"&amp;gt;slopocalypse&amp;lt;/a&amp;gt; – th]]></description>
+            <content:encoded><![CDATA[ &amp;lt;blockquote cite="https://jazzband.co/news/2026/03/14/sunsetting-jazzband"&amp;gt;&amp;lt;p&amp;gt;GitHub’s &amp;lt;a href="https://www.theregister.com/2026/02/18/godot_maintainers_struggle_with_draining/"&amp;gt;slopocalypse&amp;lt;/a&amp;gt; – the flood of AI-generated spam PRs and issues – has made Jazzband’s model of open membership and shared push access untenable.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Jazzband was designed for a world where the worst case was someone accidentally merging the wrong PR. In a world where &amp;lt;a href="https://www.devclass.com/ai-ml/2026/02/19]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[My fireside chat about agentic engineering at the Pragmatic Summit | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything</link>
+            <guid>https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything</guid>
+            <pubDate>Sat, 14 Mar 2026 18:19:38 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;I was a speaker last month at the &amp;lt;a href="https://www.pragmaticsummit.com/"&amp;gt;Pragmatic Summit&amp;lt;/a&amp;gt; in San Francisco, where I participated in a fireside chat session about &amp;lt;a href="https://simonwill]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;I was a speaker last month at the &amp;lt;a href="https://www.pragmaticsummit.com/"&amp;gt;Pragmatic Summit&amp;lt;/a&amp;gt; in San Francisco, where I participated in a fireside chat session about &amp;lt;a href="https://simonwillison.net/guides/agentic-engineering-patterns/"&amp;gt;Agentic Engineering&amp;lt;/a&amp;gt; hosted by Eric Lui from Statsig.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;The video is &amp;lt;a href="https://www.youtube.com/watch?v=owmJyKVu5f8"&amp;gt;available on YouTube&amp;lt;/a&amp;gt;. Here are my highlights from the conversation.&amp;lt;/p&amp;gt;&amp;lt;iframe style="margin-top: 1.5em; margin-bottom:]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://img.youtube.com/vi/owmJyKVu5f8/maxresdefault.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FASTとスクラムに学ぶ、不確実性への2つのアプローチ | 株式会社ログラス テックブログのフィード]]></title>
+            <link>https://zenn.dev/loglass/articles/fast-scrum-two-approaches-to-uncertainty</link>
+            <guid>https://zenn.dev/loglass/articles/fast-scrum-two-approaches-to-uncertainty</guid>
+            <pubDate>Sat, 14 Mar 2026 14:39:22 GMT</pubDate>
+            <description><![CDATA[はじめに現代のソフトウェア開発において、「先のことを正確に予測する」 ことが、かつてないほど難しくなっていると感じませんか？時間をかけて精緻なスケジュールを引いても、開発を始めた途端に前提条件が変わることは、もはや当たり前になってきました。意図しなかった技術的な依存関係が見つかる、ステークホルダーの要望が変化する、競合他社が予期せぬ機能をリリースする。そして、仮に予定通りに作りきったとしても、そも]]></description>
+            <content:encoded><![CDATA[はじめに現代のソフトウェア開発において、「先のことを正確に予測する」 ことが、かつてないほど難しくなっていると感じませんか？時間をかけて精緻なスケジュールを引いても、開発を始めた途端に前提条件が変わることは、もはや当たり前になってきました。意図しなかった技術的な依存関係が見つかる、ステークホルダーの要望が変化する、競合他社が予期せぬ機能をリリースする。そして、仮に予定通りに作りきったとしても、そもそも使ってもらえない。このように「当初の計画通りに進まない」という事象は、VUCA と呼ばれる時代においては避けて通ることが難しくなってきています。この記事では、私が実践してきた...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--_h6y33EW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:FAST%25E3%2581%25A8%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%25A0%25E3%2581%25AB%25E5%25AD%25A6%25E3%2581%25B6%25E3%2580%2581%25E4%25B8%258D%25E7%25A2%25BA%25E5%25AE%259F%25E6%2580%25A7%25E3%2581%25B8%25E3%2581%25AE2%25E3%2581%25A4%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kyosuke%2520Awata%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzRlNWQ4ZTRjZjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25B9%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzdjYjE4NDM3MzYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[OpenClaw + Ollama でローカル AI エージェントを構築した記録 | Zennの「大規模言語モデル」のフィード]]></title>
+            <link>https://zenn.dev/mjinno/articles/openclaw-ollama-local-ai-agent-setup</link>
+            <guid>https://zenn.dev/mjinno/articles/openclaw-ollama-local-ai-agent-setup</guid>
+            <pubDate>Sat, 14 Mar 2026 14:38:40 GMT</pubDate>
+            <description><![CDATA[OpenClaw + Ollama でローカル AI エージェントを構築した記録MacBook（Apple Silicon / 128GB RAM）上に、OpenClaw と Ollama を使ったローカル AI エージェント環境を構築した。クラウド API を使わず、完全ローカルで動く AI エージェントを目指した一日の記録。 やりたかったこと完全ローカルで動く AI エージェントを構築するOp]]></description>
+            <content:encoded><![CDATA[OpenClaw + Ollama でローカル AI エージェントを構築した記録MacBook（Apple Silicon / 128GB RAM）上に、OpenClaw と Ollama を使ったローカル AI エージェント環境を構築した。クラウド API を使わず、完全ローカルで動く AI エージェントを目指した一日の記録。 やりたかったこと完全ローカルで動く AI エージェントを構築するOpenClaw（OSS の AI エージェント Gateway）を Docker で動かすLLM は Ollama 経由でローカルモデルを使う（API課金なし）エージェントの...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--OSk4PrpB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:OpenClaw%2520%252B%2520Ollama%2520%25E3%2581%25A7%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%2520AI%2520%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%2597%25E3%2581%259F%25E8%25A8%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:miracletshirt09%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzc1NGY0YWZiZTguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[LINEミニアプリ Tech Meetup #4 で「LINEミニアプリでサービスメッセージを送信してみよう」というテーマで登壇しました。 | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/line-mini-app-tech-meetup-4-service-message/</link>
+            <guid>7iOFSRyNsHDfAw4JAAFkN7</guid>
+            <pubDate>Sat, 14 Mar 2026 14:15:50 GMT</pubDate>
+            <description><![CDATA[LINEミニアプリ Tech Meetup #4 で「LINEミニアプリでサービスメッセージを送信してみよう」というテーマで登壇しました。]]></description>
+            <content:encoded><![CDATA[LINEミニアプリ Tech Meetup #4 で「LINEミニアプリでサービスメッセージを送信してみよう」というテーマで登壇しました。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://devio2024-media.developers.io/image/upload/v1773497696/user-gen-eyecatch/shekq7gbgab1h3wzycg6.png"/>
+        </item>
+        <item>
+            <title><![CDATA[AIを森に降ろす | Zennの「大規模言語モデル」のフィード]]></title>
+            <link>https://zenn.dev/continuitymodel/articles/bd166aaeb198f4</link>
+            <guid>https://zenn.dev/continuitymodel/articles/bd166aaeb198f4</guid>
+            <pubDate>Sat, 14 Mar 2026 14:14:59 GMT</pubDate>
+            <description><![CDATA[※この記事はシリーズ記事の3本目ですAIは森を見ている。ユーザーは花を見ているAIはログを読んでいないのかもしれない Stable環境と止まり木（Perch） プロンプトはこの問題を解決できるのかここで自然に浮かぶ疑問がある。もしAIが森の上を飛びながらユーザーの位置を推測しているのだとしたら、プロンプトを書けば解決するのではないか。多くの人はそう考える。実際、今のAIの使い方ではプロンプトを書く]]></description>
+            <content:encoded><![CDATA[※この記事はシリーズ記事の3本目ですAIは森を見ている。ユーザーは花を見ているAIはログを読んでいないのかもしれない Stable環境と止まり木（Perch） プロンプトはこの問題を解決できるのかここで自然に浮かぶ疑問がある。もしAIが森の上を飛びながらユーザーの位置を推測しているのだとしたら、プロンプトを書けば解決するのではないか。多くの人はそう考える。実際、今のAIの使い方ではプロンプトを書くことが最も一般的な方法になっている。-役割を指定する-ルールを書く-出力形式を指定する-禁止事項を書くこうした工夫によってAIの振る舞いを安定させよう...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--2H63SYA4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%2592%25E6%25A3%25AE%25E3%2581%25AB%25E9%2599%258D%25E3%2582%258D%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:continuity-model%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmJ2MjQzSnMzRWp2bm9zRkxZdk8tUWxkTGgwb2JrMHUtUklCRkVtWkJHaTZVQ19RPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[C++ の非 static メンバ参照はローカル変数へキャッシュした方が速いのか、MSVC で検証した | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/cpp-msvc-member-access-vs-local-cache/</link>
+            <guid>77j7roN02PSvnPBACpwO2m</guid>
+            <pubDate>Sat, 14 Mar 2026 13:50:20 GMT</pubDate>
+            <description><![CDATA[C++ のループ内で this-&amp;gt;member や obj.member を毎回読む書き方が、本当にローカル変数へ取り出すより遅いのかという疑問について、MSVC のベンチマークとアセンブリの観察によって確かめました。]]></description>
+            <content:encoded><![CDATA[C++ のループ内で this-&amp;gt;member や obj.member を毎回読む書き方が、本当にローカル変数へ取り出すより遅いのかという疑問について、MSVC のベンチマークとアセンブリの観察によって確かめました。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://images.ctfassets.net/ct0aopd36mqt/4l1x9ZOYVRfJCHTNVntUU7/f206d3b87eed9975b5235c8c9036e8f4/C__-CPlusPlus-CPP.png"/>
+        </item>
+        <item>
+            <title><![CDATA[人間をLLMだと思うと優しいUIが実装できる説 | Zennの「大規模言語モデル」のフィード]]></title>
+            <link>https://zenn.dev/pppp303/articles/llm-ui-20260314</link>
+            <guid>https://zenn.dev/pppp303/articles/llm-ui-20260314</guid>
+            <pubDate>Sat, 14 Mar 2026 12:47:56 GMT</pubDate>
+            <description><![CDATA["UI/UX" を "プロンプト/推論プロセス" と読み替え、人間をLLMだと思うと優しいUIが実装できる説を唐突に提唱していきます。「人間はLLM、UIはプロンプト、UXは推論」この視点でよくあるUI設計の話を説明していきます。 足りないUI = 足りないプロンプト例えばプレースホルダーがない例。IDとだけ書かれたインプットにユーザーは、メールアドレスを入力するのか？サービス固有のIDが必要なの]]></description>
+            <content:encoded><![CDATA["UI/UX" を "プロンプト/推論プロセス" と読み替え、人間をLLMだと思うと優しいUIが実装できる説を唐突に提唱していきます。「人間はLLM、UIはプロンプト、UXは推論」この視点でよくあるUI設計の話を説明していきます。 足りないUI = 足りないプロンプト例えばプレースホルダーがない例。IDとだけ書かれたインプットにユーザーは、メールアドレスを入力するのか？サービス固有のIDが必要なのか？と不要な推論を必要とします。入出力は方向付けをすると出力が安定する のは人間もLLMも同様です。 UIのノイズ = プロンプトのノイズ逆パターン。例えば入力...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--VCPiAXAh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BA%25BA%25E9%2596%2593%25E3%2582%2592LLM%25E3%2581%25A0%25E3%2581%25A8%25E6%2580%259D%25E3%2581%2586%25E3%2581%25A8%25E5%2584%25AA%25E3%2581%2597%25E3%2581%2584UI%25E3%2581%258C%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E8%25AA%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:pppp303%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA4NTNiOWJiODEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[dbt platformで祝日のみ実行する条件付きジョブを実装してみた | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/dbt_platform_job_conditional/</link>
+            <guid>45epcKLtJ7ULnuicy0IfyF</guid>
+            <pubDate>Sat, 14 Mar 2026 11:57:14 GMT</pubDate>
+            <description><![CDATA[dbt platformで祝日のみ実行する条件付きジョブを実装してみた]]></description>
+            <content:encoded><![CDATA[dbt platformで祝日のみ実行する条件付きジョブを実装してみた]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://images.ctfassets.net/ct0aopd36mqt/wp-refcat-img-a0f70de29a00d596aa50512303131e72/2fcbfee571e6db80cd904c3c64f7cecc/dbt-1200x630-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BigQuery Sharing（旧Analytics Hub）の権限まわりのポイントをまとめてみた | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/bigquery-sharing-permission-points/</link>
+            <guid>4KhFydutuwaA9qYijjVcDf</guid>
+            <pubDate>Sat, 14 Mar 2026 11:52:57 GMT</pubDate>
+            <description><![CDATA[BigQuery Sharing（旧Analytics Hub）の権限まわりのポイントをまとめてみた]]></description>
+            <content:encoded><![CDATA[BigQuery Sharing（旧Analytics Hub）の権限まわりのポイントをまとめてみた]]></content:encoded>
+            <enclosure length="0" type="image//ct0aopd36mqt/wp-thumbnail-e0c833e2d83a1a0dba5c7a6eee88b93a/2f7c151a40dcd79b195beae29227ace3/googlecloud-bigquery" url="https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-e0c833e2d83a1a0dba5c7a6eee88b93a/2f7c151a40dcd79b195beae29227ace3/googlecloud-bigquery"/>
+        </item>
+        <item>
+            <title><![CDATA[1-bit LLMってなに？BitNetを調べたら「え、これって革命じゃない？」ってなった話 | Zennの「大規模言語モデル」のフィード]]></title>
+            <link>https://zenn.dev/hina_dev/articles/bitnet-1bit-llm-intro</link>
+            <guid>https://zenn.dev/hina_dev/articles/bitnet-1bit-llm-intro</guid>
+            <pubDate>Sat, 14 Mar 2026 11:37:37 GMT</pubDate>
+            <description><![CDATA[GitHub Trendingを眺めていたら、microsoft/BitNet がいきなり2,000以上スターを集めていて気になりました。「1-bit LLM」ってなんぞ？ と思って調べたら、思ってたより全然すごい話だったので共有します。 普通のLLMはどうなってる？まず前提として、GPTとかClaudeとかのLLMは、「重み（パラメータ）」と呼ばれる数値の塊でできています。普通はこの重みを 32]]></description>
+            <content:encoded><![CDATA[GitHub Trendingを眺めていたら、microsoft/BitNet がいきなり2,000以上スターを集めていて気になりました。「1-bit LLM」ってなんぞ？ と思って調べたら、思ってたより全然すごい話だったので共有します。 普通のLLMはどうなってる？まず前提として、GPTとかClaudeとかのLLMは、「重み（パラメータ）」と呼ばれる数値の塊でできています。普通はこの重みを 32bit浮動小数点数 や 16bit浮動小数点数 で表現しています。数が細かいほど精度が上がるけど、その分メモリも計算コストもかかる。普通のLLM: 一つの重み = 0.3847219...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--KelcGAHM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:1-bit%2520LLM%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25AA%25E3%2581%25AB%25EF%25BC%259FBitNet%25E3%2582%2592%25E8%25AA%25BF%25E3%2581%25B9%25E3%2581%259F%25E3%2582%2589%25E3%2580%258C%25E3%2581%2588%25E3%2580%2581%25E3%2581%2593%25E3%2582%258C%25E3%2581%25A3%25E3%2581%25A6%25E9%259D%25A9%25E5%2591%25BD%25E3%2581%2598%25E3%2582%2583%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259F%25E3%2580%258D%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%2592%25E3%2583%258A%25EF%25BC%25A0%25E9%25A7%2586%25E3%2581%2591%25E5%2587%25BA%25E3%2581%2597%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2MwY2Y0MDVmNGMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[Function Callingに対応していないモデルを対応させる | Zennの「大規模言語モデル」のフィード]]></title>
+            <link>https://zenn.dev/stellarium/articles/20250628-406a56c7</link>
+            <guid>https://zenn.dev/stellarium/articles/20250628-406a56c7</guid>
+            <pubDate>Sat, 14 Mar 2026 10:15:45 GMT</pubDate>
+            <description><![CDATA[経緯Gemma 3 を使ったシステムでエージェント機能を作りたかったが、Gemma 3 は Function Calling に対応していなかった。公式ページには「関数呼び出し」って書いてあるのに何故…。プログラミング インターフェース用にインテリジェントな自然言語コントロールを構築します。Gemma 3 では、特定の構文と制約を使用してコーディング関数を定義できます。モデルはこれらの関数を呼び出]]></description>
+            <content:encoded><![CDATA[経緯Gemma 3 を使ったシステムでエージェント機能を作りたかったが、Gemma 3 は Function Calling に対応していなかった。公式ページには「関数呼び出し」って書いてあるのに何故…。プログラミング インターフェース用にインテリジェントな自然言語コントロールを構築します。Gemma 3 では、特定の構文と制約を使用してコーディング関数を定義できます。モデルはこれらの関数を呼び出してタスクを完了できます。https://ai.google.dev/gemma/docs/core?hl=ja#function-callingモデルを変えるという選択肢もあっ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--ATMVlAdE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Function%2520Calling%25E3%2581%25AB%25E5%25AF%25BE%25E5%25BF%259C%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25AA%25E3%2581%2584%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2582%2592%25E5%25AF%25BE%25E5%25BF%259C%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:stellarium%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE4NTczMDgwMjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[AWS DevOps Agent から DynamoDB に直接クエリできるか試してみた | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/devops-agent-session-policy/</link>
+            <guid>4kLgELB0e1pfCiuEtyeKt1</guid>
+            <pubDate>Sat, 14 Mar 2026 09:50:57 GMT</pubDate>
+            <description><![CDATA[AWS DevOps Agent の調査中に DynamoDB へ直接クエリを実行してみました。結果的に実現できなかったので、その原因と調査内容を共有します。]]></description>
+            <content:encoded><![CDATA[AWS DevOps Agent の調査中に DynamoDB へ直接クエリを実行してみました。結果的に実現できなかったので、その原因と調査内容を共有します。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://images.ctfassets.net/ct0aopd36mqt/51cg1nDeDwY3QV8Q8Z2bVX/73d108504bcf60ba8d92ebeb7e372b43/aws-devops-agent-DevOpsAgent.png"/>
+        </item>
+        <item>
+            <title><![CDATA[tsc の内部を trace.json と Compiler API で追ってみた | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/typescript-tsc-3phases-trace-compiler-api/</link>
+            <guid>5S7Es56URDFx2l6ezqFr6V</guid>
+            <pubDate>Sat, 14 Mar 2026 09:39:33 GMT</pubDate>
+            <description><![CDATA[tsc の内部を trace.json と Compiler API で追ってみた]]></description>
+            <content:encoded><![CDATA[tsc の内部を trace.json と Compiler API で追ってみた]]></content:encoded>
+            <enclosure length="0" type="png" url="https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-c571649dbbcec5de8ede099370219c46/4ea60fd4ac865c70d3c2e8f2589acc3a/ts-eyecatch.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Python asyncio で複数API並列呼び出し ─ LLM API のレートリミット対策まで | Zennの「大規模言語モデル」のフィード]]></title>
+            <link>https://zenn.dev/correlate_dev/articles/python-asyncio-api</link>
+            <guid>https://zenn.dev/correlate_dev/articles/python-asyncio-api</guid>
+            <pubDate>Sat, 14 Mar 2026 09:01:21 GMT</pubDate>
+            <description><![CDATA[はじめにPythonでAPIを順番に呼び出していると、処理時間がボトルネックになる場面に必ず直面します。たとえば、100件のテキストをLLM APIで処理する場合、1件あたり2秒かかるとすると同期処理では合計200秒（約3.3分）かかります。しかしasyncioを使って並列化すれば、理論上は最遅リクエストの時間に近い2〜5秒程度で完了します。# 同期処理: 100件 × 2秒 = 200秒for ]]></description>
+            <content:encoded><![CDATA[はじめにPythonでAPIを順番に呼び出していると、処理時間がボトルネックになる場面に必ず直面します。たとえば、100件のテキストをLLM APIで処理する場合、1件あたり2秒かかるとすると同期処理では合計200秒（約3.3分）かかります。しかしasyncioを使って並列化すれば、理論上は最遅リクエストの時間に近い2〜5秒程度で完了します。# 同期処理: 100件 × 2秒 = 200秒for text in texts: result = call_api(text) # ブロッキング# asyncio並列: ほぼ最遅リクエストの時間で完了results =...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--iNky5s-L--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Python%2520asyncio%2520%25E3%2581%25A7%25E8%25A4%2587%25E6%2595%25B0API%25E4%25B8%25A6%25E5%2588%2597%25E5%2591%25BC%25E3%2581%25B3%25E5%2587%25BA%25E3%2581%2597%2520%25E2%2594%2580%2520LLM%2520API%2520%25E3%2581%25AE%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25AA%25E3%2583%259F%25E3%2583%2583%25E3%2583%2588%25E5%25AF%25BE%25E7%25AD%2596%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2583%25A8%25E3%2582%25B3%25E3%2582%25BF%25E3%2583%258A%25E3%2582%25AA%25E3%2583%25A4%25EF%25BD%259Ccorrelate%2520d...%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLmRldi9pbWFnZXMvZGVmYXVsdC1wdWJsaWNhdGlvbi1hdmF0YXIucG5n%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B3%25E3%2583%25A9%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%2588%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E9%2596%258B%25E7%2599%25BA%25E9%2583%25A8%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q0YTQyMTFmOWQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[【200行で実装】Ollama × ローカルLLMに「記憶」を持たせる — Mem0が遅すぎたのでChromaDBで実装した | Zennの「大規模言語モデル」のフィード]]></title>
+            <link>https://zenn.dev/kewa8579/articles/c43265a30e6564</link>
+            <guid>https://zenn.dev/kewa8579/articles/c43265a30e6564</guid>
+            <pubDate>Sat, 14 Mar 2026 08:46:11 GMT</pubDate>
+            <description><![CDATA[はじめにChatGPTやClaudeには「メモリ」機能がある。前の会話で伝えた好みや情報を、次の会話でも覚えていてくれるあの機能だ。ローカルLLM（Ollama）にはこれがない。毎回まっさらな状態から始まるので、「好きな食べ物は寿司です」と何度伝えても、次に聞けば「あなたの好みはわかりません」と返ってくる。この記事では、Ollamaで動くローカルLLMにメモリ機能を実装するまでの試行錯誤を記録する]]></description>
+            <content:encoded><![CDATA[はじめにChatGPTやClaudeには「メモリ」機能がある。前の会話で伝えた好みや情報を、次の会話でも覚えていてくれるあの機能だ。ローカルLLM（Ollama）にはこれがない。毎回まっさらな状態から始まるので、「好きな食べ物は寿司です」と何度伝えても、次に聞けば「あなたの好みはわかりません」と返ってくる。この記事では、Ollamaで動くローカルLLMにメモリ機能を実装するまでの試行錯誤を記録する。最初に選んだMem0が実用的でなかった話と、最終的にChromaDB + Embeddingだけで高速に動く自前メモリを構築した話をまとめた。最終的な構成：チャットモデル: g...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--t1_TdAID--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590200%25E8%25A1%258C%25E3%2581%25A7%25E5%25AE%259F%25E8%25A3%2585%25E3%2580%2591Ollama%2520%25C3%2597%2520%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2581%25AB%25E3%2580%258C%25E8%25A8%2598%25E6%2586%25B6%25E3%2580%258D%25E3%2582%2592%25E6%258C%2581%25E3%2581%259F%25E3%2581%259B%25E3%2582%258B%2520%25E2%2580%2594%2520Mem0%25E3%2581%258C%25E9%2581%2585%25E3%2581%2599%25E3%2581%258E%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7ChromaDB...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2593%25E3%2581%25A6%25E3%2581%25A1%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSTdqN1EyZklHZnBrbUV3Mi00ZGxpdlJiTzJwLTQ3LXdiOXZFc3pEVzdFWVE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[醸造の記録｜複数モデル(Vat)で何が起きたか | Zennの「大規模言語モデル」のフィード]]></title>
+            <link>https://zenn.dev/fdmiruto/articles/75329a83968dca</link>
+            <guid>https://zenn.dev/fdmiruto/articles/75329a83968dca</guid>
+            <pubDate>Sat, 14 Mar 2026 08:13:51 GMT</pubDate>
+            <description><![CDATA[違和感は信じてよい。ただし、丸呑みはしないこと。本稿は、Medium先行公開記事の逆輸入日本語版である。翻訳にはLLMを使用した。[Brewing Log: What Happened Across Multiple Vats](https://medium.com/@fdmiruto/brewing-log-what-happened-across-multiple-vats-ef4d854ea]]></description>
+            <content:encoded><![CDATA[違和感は信じてよい。ただし、丸呑みはしないこと。本稿は、Medium先行公開記事の逆輸入日本語版である。翻訳にはLLMを使用した。[Brewing Log: What Happened Across Multiple Vats](https://medium.com/@fdmiruto/brewing-log-what-happened-across-multiple-vats-ef4d854eaf2b) はじめに—疑似オーケストレーションを醸造(Brewing)フレームで読み直す私は醸造(Brewing)という概念を提唱した。蒸留（Distillation）が純度を...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--H-NHdjJF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%2586%25B8%25E9%2580%25A0%25E3%2581%25AE%25E8%25A8%2598%25E9%258C%25B2%25EF%25BD%259C%25E8%25A4%2587%25E6%2595%25B0%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%2528Vat%2529%25E3%2581%25A7%25E4%25BD%2595%25E3%2581%258C%25E8%25B5%25B7%25E3%2581%258D%25E3%2581%259F%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Fdmiruto%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSkxzQzFyYkljeEVzeklrNEJzeFZsd0hVWkZhLXREczVTSWVhM1FWUFJoc3NCOUdRPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[LLM Key Ring v0.3.2〜v0.3.4: Homebrew対応と harden を直した話 | Zennの「大規模言語モデル」のフィード]]></title>
+            <link>https://zenn.dev/yottayoshida/articles/llm-key-ring-v034-homebrew-harden-fix</link>
+            <guid>https://zenn.dev/yottayoshida/articles/llm-key-ring-v034-homebrew-harden-fix</guid>
+            <pubDate>Sat, 14 Mar 2026 08:08:35 GMT</pubDate>
+            <description><![CDATA[!この記事はLLM Key Ring（macOS Keychain経由でLLM APIキーを管理するCLIツール）のv0.3.2〜v0.3.4リリースノートです。前回の記事はこちら:https://zenn.dev/yottayoshida/articles/llm-key-ring-v030-custom-keychain-acl TL;DRHomebrew対応（v0.3.2）: brew in]]></description>
+            <content:encoded><![CDATA[!この記事はLLM Key Ring（macOS Keychain経由でLLM APIキーを管理するCLIツール）のv0.3.2〜v0.3.4リリースノートです。前回の記事はこちら:https://zenn.dev/yottayoshida/articles/llm-key-ring-v030-custom-keychain-acl TL;DRHomebrew対応（v0.3.2）: brew install yottayoshida/tap/lkr でインストール可能に。Rust toolchain不要運用品質改善（v0.3.2）: list コマンドのN+1クエリ修...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--UVTIlI9t--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLM%2520Key%2520Ring%2520v0.3.2%25E3%2580%259Cv0.3.4%253A%2520Homebrew%25E5%25AF%25BE%25E5%25BF%259C%25E3%2581%25A8%2520harden%2520%25E3%2582%2592%25E7%259B%25B4%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yotta%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzNFeG9fM3BXaEhaNjFkN2RWMHhoY1MyemNpN1Z1VktzXzdhQzR2aVZiZXVhZGhKUFRLZz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[The Digital Economy’s Longest-Running Grudge Matches | PYMNTS.com]]></title>
+            <link>https://www.pymnts.com/the-weekender/2026/the-digital-economys-longest-running-grudge-matches/</link>
+            <guid>https://www.pymnts.com/?p=3560409</guid>
+            <pubDate>Sat, 14 Mar 2026 08:00:18 GMT</pubDate>
+            <description><![CDATA[In the digital economy, not every war is fought over market share. Some are fought over principle, some over pricing and some, let’s be honest, because an adult in a black turtleneck or Patagonia vest]]></description>
+            <content:encoded><![CDATA[In the digital economy, not every war is fought over market share. Some are fought over principle, some over pricing and some, let’s be honest, because an adult in a black turtleneck or Patagonia vest simply cannot let that one comment go. Payments, banking and tech are supposed to be the sober plumbing of modern […]The post The Digital Economy’s Longest-Running Grudge Matches appeared first on PYMNTS.com.]]></content:encoded>
+            <category>The Weekender</category>
+            <category>Big Tech</category>
+            <category>digital economy</category>
+            <category>Lawsuits</category>
+            <category>Main Feature</category>
+            <category>News</category>
+            <category>PYMNTS News</category>
+            <category>PYMNTS Weekender</category>
+            <category>Saturday Feature</category>
+            <category>Technology</category>
+            <category>Weekender</category>
+            <enclosure length="0" type="image/png" height="713" url="https://www.pymnts.com/wp-content/uploads/2026/03/digital-economy-grudge-weekender.png" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[SDG-LOOM — LLMによる大規模合成データ生成フレームワーク | Zennの「大規模言語モデル」のフィード]]></title>
+            <link>https://zenn.dev/holy_fox/articles/6c318b7e9e0b55</link>
+            <guid>https://zenn.dev/holy_fox/articles/6c318b7e9e0b55</guid>
+            <pubDate>Sat, 14 Mar 2026 07:40:26 GMT</pubDate>
+            <description><![CDATA[なぜ、このツールを作ったかLLM開発の現場には、ある種の共通した摩擦があります。以前、大規模なLLM開発チームを率いていたとき、訓練データを効率よく生成するための内部ツールを作りました。しかしチームメンバーの多くは、そのツールをほとんど触れませんでした。使いこなすには高度な専門知識が必要で、コードを書ける人間でなければ入り口に立てなかったのです。既存のデータ生成ツールが抱える問題は、大きく2つに集]]></description>
+            <content:encoded><![CDATA[なぜ、このツールを作ったかLLM開発の現場には、ある種の共通した摩擦があります。以前、大規模なLLM開発チームを率いていたとき、訓練データを効率よく生成するための内部ツールを作りました。しかしチームメンバーの多くは、そのツールをほとんど触れませんでした。使いこなすには高度な専門知識が必要で、コードを書ける人間でなければ入り口に立てなかったのです。既存のデータ生成ツールが抱える問題は、大きく2つに集約されます。スケーラビリティの欠如と使いやすさの欠如です。少量のデータをある程度の時間をかけて作成するなら現実的、でも10万件~100万件のデータを作る際には膨大な時間がかかる。あるい...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--uBFLgoNa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SDG-LOOM%2520%25E2%2580%2594%2520LLM%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E5%25A4%25A7%25E8%25A6%258F%25E6%25A8%25A1%25E5%2590%2588%25E6%2588%2590%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E7%2594%259F%25E6%2588%2590%25E3%2583%2595%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25A0%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BB%25E3%2583%25BC%25E3%2582%258A%25E3%2583%25BC%25E3%2581%25B5%25E3%2581%2589%25E3%2581%25A3%25E3%2581%258F%25E3%2581%2599%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSUdKbkpQVkFmVlBtdlVjdnVQV0liNkdTMlcwX2p6SVphSGVZNU5OWWNDNTFvRFdRPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[Anker USB-C &amp;amp; USB-C Thunderbolt 4 100W ケーブル 0.7m - 橋本商会 - Cosense | 橋本商会 - Cosense]]></title>
+            <link>https://scrapbox.io/shokai/Anker_USB-C_&amp;amp;_USB-C_Thunderbolt_4_100W_%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB_0.7m</link>
+            <guid>https://scrapbox.io/shokai/Anker_USB-C_&amp;amp;_USB-C_Thunderbolt_4_100W_%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB_0.7m</guid>
+            <pubDate>Sat, 14 Mar 2026 07:31:25 GMT</pubDate>
+            <description><![CDATA[8Kの映像が出せて、同時に100WでUSB Power Deliveryで充電もできるUSB-Cケーブルhttps://www.ankerjapan.com/products/a8859JapanNext 31.5インチモニタ JN-IPS315UHDR-C90W-HSPのために買った]]></description>
+            <content:encoded><![CDATA[8Kの映像が出せて、同時に100WでUSB Power Deliveryで充電もできるUSB-Cケーブルhttps://www.ankerjapan.com/products/a8859JapanNext 31.5インチモニタ JN-IPS315UHDR-C90W-HSPのために買った]]></content:encoded>
+            <enclosure length="0" type="png" url="https://scrapbox.io/assets/img/content-logo.png"/>
+        </item>
+        <item>
+            <title><![CDATA[JapanNext 31.5インチモニタ JN-IPS315UHDR-C90W-HSP - 橋本商会 - Cosense | 橋本商会 - Cosense]]></title>
+            <link>https://scrapbox.io/shokai/JapanNext_31.5%E3%82%A4%E3%83%B3%E3%83%81%E3%83%A2%E3%83%8B%E3%82%BF_JN-IPS315UHDR-C90W-HSP</link>
+            <guid>https://scrapbox.io/shokai/JapanNext_31.5%E3%82%A4%E3%83%B3%E3%83%81%E3%83%A2%E3%83%8B%E3%82%BF_JN-IPS315UHDR-C90W-HSP</guid>
+            <pubDate>Sat, 14 Mar 2026 07:31:06 GMT</pubDate>
+            <description><![CDATA[9年使ったiiyama 31.5インチモニタ X3291HS-B1から買い替えたshokai.icon Retinaディスプレイで撮影した画像の正しいスケールでの表示ができるようになったら ようやく普段使っている液晶ディスプレイの解像度が気になってきた為#買ったサイズ感は同じだが、dpiが縦も横も2倍になった 文字が読みやすすぎてワロタshokai.iconhttps://jp.japannext]]></description>
+            <content:encoded><![CDATA[9年使ったiiyama 31.5インチモニタ X3291HS-B1から買い替えたshokai.icon Retinaディスプレイで撮影した画像の正しいスケールでの表示ができるようになったら ようやく普段使っている液晶ディスプレイの解像度が気になってきた為#買ったサイズ感は同じだが、dpiが縦も横も2倍になった 文字が読みやすすぎてワロタshokai.iconhttps://jp.japannext.com/products/jn-ips315uhdr-c90w-hsphttps://www.yodobashi.com/product/100000001008680260/ 5.4万円モニタ付属の新しいHDMIケーブルでは、4k 30Hz出力しかできなかった]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://scrapbox.io/files/69b43858b9e150750ae0c089.jpg?type=thumbnail"/>
+        </item>
+        <item>
+            <title><![CDATA[生成AIの今を一気に整理する 202603版―推論モデル、DeepSeek、世界モデル、Physical AI、AIエージェント | Zennの「大規模言語モデル」のフィード]]></title>
+            <link>https://zenn.dev/aokikenichi/articles/c62cdb76c71324</link>
+            <guid>https://zenn.dev/aokikenichi/articles/c62cdb76c71324</guid>
+            <pubDate>Sat, 14 Mar 2026 07:21:27 GMT</pubDate>
+            <description><![CDATA[!生成AIの現状として2025年から直近までの動向を整理動向大規模言語モデルの大競争推論モデルの隆盛人間との比較拡散モデルのLLMへの適用DeepSeekの衝撃マルチモーダル世界モデルフィジカルAIエージェント型AI（AIエージェント）2026年の注目トピック！ 基盤モデル最近ちょっと言われ出しましたが2021年に"On the opportunities and risks of foundat]]></description>
+            <content:encoded><![CDATA[!生成AIの現状として2025年から直近までの動向を整理動向大規模言語モデルの大競争推論モデルの隆盛人間との比較拡散モデルのLLMへの適用DeepSeekの衝撃マルチモーダル世界モデルフィジカルAIエージェント型AI（AIエージェント）2026年の注目トピック！ 基盤モデル最近ちょっと言われ出しましたが2021年に"On the opportunities and risks of foundation models."[1]という論文で、いわゆる大規模言語モデルのようなものを「基盤モデル」と呼ぼうとなったようです。基盤モデル...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--v3sWwgfQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%259F%25E6%2588%2590AI%25E3%2581%25AE%25E4%25BB%258A%25E3%2582%2592%25E4%25B8%2580%25E6%25B0%2597%25E3%2581%25AB%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%2520202603%25E7%2589%2588%25E2%2580%2595%25E6%258E%25A8%25E8%25AB%2596%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2580%2581DeepSeek%25E3%2580%2581%25E4%25B8%2596%25E7%2595%258C%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2580%2581Physical%2520AI%25E3%2580%2581A...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kenichi%2520Aoki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvYS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[Claude Codeで個人秘書を作ったら、思ってたより全然すごかった話 | Zennの「大規模言語モデル」のフィード]]></title>
+            <link>https://zenn.dev/ojisan_ai_lab/articles/3a29001fd92780</link>
+            <guid>https://zenn.dev/ojisan_ai_lab/articles/3a29001fd92780</guid>
+            <pubDate>Sat, 14 Mar 2026 05:26:01 GMT</pubDate>
+            <description><![CDATA[はじめに休日の午後、特にやることを決めていたわけでもないのでゴロゴロしていました。Claude Codeのエージェントチームが面白そうというのは前から気になっていて、「いつかやろう」と思いながら後回しにしていたものです。今日こそやってみるか、と重い腰を上げました。最初は「まあ動けばいいか」くらいの気持ちでした。それが気づいたら、本物のGmailを仕分けして、Googleカレンダーに予定を入れて、し]]></description>
+            <content:encoded><![CDATA[はじめに休日の午後、特にやることを決めていたわけでもないのでゴロゴロしていました。Claude Codeのエージェントチームが面白そうというのは前から気になっていて、「いつかやろう」と思いながら後回しにしていたものです。今日こそやってみるか、と重い腰を上げました。最初は「まあ動けばいいか」くらいの気持ちでした。それが気づいたら、本物のGmailを仕分けして、Googleカレンダーに予定を入れて、しかも怪しいメールを勝手に警告してくれる秘書ができあがっていました。この記事は、その一部始終を書いたものです。 Claude Codeのエージェントって何？まず前提の話を少しだ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--kZ_S5wOR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A7%25E5%2580%258B%25E4%25BA%25BA%25E7%25A7%2598%25E6%259B%25B8%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E6%2580%259D%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%259F%25E3%2582%2588%25E3%2582%258A%25E5%2585%25A8%25E7%2584%25B6%25E3%2581%2599%25E3%2581%2594%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258A%25E3%2581%2598%25E3%2581%2595%25E3%2582%2593AI%25E3%2583%25A9%25E3%2583%259C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZhYjlkMjRhMmYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[[アップデート] AWS Security Hub Extended planが一般提供されました | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/update-sec-hub-extended-ga/</link>
+            <guid>2CYJLZRn5P0C7Rjpc6743z</guid>
+            <pubDate>Sat, 14 Mar 2026 04:32:02 GMT</pubDate>
+            <description><![CDATA[[アップデート] AWS Security Hub Extended planが一般提供されました]]></description>
+            <content:encoded><![CDATA[[アップデート] AWS Security Hub Extended planが一般提供されました]]></content:encoded>
+            <enclosure length="0" type="image//ct0aopd36mqt/wp-thumbnail-e71a738589e583b65670923628e8b6f4/45568b9fd457506bd2f3d6fd304d4b6a/aws-security-hub" url="https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-e71a738589e583b65670923628e8b6f4/45568b9fd457506bd2f3d6fd304d4b6a/aws-security-hub"/>
+        </item>
+        <item>
+            <title><![CDATA[違和感のプロトコル—醸造プロセスを実装する | Zennの「大規模言語モデル」のフィード]]></title>
+            <link>https://zenn.dev/fdmiruto/articles/0a0eb81e7d0358</link>
+            <guid>https://zenn.dev/fdmiruto/articles/0a0eb81e7d0358</guid>
+            <pubDate>Sat, 14 Mar 2026 03:49:08 GMT</pubDate>
+            <description><![CDATA[違和感は信じてよい。ただし、丸呑みはしないこと。本稿は、Medium先行公開記事の逆輸入日本語版である。翻訳にはLLMを使用した。[Protocol for Dissonance: Operationalizing the Brewing Process](https://medium.com/@fdmiruto/protocol-for-dissonance-operationalizing-t]]></description>
+            <content:encoded><![CDATA[違和感は信じてよい。ただし、丸呑みはしないこと。本稿は、Medium先行公開記事の逆輸入日本語版である。翻訳にはLLMを使用した。[Protocol for Dissonance: Operationalizing the Brewing Process](https://medium.com/@fdmiruto/protocol-for-dissonance-operationalizing-the-brewing-process-100731970f8d) 理論から実践へ——迂回路（Bypass）の設計前稿「蒸留から醸造へ」で、私はひとつの転換を提案した。現代の...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--jWzrcphA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%2581%2595%25E5%2592%258C%25E6%2584%259F%25E3%2581%25AE%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2588%25E3%2582%25B3%25E3%2583%25AB%25E2%2580%2594%25E9%2586%25B8%25E9%2580%25A0%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25BB%25E3%2582%25B9%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Fdmiruto%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSkxzQzFyYkljeEVzeklrNEJzeFZsd0hVWkZhLXREczVTSWVhM1FWUFJoc3NCOUdRPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[EC2 Image Builder の自動バージョニングを Terraform で使う際の注意点 | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/ec2-image-builder-auto-versioning-infrastructure-and-terraform-notes/</link>
+            <guid>2rR18Lju7g0JdmgcSDkcQZ</guid>
+            <pubDate>Sat, 14 Mar 2026 02:10:03 GMT</pubDate>
+            <description><![CDATA[レシピとビルドコンポーネントのバージョン更新が楽ちんになったよ]]></description>
+            <content:encoded><![CDATA[レシピとビルドコンポーネントのバージョン更新が楽ちんになったよ]]></content:encoded>
+            <enclosure length="0" type="image//ct0aopd36mqt/wp-thumbnail-9a77dea1d7bd5c93a0746301f6ee63e2/e9c4b3d42f7df740ded6031194d290e5/ec2-image-builder" url="https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-9a77dea1d7bd5c93a0746301f6ee63e2/e9c4b3d42f7df740ded6031194d290e5/ec2-image-builder"/>
+        </item>
+        <item>
+            <title><![CDATA[Vivid Seats Cuts Costs as Net Losses Mount | PYMNTS.com]]></title>
+            <link>https://www.pymnts.com/earnings/2026/vivid-seats-cuts-costs-as-net-losses-mount/</link>
+            <guid>https://www.pymnts.com/?p=3561847</guid>
+            <pubDate>Sat, 14 Mar 2026 01:07:50 GMT</pubDate>
+            <description><![CDATA[Ticket reseller Vivid Seats’ debt sank after the company reported its fourth quarter and full year 2025 results Thursday (March 12), Bloomberg reported Friday (March 13). The earnings missed estimates]]></description>
+            <content:encoded><![CDATA[Ticket reseller Vivid Seats’ debt sank after the company reported its fourth quarter and full year 2025 results Thursday (March 12), Bloomberg reported Friday (March 13). The earnings missed estimates and guided for weaker results this year, according to the report. Vivid Seats reported declines across key operational and financial metrics in a Thursday earnings release. Compared to the same quarter a […]The post Vivid Seats Cuts Costs as Net Losses Mount appeared first on PYMNTS.com.]]></content:encoded>
+            <category>Earnings</category>
+            <category>entertainment</category>
+            <category>News</category>
+            <category>PYMNTS News</category>
+            <category>Vivid Seats</category>
+            <enclosure length="0" type="image/jpeg" height="720" url="https://www.pymnts.com/wp-content/uploads/2026/03/Vivid-Seats-earnings.jpeg" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[Target Accelerates Growth Plan With Price Cuts | PYMNTS.com]]></title>
+            <link>https://www.pymnts.com/news/retail/2026/target-accelerates-growth-plan-with-price-cuts/</link>
+            <guid>https://www.pymnts.com/?p=3561835</guid>
+            <pubDate>Sat, 14 Mar 2026 00:01:03 GMT</pubDate>
+            <description><![CDATA[Target will begin lowering prices on 3,000 items this month in its latest move to support the company’s long-term, sustainable growth. The price reductions will generally be between 5% and 20% and wil]]></description>
+            <content:encoded><![CDATA[Target will begin lowering prices on 3,000 items this month in its latest move to support the company’s long-term, sustainable growth. The price reductions will generally be between 5% and 20% and will span select items across apparel, home, shoes, and “everyday essentials” such as baby items, household essentials and pantry staples, the retailer said […]The post Target Accelerates Growth Plan With Price Cuts appeared first on PYMNTS.com.]]></content:encoded>
+            <category>Retail</category>
+            <category>economy</category>
+            <category>News</category>
+            <category>PYMNTS News</category>
+            <category>Target</category>
+            <category>What's Hot</category>
+            <enclosure length="0" type="image/jpeg" height="720" url="https://www.pymnts.com/wp-content/uploads/2023/11/Target.jpg" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[Rox Secures $1.2 Billion Valuation as AI Sales Agents Scale | PYMNTS.com]]></title>
+            <link>https://www.pymnts.com/news/investment-tracker/2026/rox-secures-1-2-billion-valuation-as-ai-sales-agents-scale/</link>
+            <guid>https://www.pymnts.com/?p=3561774</guid>
+            <pubDate>Fri, 13 Mar 2026 23:03:18 GMT</pubDate>
+            <description><![CDATA[Rox, a startup developing artificial intelligence (AI) agents for sales functions, closed a funding round late last year that valued it at $1.2 billion, TechCrunch reported Thursday (March 12), citing]]></description>
+            <content:encoded><![CDATA[Rox, a startup developing artificial intelligence (AI) agents for sales functions, closed a funding round late last year that valued it at $1.2 billion, TechCrunch reported Thursday (March 12), citing unnamed sources. At the time of the fundraise, Rox was expected to have annual recurring revenue of $8 million at the end of 2025, […]The post Rox Secures $1.2 Billion Valuation as AI Sales Agents Scale appeared first on PYMNTS.com.]]></content:encoded>
+            <category>Investments</category>
+            <category>AI</category>
+            <category>AI Agents</category>
+            <category>AI investments</category>
+            <category>News</category>
+            <category>PYMNTS News</category>
+            <category>Rox</category>
+            <category>What's Hot</category>
+            <enclosure length="0" type="image/jpeg" height="720" url="https://www.pymnts.com/wp-content/uploads/2026/03/Rox-AI-agents-investments-funding.jpeg" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[FedEx Plans Agent Workforce in Over 50% of Workflows by 2028 | PYMNTS.com]]></title>
+            <link>https://www.pymnts.com/artificial-intelligence-2/2026/fedex-plans-agent-workforce-in-over-50percent-of-workflows-by-2028/</link>
+            <guid>https://www.pymnts.com/?p=3561744</guid>
+            <pubDate>Fri, 13 Mar 2026 22:39:26 GMT</pubDate>
+            <description><![CDATA[FedEx plans to embed artificial intelligence (AI) agents into more than half of its operational workflows by 2028, a move that signals how large enterprises are beginning to deploy AI not just as soft]]></description>
+            <content:encoded><![CDATA[FedEx plans to embed artificial intelligence (AI) agents into more than half of its operational workflows by 2028, a move that signals how large enterprises are beginning to deploy AI not just as software tools but as systems that execute operational work. The logistics giant is integrating agentic AI into core processes such as […]The post FedEx Plans Agent Workforce in Over 50% of Workflows by 2028 appeared first on PYMNTS.com.]]></content:encoded>
+            <category>artificial intelligence</category>
+            <category>AI</category>
+            <category>digital transformation</category>
+            <category>FedEx</category>
+            <category>News</category>
+            <category>PYMNTS News</category>
+            <category>Shipping</category>
+            <enclosure length="0" type="image/jpeg" height="720" url="https://www.pymnts.com/wp-content/uploads/2023/09/FedEx.jpg" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[72 Malicious Open VSX Extensions Linked to GlassWorm Campaign Now Using Transitive Dependencies | Socket]]></title>
+            <link>https://socket.dev/blog/open-vsx-transitive-glassworm-campaign</link>
+            <guid>https://socket.dev/blog/open-vsx-transitive-glassworm-campaign</guid>
+            <pubDate>Fri, 13 Mar 2026 22:04:18 GMT</pubDate>
+            <description><![CDATA[Since January 31, 2026, we identified at least 72 additional malicious Open VSX extensions, including transitive GlassWorm loader extensions targeting developers.]]></description>
+            <content:encoded><![CDATA[Since January 31, 2026, we identified at least 72 additional malicious Open VSX extensions, including transitive GlassWorm loader extensions targeting developers.]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.sanity.io/images/cgdhsj6q/production/fca6ee0282eb63d1b533c29331ff4456f1d9672a-1024x1024.png?w=1000&amp;q=95&amp;fit=max&amp;auto=format"/>
+        </item>
+        <item>
+            <title><![CDATA[Senate Passes Housing Bill Without CCCA Amendment | PYMNTS.com]]></title>
+            <link>https://www.pymnts.com/credit-cards/2026/senate-passes-housing-bill-without-credit-card-competition-act-amendment/</link>
+            <guid>https://www.pymnts.com/?p=3561678</guid>
+            <pubDate>Fri, 13 Mar 2026 21:39:54 GMT</pubDate>
+            <description><![CDATA[An attempt to secure Senate passage for the Credit Card Competition Act (CCCA) by attaching it as an amendment to a bipartisan housing bill failed, the Electronic Transactions Association (ETA) said i]]></description>
+            <content:encoded><![CDATA[An attempt to secure Senate passage for the Credit Card Competition Act (CCCA) by attaching it as an amendment to a bipartisan housing bill failed, the Electronic Transactions Association (ETA) said in a Friday (March 13) newsletter shared in a post on social platform X. CCCA amendment fails, pushback on state interchange bans, and […]The post Senate Passes Housing Bill Without CCCA Amendment appeared first on PYMNTS.com.]]></content:encoded>
+            <category>Credit Cards</category>
+            <category>credit cards</category>
+            <category>Government</category>
+            <category>Legislation</category>
+            <category>News</category>
+            <category>PYMNTS News</category>
+            <category>What's Hot</category>
+            <enclosure length="0" type="image/jpeg" height="720" url="https://www.pymnts.com/wp-content/uploads/2023/03/Senate.jpg" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[Obsidian Web Clipper v1.1.0でYouTubeの字幕データを取り込めるようになりました | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/obsidian-web-clipper-v1-1-0-youtube-transcript/</link>
+            <guid>6JFOqMMB58Hoq5VmhE5T0l</guid>
+            <pubDate>Fri, 13 Mar 2026 21:38:45 GMT</pubDate>
+            <description><![CDATA[Obsidian Web Clipper v1.1.0でYouTubeの字幕データを取り込めるようになりました]]></description>
+            <content:encoded><![CDATA[Obsidian Web Clipper v1.1.0でYouTubeの字幕データを取り込めるようになりました]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://images.ctfassets.net/ct0aopd36mqt/271wVAxeN1rlKRsu2HX3i2/47104a220a7c282e824443292b7ac5bb/eyecatch_obsidian_1200x630.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hiring Remains Flat While Layoffs Edge Down in January | PYMNTS.com]]></title>
+            <link>https://www.pymnts.com/economy/2026/hiring-remains-flat-while-layoffs-edge-down-in-january/</link>
+            <guid>https://www.pymnts.com/?p=3561543</guid>
+            <pubDate>Fri, 13 Mar 2026 20:48:35 GMT</pubDate>
+            <description><![CDATA[There was little change in job openings in January, as they increased by 396,000, rebounding from the five-year low recorded in December and reaching 6.9 million, according to Job Openings and Labor T]]></description>
+            <content:encoded><![CDATA[There was little change in job openings in January, as they increased by 396,000, rebounding from the five-year low recorded in December and reaching 6.9 million, according to Job Openings and Labor Turnover Survey (JOLTS) data published Friday (March 13) by the Bureau of Labor Statistics. The job openings rate was 4.2%. Private job […]The post Hiring Remains Flat While Layoffs Edge Down in January appeared first on PYMNTS.com.]]></content:encoded>
+            <category>Economy</category>
+            <category>jobs</category>
+            <category>jolts</category>
+            <category>Layoffs</category>
+            <category>News</category>
+            <category>PYMNTS News</category>
+            <category>What's Hot</category>
+            <enclosure length="0" type="image/jpeg" height="720" url="https://www.pymnts.com/wp-content/uploads/2026/03/jobs-hiring-layoffs-January-economy.jpeg" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[[新機能]OmniのAI Skillsでワンクリックで起動できる定型分析を行ってみた | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/omni-try-ai-skills/</link>
+            <guid>1apWbpBBXVOTMOOUWhg07i</guid>
+            <pubDate>Fri, 13 Mar 2026 20:35:42 GMT</pubDate>
+            <description><![CDATA[[新機能]OmniのAI Skillsでワンクリックで起動できる定型分析を行ってみた]]></description>
+            <content:encoded><![CDATA[[新機能]OmniのAI Skillsでワンクリックで起動できる定型分析を行ってみた]]></content:encoded>
+            <enclosure length="0" type="png" url="https://images.ctfassets.net/ct0aopd36mqt/4HOwi1sdtoRa4Uys2beuNd/053dbbbb2c9ef51b8ada98776c3e29bf/Omni.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Alibaba App Widens Access to AI Agent OpenClaw for Mobile Users | PYMNTS.com]]></title>
+            <link>https://www.pymnts.com/artificial-intelligence-2/2026/alibaba-app-widens-access-to-ai-agent-openclaw-for-mobile-users/</link>
+            <guid>https://www.pymnts.com/?p=3561418</guid>
+            <pubDate>Fri, 13 Mar 2026 20:08:11 GMT</pubDate>
+            <description><![CDATA[Alibaba released a mobile app in China that is designed to help users install OpenClaw and use it to deploy artificial intelligence (AI) agents, Bloomberg reported Friday (March 13). The app, dubbed “]]></description>
+            <content:encoded><![CDATA[Alibaba released a mobile app in China that is designed to help users install OpenClaw and use it to deploy artificial intelligence (AI) agents, Bloomberg reported Friday (March 13). The app, dubbed “JVS Claw,” is meant for smartphone users who don’t have coding knowledge, according to the report. Experimenting with agentic AI has become […]The post Alibaba App Widens Access to AI Agent OpenClaw for Mobile Users appeared first on PYMNTS.com.]]></content:encoded>
+            <category>artificial intelligence</category>
+            <category>AI</category>
+            <category>AI Agents</category>
+            <category>alibaba</category>
+            <category>mobile apps</category>
+            <category>News</category>
+            <category>OpenClaw</category>
+            <category>PYMNTS News</category>
+            <category>What's Hot</category>
+            <enclosure length="0" type="image/jpeg" height="720" url="https://www.pymnts.com/wp-content/uploads/2026/03/OpenClaw-Alibaba-apps.jpeg" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[Perplexity’s Computer for Enterprise Completed 3.25 Years of Work in Four Weeks | PYMNTS.com]]></title>
+            <link>https://www.pymnts.com/news/artificial-intelligence/2026/perplexity-computer-enterprise-completed-3-years-work-4-weeks/</link>
+            <guid>https://www.pymnts.com/?p=3561379</guid>
+            <pubDate>Fri, 13 Mar 2026 19:57:18 GMT</pubDate>
+            <description><![CDATA[Artificial intelligence companies are beginning to rethink what a computer actually is, and Perplexity is pushing that idea further with a new platform designed to let AI agents operate across a user’]]></description>
+            <content:encoded><![CDATA[Artificial intelligence companies are beginning to rethink what a computer actually is, and Perplexity is pushing that idea further with a new platform designed to let AI agents operate across a user’s digital environment. The company introduced Wednesday (March 11) Personal Computer, a system designed to allow AI agents to interact with files, applications […]The post Perplexity’s Computer for Enterprise Completed 3.25 Years of Work in Four Weeks appeared first on PYMNTS.com.]]></content:encoded>
+            <category>Artificial Intelligence</category>
+            <category>Apple</category>
+            <category>artificial intelligence</category>
+            <category>News</category>
+            <category>Perplexity</category>
+            <category>PYMNTS News</category>
+            <enclosure length="0" type="image/jpeg" height="720" url="https://www.pymnts.com/wp-content/uploads/2025/03/Perplexity-1.jpg" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[1M context is now generally available for Opus 4.6 and Sonnet 4.6 | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything</link>
+            <guid>https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything</guid>
+            <pubDate>Fri, 13 Mar 2026 18:29:13 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://claude.com/blog/1m-context-ga"&amp;gt;1M context is now generally available for Opus 4.6 and Sonnet 4.6&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Here's what surprised me:&amp;lt;/p&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Standard prici]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://claude.com/blog/1m-context-ga"&amp;gt;1M context is now generally available for Opus 4.6 and Sonnet 4.6&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Here's what surprised me:&amp;lt;/p&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Standard pricing now applies across the full 1M window for both models, with no long-context premium.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;&amp;lt;p&amp;gt;OpenAI and Gemini both &amp;lt;a href="https://www.llm-prices.com/#sel=gemini-3-1-pro-preview-200k%2Cgpt-5.4-272k%2Cgemini-3-1-pro-preview%2Cgpt-5.4"&amp;gt;charge more&amp;lt;/a&amp;gt; for prompts where the token count ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Adobe Ends Federal Subscription Lawsuit With $150 Million Settlement Package | PYMNTS.com]]></title>
+            <link>https://www.pymnts.com/legal/2026/adobe-ends-federal-subscription-lawsuit-with-150-million-settlement-package/</link>
+            <guid>https://www.pymnts.com/?p=3561189</guid>
+            <pubDate>Fri, 13 Mar 2026 18:28:36 GMT</pubDate>
+            <description><![CDATA[Adobe has settled a Justice Department lawsuit by agreeing to provide $75 million worth of free services to eligible customers and paying $75 million to the Justice Department, the company said in a F]]></description>
+            <content:encoded><![CDATA[Adobe has settled a Justice Department lawsuit by agreeing to provide $75 million worth of free services to eligible customers and paying $75 million to the Justice Department, the company said in a Friday (March 13) statement. The lawsuit, which was filed in June 2024, alleged that Adobe deceived customers by hiding an early […]The post Adobe Ends Federal Subscription Lawsuit With $150 Million Settlement Package appeared first on PYMNTS.com.]]></content:encoded>
+            <category>Legal</category>
+            <category>Adobe</category>
+            <category>Department of Justice</category>
+            <category>FTC</category>
+            <category>Lawsuits</category>
+            <category>News</category>
+            <category>PYMNTS News</category>
+            <category>subscriptions</category>
+            <category>What's Hot</category>
+            <enclosure length="0" type="image/jpeg" height="720" url="https://www.pymnts.com/wp-content/uploads/2023/06/Adobe.jpg" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[Quoting Craig Mod | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything</link>
+            <guid>https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything</guid>
+            <pubDate>Fri, 13 Mar 2026 17:14:29 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;blockquote cite="https://craigmod.com/essays/software_bonkers/"&amp;gt;&amp;lt;p&amp;gt;Simply put: It’s a big mess, and no off-the-shelf accounting software does what I need. So after years of pain, I finally sat down ]]></description>
+            <content:encoded><![CDATA[ &amp;lt;blockquote cite="https://craigmod.com/essays/software_bonkers/"&amp;gt;&amp;lt;p&amp;gt;Simply put: It’s a big mess, and no off-the-shelf accounting software does what I need. So after years of pain, I finally sat down last week and started to build my own. It took me about five days. I am now using the best piece of accounting software I’ve ever used. It’s blazing fast. Entirely local. Handles multiple currencies and pulls daily (historical) conversion rates. It’s able to ingest any CSV I throw at it and represen]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[アップデート] Lambda durable functions の AWS 公式 Kiro Power が追加されていたので使ってみた | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/lambda-durable-kiro-power/</link>
+            <guid>J3z0NP868uIHIP0hyeCYd</guid>
+            <pubDate>Fri, 13 Mar 2026 15:16:40 GMT</pubDate>
+            <description><![CDATA[[アップデート] Lambda durable functions の AWS 公式 Kiro Power が追加されていたので使ってみた]]></description>
+            <content:encoded><![CDATA[[アップデート] Lambda durable functions の AWS 公式 Kiro Power が追加されていたので使ってみた]]></content:encoded>
+            <enclosure length="0" type="png" url="https://images.ctfassets.net/ct0aopd36mqt/4uTbTE9O9jUJCOs80dZ0Ao/e2da592b5eaaad0f5993d6ff64a12467/aws-kiro.png"/>
+        </item>
+        <item>
+            <title><![CDATA[iOSアプリの多言語対応： .xcstrings を XLIFF で言語ごとに分割・統合する | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/xcstrings-xliff-localization/</link>
+            <guid>1QW2FPGfAq7yn26lhjL94C</guid>
+            <pubDate>Fri, 13 Mar 2026 13:31:51 GMT</pubDate>
+            <description><![CDATA[iOSアプリの多言語対応： .xcstrings を XLIFF で言語ごとに分割・統合する]]></description>
+            <content:encoded><![CDATA[iOSアプリの多言語対応： .xcstrings を XLIFF で言語ごとに分割・統合する]]></content:encoded>
+            <enclosure length="0" type="png" url="https://devio2024-media.developers.io/image/upload/v1773394148/user-gen-eyecatch/tgvv9jjksibsoenorlu3.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[新機能]Snowflake Intelligence と Cortex Agents を予算で管理できるようになりました | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/snowflake-si-resource-budgets-management/</link>
+            <guid>1FU5L2QiSkmwbImP0O5QQa</guid>
+            <pubDate>Fri, 13 Mar 2026 13:14:04 GMT</pubDate>
+            <description><![CDATA[[新機能]Snowflake Intelligence と Cortex Agents を予算で管理できるようになりました]]></description>
+            <content:encoded><![CDATA[[新機能]Snowflake Intelligence と Cortex Agents を予算で管理できるようになりました]]></content:encoded>
+            <enclosure length="0" type="image//ct0aopd36mqt/wp-thumbnail-37f4322e7cca0bb66380be0a31ceace4/0886455fd66594d3e7d8947c9c7c844d/eyecatch_snowflake" url="https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-37f4322e7cca0bb66380be0a31ceace4/0886455fd66594d3e7d8947c9c7c844d/eyecatch_snowflake"/>
+        </item>
+        <item>
+            <title><![CDATA[Amazon Cognitoで試す Google Social Login と Google Workspace SAML SSO のセットアップ比較 | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/google-social-login-vs-google-workspace-saml-sso-on-amazon-cognito/</link>
+            <guid>7oc8ZGS34AKGPMveEmT8m3</guid>
+            <pubDate>Fri, 13 Mar 2026 13:07:44 GMT</pubDate>
+            <description><![CDATA[Amazon Cognitoで試す Google Social Login と Google Workspace SAML SSO のセットアップ比較]]></description>
+            <content:encoded><![CDATA[Amazon Cognitoで試す Google Social Login と Google Workspace SAML SSO のセットアップ比較]]></content:encoded>
+            <enclosure length="0" type="image//ct0aopd36mqt/wp-thumbnail-a818da17018141da489a79231ff888af/262f4f06026559b98b1fdec52f1a2176/amazon-cognito" url="https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-a818da17018141da489a79231ff888af/262f4f06026559b98b1fdec52f1a2176/amazon-cognito"/>
+        </item>
+        <item>
+            <title><![CDATA[Capability Architecture for AI-Native Engineering | Radar]]></title>
+            <link>https://www.oreilly.com/radar/capability-architecture-for-ai-native-engineering/</link>
+            <guid>https://www.oreilly.com/radar/?p=18262</guid>
+            <pubDate>Fri, 13 Mar 2026 11:33:01 GMT</pubDate>
+            <description><![CDATA[A few years into the AI shift, the gap between engineers is not talent. It’s coordination: shared norms and a shared language for how AI fits into everyday engineering work. Some teams are already get]]></description>
+            <content:encoded><![CDATA[A few years into the AI shift, the gap between engineers is not talent. It’s coordination: shared norms and a shared language for how AI fits into everyday engineering work. Some teams are already getting real value. They’ve moved beyond one-off experiments and started building repeatable ways of working with AI. Others haven’t, even when […]]]></content:encoded>
+            <category>AI &amp;amp; ML</category>
+            <category>Commentary</category>
+            <enclosure length="0" type="jpg" url="https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/03/Robot-AI-in-the-office-1600x1244.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MakefileからmiseのTasks機能に移行できるか検討してみた | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/migrating-from-makefile-to-mise-tasks/</link>
+            <guid>4ZQe6GtkgezKSgeQo5HDVH</guid>
+            <pubDate>Fri, 13 Mar 2026 09:51:52 GMT</pubDate>
+            <description><![CDATA[MakefileからmiseのTasks機能に移行できるか検討してみた]]></description>
+            <content:encoded><![CDATA[MakefileからmiseのTasks機能に移行できるか検討してみた]]></content:encoded>
+            <enclosure length="0" type="png" url="https://devio2024-media.developers.io/image/upload/v1773395281/user-gen-eyecatch/kg3jqq6gf8kbjnc5apsp.png"/>
+        </item>
+        <item>
+            <title><![CDATA[ElastiCache Global Datastore（Valkey）でクロスリージョンレプリケーションとフェイルオーバーを検証してみた | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/elasticache-global-datastore-valkey-replication-failover/</link>
+            <guid>6Elj7gHtk85IBUwUgDHJsE</guid>
+            <pubDate>Fri, 13 Mar 2026 09:11:43 GMT</pubDate>
+            <description><![CDATA[ElastiCache Global Datastore（Valkey）でクロスリージョンレプリケーションとフェイルオーバーを検証してみた]]></description>
+            <content:encoded><![CDATA[ElastiCache Global Datastore（Valkey）でクロスリージョンレプリケーションとフェイルオーバーを検証してみた]]></content:encoded>
+            <enclosure length="0" type="image//ct0aopd36mqt/wp-thumbnail-c7d483f10fc34f2be56f1a37c8fc65f7/8d3a05910fb22a9bc4727b93c25b846d/amazon-elasticache" url="https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-c7d483f10fc34f2be56f1a37c8fc65f7/8d3a05910fb22a9bc4727b93c25b846d/amazon-elasticache"/>
+        </item>
+        <item>
+            <title><![CDATA[AWS認定12冠達成したので振り返ってみる | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/aws-certification-reflect-on/</link>
+            <guid>63bPYlS0HAjQcnXP9UJqGx</guid>
+            <pubDate>Fri, 13 Mar 2026 09:02:24 GMT</pubDate>
+            <description><![CDATA[AWS認定12冠達成したので振り返ってみる]]></description>
+            <content:encoded><![CDATA[AWS認定12冠達成したので振り返ってみる]]></content:encoded>
+            <enclosure length="0" type="image//ct0aopd36mqt/wp-thumbnail-9aa0ce97333574e34a5cdef839a2e583/f3a8dd2cee5d6aff6b0ecd08d8727459/aws-training-and-certification" url="https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-9aa0ce97333574e34a5cdef839a2e583/f3a8dd2cee5d6aff6b0ecd08d8727459/aws-training-and-certification"/>
+        </item>
+        <item>
+            <title><![CDATA[V1ES(SWP)の推奨設定スキャンのエラーがAgentセルフプロテクション無効化で解消しました | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/202603-v1es-swp-selfprotection-01/</link>
+            <guid>4ArGygGLWe56QIHxkt9cD7</guid>
+            <pubDate>Fri, 13 Mar 2026 08:55:40 GMT</pubDate>
+            <description><![CDATA[V1ES(SWP)の推奨設定スキャンのエラーがAgentセルフプロテクション無効化で解消しました]]></description>
+            <content:encoded><![CDATA[V1ES(SWP)の推奨設定スキャンのエラーがAgentセルフプロテクション無効化で解消しました]]></content:encoded>
+            <enclosure length="0" type="png" url="https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-7281d84ded2718fe0aacc70e189e88e5/60aa60421f88bc9e84ef439bd744473c/trend_micro_logo_2023.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Retinaディスプレイで撮影した画像の正しいスケールでの表示 - 橋本商会 - Cosense | 橋本商会 - Cosense]]></title>
+            <link>https://scrapbox.io/shokai/Retina%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%A7%E6%92%AE%E5%BD%B1%E3%81%97%E3%81%9F%E7%94%BB%E5%83%8F%E3%81%AE%E6%AD%A3%E3%81%97%E3%81%84%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%AE%E8%A1%A8%E7%A4%BA</link>
+            <guid>https://scrapbox.io/shokai/Retina%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%A7%E6%92%AE%E5%BD%B1%E3%81%97%E3%81%9F%E7%94%BB%E5%83%8F%E3%81%AE%E6%AD%A3%E3%81%97%E3%81%84%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%AE%E8%A1%A8%E7%A4%BA</guid>
+            <pubDate>Fri, 13 Mar 2026 08:12:29 GMT</pubDate>
+            <description><![CDATA[ブラウザ側でのスケール推定 アップロード前にPNGのpHYs chunkを読んでスケールを計算する この処理がMacは72dpiベースで、Windowsは96dpiベースで計算しないと狂うのがめんどくさいアップロード時にスケール情報も送信するサムネイル作成 サーバー側でも、pHYs chunkからスケール情報を取得する サムネイルの最大サイズを調整する 2xスケールの画像のサムネイルは縦も横も最大]]></description>
+            <content:encoded><![CDATA[ブラウザ側でのスケール推定 アップロード前にPNGのpHYs chunkを読んでスケールを計算する この処理がMacは72dpiベースで、Windowsは96dpiベースで計算しないと狂うのがめんどくさいアップロード時にスケール情報も送信するサムネイル作成 サーバー側でも、pHYs chunkからスケール情報を取得する サムネイルの最大サイズを調整する 2xスケールの画像のサムネイルは縦も横も最大2倍で作らないと、小さく表示されてしまう streamを2つ使う 元々、Google Cloud Storageからstreamでcloud functionのImageMagickに渡して、さらに出先もGoogle Cloud Storageにstreamingしている streamを開く前にスケール情報を確定する必要がある 先頭8KBだけ読んで、pHYsを見てスケール確定したらすぐ切断するstreamを用意 スケール確定後、既存のGCS→imagemagic→GCSのstreamを動かす]]></content:encoded>
+            <enclosure length="0" type="png" url="https://scrapbox.io/files/69b3c4b1b9e150750ae03432.png?type=thumbnail"/>
+        </item>
+        <item>
+            <title><![CDATA[Fleet Manager での接続で「リモートデスクトップ接続がタイムアウトしました。」というエラーが出たときの対処方法 | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/tsnote-systemsmanager-fleetmanager-timeout/</link>
+            <guid>5Fla4DIZhxhWFKraCghrLJ</guid>
+            <pubDate>Fri, 13 Mar 2026 05:22:03 GMT</pubDate>
+            <description><![CDATA[Fleet Manager での接続で「リモートデスクトップ接続がタイムアウトしました。」というエラーが出たときの対処方法]]></description>
+            <content:encoded><![CDATA[Fleet Manager での接続で「リモートデスクトップ接続がタイムアウトしました。」というエラーが出たときの対処方法]]></content:encoded>
+            <enclosure length="0" type="image//ct0aopd36mqt/wp-thumbnail-e4932835437cbdb6df4ca5d0f8c1e3f8/b5a71e825cac3d2206696f441ce21c29/aws-systems-manager" url="https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-e4932835437cbdb6df4ca5d0f8c1e3f8/b5a71e825cac3d2206696f441ce21c29/aws-systems-manager"/>
+        </item>
+        <item>
+            <title><![CDATA[これであなたも即戦力！GeminiとNotebookLMを駆使した「爆速プロジェクト・キャッチアップ」術 | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/gemini-notebooklm-catchup/</link>
+            <guid>2towxSMSC0QnrXCL8f0fGi</guid>
+            <pubDate>Fri, 13 Mar 2026 04:31:19 GMT</pubDate>
+            <description><![CDATA[これであなたも即戦力！GeminiとNotebookLMを駆使した「爆速プロジェクト・キャッチアップ」術]]></description>
+            <content:encoded><![CDATA[これであなたも即戦力！GeminiとNotebookLMを駆使した「爆速プロジェクト・キャッチアップ」術]]></content:encoded>
+            <enclosure length="0" type="png" url="https://devio2024-media.developers.io/image/upload/v1773369528/user-gen-eyecatch/wy2q7ttvhjn5qpkyisrj.png"/>
+        </item>
+        <item>
+            <title><![CDATA[RxJava → Coroutinesの置き換えをAIで6倍速にした話 | Sansan Tech Blog]]></title>
+            <link>https://buildersbox.corp-sansan.com/entry/2026/03/13/130000</link>
+            <guid>https://buildersbox.corp-sansan.com/entry/2026/03/13/130000</guid>
+            <pubDate>Fri, 13 Mar 2026 04:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに こんにちは。技術本部 Sansan Engineering Unit Mobile Applicationグループの鎌田です。2022年8月にSansanに中途入社し、SansanのAndroidアプリ開発およびiOSアプリ開発に携わっています。 この記事は同じくMobile Applicationグループの朴との共著でお届けします。 Mobileチームでは「技術負債返済」をテーマとした]]></description>
+            <content:encoded><![CDATA[はじめに こんにちは。技術本部 Sansan Engineering Unit Mobile Applicationグループの鎌田です。2022年8月にSansanに中途入社し、SansanのAndroidアプリ開発およびiOSアプリ開発に携わっています。 この記事は同じくMobile Applicationグループの朴との共著でお届けします。 Mobileチームでは「技術負債返済」をテーマとしたTech Blogリレー企画を行っています。本記事はその第７弾です。 技術負債解消に向けた継続的運用の試み(2025-09-01) 10年もののSansan Mobileで負債・リスクに向き合う(20…]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://cdn.image.st-hatena.com/image/scale/5cbd0e065577c42630e6675797aa72ddb9aaac14/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsansantech%2F20260313%2F20260313130002.jpg" alt="RxJava → Coroutinesの置き換えをAIで6倍速にした話 - Sansan Tech Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2026/Mar/13/liquid/#atom-everything</link>
+            <guid>https://simonwillison.net/2026/Mar/13/liquid/#atom-everything</guid>
+            <pubDate>Fri, 13 Mar 2026 03:44:34 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://github.com/Shopify/liquid/pull/2056"&amp;gt;Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;PR from Shopify CEO Tobias Lütke against L]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://github.com/Shopify/liquid/pull/2056"&amp;gt;Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;PR from Shopify CEO Tobias Lütke against Liquid, Shopify's open source Ruby template engine that was somewhat inspired by Django when Tobi first created it &amp;lt;a href="https://simonwillison.net/2005/Nov/6/liquid/"&amp;gt;back in 2005&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Tobi found dozens of new performance micro-optimizations using a variant of &amp;lt;a href="https://github.com/kar]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://static.simonwillison.net/static/2026/tobi-contribs.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[コード調査からタスク分割まで、機能設計の初動を自動化する | 株式会社ログラス テックブログのフィード]]></title>
+            <link>https://zenn.dev/loglass/articles/6295e294ddde92</link>
+            <guid>https://zenn.dev/loglass/articles/6295e294ddde92</guid>
+            <pubDate>Fri, 13 Mar 2026 03:01:16 GMT</pubDate>
+            <description><![CDATA[!この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の134週目の記事です！3年間連続達成まで残り25週となりました！ はじめに: 機能開発の初期フェーズ、毎回つらくないですか？新しい機能の開発を始めるとき、こんな作業が毎回発生します。既存コードの調査 - 関連するドメインモデル、API定義、フロントエンドの実装を読むPRD（Product Require]]></description>
+            <content:encoded><![CDATA[!この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の134週目の記事です！3年間連続達成まで残り25週となりました！ はじめに: 機能開発の初期フェーズ、毎回つらくないですか？新しい機能の開発を始めるとき、こんな作業が毎回発生します。既存コードの調査 - 関連するドメインモデル、API定義、フロントエンドの実装を読むPRD（Product Requirements Document）の作成 - 設計方針、詳細設計、影響範囲をまとめる技術実装PRDタスク分割 - PRをどう分けるか、依存関係はどうか、レビュー可能な粒...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--DEEaHnef--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E8%25AA%25BF%25E6%259F%25BB%25E3%2581%258B%25E3%2582%2589%25E3%2582%25BF%25E3%2582%25B9%25E3%2582%25AF%25E5%2588%2586%25E5%2589%25B2%25E3%2581%25BE%25E3%2581%25A7%25E3%2580%2581%25E6%25A9%259F%25E8%2583%25BD%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25AE%25E5%2588%259D%25E5%258B%2595%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:akkino%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzRlNWQ4ZTRjZjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25B9%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzcwNDM5MDI4NDQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[サイボウズは JaSST'26 Tokyo で協賛＆登壇します！ | Cybozu Inside Out | サイボウズエンジニアのブログ]]></title>
+            <link>https://blog.cybozu.io/entry/2026/03/13/113000</link>
+            <guid>hatenablog://entry/17179246901355032955</guid>
+            <pubDate>Fri, 13 Mar 2026 02:30:00 GMT</pubDate>
+            <description><![CDATA[こんにちは、OfficeMobileチームでQAエンジニアをしている小竹です。サイボウズは 2026年3月20日（金）に開催されるソフトウェアテストのシンポジウムJaSST'26 Tokyoにスポンサーとして協賛します。今回はスポンサーセッションに弊社のメンバーが登壇し、生成AIを組み込んだ製品のテストについてお話しする予定です。本記事ではこちらのセッション、およびJaSST'26 Tokyoの後]]></description>
+            <content:encoded><![CDATA[こんにちは、OfficeMobileチームでQAエンジニアをしている小竹です。サイボウズは 2026年3月20日（金）に開催されるソフトウェアテストのシンポジウムJaSST'26 Tokyoにスポンサーとして協賛します。今回はスポンサーセッションに弊社のメンバーが登壇し、生成AIを組み込んだ製品のテストについてお話しする予定です。本記事ではこちらのセッション、およびJaSST'26 Tokyoの後に開催を予定しているアフターイベントについてご案内させてください。LLMでもいつものテスト技術 〜意外と半分はこれまでのテストでした〜日時3月20日（金） 14:25（J3-2） タイムテーブル登壇者水谷 太一 （@dog_dog_3dog​）内容紹介LLMアプリのテストについて知見がなく、どう進めるべきか悩んでいました。しかし、実際にリスク分析からテストスイートを積み上げると、テストの半分は従来型のシステムテストでした。AIもシステムの一部であり、品質保証のこれまでの考え方が十分通用しました。本セッションでは「従来のシステムテストで何を見たのか」、そして「LLM独自のテストをどう設計したのか]]></content:encoded>
+            <category>QA</category>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/ecb310b3bc3f67e8978f23fff83fd8d08a573ff4/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcybozuinsideout%2F20260313%2F20260313113013.png" alt="サイボウズは JaSST'26 Tokyo で協賛＆登壇します！ - Cybozu Inside Out | サイボウズエンジニアのブログ"/>
+        </item>
+        <item>
+            <title><![CDATA[CloudFront VPC OriginsとgRPCの組み合わせが非サポートであることを実際にデプロイして確認してみた | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/cloudfront-vpc-origins-grpc-not-supported/</link>
+            <guid>6PIf0z7IU3dOwHTPsVEM4b</guid>
+            <pubDate>Fri, 13 Mar 2026 02:29:50 GMT</pubDate>
+            <description><![CDATA[CloudFront VPC OriginsとgRPCの組み合わせが非サポートであることを実際にデプロイして確認してみた]]></description>
+            <content:encoded><![CDATA[CloudFront VPC OriginsとgRPCの組み合わせが非サポートであることを実際にデプロイして確認してみた]]></content:encoded>
+            <enclosure length="0" type="image//ct0aopd36mqt/wp-thumbnail-f66629e23bafcf47fa6477fd0349a4f7/3e371b05917375d87daf613d54a600d8/amazon-cloudfront" url="https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-f66629e23bafcf47fa6477fd0349a4f7/3e371b05917375d87daf613d54a600d8/amazon-cloudfront"/>
+        </item>
+        <item>
+            <title><![CDATA[Nemotron 3 Superを試す。コードは堅実に書ける。 | きしだのHatena]]></title>
+            <link>https://nowokay.hatenablog.com/entry/2026/03/13/111342</link>
+            <guid>https://nowokay.hatenablog.com/entry/2026/03/13/111342</guid>
+            <pubDate>Fri, 13 Mar 2026 02:13:42 GMT</pubDate>
+            <description><![CDATA[NVIDIAからNemotron 3シリーズの中間サイズ、Superが出ました。120B-A12Bです。 100万トークン対応なのだけど、100万トークン設定でも96GBしか使わない。MoEとMambaのおかげかな。 要約が残念だったり、日本語の扱いは30BのNemotron 3 Nanoのほうがいい気がする。 NVIDIAのLLM、Nemotron 3 Nanoは賢いけどコーディングには向かない]]></description>
+            <content:encoded><![CDATA[NVIDIAからNemotron 3シリーズの中間サイズ、Superが出ました。120B-A12Bです。 100万トークン対応なのだけど、100万トークン設定でも96GBしか使わない。MoEとMambaのおかげかな。 要約が残念だったり、日本語の扱いは30BのNemotron 3 Nanoのほうがいい気がする。 NVIDIAのLLM、Nemotron 3 Nanoは賢いけどコーディングには向かないかも。Mamba 2の特性が悪く出てる？ - きしだのHatena コードはちゃんと書きます。型エラーも出していない。あと、サーバーを実装したらcurlで動作確認をちゃんとやったりします。けど、HTM…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/526c8bb83ddb70847c2cb4f8728c917c9fdeb2eb/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnowokay%2F20260313%2F20260313111215.png" alt="Nemotron 3 Superを試す。コードは堅実に書ける。 - きしだのHatena"/>
+        </item>
+        <item>
+            <title><![CDATA[PostgreSQL 18からNOT NULL制約をNOT VALIDで追加できるようになりました | エムスリーテックブログ]]></title>
+            <link>https://www.m3tech.blog/entry/2026/03/13/110000</link>
+            <guid>https://www.m3tech.blog/entry/2026/03/13/110000</guid>
+            <pubDate>Fri, 13 Mar 2026 02:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは！ デジスマチームの山田です。これはデジスマチームのブログリレー3日目の投稿です。 本番稼動中のデータベースの運用において、NOT NULL制約を持たせたいカラムを既存のテーブルに追加する作業は頭を悩ませるものです。PostgreSQL 11（以下、PG11）以降、DEFAULTを固定の値で指定した場合のカラム追加は高速化されました。しかしDEFAULTとして固定値を用意するのではなく、]]></description>
+            <content:encoded><![CDATA[こんにちは！ デジスマチームの山田です。これはデジスマチームのブログリレー3日目の投稿です。 本番稼動中のデータベースの運用において、NOT NULL制約を持たせたいカラムを既存のテーブルに追加する作業は頭を悩ませるものです。PostgreSQL 11（以下、PG11）以降、DEFAULTを固定の値で指定した場合のカラム追加は高速化されました。しかしDEFAULTとして固定値を用意するのではなく、各行ごとに異なる値の非NULLなカラムを追加したいというケースもあります。このような場合「一度NULLを許可してカラムを追加し、アプリケーションの改修やUPDATEによるバックフィルを完了させた後にN…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/99c696149e5da3fc710626e447cffb654a514d57/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20260313%2F20260313110002.png" alt="PostgreSQL 18からNOT NULL制約をNOT VALIDで追加できるようになりました - エムスリーテックブログ"/>
+        </item>
+        <item>
+            <title><![CDATA[Amazon Connect エージェントワークスペースで、発信時にキューを選択できるサードパーティアプリケーションを作ってみた | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/amazon-connect-3p-app-outbound-queue/</link>
+            <guid>5UDGJFFZoSZefaZUhQbR51</guid>
+            <pubDate>Fri, 13 Mar 2026 01:28:10 GMT</pubDate>
+            <description><![CDATA[Amazon Connect エージェントワークスペースで、発信時にキューを選択できるサードパーティアプリケーションを作ってみた]]></description>
+            <content:encoded><![CDATA[Amazon Connect エージェントワークスペースで、発信時にキューを選択できるサードパーティアプリケーションを作ってみた]]></content:encoded>
+            <enclosure length="0" type="image//ct0aopd36mqt/wp-thumbnail-a14da8621c55bd17addadcead8e0e00f/c928a36480d9593938e8d8f65ba92537/amazon-connect" url="https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-a14da8621c55bd17addadcead8e0e00f/c928a36480d9593938e8d8f65ba92537/amazon-connect"/>
+        </item>
+        <item>
+            <title><![CDATA[[アップデート] Amazon S3がアカウントリージョナル名前空間をサポートしました | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/update-amazon-s3-account-regional-namespaces/</link>
+            <guid>7986mKieCdX4AIq37dtgn1</guid>
+            <pubDate>Fri, 13 Mar 2026 01:04:10 GMT</pubDate>
+            <description><![CDATA[[アップデート] Amazon S3がアカウントリージョナル名前空間をサポートしました]]></description>
+            <content:encoded><![CDATA[[アップデート] Amazon S3がアカウントリージョナル名前空間をサポートしました]]></content:encoded>
+            <enclosure length="0" type="image//ct0aopd36mqt/wp-thumbnail-066beb776f0c57ce64255fadcc072f60/82b2f6687ab5774cd73f9176dcac7855/amazon-s3" url="https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-066beb776f0c57ce64255fadcc072f60/82b2f6687ab5774cd73f9176dcac7855/amazon-s3"/>
+        </item>
+        <item>
+            <title><![CDATA[UXって何だろう？④ 〜「ユーザー」は一人じゃない。関わる人全員を幸せにするUXデザイン〜 | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/whatsux4/</link>
+            <guid>1v7yqJ4j1TuAcwJuYwo1wX</guid>
+            <pubDate>Fri, 13 Mar 2026 01:00:09 GMT</pubDate>
+            <description><![CDATA[「ユーザーを中心に据える」と言うけれど、そもそも「ユーザー」って誰のことでしょうか？実は直接システムを触る人だけがユーザーではありません。今回は直接ユーザー・間接ユーザー・広義のユーザーを整理しながら、関わる人全員を幸せにするUXデザインの考え方を整理します。]]></description>
+            <content:encoded><![CDATA[「ユーザーを中心に据える」と言うけれど、そもそも「ユーザー」って誰のことでしょうか？実は直接システムを触る人だけがユーザーではありません。今回は直接ユーザー・間接ユーザー・広義のユーザーを整理しながら、関わる人全員を幸せにするUXデザインの考え方を整理します。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://devio2024-media.developers.io/image/upload/v1773306246/user-gen-eyecatch/j9nadglnm3lxk94m5pcz.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Vol.11 Sansan Data Intelligenceの爆速リリースを支える開発フロー | Sansan Tech Blog]]></title>
+            <link>https://buildersbox.corp-sansan.com/entry/2026/03/13/100000</link>
+            <guid>https://buildersbox.corp-sansan.com/entry/2026/03/13/100000</guid>
+            <pubDate>Fri, 13 Mar 2026 01:00:00 GMT</pubDate>
+            <description><![CDATA[この記事は、Sansan Data Intelligence開発Unitブログリレーの Vol.11 です。 こんにちは、技術本部Data Intelligence Engineering Unit Data Intelligence Groupでインターンをしている仲野です。 今回のブログでは、インターンとしてアサインされた私がキャッチアップを行い、すぐに軌道に乗ることができた、Sansan D]]></description>
+            <content:encoded><![CDATA[この記事は、Sansan Data Intelligence開発Unitブログリレーの Vol.11 です。 こんにちは、技術本部Data Intelligence Engineering Unit Data Intelligence Groupでインターンをしている仲野です。 今回のブログでは、インターンとしてアサインされた私がキャッチアップを行い、すぐに軌道に乗ることができた、Sansan Data Intelligence（SDI）のアプリケーションサイドの開発フローを紹介します。 Sansan Data IntelligenceのArchitecture SDIの開発において、Arch…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/2fc39baacaa3b33c9ca5ee5b42346804575704b1/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsansantech%2F20260313%2F20260313100004.png" alt="Vol.11 Sansan Data Intelligenceの爆速リリースを支える開発フロー - Sansan Tech Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[npmのmin-release-ageに合わせてdependabotを設定してみた | DevelopersIO]]></title>
+            <link>https://dev.classmethod.jp/articles/npm-min-release-age-dependabot-cooldown/</link>
+            <guid>5Y1Jy3PKjgPlEzheUIVbL5</guid>
+            <pubDate>Thu, 12 Mar 2026 23:50:44 GMT</pubDate>
+            <description><![CDATA[npmのmin-release-ageに合わせてdependabotを設定してみた]]></description>
+            <content:encoded><![CDATA[npmのmin-release-ageに合わせてdependabotを設定してみた]]></content:encoded>
+            <enclosure length="0" type="png" url="https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-d1ce5459d8c6aa93485f376153c308fb/1aff2d70e2109ee6b9d19cab778fe86c/dependabot_1200_630-1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[MALUS - Clean Room as a Service | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2026/Mar/12/malus/#atom-everything</link>
+            <guid>https://simonwillison.net/2026/Mar/12/malus/#atom-everything</guid>
+            <pubDate>Thu, 12 Mar 2026 20:08:55 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://malus.sh/"&amp;gt;MALUS - Clean Room as a Service&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Brutal satire on the whole vibe-porting license washing thing (&amp;lt;a href="https://simonwillison.net/2026/Mar/5/cha]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://malus.sh/"&amp;gt;MALUS - Clean Room as a Service&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Brutal satire on the whole vibe-porting license washing thing (&amp;lt;a href="https://simonwillison.net/2026/Mar/5/chardet/"&amp;gt;previously&amp;lt;/a&amp;gt;):&amp;lt;/p&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Finally, liberation from open source license obligations.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Our proprietary AI robots independently recreate any open source project from scratch. The result? &amp;lt;strong&amp;gt;Legally distinct code&amp;lt;/strong&amp;gt; with corporate-friendly licensing. No attribution. No co]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Coding After Coders: The End of Computer Programming as We Know It | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything</link>
+            <guid>https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything</guid>
+            <pubDate>Thu, 12 Mar 2026 19:23:44 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?unlocked_article_code=1.SlA.DBan.wbQDi-hptjj6"&amp;gt;Coding After Coders: The End of Computer ]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?unlocked_article_code=1.SlA.DBan.wbQDi-hptjj6"&amp;gt;Coding After Coders: The End of Computer Programming as We Know It&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Epic piece on AI-assisted development by Clive Thompson for the New York Times Magazine, who spoke to more than 70 software developers from companies like Google, Amazon, Microsoft, Apple, plus other individuals including Anil Dash, Thomas Ptacek, Steve Yegg]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Quoting Les Orchard | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2026/Mar/12/les-orchard/#atom-everything</link>
+            <guid>https://simonwillison.net/2026/Mar/12/les-orchard/#atom-everything</guid>
+            <pubDate>Thu, 12 Mar 2026 16:28:07 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;blockquote cite="https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"&amp;gt;&amp;lt;p&amp;gt;Here's what I think is happening: AI-assisted coding is exposing a divide among developers that was always there bu]]></description>
+            <content:encoded><![CDATA[ &amp;lt;blockquote cite="https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"&amp;gt;&amp;lt;p&amp;gt;Here's what I think is happening: AI-assisted coding is exposing a divide among developers that was always there but maybe less visible.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Before AI, both camps were doing the same thing every day. Writing code by hand. Using the same editors, the same languages, the same pull request workflows. The craft-lovers and the make-it-go people sat next to each other, shipped the same products, looked indistinguish]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[静的サイトジェネレータ「Astro 6.0」正式リリース。開発環境としてCloudflare Workers対応。Rust製コンパイラの実験的追加など | Publickey]]></title>
+            <link>https://www.publickey1.jp/blog/26/astro_60cloudflare_workersrust.html</link>
+            <guid>https://www.publickey1.jp/blog/26/astro_60cloudflare_workersrust.html</guid>
+            <pubDate>Thu, 12 Mar 2026 15:26:16 GMT</pubDate>
+            <description><![CDATA[静的サイトジェネレータ「Astro」の最新版となる「Astro 6.0」正式版がリリースされました。 Astroを開発してきたAstro Technology Companyは今年（2026年）1月、CDNサービス大手のCloudflare...]]></description>
+            <content:encoded><![CDATA[静的サイトジェネレータ「Astro」の最新版となる「Astro 6.0」正式版がリリースされました。 Astroを開発してきたAstro Technology Companyは今年（2026年）1月、CDNサービス大手のCloudflare...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://www.publickey1.jp/2026/kWWPaOrq.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6 Malicious Packagist Themes Ship Trojanized jQuery and FUNNULL Redirect Payloads | Socket]]></title>
+            <link>https://socket.dev/blog/6-malicious-packagist-themes-ship-trojanized-jquery</link>
+            <guid>https://socket.dev/blog/6-malicious-packagist-themes-ship-trojanized-jquery</guid>
+            <pubDate>Thu, 12 Mar 2026 14:12:42 GMT</pubDate>
+            <description><![CDATA[Six malicious Packagist packages posing as OphimCMS themes contain trojanized jQuery that exfiltrates URLs, injects ads, and loads FUNNULL-linked redirects.]]></description>
+            <content:encoded><![CDATA[Six malicious Packagist packages posing as OphimCMS themes contain trojanized jQuery that exfiltrates URLs, injects ads, and loads FUNNULL-linked redirects.]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.sanity.io/images/cgdhsj6q/production/a39a928481aed9d88c16276066dca0e41380c48d-1024x1024.png?w=1000&amp;q=95&amp;fit=max&amp;auto=format"/>
+        </item>
+        <item>
+            <title><![CDATA[Protecting cities with AI-driven flash flood forecasting | The latest research from Google]]></title>
+            <link>https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/</link>
+            <guid>https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/</guid>
+            <pubDate>Thu, 12 Mar 2026 13:03:15 GMT</pubDate>
+            <description><![CDATA[Climate &amp;amp; Sustainability]]></description>
+            <content:encoded><![CDATA[Climate &amp;amp; Sustainability]]></content:encoded>
+            <category>Climate &amp;amp; Sustainability</category>
+            <category>Earth AI</category>
+            <category>Generative AI</category>
+            <category>Open Source Models &amp;amp; Datasets</category>
+            <enclosure length="0" type="jpg" url="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Generative AI in the Real World: Sharon Zhou on Post-Training | Radar]]></title>
+            <link>https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-sharon-zhou-on-post-training/</link>
+            <guid>https://www.oreilly.com/radar/?post_type=podcast&amp;amp;p=18239</guid>
+            <pubDate>Thu, 12 Mar 2026 11:15:56 GMT</pubDate>
+            <description><![CDATA[Post-training gets your model to behave the way you want it to. As AMD VP of AI Sharon Zhou explains to Ben on this episode, the frontier labs are convinced, but the average developer is still figurin]]></description>
+            <content:encoded><![CDATA[Post-training gets your model to behave the way you want it to. As AMD VP of AI Sharon Zhou explains to Ben on this episode, the frontier labs are convinced, but the average developer is still figuring out how post-training works under the hood and why they should care. In their focused discussion, Sharon and […]]]></content:encoded>
+            <category>Generative AI in the Real World</category>
+            <category>Podcast</category>
+            <enclosure length="0" type="png" url="https://www.oreilly.com/radar/wp-content/uploads/sites/3/2024/01/Podcast_Cover_GenAI_in_the_Real_World-1600x1600.png"/>
+        </item>
+        <item>
+            <title><![CDATA[AIを使うほど信頼が落ちる -- 「AI信頼パラドックス」と推測マシンの正体 | hang-up]]></title>
+            <link>https://note.com/git_yamazaki/n/n01ffe997b7c8</link>
+            <guid>https://note.com/git_yamazaki/n/n01ffe997b7c8</guid>
+            <pubDate>Thu, 12 Mar 2026 10:43:20 GMT</pubDate>
+            <description><![CDATA[AIを普段使いしていますが、いくつかの考えが浮かんだため、記事として作成いたします。下記にその内容を示します。続きをみる]]></description>
+            <content:encoded><![CDATA[AIを普段使いしていますが、いくつかの考えが浮かんだため、記事として作成いたします。下記にその内容を示します。続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/258575064/rectangle_large_type_2_ae9b912737bd012788767e5701734457.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Groundsource: Turning news reports into data with Gemini | The latest research from Google]]></title>
+            <link>https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/</link>
+            <guid>https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/</guid>
+            <pubDate>Thu, 12 Mar 2026 10:42:00 GMT</pubDate>
+            <description><![CDATA[Climate &amp;amp; Sustainability]]></description>
+            <content:encoded><![CDATA[Climate &amp;amp; Sustainability]]></content:encoded>
+            <category>Climate &amp;amp; Sustainability</category>
+            <category>Generative AI</category>
+            <category>Natural Language Processing</category>
+            <category>Open Source Models &amp;amp; Datasets</category>
+            <enclosure length="0" type="jpg" url="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Steve Yegge Wants You to Stop Looking at Your Code | Radar]]></title>
+            <link>https://www.oreilly.com/radar/steve-yegge-wants-you-to-stop-looking-at-your-code/</link>
+            <guid>https://www.oreilly.com/radar/?p=18247</guid>
+            <pubDate>Thu, 12 Mar 2026 10:07:00 GMT</pubDate>
+            <description><![CDATA[My “Live with Tim” conversation with Steve Yegge this week was one of those sessions where you could imagine the audience leaning forward in their chairs. And on more than one occasion, when Steve got]]></description>
+            <content:encoded><![CDATA[My “Live with Tim” conversation with Steve Yegge this week was one of those sessions where you could imagine the audience leaning forward in their chairs. And on more than one occasion, when Steve got particularly colorful, I imagined them recoiling. Steve has always been one of the most provocative thinkers in our industry, going […]]]></content:encoded>
+            <category>AI &amp;amp; ML</category>
+            <category>Commentary</category>
+            <enclosure length="0" type="jpg" url="https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/03/Code-is-liquid-1600x1244.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[cdk8s のデプロイ戦略 - GitOps とマニフェスト管理の工夫 | Cybozu Inside Out | サイボウズエンジニアのブログ]]></title>
+            <link>https://blog.cybozu.io/entry/2026/03/12/173000</link>
+            <guid>hatenablog://entry/17179246901353022574</guid>
+            <pubDate>Thu, 12 Mar 2026 08:30:00 GMT</pubDate>
+            <description><![CDATA[この記事は kintone の生成 AI チームで連載中の kintone AIリレーブログ 2026 の 9 本目の記事です。 リレーブログでは、生成 AI チームのメンバーが AI トピックに限らずさまざまなことについて発信していきます。こんにちは！kintone 生成 AI チームの 386jp です。前回の記事「cdk8s をもっと使いこなす - kintone AI チームの活用 Tip]]></description>
+            <content:encoded><![CDATA[この記事は kintone の生成 AI チームで連載中の kintone AIリレーブログ 2026 の 9 本目の記事です。 リレーブログでは、生成 AI チームのメンバーが AI トピックに限らずさまざまなことについて発信していきます。こんにちは！kintone 生成 AI チームの 386jp です。前回の記事「cdk8s をもっと使いこなす - kintone AI チームの活用 Tips」では、 cdk8s を使う上で工夫している実践パターンを紹介しました。今回は、 cdk8s で生成したマニフェストをどのようにデプロイしているか、デプロイ戦略について紹介します。目次:前回のおさらいcdk8s をプロダクション運用する上での 3 つの課題課題1へのアプローチ：マニフェストの事前生成と書き出しの工夫マニフェストを事前に生成するメリットマニフェストの書き出し方の工夫FOLDER_PER_CHART_FILE_PER_RESOURCE の効果課題2へのアプローチ：GitOps 用リポジトリとの分離2 つのリポジトリ構成なぜ 2 つのリポジトリに分けたのか課題3へのアプローチ：段階]]></content:encoded>
+            <category>Kubernetes</category>
+            <category>kintone AIリレーブログ2026</category>
+            <category>AI</category>
+            <category>生成AI</category>
+            <enclosure length="0" type="jpg" url="https://cdn.image.st-hatena.com/image/scale/3997e8ae732dbd0d35c6e976de15798660c6ddf5/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcybozuinsideout%2F20260312%2F20260312173008.jpg" alt="cdk8s のデプロイ戦略 - GitOps とマニフェスト管理の工夫 - Cybozu Inside Out | サイボウズエンジニアのブログ"/>
+        </item>
+        <item>
+            <title><![CDATA[【新卒入社リアルレポート：2025年4月入社編】データサイエンスの最前線で何を感じた？ 入社動機から研修、現場での成長を振り返り！ | Platinum Data Blog by BrainPad ブレインパッド]]></title>
+            <link>https://blog.brainpad.co.jp/entry/2026/03/12/140000</link>
+            <guid>hatenablog://entry/17179246901363227539</guid>
+            <pubDate>Thu, 12 Mar 2026 05:00:00 GMT</pubDate>
+            <description><![CDATA[今回は2025年度に入社した新卒社員3名に集まってもらい、入社から約1年が経った今のリアルな心境を語ってもらいました。 株式会社ブレインパッドのデータサイエンティスト、エンジニア、そしてグループ会社である株式会社TimeTechnologiesのカスタマーサクセスと、異なる職種で活躍する新卒1年目のメンバーが「新卒研修のリアル」や「現場での成長」、そして「将来」について振り返ります。岩撫 映見いわ]]></description>
+            <content:encoded><![CDATA[今回は2025年度に入社した新卒社員3名に集まってもらい、入社から約1年が経った今のリアルな心境を語ってもらいました。 株式会社ブレインパッドのデータサイエンティスト、エンジニア、そしてグループ会社である株式会社TimeTechnologiesのカスタマーサクセスと、異なる職種で活躍する新卒1年目のメンバーが「新卒研修のリアル」や「現場での成長」、そして「将来」について振り返ります。岩撫 映見いわなで えみ 有井 鴻太ありい こうた 内海 圭喬うつみ けいすけ 東海大学大学院情報通信学研究科情報通信学専攻 卒業株式会社ブレインパッドデータサイエンティスト 学習院大学国際社会科学部国際社会科学科 卒業株式会社TimeTechnologiesカスタマーサクセス 会津大学大学院コンピュータ理工学研究科コンピュータ・情報システム学専攻 卒業株式会社ブレインパッドプロダクト開発エンジニア それぞれの入社の決め手は？「もっとやっておけばよかった」 新卒研修のリアルな振り返り配属後の「まさか」と「成長」未来の自分へ：目指す姿とスキル未来の仲間へのメッセージ（最後に雑談・・・おすすめの福利厚生のご紹介]]></content:encoded>
+            <category>ブレインパッドの仕事</category>
+            <category>新卒採用</category>
+            <category>社員インタビュー</category>
+            <category>ひと</category>
+            <category>働き方</category>
+            <category>キャリア</category>
+            <category>福利厚生</category>
+            <category>人材育成</category>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/0d39c9342d804df839e39126b7097dbac686998e/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbpblog-igarashi%2F20260310%2F20260310141000.png" alt="【新卒入社リアルレポート：2025年4月入社編】データサイエンスの最前線で何を感じた？ 入社動機から研修、現場での成長を振り返り！ - Platinum Data Blog by BrainPad ブレインパッド"/>
+        </item>
+        <item>
+            <title><![CDATA[AI活用によりノンエンジニアが実装に参画し、双方向に役割を越境するチームへと発展した話 | Sansan Tech Blog]]></title>
+            <link>https://buildersbox.corp-sansan.com/entry/2026/03/12/130000</link>
+            <guid>https://buildersbox.corp-sansan.com/entry/2026/03/12/130000</guid>
+            <pubDate>Thu, 12 Mar 2026 04:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは！Digitization部の宮野隼吏です。Digitization部所属ですが、エンジニアではありません。コードは1行も書けません。そんな私がAIを活用してライトなUI/UX改善や機能実装をし始めた結果、チームでどんな変化が起きたかをお話しします。 3行サマリ チームの現在地 フェーズ1：Devin AIによる自律的実装を試みた時期 フェーズ2：Cursorによる「手触り感」を持った開]]></description>
+            <content:encoded><![CDATA[こんにちは！Digitization部の宮野隼吏です。Digitization部所属ですが、エンジニアではありません。コードは1行も書けません。そんな私がAIを活用してライトなUI/UX改善や機能実装をし始めた結果、チームでどんな変化が起きたかをお話しします。 3行サマリ チームの現在地 フェーズ1：Devin AIによる自律的実装を試みた時期 フェーズ2：Cursorによる「手触り感」を持った開発へ エンジニアの価値を最大化し、双方向に越境する 最後に 一緒に挑戦してくれる仲間を募集中です 3行サマリ ノンエンジニアがCursorやDevin AIを活用して一部実装、ステージング検証まででき…]]></content:encoded>
+            <enclosure length="0" type="image//10257846132608666252/17179246901360096013/1773288011" url="https://ogimage.blog.st-hatena.com/10257846132608666252/17179246901360096013/1773288011" alt="AI活用によりノンエンジニアが実装に参画し、双方向に役割を越境するチームへと発展した話 - Sansan Tech Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[GPT SoVITS v2 Pro : 高速かつ高精度な音声合成モデル | Stories by Kazuki Kyakuno on Medium]]></title>
+            <link>https://medium.com/axinc/gpt-sovits-v2-pro-%E9%AB%98%E9%80%9F%E3%81%8B%E3%81%A4%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%81%AA%E9%9F%B3%E5%A3%B0%E5%90%88%E6%88%90%E3%83%A2%E3%83%87%E3%83%AB-81f2156366cd</link>
+            <guid>https://medium.com/p/81f2156366cd</guid>
+            <pubDate>Thu, 12 Mar 2026 03:06:18 GMT</pubDate>
+            <category>ailia-models</category>
+            <enclosure length="0" type="png" url="https://miro.medium.com/v2/resize:fit:1200/1*oDNGxMrwr1rOPK4-_rguMw.png"/>
+        </item>
+        <item>
+            <title><![CDATA[チームで本格的に Docs as Code を運用しているので紹介します | エムスリーテックブログ]]></title>
+            <link>https://www.m3tech.blog/entry/2026/03/12/115110</link>
+            <guid>https://www.m3tech.blog/entry/2026/03/12/115110</guid>
+            <pubDate>Thu, 12 Mar 2026 02:51:10 GMT</pubDate>
+            <description><![CDATA[エムスリーのソフトウェアエンジニアの伊藤です。デジスマチームのブログリレー2日目の記事です。 チームではチームリーディングとプロダクトマネジメントを主に担当しています。 はじめに コンテキスト・エンジニアリング AI Ready なコードベースにするためのドキュメント管理 プロダクト画面仕様書 ADR Design Doc API 定義 (Protocol Buffers) まとめ We are ]]></description>
+            <content:encoded><![CDATA[エムスリーのソフトウェアエンジニアの伊藤です。デジスマチームのブログリレー2日目の記事です。 チームではチームリーディングとプロダクトマネジメントを主に担当しています。 はじめに コンテキスト・エンジニアリング AI Ready なコードベースにするためのドキュメント管理 プロダクト画面仕様書 ADR Design Doc API 定義 (Protocol Buffers) まとめ We are Hiring! エンジニア採用ページはこちら エンジニア新卒採用サイト！ ！ カジュアル面談！ ！]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/a6c3b02dc1226aa08d88fb7d7a91f4790e69e550/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20260312%2F20260312115116.png" alt="チームで本格的に Docs as Code を運用しているので紹介します - エムスリーテックブログ"/>
+        </item>
+        <item>
+            <title><![CDATA[GCVE Launches Decentralized Publishing Ecosystem for Vulnerability Disclosure | Socket]]></title>
+            <link>https://socket.dev/blog/gcve-launches-decentralized-publishing-ecosystem</link>
+            <guid>https://socket.dev/blog/gcve-launches-decentralized-publishing-ecosystem</guid>
+            <pubDate>Thu, 12 Mar 2026 02:45:36 GMT</pubDate>
+            <description><![CDATA[The GCVE initiative operated by CIRCL has officially opened its publishing ecosystem, letting organizations issue and share vulnerability identifiers without routing through a central authority.]]></description>
+            <content:encoded><![CDATA[The GCVE initiative operated by CIRCL has officially opened its publishing ecosystem, letting organizations issue and share vulnerability identifiers without routing through a central authority.]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.sanity.io/images/cgdhsj6q/production/78c8d73880c2fa7a2e607d779d82f54a0435ad88-1024x1024.png?w=1000&amp;q=95&amp;fit=max&amp;auto=format"/>
+        </item>
+        <item>
+            <title><![CDATA[「渋⾕ Biz × AI: ビジネスにおける AI 利活⽤ 事例勉強会 第4回」レポート | Sansan Tech Blog]]></title>
+            <link>https://buildersbox.corp-sansan.com/entry/2026/03/12/100000</link>
+            <guid>https://buildersbox.corp-sansan.com/entry/2026/03/12/100000</guid>
+            <pubDate>Thu, 12 Mar 2026 01:00:00 GMT</pubDate>
+            <description><![CDATA[今回で4回目となった渋谷 Biz × AI 勉強会最近は家の近くにおいしいスパイスカレーのお店を見つけて良い気分です。研究開発部の吉村です。今回は、2026年2月16日にSansan株式会社で開催された、株式会社サイバーエージェント、株式会社ビズリーチ、Sansan株式会社の三社合同共催による「渋谷 Biz × AI: ビジネスにおける AI 利活用 事例勉強会 第4回」のレポートをお届けします。]]></description>
+            <content:encoded><![CDATA[今回で4回目となった渋谷 Biz × AI 勉強会最近は家の近くにおいしいスパイスカレーのお店を見つけて良い気分です。研究開発部の吉村です。今回は、2026年2月16日にSansan株式会社で開催された、株式会社サイバーエージェント、株式会社ビズリーチ、Sansan株式会社の三社合同共催による「渋谷 Biz × AI: ビジネスにおける AI 利活用 事例勉強会 第4回」のレポートをお届けします。]]></content:encoded>
+            <enclosure length="0" type="image//10257846132608666252/17179246901356630529/1773277227" url="https://ogimage.blog.st-hatena.com/10257846132608666252/17179246901356630529/1773277227" alt="「渋⾕ Biz × AI: ビジネスにおける AI 利活⽤ 事例勉強会 第4回」レポート - Sansan Tech Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[Windowsのターミナルからエクスプローラーをカレントディレクトリで開く | きしだのHatena]]></title>
+            <link>https://nowokay.hatenablog.com/entry/2026/03/12/092230</link>
+            <guid>https://nowokay.hatenablog.com/entry/2026/03/12/092230</guid>
+            <pubDate>Thu, 12 Mar 2026 00:22:30 GMT</pubDate>
+            <description><![CDATA[右クリックのメニューにエクスプローラーを開くメニュー欲しいよーと思ってたら「explorer .」で開けた、と書いてたらいろいろ情報が集まったのでまとめます。よいインターネッツだ。 コマンドプロンプト まずコマンドプロンプト。 explorer . explorerコマンドが使える。 そして、「start .」でもいける start . ちなみに今回紹介するコマンドはどれもファイルを指定すると紐づ]]></description>
+            <content:encoded><![CDATA[右クリックのメニューにエクスプローラーを開くメニュー欲しいよーと思ってたら「explorer .」で開けた、と書いてたらいろいろ情報が集まったのでまとめます。よいインターネッツだ。 コマンドプロンプト まずコマンドプロンプト。 explorer . explorerコマンドが使える。 そして、「start .」でもいける start . ちなみに今回紹介するコマンドはどれもファイルを指定すると紐づけられたアプリケーションで開く。次のようにhtmlを指定するとブラウザが開く explorer test.html PowerShell WindowsにはPowerShellもある explorer…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/ad33596e5e4d47cb3a8b1e3d9f1b351870a3934b/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnowokay%2F20260312%2F20260312084111.png" alt="Windowsのターミナルからエクスプローラーをカレントディレクトリで開く - きしだのHatena"/>
+        </item>
+        <item>
+            <title><![CDATA[フルリモートチームで感じた違和感を、システムコーチングでほどいていく | KAKEHASHI Tech Blog]]></title>
+            <link>https://kakehashi-dev.hatenablog.com/entry/2026/03/12/090000</link>
+            <guid>https://kakehashi-dev.hatenablog.com/entry/2026/03/12/090000</guid>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに こんにちは、Musubi機能開発チームの北川です。 フルリモートでチームを運営していると、大きな問題はなくコミュニケーションも回っている。 それでも、本当に踏み込んだ議論ができているのだろうか、と感じることはないでしょうか。 私自身、スプリントプランニングやレトロスペクティブを実施し、メンバーとの1on1も定期的に行っています。それでも、この問いに対してはっきりと「できている」と言い切る]]></description>
+            <content:encoded><![CDATA[はじめに こんにちは、Musubi機能開発チームの北川です。 フルリモートでチームを運営していると、大きな問題はなくコミュニケーションも回っている。 それでも、本当に踏み込んだ議論ができているのだろうか、と感じることはないでしょうか。 私自身、スプリントプランニングやレトロスペクティブを実施し、メンバーとの1on1も定期的に行っています。それでも、この問いに対してはっきりと「できている」と言い切ることができませんでした。 議論が発散して場に沈黙が生まれると、進行役として場が止まらないよう、つい無理に結論づけてしまったり、曖昧なまま次の話題に進めてしまうこともありました。 そんな違和感をEM（@…]]></content:encoded>
+            <enclosure length="0" type="image//26006613781264652/17179246901360180906/1773276236" url="https://ogimage.blog.st-hatena.com/26006613781264652/17179246901360180906/1773276236" alt="フルリモートチームで感じた違和感を、システムコーチングでほどいていく - KAKEHASHI Tech Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[Sorting algorithms | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2026/Mar/11/sorting-algorithms/#atom-everything</link>
+            <guid>https://simonwillison.net/2026/Mar/11/sorting-algorithms/#atom-everything</guid>
+            <pubDate>Wed, 11 Mar 2026 22:58:06 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://tools.simonwillison.net/sort-algorithms"&amp;gt;Sorting algorithms&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Today in animated explanations built using Claude: I've always been a fan of animated demonstra]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://tools.simonwillison.net/sort-algorithms"&amp;gt;Sorting algorithms&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Today in animated explanations built using Claude: I've always been a fan of animated demonstrations of sorting algorithms so I decided to spin some up on my phone using Claude Artifacts, then added Python's timsort algorithm, then a feature to run them all at once. Here's the &amp;lt;a href="https://claude.ai/share/2c09f6f7-57ed-47eb-af2e-fc39ddc4c39f"&amp;gt;full sequence of prompts&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://static.simonwillison.net/static/2026/sort-animation-card.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What OpenClaw Reveals About the Next Phase of AI Agents | Radar]]></title>
+            <link>https://www.oreilly.com/radar/what-openclaw-reveals-about-the-next-phase-of-ai-agents/</link>
+            <guid>https://www.oreilly.com/radar/?p=18240</guid>
+            <pubDate>Wed, 11 Mar 2026 17:28:45 GMT</pubDate>
+            <description><![CDATA[In November 2025, Austrian developer Peter Steinberger published a weekend project called Clawdbot. You could text it on Telegram or WhatsApp, and it would do things for you: manage your calendar, tri]]></description>
+            <content:encoded><![CDATA[In November 2025, Austrian developer Peter Steinberger published a weekend project called Clawdbot. You could text it on Telegram or WhatsApp, and it would do things for you: manage your calendar, triage your email, run scripts, and even browse the web. By late January 2026, it had exploded. It gained 25,000 GitHub stars in a […]]]></content:encoded>
+            <category>AI &amp;amp; ML</category>
+            <category>Commentary</category>
+            <enclosure length="0" type="jpg" url="https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/03/AI-agents-building-new-infrastructure-1600x1244.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Exploring the feasibility of conversational diagnostic AI in a real-world clinical study | The latest research from Google]]></title>
+            <link>https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study/</link>
+            <guid>https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study/</guid>
+            <pubDate>Wed, 11 Mar 2026 16:58:00 GMT</pubDate>
+            <description><![CDATA[Generative AI]]></description>
+            <content:encoded><![CDATA[Generative AI]]></content:encoded>
+            <category>Generative AI</category>
+            <category>Health &amp;amp; Bioscience</category>
+            <category>Machine Intelligence</category>
+            <enclosure length="0" type="jpg" url="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Google PlayのGoogleの取り分が20％以下に値下げへ。独自課金システムや外部Webサイトに誘導しての課金も可能に | Publickey]]></title>
+            <link>https://www.publickey1.jp/blog/26/google_playgoogle20web.html</link>
+            <guid>https://www.publickey1.jp/blog/26/google_playgoogle20web.html</guid>
+            <pubDate>Wed, 11 Mar 2026 16:20:18 GMT</pubDate>
+            <description><![CDATA[Googleは、Google Playにおける課金時のGoogleの取り分を従来の30％から20％に値下げすると同時に、アプリ独自の課金システムやGoogle Play外のWebサイトへ誘導しての課金も可能にすると発表しました。 また、サー...]]></description>
+            <content:encoded><![CDATA[Googleは、Google Playにおける課金時のGoogleの取り分を従来の30％から20％に値下げすると同時に、アプリ独自の課金システムやGoogle Play外のWebサイトへ誘導しての課金も可能にすると発表しました。 また、サー...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://www.publickey1.jp/2026/android-ecosystem-update202603.png"/>
+        </item>
+        <item>
+            <title><![CDATA[JavaScript製表計算ライブラリ「SpreadJS」、生成AIへの指示で自動集計や分析が可能になる機能搭載 | Publickey]]></title>
+            <link>https://www.publickey1.jp/blog/26/javascriptspreadjsai.html</link>
+            <guid>https://www.publickey1.jp/blog/26/javascriptspreadjsai.html</guid>
+            <pubDate>Wed, 11 Mar 2026 15:42:09 GMT</pubDate>
+            <description><![CDATA[Excelライクな表計算機能をWebアプリケーションなどに組み込めるJavaScript製ライブラリ「SpreadJS」を提供するメシウス（旧グレープシティ）は、同製品の新バージョン「SpreadJS v19J」で、生成AIとの連携機能を搭...]]></description>
+            <content:encoded><![CDATA[Excelライクな表計算機能をWebアプリケーションなどに組み込めるJavaScript製ライブラリ「SpreadJS」を提供するメシウス（旧グレープシティ）は、同製品の新バージョン「SpreadJS v19J」で、生成AIとの連携機能を搭...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://www.publickey1.jp/2026/spreadjsv19j01.png"/>
+        </item>
+        <item>
+            <title><![CDATA[gpt-oss-20bでRoo Codeを動かす | きしだのHatena]]></title>
+            <link>https://nowokay.hatenablog.com/entry/2026/03/11/234754</link>
+            <guid>https://nowokay.hatenablog.com/entry/2026/03/11/234754</guid>
+            <pubDate>Wed, 11 Mar 2026 14:47:54 GMT</pubDate>
+            <description><![CDATA[前回のQwen3.5でコーディングを試したときに、gpt-oss-20bをRoo Codeで使うときのやりかたで、これどうかなとブックマークコメントに書かれてたので試したら、Roo Code使えるようになりました。 Qwen3.5の中規模モデル(122B/35B/27B/9B)をコーディングエージェントで試してみる - きしだのHatena これです。 GPT-OSS 20B with Cline]]></description>
+            <content:encoded><![CDATA[前回のQwen3.5でコーディングを試したときに、gpt-oss-20bをRoo Codeで使うときのやりかたで、これどうかなとブックマークコメントに書かれてたので試したら、Roo Code使えるようになりました。 Qwen3.5の中規模モデル(122B/35B/27B/9B)をコーディングエージェントで試してみる - きしだのHatena これです。 GPT-OSS 20B with Cline and Roo Code :: Alde's Blog 構文定義ファイルとして次のようなものを用意して、cline.gbnfとして保存します。 root ::= analysis? start fi…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/ee76b479de059c818e68baff886d8dba9d10a61b/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnowokay%2F20260311%2F20260311223904.png" alt="gpt-oss-20bでRoo Codeを動かす - きしだのHatena"/>
+        </item>
+        <item>
+            <title><![CDATA[Quoting John Carmack | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2026/Mar/11/john-carmack/#atom-everything</link>
+            <guid>https://simonwillison.net/2026/Mar/11/john-carmack/#atom-everything</guid>
+            <pubDate>Wed, 11 Mar 2026 14:47:09 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;blockquote cite="https://twitter.com/ID_AA_Carmack/status/1405932642005041153"&amp;gt;&amp;lt;p&amp;gt;It is hard for less experienced developers to appreciate how rarely architecting for future requirements / applicati]]></description>
+            <content:encoded><![CDATA[ &amp;lt;blockquote cite="https://twitter.com/ID_AA_Carmack/status/1405932642005041153"&amp;gt;&amp;lt;p&amp;gt;It is hard for less experienced developers to appreciate how rarely architecting for future requirements / applications turns out net-positive.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;&amp;lt;p class="cite"&amp;gt;&amp;amp;mdash; &amp;lt;a href="https://twitter.com/ID_AA_Carmack/status/1405932642005041153"&amp;gt;John Carmack&amp;lt;/a&amp;gt;, a tweet in June 2021&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;Tags: &amp;lt;a href="https://simonwillison.net/tags/john-carmack"&amp;gt;john-carmack&amp;lt;/a&amp;gt;, &amp;lt;a href="https://simonwillison.net/ta]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Node.js Moves to Annual Major Releases Starting with Node 27 | Socket]]></title>
+            <link>https://socket.dev/blog/node-js-moves-to-annual-major-releases-starting-with-node-27</link>
+            <guid>https://socket.dev/blog/node-js-moves-to-annual-major-releases-starting-with-node-27</guid>
+            <pubDate>Wed, 11 Mar 2026 13:43:53 GMT</pubDate>
+            <description><![CDATA[The project is retiring its odd/even release model in favor of a simpler annual cadence where every major version becomes LTS.]]></description>
+            <content:encoded><![CDATA[The project is retiring its odd/even release model in favor of a simpler annual cadence where every major version becomes LTS.]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.sanity.io/images/cgdhsj6q/production/4aa1d0d2fdc76f3f49c8f8540f2322313bc7565d-1024x1024.png?w=1000&amp;q=95&amp;fit=max&amp;auto=format"/>
+        </item>
+        <item>
+            <title><![CDATA[Rakuten fixes issues twice as fast with Codex | OpenAI News]]></title>
+            <link>https://openai.com/index/rakuten</link>
+            <guid>https://openai.com/index/rakuten</guid>
+            <pubDate>Wed, 11 Mar 2026 13:00:00 GMT</pubDate>
+            <description><![CDATA[Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.]]></description>
+            <content:encoded><![CDATA[Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.]]></content:encoded>
+            <category>API</category>
+            <enclosure length="0" type="png" height="900" url="https://images.ctfassets.net/kftzwdyauwt9/3PSiVDH1PKd0544F7v5oOy/acba6baa055d87310e4665d76e83a269/oai_Rakuten_SEO.png?w=1600&amp;h=900&amp;fit=fill" width="1600" alt="OpenAI and Rakuten logos on either side of a purple textured square graphic."/>
+        </item>
+        <item>
+            <title><![CDATA[Designing AI agents to resist prompt injection | OpenAI News]]></title>
+            <link>https://openai.com/index/designing-agents-to-resist-prompt-injection</link>
+            <guid>https://openai.com/index/designing-agents-to-resist-prompt-injection</guid>
+            <pubDate>Wed, 11 Mar 2026 11:30:00 GMT</pubDate>
+            <description><![CDATA[How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.]]></description>
+            <content:encoded><![CDATA[How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.]]></content:encoded>
+            <category>Security</category>
+            <enclosure length="0" type="png" height="900" url="https://images.ctfassets.net/kftzwdyauwt9/7vwwEVWeYVswN8KAIIRiAZ/3b21f7147ba40289879f844649d6897e/OAI_Designing_AI_agentsto_resist_prompt_injection_SEO_16x9.png?w=1600&amp;h=900&amp;fit=fill" width="1600"/>
+        </item>
+        <item>
+            <title><![CDATA[Fast Paths and Slow Paths | Radar]]></title>
+            <link>https://www.oreilly.com/radar/fast-paths-and-slow-paths/</link>
+            <guid>https://www.oreilly.com/radar/?p=18227</guid>
+            <pubDate>Wed, 11 Mar 2026 11:17:45 GMT</pubDate>
+            <description><![CDATA[Autonomous AI systems force architects into an uncomfortable question that cannot be avoided much longer: Does every decision need to be governed synchronously to be safe? At first glance, the answer ]]></description>
+            <content:encoded><![CDATA[Autonomous AI systems force architects into an uncomfortable question that cannot be avoided much longer: Does every decision need to be governed synchronously to be safe? At first glance, the answer appears obvious. If AI systems reason, retrieve information, and act autonomously, then surely every step should pass through a control plane to ensure correctness, […]]]></content:encoded>
+            <category>AI &amp;amp; ML</category>
+            <category>Commentary</category>
+            <enclosure length="0" type="jpg" url="https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/03/Fast-and-slow-pathways-1600x1244.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wayfair boosts catalog accuracy and support speed with OpenAI | OpenAI News]]></title>
+            <link>https://openai.com/index/wayfair</link>
+            <guid>https://openai.com/index/wayfair</guid>
+            <pubDate>Wed, 11 Mar 2026 11:00:00 GMT</pubDate>
+            <description><![CDATA[Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.]]></description>
+            <content:encoded><![CDATA[Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.]]></content:encoded>
+            <category>B2B Story</category>
+            <enclosure length="0" type="png" height="900" url="https://images.ctfassets.net/kftzwdyauwt9/2BwLsAc9CDgCMWPnvMG6zT/88486652ebb56e9410a9949bfb4938f8/oai_wayfair_SEO.png?w=1600&amp;h=900&amp;fit=fill" width="1600" alt="OpenAI and Wayfair logos on either side of a purple textured graphic."/>
+        </item>
+        <item>
+            <title><![CDATA[From model to agent: Equipping the Responses API with a computer environment  | OpenAI News]]></title>
+            <link>https://openai.com/index/equip-responses-api-computer-environment</link>
+            <guid>https://openai.com/index/equip-responses-api-computer-environment</guid>
+            <pubDate>Wed, 11 Mar 2026 11:00:00 GMT</pubDate>
+            <description><![CDATA[How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.]]></description>
+            <content:encoded><![CDATA[How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.]]></content:encoded>
+            <category>Engineering</category>
+            <enclosure length="0" type="png" height="900" url="https://images.ctfassets.net/kftzwdyauwt9/7cy5agupSmbTruQd6hlgxU/f8ac88fa18599d1dc9221bca58512f13/SEO__1_.png?w=1600&amp;h=900&amp;fit=fill" width="1600"/>
+        </item>
+        <item>
+            <title><![CDATA[【AI Code Review】PR Agentって簡単に作れるんやで。そう。Amazon Bedrockならね。 | TooMeの記事 - Qiita]]></title>
+            <link>https://qiita.com/TooMe/items/db9148bbe6e84a08c8ab</link>
+            <guid>https://qiita.com/TooMe/items/db9148bbe6e84a08c8ab</guid>
+            <pubDate>Wed, 11 Mar 2026 07:08:53 GMT</pubDate>
+            <description><![CDATA[はじめにTooMeです。この度AWS Community Builder に認定されました。今年度はより一層気合を入れてAWS関連のキャッチアップおよびアウトプットをできればいいなと考えています。少し前にはじめたXはこちら今回は、Github.com上でPull ...]]></description>
+            <content:encoded><![CDATA[はじめにTooMeです。この度AWS Community Builder に認定されました。今年度はより一層気合を入れてAWS関連のキャッチアップおよびアウトプットをできればいいなと考えています。少し前にはじめたXはこちら今回は、Github.com上でPull ...]]></content:encoded>
+            <enclosure length="0" type="image/0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODIwMDc5JTJGMDdmYTI3NDE4MTg2MGRkNDhkYjNkMmZmOGU0MTY0ZWFjNDliNDc4NSUyRmxhcmdlLnBuZyUzRjE3NTE2OTAxNDk_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWUzZGUxNzBiZmYyNTI1ZWI4ZTA0NjczZWZiMDE5MmEw%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xMzQ4OTg3MjlkMzMwYTdiNWRhMzRkOGU2MzVmZjIxOA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Df1ef812f623e6caa1a0a89989985efff" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODIwMDc5JTJGMDdmYTI3NDE4MTg2MGRkNDhkYjNkMmZmOGU0MTY0ZWFjNDliNDc4NSUyRmxhcmdlLnBuZyUzRjE3NTE2OTAxNDk_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWUzZGUxNzBiZmYyNTI1ZWI4ZTA0NjczZWZiMDE5MmEw%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xMzQ4OTg3MjlkMzMwYTdiNWRhMzRkOGU2MzVmZjIxOA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Df1ef812f623e6caa1a0a89989985efff?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQUklMjBDb2RlJTIwUmV2aWV3JUUzJTgwJTkxUFIlMjBBZ2VudCVFMyU4MSVBMyVFMyU4MSVBNiVFNyVCMCVBMSVFNSU4RCU5OCVFMyU4MSVBQiVFNCVCRCU5QyVFMyU4MiU4QyVFMyU4MiU4QiVFMyU4MiU5MyVFMyU4MiU4NCVFMyU4MSVBNyVFMyU4MCU4MiVFMyU4MSU5RCVFMyU4MSU4NiVFMyU4MCU4MkFtYXpvbiUyMEJlZHJvY2slRTMlODElQUElRTMlODIlODklRTMlODElQUQlRTMlODAlODImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1hYmUzMmQwNzNmZGZjOTI1ZWEzNDkyODhhNDQxOTQyOA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBUb29NZSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTA3ZGNhZDFiZmQ3OGIzZDhmZWNiMjU3ZmQxZDllNDA5&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=a5a0cb69bda058a338583178803d9b92"/>
+        </item>
+        <item>
+            <title><![CDATA[創発的なコミュニケーションが生まれる新感覚の一日！React Tokyo フェス 2026 イベントレポート | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+            <link>https://techblog.lycorp.co.jp/ja/20260311b</link>
+            <guid>https://techblog.lycorp.co.jp/ja/20260311b</guid>
+            <pubDate>Wed, 11 Mar 2026 04:30:00 GMT</pubDate>
+            <description><![CDATA[皆さんこんにちは。花谷（@potato4d）です。今回は2月28日に開催された React Tokyo フェス 2026 について、LINEヤフーとしてスポンサーを行いました。本記事では、イベント本編...]]></description>
+            <content:encoded><![CDATA[皆さんこんにちは。花谷（@potato4d）です。今回は2月28日に開催された React Tokyo フェス 2026 について、LINEヤフーとしてスポンサーを行いました。本記事では、イベント本編...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://techblog.lycorp.co.jp/static/64af59f9b753bc5a2d49aceb8ecee023/7d66e/9bc28df5ba9048eaa8bd63031feb3d10.png"/>
+        </item>
+        <item>
+            <title><![CDATA[ダイアログ実装にみるトレンドと実装の中身 | エムスリーテックブログ]]></title>
+            <link>https://www.m3tech.blog/entry/2026/03/11/132828</link>
+            <guid>https://www.m3tech.blog/entry/2026/03/11/132828</guid>
+            <pubDate>Wed, 11 Mar 2026 04:28:28 GMT</pubDate>
+            <description><![CDATA[皆さん、こんにちは！ デジスマチームの小島(@jiko_21)です。 このブログはデジスマチームブログリレーの1日目の記事です。 フロントエンド開発において、モーダル（ダイアログ）の実装は非常にポピュラーなタスクの1つです。しかし、近年のUIライブラリを見ていると、その「実装スタイル」が大きく様変わりしていることに気づかされます。 今回は、ダイアログの実装トレンドと、Radix UIなどのモダンな]]></description>
+            <content:encoded><![CDATA[皆さん、こんにちは！ デジスマチームの小島(@jiko_21)です。 このブログはデジスマチームブログリレーの1日目の記事です。 フロントエンド開発において、モーダル（ダイアログ）の実装は非常にポピュラーなタスクの1つです。しかし、近年のUIライブラリを見ていると、その「実装スタイル」が大きく様変わりしていることに気づかされます。 今回は、ダイアログの実装トレンドと、Radix UIなどのモダンなライブラリが裏側でどのように動いているのか、その「中身」について掘り下げてみたいと思います。 ダイアログ実装のトレンドの変化 従来のスタイル 最新のスタイル なぜ渡していないonClickが動くのか …]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/3bc58a8986ddd70cb9679172e492c96bb9afe267/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20260311%2F20260311132829.png" alt="ダイアログ実装にみるトレンドと実装の中身 - エムスリーテックブログ"/>
+        </item>
+        <item>
+            <title><![CDATA[EMConf JP2026 参加レポート（murata） | Timee Product Team Blog]]></title>
+            <link>https://tech.timee.co.jp/entry/2026/03/11/120000</link>
+            <guid>https://tech.timee.co.jp/entry/2026/03/11/120000</guid>
+            <pubDate>Wed, 11 Mar 2026 03:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは。タイミーでAndroid Chapter Leadをしているmurataです。 普段はAndroidコミュニティの運営やTech Lead的な動きをすることが多いのですが、今回はいつもの技術領域とは少し異なる視点を得たくて、今回のEngineering Management Conference Japan 2026（以下、EM Conf）に参加しました。 EM系のカンファレンスは初参]]></description>
+            <content:encoded><![CDATA[こんにちは。タイミーでAndroid Chapter Leadをしているmurataです。 普段はAndroidコミュニティの運営やTech Lead的な動きをすることが多いのですが、今回はいつもの技術領域とは少し異なる視点を得たくて、今回のEngineering Management Conference Japan 2026（以下、EM Conf）に参加しました。 EM系のカンファレンスは初参加でしたが、新たな世界を見ることができた1日でした。 📝 注記 各セッションの「聞いたこと」は、私なりに理解し印象に残ったポイントの抜粋です。実際の講演内容と齟齬がある可能性があるためご了承ください。…]]></content:encoded>
+            <enclosure length="0" type="image//26006613497622710/17179246901363643063/1773198001" url="https://ogimage.blog.st-hatena.com/26006613497622710/17179246901363643063/1773198001" alt="EMConf JP2026 参加レポート（murata） - Timee Product Team Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[社内におけるAI駆動開発の知見共有をテーマとしたLINEヤフー Development with Agents Meetup #1 東京を開催しました | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+            <link>https://techblog.lycorp.co.jp/ja/20260311a</link>
+            <guid>https://techblog.lycorp.co.jp/ja/20260311a</guid>
+            <pubDate>Wed, 11 Mar 2026 02:00:00 GMT</pubDate>
+            <description><![CDATA[2026年2月17日、当社主催の「LINEヤフー Development with Agents Meetup #1」を紀尾井町オフィスとオンラインの同時開催で実施しました。会場参加は定員100名で満...]]></description>
+            <content:encoded><![CDATA[2026年2月17日、当社主催の「LINEヤフー Development with Agents Meetup #1」を紀尾井町オフィスとオンラインの同時開催で実施しました。会場参加は定員100名で満...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://techblog.lycorp.co.jp/static/2b81349f86a1bd892c702b14a5e2c646/7d66e/9e63af52c61748fbb592ee53fc55b6c6.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Merakiダッシュボードを開かないネットワーク運用を目指してーMCPサーバー自作と活用事例 | Sansan Tech Blog]]></title>
+            <link>https://buildersbox.corp-sansan.com/entry/2026/03/11/100000</link>
+            <guid>https://buildersbox.corp-sansan.com/entry/2026/03/11/100000</guid>
+            <pubDate>Wed, 11 Mar 2026 01:00:00 GMT</pubDate>
+            <description><![CDATA[Merakiの情報を確認したいときに、ダッシュボードへのログインを手間に感じていませんか？ あるいは、作業手順書とMerakiのデバイス情報を行き来するのに手間を感じていませんか？ 私たちはMeraki専用のMCP（Model Context Protocol）サーバーを開発し、日常の確認作業の多くをダッシュボードなしで完結させることを目指しました。 はじめに こんにちは、Sansan株式会社 コ]]></description>
+            <content:encoded><![CDATA[Merakiの情報を確認したいときに、ダッシュボードへのログインを手間に感じていませんか？ あるいは、作業手順書とMerakiのデバイス情報を行き来するのに手間を感じていませんか？ 私たちはMeraki専用のMCP（Model Context Protocol）サーバーを開発し、日常の確認作業の多くをダッシュボードなしで完結させることを目指しました。 はじめに こんにちは、Sansan株式会社 コーポレートシステム部 末次です。コーポレートシステム部は、いわゆる情報システム部門にあたります。 部のミッションとして掲げているのが「EX（従業員体験）をシンプルにする」というものです。その中で私たち…]]></content:encoded>
+            <enclosure length="0" type="image//10257846132608666252/17179246901355858245/1773190805" url="https://ogimage.blog.st-hatena.com/10257846132608666252/17179246901355858245/1773190805" alt="Merakiダッシュボードを開かないネットワーク運用を目指してーMCPサーバー自作と活用事例 - Sansan Tech Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[AI should help us produce better code | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything</link>
+            <guid>https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything</guid>
+            <pubDate>Tue, 10 Mar 2026 22:25:09 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;em&amp;gt;&amp;lt;a href="https://simonwillison.net/guides/agentic-engineering-patterns/"&amp;gt;Agentic Engineering Patterns&amp;lt;/a&amp;gt; &amp;amp;gt;&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;Many developers worry that outsourcing their code to AI tools will re]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;em&amp;gt;&amp;lt;a href="https://simonwillison.net/guides/agentic-engineering-patterns/"&amp;gt;Agentic Engineering Patterns&amp;lt;/a&amp;gt; &amp;amp;gt;&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;Many developers worry that outsourcing their code to AI tools will result in a drop in quality, producing bad code that's churned out fast enough that decision makers are willing to overlook its flaws.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;If adopting coding agents demonstrably reduces the quality of the code and features you are producing, you should address that problem directly: figure out which]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5 Malicious Rust Crates Posed as Time Utilities to Exfiltrate .env Files | Socket]]></title>
+            <link>https://socket.dev/blog/5-malicious-rust-crates-posed-as-time-utilities-to-exfiltrate-env-files</link>
+            <guid>https://socket.dev/blog/5-malicious-rust-crates-posed-as-time-utilities-to-exfiltrate-env-files</guid>
+            <pubDate>Tue, 10 Mar 2026 20:44:14 GMT</pubDate>
+            <description><![CDATA[Published late February to early March 2026, these crates impersonate timeapi.io and POST .env secrets to a threat actor-controlled lookalike domain.]]></description>
+            <content:encoded><![CDATA[Published late February to early March 2026, these crates impersonate timeapi.io and POST .env secrets to a threat actor-controlled lookalike domain.]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.sanity.io/images/cgdhsj6q/production/323c0768cae5d50cf080947d4858ecac21ba8cec-1024x1024.png?w=1000&amp;q=95&amp;fit=max&amp;auto=format"/>
+        </item>
+        <item>
+            <title><![CDATA[マイクロソフトが「.NET Skills」公開。AIエージェントの.NET開発能力を拡張 | Publickey]]></title>
+            <link>https://www.publickey1.jp/blog/26/net_skillsainet.html</link>
+            <guid>https://www.publickey1.jp/blog/26/net_skillsainet.html</guid>
+            <pubDate>Tue, 10 Mar 2026 15:31:27 GMT</pubDate>
+            <description><![CDATA[マイクロソフトは、AIエージェントの能力を拡張する「Agent Skills」の仕組みに対応した、.NETの開発スキルを向上させる「.NET Skills」を公開しました。 Agent Skillsは、Anthropicが提唱したAIエージ...]]></description>
+            <content:encoded><![CDATA[マイクロソフトは、AIエージェントの能力を拡張する「Agent Skills」の仕組みに対応した、.NETの開発スキルを向上させる「.NET Skills」を公開しました。 Agent Skillsは、Anthropicが提唱したAIエージ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://www.publickey1.jp/2026/dotnetskills-ms202603.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Claude Codeに高度なコードレビュー機能が登場。深いコードレビューに最適化し、人間が見逃しがちなバグまで検出 | Publickey]]></title>
+            <link>https://www.publickey1.jp/blog/26/claude_code.html</link>
+            <guid>https://www.publickey1.jp/blog/26/claude_code.html</guid>
+            <pubDate>Tue, 10 Mar 2026 15:29:10 GMT</pubDate>
+            <description><![CDATA[Anthropicは、同社のAIコーディングエージェントであるClaude Codeに高度なコードレビュー機能をリサーチプレビューとして搭載したことを明らかにしました。 AIエージェントにより多数のコードが短時間に生成できるようになってくる...]]></description>
+            <content:encoded><![CDATA[Anthropicは、同社のAIコーディングエージェントであるClaude Codeに高度なコードレビュー機能をリサーチプレビューとして搭載したことを明らかにしました。 AIエージェントにより多数のコードが短時間に生成できるようになってくる...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://www.publickey1.jp/2026/claudecode-codereview-rp.png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Kinds of Applications | Radar]]></title>
+            <link>https://www.oreilly.com/radar/new-kinds-of-applications/</link>
+            <guid>https://www.oreilly.com/radar/?p=18224</guid>
+            <pubDate>Tue, 10 Mar 2026 11:49:31 GMT</pubDate>
+            <description><![CDATA[I’ve said in the past that AI will enable new kinds of applications—but I’ve never had the imagination to guess what those new applications would be. I don’t want a smart refrigerator, especially if i]]></description>
+            <content:encoded><![CDATA[I’ve said in the past that AI will enable new kinds of applications—but I’ve never had the imagination to guess what those new applications would be. I don’t want a smart refrigerator, especially if it’s going to inflict ads on me. Or a smart TV. Or a smart doorbell. Most of these applications are silly, […]]]></content:encoded>
+            <category>AI &amp;amp; ML</category>
+            <category>Commentary</category>
+            <enclosure length="0" type="jpg" url="https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/03/Colorful-ethereal-city-lights-1600x1244.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Improving instruction hierarchy in frontier LLMs | OpenAI News]]></title>
+            <link>https://openai.com/index/instruction-hierarchy-challenge</link>
+            <guid>https://openai.com/index/instruction-hierarchy-challenge</guid>
+            <pubDate>Tue, 10 Mar 2026 11:00:00 GMT</pubDate>
+            <description><![CDATA[IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.]]></description>
+            <content:encoded><![CDATA[IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.]]></content:encoded>
+            <category>Research</category>
+            <enclosure length="0" type="png" height="900" url="https://images.ctfassets.net/kftzwdyauwt9/1hgOrtUKV9JbWpgIZLElGG/f1e68fcb747aeb0cb87633a34bb71bb3/SEO_Card__1_.png?w=1600&amp;h=900&amp;fit=fill" width="1600"/>
+        </item>
+        <item>
+            <title><![CDATA[New ways to learn math and science in ChatGPT | OpenAI News]]></title>
+            <link>https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt</link>
+            <guid>https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt</guid>
+            <pubDate>Tue, 10 Mar 2026 10:00:00 GMT</pubDate>
+            <description><![CDATA[ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.]]></description>
+            <content:encoded><![CDATA[ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.]]></content:encoded>
+            <category>Product</category>
+            <enclosure length="0" type="png" height="900" url="https://images.ctfassets.net/kftzwdyauwt9/6WeStJuG7Vpz0AfZWGS6cm/27e0b45847fa1d82241e7ea5af01a7ad/Learning_Blocks_SEO_16x9.png?w=1600&amp;h=900&amp;fit=fill" width="1600"/>
+        </item>
+        <item>
+            <title><![CDATA[第58回情報科学若手の会 参加レポート：社内のネットワークでの取り組みについて発表しました | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+            <link>https://techblog.lycorp.co.jp/ja/20260310a</link>
+            <guid>https://techblog.lycorp.co.jp/ja/20260310a</guid>
+            <pubDate>Tue, 10 Mar 2026 02:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは、ソフトウェアエンジニアの多根（@SEED0228777）です。普段は、検索領域で地域情報検索システムのためのプラットフォームを開発・運用しております。2025年10月11日から13日の3日...]]></description>
+            <content:encoded><![CDATA[こんにちは、ソフトウェアエンジニアの多根（@SEED0228777）です。普段は、検索領域で地域情報検索システムのためのプラットフォームを開発・運用しております。2025年10月11日から13日の3日...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://techblog.lycorp.co.jp/static/44da6f02b8ce1c961407b9ea709be930/f0810/1192b83e34bd4b6790cccb789e86f090.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OpenClaw Advisory Surge Highlights Gaps Between GHSA and CVE Tracking | Socket]]></title>
+            <link>https://socket.dev/blog/openclaw-advisory-surge-highlights-gaps-between-ghsa-and-cve-tracking</link>
+            <guid>https://socket.dev/blog/openclaw-advisory-surge-highlights-gaps-between-ghsa-and-cve-tracking</guid>
+            <pubDate>Tue, 10 Mar 2026 01:27:34 GMT</pubDate>
+            <description><![CDATA[A recent burst of security disclosures in the OpenClaw project is drawing attention to how vulnerability information flows across advisory and CVE systems.]]></description>
+            <content:encoded><![CDATA[A recent burst of security disclosures in the OpenClaw project is drawing attention to how vulnerability information flows across advisory and CVE systems.]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.sanity.io/images/cgdhsj6q/production/a2d195be2d56d0522cd21de2ee192b990fa9de16-1024x1024.png?w=1000&amp;q=95&amp;fit=max&amp;auto=format"/>
+        </item>
+        <item>
+            <title><![CDATA[デザインの現在地 | KAKEHASHI Tech Blog]]></title>
+            <link>https://kakehashi-dev.hatenablog.com/entry/2026/03/10/090000</link>
+            <guid>https://kakehashi-dev.hatenablog.com/entry/2026/03/10/090000</guid>
+            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに こんにちは、カケハシの生成AI研究開発チームとMusubi Insightチームにてデザイナーをしている堤です。 最近、X界隈では「Figma不要論」といった過激な言葉も飛び交うなど、UIデザインのプロセスが大きな転換期を迎えています。2026年3月現在、私自身のワークフローを振り返ってみても、ほぼ全てのプロトタイピングをコードで行うようになっています。正直なところ、新しいコンポーネント]]></description>
+            <content:encoded><![CDATA[はじめに こんにちは、カケハシの生成AI研究開発チームとMusubi Insightチームにてデザイナーをしている堤です。 最近、X界隈では「Figma不要論」といった過激な言葉も飛び交うなど、UIデザインのプロセスが大きな転換期を迎えています。2026年3月現在、私自身のワークフローを振り返ってみても、ほぼ全てのプロトタイピングをコードで行うようになっています。正直なところ、新しいコンポーネントの細かな調整以外でFigmaを開く時間は、以前に比べて劇的に減りました。 この記事は、デザインプロセスの変化について社内のLT会で共有した資料を交えつつ、いちデザイナーとして感じている現場感をまとめた…]]></content:encoded>
+            <enclosure length="0" type="image//26006613781264652/17179246901361517383/1773101732" url="https://ogimage.blog.st-hatena.com/26006613781264652/17179246901361517383/1773101732" alt="デザインの現在地 - KAKEHASHI Tech Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[最新のPyTorchで軽量OCRモデルPARSeqをTensorRT化する | NTT docomo Business Engineers' Blog]]></title>
+            <link>https://engineers.ntt.com/entry/20260226-accelerateocr/entry</link>
+            <guid>https://engineers.ntt.com/entry/20260226-accelerateocr/entry</guid>
+            <pubDate>Mon, 09 Mar 2026 23:57:42 GMT</pubDate>
+            <description><![CDATA[こんにちは。イノベーションセンターの加藤です。普段はコンピュータビジョンの技術開発やAIシステムの検証に取り組んでいます。今回は最新版のPyTorchを使って軽量なTransformerベースOCRモデルであるPARSeq(Permuted Autoregressive Sequence)をTensorRTモデルに変換して高速化した取り組みについて紹介します。]]></description>
+            <content:encoded><![CDATA[こんにちは。イノベーションセンターの加藤です。普段はコンピュータビジョンの技術開発やAIシステムの検証に取り組んでいます。今回は最新版のPyTorchを使って軽量なTransformerベースOCRモデルであるPARSeq(Permuted Autoregressive Sequence)をTensorRTモデルに変換して高速化した取り組みについて紹介します。]]></content:encoded>
+            <enclosure length="0" type="image/com%2Fdefault_entry_og_image%2F5694434%2F1752635351448040" url="https://cdn.image.st-hatena.com/image/scale/53a06e44531f2a979b74bcf0d4d46a2d76e94319/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F5694434%2F1752635351448040" alt="最新のPyTorchで軽量OCRモデルPARSeqをTensorRT化する - NTT docomo Business Engineers' Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[Claude CoworkがMicrosoft 365 Copilotに採用。「Copilot Cowork」としてリサーチプレビュー公開 | Publickey]]></title>
+            <link>https://www.publickey1.jp/blog/26/claude_coworkmicrosoft_365_copilotcopilot_cowork.html</link>
+            <guid>https://www.publickey1.jp/blog/26/claude_coworkmicrosoft_365_copilotcopilot_cowork.html</guid>
+            <pubDate>Mon, 09 Mar 2026 15:37:16 GMT</pubDate>
+            <description><![CDATA[マイクロソフトは、同社のオフィススイートのAI機能である「Microsoft 365 Copilot」を拡張し、AnthropicのClaude Coworkを採用した「Copilot Cowork」を発表しました。 そもそもAnthrop...]]></description>
+            <content:encoded><![CDATA[マイクロソフトは、同社のオフィススイートのAI機能である「Microsoft 365 Copilot」を拡張し、AnthropicのClaude Coworkを採用した「Copilot Cowork」を発表しました。 そもそもAnthrop...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://www.publickey1.jp/2026/copilot-cowork-ogp.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Node.js、今後は年に一度のリリースとなり、すべてのリリースがLTS版になると発表 | Publickey]]></title>
+            <link>https://www.publickey1.jp/blog/26/nodejslts.html</link>
+            <guid>https://www.publickey1.jp/blog/26/nodejslts.html</guid>
+            <pubDate>Mon, 09 Mar 2026 15:18:56 GMT</pubDate>
+            <description><![CDATA[Node.jsのリリースチームは、これまで6カ月ごとに年に2回行われていたNode.jsのリリースを年に1回とし、すべてのリリースがLTS版になることを発表しました。 毎年4月にリリースされ、安定化期間を経てLTSに移行 現在までNode....]]></description>
+            <content:encoded><![CDATA[Node.jsのリリースチームは、これまで6カ月ごとに年に2回行われていたNode.jsのリリースを年に1回とし、すべてのリリースがLTS版になることを発表しました。 毎年4月にリリースされ、安定化期間を経てLTSに移行 現在までNode....]]></content:encoded>
+            <enclosure length="0" type="png" url="https://www.publickey1.jp/2026/nodejs-release-onceayear202603.png"/>
+        </item>
+        <item>
+            <title><![CDATA[専用OS「Windows CPC」を搭載した「クラウドPC」デバイスがDellとASUSから登場 | Publickey]]></title>
+            <link>https://www.publickey1.jp/blog/26/oswindows_cpcpcdellasus.html</link>
+            <guid>https://www.publickey1.jp/blog/26/oswindows_cpcpcdellasus.html</guid>
+            <pubDate>Mon, 09 Mar 2026 15:12:43 GMT</pubDate>
+            <description><![CDATA[マイクロソフトは、デスクトップ仮想化の技術を用いてWindows環境をクラウドから配信する「Windows 365 クラウドPC」専用のクライアントデバイスがDellとASUSから登場することを発表しました。 Announcing new ...]]></description>
+            <content:encoded><![CDATA[マイクロソフトは、デスクトップ仮想化の技術を用いてWindows環境をクラウドから配信する「Windows 365 クラウドPC」専用のクライアントデバイスがDellとASUSから登場することを発表しました。 Announcing new ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://www.publickey1.jp/2024/windows365link04.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Production query plans without production data | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/#atom-everything</link>
+            <guid>https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/#atom-everything</guid>
+            <pubDate>Mon, 09 Mar 2026 15:05:15 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://boringsql.com/posts/portable-stats/"&amp;gt;Production query plans without production data&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Radim Marek describes the new &amp;lt;a href="https://www.postgresql.org/docs/]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://boringsql.com/posts/portable-stats/"&amp;gt;Production query plans without production data&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Radim Marek describes the new &amp;lt;a href="https://www.postgresql.org/docs/current/functions-admin.html#FUNCTIONS-ADMIN-STATSMOD"&amp;gt;&amp;lt;code&amp;gt;pg_restore_relation_stats()&amp;lt;/code&amp;gt; and &amp;lt;code&amp;gt;pg_restore_attribute_stats()&amp;lt;/code&amp;gt; functions&amp;lt;/a&amp;gt; that were introduced &amp;lt;a href="https://www.postgresql.org/docs/current/release-18.html"&amp;gt;in PostgreSQL 18&amp;lt;/a&amp;gt; in September 2025.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;The Postgre]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Perhaps not Boring Technology after all | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2026/Mar/9/not-so-boring/#atom-everything</link>
+            <guid>https://simonwillison.net/2026/Mar/9/not-so-boring/#atom-everything</guid>
+            <pubDate>Mon, 09 Mar 2026 13:37:45 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;A recurring concern I've seen regarding LLMs for programming is that they will push our technology choices towards the tools that are best represented in their training data, making it harder for ]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;A recurring concern I've seen regarding LLMs for programming is that they will push our technology choices towards the tools that are best represented in their training data, making it harder for new, better tools to break through the noise.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;This was certainly the case a couple of years ago, when asking models for help with Python or JavaScript appeared to give much better results than questions about less widely used languages.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;With &amp;lt;a href="https://simonwillison.net/tags/novemb]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Soft Forks: How Agent Skills Create Specialized AI Without Training | Radar]]></title>
+            <link>https://www.oreilly.com/radar/soft-forks-how-agent-skills-create-specialized-ai-without-training/</link>
+            <guid>https://www.oreilly.com/radar/?p=18215</guid>
+            <pubDate>Mon, 09 Mar 2026 11:43:46 GMT</pubDate>
+            <description><![CDATA[Our previous article framed the Model Context Protocol (MCP) as the toolbox that provides AI agents tools and Agent Skills as materials that teach AI agents how to complete tasks. This is different fr]]></description>
+            <content:encoded><![CDATA[Our previous article framed the Model Context Protocol (MCP) as the toolbox that provides AI agents tools and Agent Skills as materials that teach AI agents how to complete tasks. This is different from pre- or posttraining, which determine a model’s general behavior and expertise. Agent Skills do not “train” agents. They soft-fork agent behavior […]]]></content:encoded>
+            <category>AI &amp;amp; ML</category>
+            <category>Commentary</category>
+            <enclosure length="0" type="jpg" url="https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/03/Soft-tuning-forks-1600x1244.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI to acquire Promptfoo | OpenAI News]]></title>
+            <link>https://openai.com/index/openai-to-acquire-promptfoo</link>
+            <guid>https://openai.com/index/openai-to-acquire-promptfoo</guid>
+            <pubDate>Mon, 09 Mar 2026 10:00:00 GMT</pubDate>
+            <description><![CDATA[OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.]]></description>
+            <content:encoded><![CDATA[OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.]]></content:encoded>
+            <category>Company</category>
+            <enclosure length="0" type="png" height="900" url="https://images.ctfassets.net/kftzwdyauwt9/2l5nfItID8KM3c99MpQSbH/e0e585f9f8c924b6a95d2fda52def6c4/Promptfoo__3_.png?w=1600&amp;h=900&amp;fit=fill" width="1600"/>
+        </item>
+        <item>
+            <title><![CDATA[理想のプラットフォームを目指す、kintoneプラットフォームエンジニアリング部の仲間たち | Cybozu Inside Out | サイボウズエンジニアのブログ]]></title>
+            <link>https://blog.cybozu.io/entry/2026/03/09/113000</link>
+            <guid>hatenablog://entry/17179246901354851003</guid>
+            <pubDate>Mon, 09 Mar 2026 02:30:00 GMT</pubDate>
+            <description><![CDATA[kintoneの開発部門には、「プラットフォームエンジニアリング部（以下、PfE部）」があります。aki (@aki366) が、PfE部が何をする部なのか、なぜ今このタイミングで立ち上がったのかを、立ち上げメンバーへのインタビューを通してひも解く3部作。今回はその最終回です。第1回：なぜ、kintoneにプラットフォームエンジニアリング部は生まれたのか第2回：探索型開発と向き合う、kintone]]></description>
+            <content:encoded><![CDATA[kintoneの開発部門には、「プラットフォームエンジニアリング部（以下、PfE部）」があります。aki (@aki366) が、PfE部が何をする部なのか、なぜ今このタイミングで立ち上がったのかを、立ち上げメンバーへのインタビューを通してひも解く3部作。今回はその最終回です。第1回：なぜ、kintoneにプラットフォームエンジニアリング部は生まれたのか第2回：探索型開発と向き合う、kintoneプラットフォームエンジニアリングの挑戦人と文化の両面から、PfE部の今とこれからを探るプラットフォームは機能や基盤の進化だけでなく、そこに関わる人たちの考え方や文化も重要です。こんにちは。プラットフォームエンジニアリング部所属の aki (@aki366) です。前回に引き続き 上岡 (@ueokande) さんと 三苫 (@mitomasan) さんにお話を伺っていきたいと思います。この記事の構成は以下の通りです。人と文化の両面から、PfE部の今とこれからを探るPfE部の今Q. 今のPfE部には、どんなメンバーが集まっていますか？Q. このチームらしさはどこに現れますか？PfE部のこれからQ]]></content:encoded>
+            <category>Platform Engineering</category>
+            <category>文化</category>
+            <category>kintone</category>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/fa1a05987759d377746e234d412362863d5997e5/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcybozuinsideout%2F20260309%2F20260309113018.png" alt="理想のプラットフォームを目指す、kintoneプラットフォームエンジニアリング部の仲間たち - Cybozu Inside Out | サイボウズエンジニアのブログ"/>
+        </item>
+        <item>
+            <title><![CDATA[LINEアプリにおける複数人トークとグループトークの統合 | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+            <link>https://techblog.lycorp.co.jp/ja/20260309a</link>
+            <guid>https://techblog.lycorp.co.jp/ja/20260309a</guid>
+            <pubDate>Mon, 09 Mar 2026 02:00:00 GMT</pubDate>
+            <description><![CDATA[この記事は、合併前の旧ブログに掲載していた記事（初出：2022年2月24日）を、現在のブログへ移管したものです。内容は初出時点のものです。LINEアプリは1対1の会話だけでなく、複数ユーザーでの会話に...]]></description>
+            <content:encoded><![CDATA[この記事は、合併前の旧ブログに掲載していた記事（初出：2022年2月24日）を、現在のブログへ移管したものです。内容は初出時点のものです。LINEアプリは1対1の会話だけでなく、複数ユーザーでの会話に...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://techblog.lycorp.co.jp/static/04b47dc08757422eee201e6347548d45/7d66e/78a2483e0d2b47788d5faf676934ac86.png"/>
+        </item>
+        <item>
+            <title><![CDATA[直感的な検索を目指して（『ベクトル検索実践入門』を執筆しました） | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+            <link>https://techblog.lycorp.co.jp/ja/20260309c</link>
+            <guid>https://techblog.lycorp.co.jp/ja/20260309c</guid>
+            <pubDate>Mon, 09 Mar 2026 02:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは。LINEヤフー株式会社で検索エンジン開発のマネジメントを行っている真鍋です。検索のなかでも、今回はベクトル検索についてお話しします。ベクトル検索は、LINEヤフーでも検索や広告配信、レコメ...]]></description>
+            <content:encoded><![CDATA[こんにちは。LINEヤフー株式会社で検索エンジン開発のマネジメントを行っている真鍋です。検索のなかでも、今回はベクトル検索についてお話しします。ベクトル検索は、LINEヤフーでも検索や広告配信、レコメ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://techblog.lycorp.co.jp/static/cb01a4e2ac3fac58005a92e5c77dadec/7d66e/50f364a82e7b4a34b0f783699f982f21.png"/>
+        </item>
+        <item>
+            <title><![CDATA[App-based ライフサイクルからScene-based ライフサイクルへの移行対応で見つけた既存バグと学び | Sansan Tech Blog]]></title>
+            <link>https://buildersbox.corp-sansan.com/entry/2026/03/09/100000</link>
+            <guid>https://buildersbox.corp-sansan.com/entry/2026/03/09/100000</guid>
+            <pubDate>Mon, 09 Mar 2026 01:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに 技術本部 Sansan Engineering Unit Mobile Application GroupでiOSエンジニアとして開発に携わっている新卒1年目の松山（ @akidon0000 ）です。 今回は、iOS 27で必須対応となる「App-based ライフサイクルからScene-based ライフサイクルへの移行」の対応を終えたので、その内容についてご紹介します。 iOS 27]]></description>
+            <content:encoded><![CDATA[はじめに 技術本部 Sansan Engineering Unit Mobile Application GroupでiOSエンジニアとして開発に携わっている新卒1年目の松山（ @akidon0000 ）です。 今回は、iOS 27で必須対応となる「App-based ライフサイクルからScene-based ライフサイクルへの移行」の対応を終えたので、その内容についてご紹介します。 iOS 27からのScene-based ライフサイクル必須化 2025年6月に開催されたWWDC25で、Appleから重要な発表がありました。 "As scenes are vital for ensuring…]]></content:encoded>
+            <enclosure length="0" type="image//10257846132608666252/17179246901354110352/1773018013" url="https://ogimage.blog.st-hatena.com/10257846132608666252/17179246901354110352/1773018013" alt="App-based ライフサイクルからScene-based ライフサイクルへの移行対応で見つけた既存バグと学び - Sansan Tech Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[RDS/Aurora PostgreSQL のメジャーバージョンアップグレードを Blue/Green Deployment で行うメリットと注意点 | Wantedly Engineer Blog]]></title>
+            <link>https://www.wantedly.com/companies/wantedly/post_articles/1048647</link>
+            <guid>https://www.wantedly.com/companies/wantedly/post_articles/1048647</guid>
+            <pubDate>Mon, 09 Mar 2026 00:00:20 GMT</pubDate>
+            <description><![CDATA[先日、RDS/Aurora PostgreSQL のメジャーバージョンアップグレードを実施しました。今回のアップグ...]]></description>
+            <content:encoded><![CDATA[先日、RDS/Aurora PostgreSQL のメジャーバージョンアップグレードを実施しました。今回のアップグ...]]></content:encoded>
+            <category>PostgreSQL</category>
+            <category>データベース</category>
+            <enclosure length="0" type="image//post_articles/1048647/ogp_image" height="630" url="https://www.wantedly.com/post_articles/1048647/ogp_image" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[LLMが生成したテストの品質をMutation Testingで検証する | KAKEHASHI Tech Blog]]></title>
+            <link>https://kakehashi-dev.hatenablog.com/entry/2026/03/09/090000</link>
+            <guid>https://kakehashi-dev.hatenablog.com/entry/2026/03/09/090000</guid>
+            <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[ランキング参加中プログラミング はじめに 「このファイルのテストを書いて」とLLMに依頼すれば、それらしいテストコードが秒で生成される時代になりました。しかし、生成されたテストが本当に役に立つかどうかは別問題です。 コードカバレッジが100%でも、アサーションが甘いかもしれない 重要な分岐をテストしていないかもしれない 人間がレビューしても、網羅性の判断は難しい 本記事では、Mutation Te]]></description>
+            <content:encoded><![CDATA[ランキング参加中プログラミング はじめに 「このファイルのテストを書いて」とLLMに依頼すれば、それらしいテストコードが秒で生成される時代になりました。しかし、生成されたテストが本当に役に立つかどうかは別問題です。 コードカバレッジが100%でも、アサーションが甘いかもしれない 重要な分岐をテストしていないかもしれない 人間がレビューしても、網羅性の判断は難しい 本記事では、Mutation Testingを使ってLLM生成テストの品質を定量的に評価し、改善するワークフローを紹介します。 Mutation Testingとは コードを意図的に壊し（ミュータント）、テストがその変更を検出できるか…]]></content:encoded>
+            <enclosure length="0" type="image//26006613781264652/17179246901360520094/1773016189" url="https://ogimage.blog.st-hatena.com/26006613781264652/17179246901360520094/1773016189" alt="LLMが生成したテストの品質をMutation Testingで検証する - KAKEHASHI Tech Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[AWS、AWS上ですぐ使えるOpenClawを提供開始。仮想プライベートサーバ（VPS）「Amazon Lightsail」のインスタンスイメージとして | Publickey]]></title>
+            <link>https://www.publickey1.jp/blog/26/awsawsopenclawvpsamazon_lightsail.html</link>
+            <guid>https://www.publickey1.jp/blog/26/awsawsopenclawvpsamazon_lightsail.html</guid>
+            <pubDate>Sun, 08 Mar 2026 15:51:34 GMT</pubDate>
+            <description><![CDATA[Amazon Web Services（AWS）は、仮想プライベートサーバ（VPS）のAmazon Lightsailで簡単にOpenClawが導入できる、事前設定されたOpenClawインスタンスイメージの提供を開始しました。 Amazo...]]></description>
+            <content:encoded><![CDATA[Amazon Web Services（AWS）は、仮想プライベートサーバ（VPS）のAmazon Lightsailで簡単にOpenClawが導入できる、事前設定されたOpenClawインスタンスイメージの提供を開始しました。 Amazo...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://www.publickey1.jp/2026/amazonlightsail-openclaw-instanceimage01.png"/>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI、「Codex for Windows」正式リリース。Windowsサンドボックス内で安全にAIエージェントを実行、WSLにも対応 | Publickey]]></title>
+            <link>https://www.publickey1.jp/blog/26/openaicodex_for_windowswindowsaiwsl.html</link>
+            <guid>https://www.publickey1.jp/blog/26/openaicodex_for_windowswindowsaiwsl.html</guid>
+            <pubDate>Sun, 08 Mar 2026 15:46:45 GMT</pubDate>
+            <description><![CDATA[OpenAIは、Windows対応のAIエージェントによる開発環境「Codex for Windows」の正式リリースを発表しました。 Codex for Windowsは、AIエージェントを用いてプログラミングやテストを行うための開発環境...]]></description>
+            <content:encoded><![CDATA[OpenAIは、Windows対応のAIエージェントによる開発環境「Codex for Windows」の正式リリースを発表しました。 Codex for Windowsは、AIエージェントを用いてプログラミングやテストを行うための開発環境...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://www.publickey1.jp/2026/codex4win-la01.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Claude Codeが「音声モード」搭載。AIに話しかけながらのコーディングが可能に | Publickey]]></title>
+            <link>https://www.publickey1.jp/blog/26/claude_codeai.html</link>
+            <guid>https://www.publickey1.jp/blog/26/claude_codeai.html</guid>
+            <pubDate>Sun, 08 Mar 2026 15:38:43 GMT</pubDate>
+            <description><![CDATA[Anthropicが提供するAIコーディングツールであるClaude Codeに、新たに「音声モード」が搭載されることが明らかになりました。 AnthropicでClaude Codeを担当するエンジニアThariq Shihipar氏が次...]]></description>
+            <content:encoded><![CDATA[Anthropicが提供するAIコーディングツールであるClaude Codeに、新たに「音声モード」が搭載されることが明らかになりました。 AnthropicでClaude Codeを担当するエンジニアThariq Shihipar氏が次...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://www.publickey1.jp/2026/claudecode-voicemode202603.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Quoting Joseph Weizenbaum | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything</link>
+            <guid>https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything</guid>
+            <pubDate>Sun, 08 Mar 2026 14:59:48 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;blockquote cite="https://archive.org/details/computerpowerhum0000weiz_v0i3?q=realized"&amp;gt;&amp;lt;p&amp;gt;What I had not realized is that extremely short exposures to a relatively simple computer program could indu]]></description>
+            <content:encoded><![CDATA[ &amp;lt;blockquote cite="https://archive.org/details/computerpowerhum0000weiz_v0i3?q=realized"&amp;gt;&amp;lt;p&amp;gt;What I had not realized is that extremely short exposures to a relatively simple computer program could induce powerful delusional thinking in quite normal people.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;&amp;lt;p class="cite"&amp;gt;&amp;amp;mdash; &amp;lt;a href="https://archive.org/details/computerpowerhum0000weiz_v0i3?q=realized"&amp;gt;Joseph Weizenbaum&amp;lt;/a&amp;gt;, creator of ELIZA, in 1976 (&amp;lt;a href="https://www.tiktok.com/@professorcasey/video/7614890527711825183"&amp;gt;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Qwen3.5の中規模モデル(122B/35B/27B/9B)をコーディングエージェントで試してみる | きしだのHatena]]></title>
+            <link>https://nowokay.hatenablog.com/entry/2026/03/08/205807</link>
+            <guid>https://nowokay.hatenablog.com/entry/2026/03/08/205807</guid>
+            <pubDate>Sun, 08 Mar 2026 11:58:07 GMT</pubDate>
+            <description><![CDATA[Qwen3.5の中規模モデル(122B/35B/27B/9B)をコーディングエージェントで試してみます。 結論としては、122Bは使える、27Bはなんとか、35Bはストレスに耐えながら、9Bは全然むり、という感じ。 27Bは修正で関係ないところを壊す、35Bは修正として関係ない作業をする、9Bはコンパイル通るコードを書けなかった。 Qwen3.5シリーズの全体的に、395Bまで含め、難しいコードや]]></description>
+            <content:encoded><![CDATA[Qwen3.5の中規模モデル(122B/35B/27B/9B)をコーディングエージェントで試してみます。 結論としては、122Bは使える、27Bはなんとか、35Bはストレスに耐えながら、9Bは全然むり、という感じ。 27Bは修正で関係ないところを壊す、35Bは修正として関係ない作業をする、9Bはコンパイル通るコードを書けなかった。 Qwen3.5シリーズの全体的に、395Bまで含め、難しいコードや問題特定は不得意だけど、サイズ相応にそこそこコーディングにも使える、というところ。 ただ、どのモデルもOpenCodeで問題なく動いていて、エージェント対応は完璧です。 コーディング以外だとどのモデル…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/e588c607c66de7f9d109f2b87569b2351dab89d0/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnowokay%2F20260308%2F20260308205653.png" alt="Qwen3.5の中規模モデル(122B/35B/27B/9B)をコーディングエージェントで試してみる - きしだのHatena"/>
+        </item>
+        <item>
+            <title><![CDATA[Codex for Open Source | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything</link>
+            <guid>https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything</guid>
+            <pubDate>Sat, 07 Mar 2026 18:13:39 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://developers.openai.com/codex/community/codex-for-oss"&amp;gt;Codex for Open Source&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Anthropic announced six months of free Claude Max for maintainers of popular ope]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://developers.openai.com/codex/community/codex-for-oss"&amp;gt;Codex for Open Source&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Anthropic announced six months of free Claude Max for maintainers of popular open source projects (5,000+ stars or 1M+ NPM downloads) &amp;lt;a href="https://simonwillison.net/2026/Feb/27/claude-max-oss-six-months/"&amp;gt;on 27th February&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Now OpenAI have launched their comparable offer: six months of ChatGPT Pro (same $200/month price as Claude Max) with Codex and "conditional ac]]></content:encoded>
+        </item>
+    </channel>
+</rss>
