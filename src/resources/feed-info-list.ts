@@ -82,4 +82,11 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['Retail Dive', 'https://www.retaildive.com/feeds/news/'],
   ['Baymard Institute', 'https://baymard.com/blog.atom'],
   ['ECのミカタ', 'https://ecnomikata.com/rss/'],
+  ['E-Commerce Times', 'https://www.ecommercetimes.com/rss-feed'],
+  ['WooCommerce Blog', 'https://woocommerce.com/blog/feed/'],
+  ['Stripe Blog', 'https://stripe.com/blog/feed.rss'],
+  ['Etsy Engineering (Code as Craft)', 'https://www.etsy.com/codeascraft/rss'],
+  ['ECzine', 'https://eczine.jp/rss/new/20/index.xml'],
+  ['ZOZO TECH BLOG', 'https://techblog.zozo.com/feed'],
+  ['BASEプロダクトチームブログ', 'https://devblog.thebase.in/feed'],
 ]);
