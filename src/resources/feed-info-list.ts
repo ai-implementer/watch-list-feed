@@ -72,4 +72,14 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['Zennの「LLM」のフィード', 'https://zenn.dev/topics/llm/feed'],
   ['LLMタグが付けられた新着記事 - Qiita', 'https://qiita.com/tags/llm/feed'],
   // ['「#LLM」の人気タグ記事一覧｜note ――つくる、つながる、とどける。', 'https://note.com/hashtag/LLM/rss'],
+
+  // Eコマース
+  ['Shopify Engineering', 'https://shopify.engineering/blog.atom'],
+  ['Shopify Blog', 'https://www.shopify.com/blog/feed'],
+  ['Practical Ecommerce', 'https://www.practicalecommerce.com/feed'],
+  ['Digital Commerce 360', 'https://www.digitalcommerce360.com/feed/'],
+  ['Ecommerce News Europe', 'https://ecommercenews.eu/feed/'],
+  ['Retail Dive', 'https://www.retaildive.com/feeds/news/'],
+  ['Baymard Institute', 'https://baymard.com/blog.atom'],
+  ['ECのミカタ', 'https://ecnomikata.com/rss/'],
 ]);
