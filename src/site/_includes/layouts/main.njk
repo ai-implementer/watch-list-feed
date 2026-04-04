@@ -42,7 +42,7 @@
     <link rel="stylesheet" type="text/css" href="{{ page.url | relativeUrl }}styles/bundle.css" />
 
     {% if constants.enableNewRelic %}
-        {% include "scripts/newrelic.html" %}
+        {{ newRelicSnippet | safe }}
     {% endif %}
 
     {% if constants.globalSiteTagKey %}
