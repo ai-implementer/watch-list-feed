@@ -14,7 +14,7 @@ https://feeds.implementer.net/
 独自のフィードを作って公開したい場合は自由にフォークしてください。
 
 ## サイト追加の方針
-企業のテックブログ（技術ブログ、エンジニアブログ）であれば、基本的には追加します。  
+企業のテックブログ（技術ブログ、エンジニアブログ）であれば、基本的には追加します。
 ただし、以下に該当するものは検討します。
 
 - その企業の取り組みでないものが多く投稿される可能性があるブログ
@@ -31,17 +31,27 @@ https://feeds.implementer.net/
 ## サイトの追加方法
 [src/resources/feed-info-list.ts](https://github.com/ai-implementer/watch-list-feed/blob/main/src/resources/feed-info-list.ts) で管理しており、その一覧にない場合 issue を作っていただければ対応します。
 
+### AIエージェントによるフィードの追加
+
+Claude Code, Cursor, Codex, Copilot Agent などを利用して、フィードの追加からプルリク作成まで自動で行うことができます。
+
+1. このリポジトリをフォーク
+2. 以下のようにAIエージェントに送り、そのまま指示に従ってください。
+  ```
+  フィードを追加したい
+  ```
+
 ### プルリクでの送り方
 もしプルリクを送っていただける場合は以下のように作成できます。
 
 1. このリポジトリをフォーク
-2. ブランチ作成  
+2. ブランチ作成
    `git checkout -b new-blog-feed-xxx`
-3. フィードを追加  
+3. フィードを追加
    `src/resources/feed-info-list.ts` の `FEED_INFO_LIST` を更新
-4. コミット  
-   `git commit -am 'add: 新規フィード追加`
-5. プッシュ  
+4. コミット
+   `git commit -am 'chore(feed): <企業名など> 追加`
+5. プッシュ
    `git push origin new-blog-feed-xxx`
 6. プルリクを作成
 
