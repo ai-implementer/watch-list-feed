@@ -3,7 +3,7 @@
     "strict": true,
     "target": "es2021",
     "module": "esnext",
-    "moduleResolution": "node",
+    "moduleResolution": "bundler",
     "esModuleInterop": true,
     "lib": ["dom", "esnext"],
     "types": ["node", "vitest/globals", "open-graph-scraper"],
