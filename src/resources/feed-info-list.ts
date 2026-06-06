@@ -60,6 +60,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['タイミー', 'https://tech.timee.co.jp/feed'],
   ['Socket', 'https://socket.dev/api/blog/feed.atom'],
   ['Cybozu Inside Out', 'https://blog.cybozu.io/rss'],
+  ['playpark | Zenn', 'https://zenn.dev/playpark/feed'],
 
   // テックメディア
   ['WWW WATCH', 'https://feeds.feedburner.com/wacth'],
