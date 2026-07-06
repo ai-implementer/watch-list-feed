@@ -61,6 +61,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['Socket', 'https://socket.dev/api/blog/feed.atom'],
   ['Cybozu Inside Out', 'https://blog.cybozu.io/rss'],
   ['playpark | Zenn', 'https://zenn.dev/playpark/feed'],
+  ['New Relic EOL（提供終了）情報', 'https://docs.newrelic.com/jp/eol/feed.xml'],
 
   // テックメディア
   ['WWW WATCH', 'https://feeds.feedburner.com/wacth'],
