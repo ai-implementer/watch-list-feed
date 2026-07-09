@@ -45,7 +45,8 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['OpenAI News', 'https://openai.com/news/rss.xml'],
   ['TECH BLOG | 株式会社AI Shift', 'https://www.ai-shift.co.jp/techblog/feed'],
   ['Platinum Data Blog by BrainPad ブレインパッド', 'https://blog.brainpad.co.jp/rss'],
-  ['メルカリエンジニアリングブログ', 'https://engineering.mercari.com/blog/feed.xml'],
+  // GitHub ActionsからのアクセスがWAFに403でブロックされるためコメントアウト（2026-07時点）
+  // ['メルカリエンジニアリングブログ', 'https://engineering.mercari.com/blog/feed.xml'],
   ['リクルートTech Blog', 'https://blog.recruit.co.jp/data/index.xml'],
   ['LINEヤフーTech Blog', 'https://techblog.lycorp.co.jp/ja/feed/index.xml'],
   ["NTT Communications Engineers' Blog", 'https://engineers.ntt.com/feed'],
