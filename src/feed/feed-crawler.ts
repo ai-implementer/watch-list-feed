@@ -124,7 +124,11 @@ export class FeedCrawler {
               logger.trace('[fetch-feed] cache hit', feedInfo.label, feedInfo.url);
               feedData = cachedData;
             } else {
-              const response = await fetch(feedInfo.url);
+              const response = await fetch(feedInfo.url, {
+                headers: {
+                  'user-agent': constants.requestUserAgent,
+                },
+              });
               if (!response.ok) {
                 throw new Error(`HTTP Error: ${response.status}`);
               }
@@ -211,7 +215,7 @@ export class FeedCrawler {
 
     // ブログごとの調整
     switch (feedInfo.label) {
-      case 'メルカリ':
+      case 'メルカリエンジニアリングブログ':
         // 9時間ずれているので調整
         FeedCrawler.subtractFeedItemsDateHour(customFeed, 9);
         customFeed.link = 'https://engineering.mercari.com/blog/';

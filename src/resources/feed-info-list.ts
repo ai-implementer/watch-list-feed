@@ -29,7 +29,8 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   // ['企業名・製品名など', 'RSS/AtomフィードのURL'],
 
   // 個人ブログ
-  ['2ality – JavaScript and more', 'https://2ality.com/feeds/posts.atom'],
+  // AIクローラー対策でサイト一時閉鎖中（2026-07時点）。復旧したら戻す
+  // ['2ality – JavaScript and more', 'https://2ality.com/feeds/posts.atom'],
   ['Stories by Kazuki Kyakuno on Medium', 'https://medium.com/feed/@kyakuno'],
   ['Mitsuyuki.Shiiba', 'https://bufferings.hatenablog.com/rss'],
   ['橋本商会', 'https://scrapbox.io/api/feed/shokai'],
@@ -44,7 +45,8 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['OpenAI News', 'https://openai.com/news/rss.xml'],
   ['TECH BLOG | 株式会社AI Shift', 'https://www.ai-shift.co.jp/techblog/feed'],
   ['Platinum Data Blog by BrainPad ブレインパッド', 'https://blog.brainpad.co.jp/rss'],
-  ['メルカリエンジニアリングブログ', 'https://engineering.mercari.com/blog/feed.xml'],
+  // GitHub ActionsからのアクセスがWAFに403でブロックされるためコメントアウト（2026-07時点）
+  // ['メルカリエンジニアリングブログ', 'https://engineering.mercari.com/blog/feed.xml'],
   ['リクルートTech Blog', 'https://blog.recruit.co.jp/data/index.xml'],
   ['LINEヤフーTech Blog', 'https://techblog.lycorp.co.jp/ja/feed/index.xml'],
   ["NTT Communications Engineers' Blog", 'https://engineers.ntt.com/feed'],
@@ -76,8 +78,6 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   // ['「#LLM」の人気タグ記事一覧｜note ――つくる、つながる、とどける。', 'https://note.com/hashtag/LLM/rss'],
 
   // Eコマース
-  ['Shopify Engineering', 'https://shopify.engineering/blog.atom'],
-  ['Shopify Blog', 'https://www.shopify.com/blog/feed'],
   ['Practical Ecommerce', 'https://www.practicalecommerce.com/feed'],
   ['Digital Commerce 360', 'https://www.digitalcommerce360.com/feed/'],
   ['Ecommerce News Europe', 'https://ecommercenews.eu/feed/'],
@@ -88,7 +88,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['WooCommerce Blog', 'https://woocommerce.com/blog/feed/'],
   ['Stripe Blog', 'https://stripe.com/blog/feed.rss'],
   ['Etsy Engineering (Code as Craft)', 'https://www.etsy.com/codeascraft/rss'],
-  ['ECzine', 'https://eczine.jp/rss/new/20/index.xml'],
+  ['MarkeZine（CommerceZine）', 'https://markezine.jp/rss/new/20/index.xml'],
   ['ZOZO TECH BLOG', 'https://techblog.zozo.com/feed'],
   ['BASEプロダクトチームブログ', 'https://devblog.thebase.in/feed'],
 ]);
