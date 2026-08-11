@@ -91,4 +91,31 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['MarkeZine（CommerceZine）', 'https://markezine.jp/rss/new/20/index.xml'],
   ['ZOZO TECH BLOG', 'https://techblog.zozo.com/feed'],
   ['BASEプロダクトチームブログ', 'https://devblog.thebase.in/feed'],
+
+  // フロントエンド
+  ['CSS-Tricks', 'https://css-tricks.com/feed/'],
+  ['Smashing Magazine', 'https://www.smashingmagazine.com/feed/'],
+  ['web.dev Blog', 'https://web.dev/static/blog/feed.xml'],
+  ['TypeScript Blog', 'https://devblogs.microsoft.com/typescript/feed/'],
+  ['コリス', 'https://coliss.com/feed/'],
+  ['Overreacted (Dan Abramov)', 'https://overreacted.io/rss.xml'],
+  ['Josh W. Comeau', 'https://www.joshwcomeau.com/rss.xml'],
+  ['Zennの「フロントエンド」のフィード', 'https://zenn.dev/topics/frontend/feed'],
+
+  // AI
+  ['Hugging Face Blog', 'https://huggingface.co/blog/feed.xml'],
+  ['Google DeepMind Blog', 'https://deepmind.google/blog/rss.xml'],
+  ['Ahead of AI (Sebastian Raschka)', 'https://magazine.sebastianraschka.com/feed'],
+  ['Latent Space', 'https://www.latent.space/feed'],
+  ['Import AI (Jack Clark)', 'https://importai.substack.com/feed'],
+  ['BAIR Blog (UC Berkeley)', 'https://bair.berkeley.edu/blog/feed.xml'],
+
+  // キーボード・ガジェット
+  ['自作キーボード温泉街の歩き方', 'https://salicylic-acid3.hatenablog.com/feed'],
+  ['遊舎工房 ニュース', 'https://shop.yushakobo.jp/blogs/news.atom'],
+  ['Zennの「自作キーボード」のフィード', 'https://zenn.dev/topics/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/feed'],
+  ['PC Watch', 'https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf'],
+  ['ギズモード・ジャパン', 'https://www.gizmodo.jp/index.xml'],
+  ['The Verge', 'https://www.theverge.com/rss/index.xml'],
+  ['Daily Gadget', 'https://daily-gadget.net/feed/'],
 ]);
