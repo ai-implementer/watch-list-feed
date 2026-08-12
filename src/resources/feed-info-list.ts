@@ -113,7 +113,10 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   // キーボード・ガジェット
   ['自作キーボード温泉街の歩き方', 'https://salicylic-acid3.hatenablog.com/feed'],
   ['遊舎工房 ニュース', 'https://shop.yushakobo.jp/blogs/news.atom'],
-  ['Zennの「自作キーボード」のフィード', 'https://zenn.dev/topics/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/feed'],
+  [
+    'Zennの「自作キーボード」のフィード',
+    'https://zenn.dev/topics/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/feed',
+  ],
   ['PC Watch', 'https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf'],
   ['ギズモード・ジャパン', 'https://www.gizmodo.jp/index.xml'],
   ['The Verge', 'https://www.theverge.com/rss/index.xml'],
